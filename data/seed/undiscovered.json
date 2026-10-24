@@ -1,0 +1,482 @@
+[
+  {
+    "id": "front-room-temp-sc",
+    "title": "Room-temperature superconductor \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Superconductivity",
+    "source": "seed",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-fusion-power",
+    "title": "Net-gain commercial fusion power \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Fusion_power",
+    "source": "seed",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-quantum-gravity",
+    "title": "Unifying general relativity and quantum mechanics \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Quantum_gravity",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-dark-matter",
+    "title": "Nature of dark matter (particle or not) \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Dark_matter",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-turbulence",
+    "title": "Full mathematical solution of fluid turbulence (Navier-Stokes) \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_existence_and_smoothness",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-quantum-error",
+    "title": "Fault-tolerant scalable quantum computing \u2014 practical machine undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Quantum_error_correction",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-p-vs-np",
+    "title": "P vs NP resolution \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/P_versus_NP_problem",
+    "source": "seed",
+    "category": "math",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-riemann",
+    "title": "Proving the Riemann hypothesis \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Riemann_hypothesis",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-collatz",
+    "title": "Resolving the Collatz conjecture \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Collatz_conjecture",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-bsd",
+    "title": "Birch and Swinnerton-Dyer conjecture \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_conjecture",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-hodge",
+    "title": "Hodge conjecture \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Hodge_conjecture",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-als-cure",
+    "title": "Disease-modifying cure for ALS \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Amyotrophic_lateral_sclerosis",
+    "source": "seed",
+    "category": "bio",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-abiogenesis",
+    "title": "How life began (abiogenesis) \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Abiogenesis",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-aging",
+    "title": "Full biological explanation (and halt) of aging \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Ageing",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-consciousness",
+    "title": "Neural basis of consciousness (hard problem) \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Hard_problem_of_consciousness",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-protein-disorder",
+    "title": "Predicting structures of intrinsically disordered proteins \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Intrinsically_disordered_proteins",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-formal-verify",
+    "title": "Fully automatic formal verification for general-purpose software \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Formal_verification",
+    "source": "seed",
+    "category": "software",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-agi-align",
+    "title": "Provably aligned general intelligence \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/AI_alignment",
+    "source": "seed",
+    "category": "software",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-program-synthesis",
+    "title": "Reliable automatic program synthesis from natural-language specs \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Program_synthesis",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-self-healing",
+    "title": "Self-healing production systems with zero human on-call \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Autonomic_computing",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-interop",
+    "title": "Seamless legacy system interoperability without rewrites \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Interoperability",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-dead-language",
+    "title": "Fully deciphered Minoan Linear A script \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Linear_A",
+    "source": "seed",
+    "category": "art",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-voynich",
+    "title": "Decoded Voynich manuscript \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Voynich_manuscript",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-indus",
+    "title": "Deciphered Indus Valley script \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Indus_script",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-attribution",
+    "title": "Fraud-proof artwork attribution independent of provenance \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Provenance",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-music-theory",
+    "title": "Universal predictive model of musical emotion across cultures \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Music_psychology",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-hdviz",
+    "title": "Interpretable high-dimensional vector navigation \u2014 undiscovered",
+    "url": "https://arxiv.org/list/cs.LG/recent",
+    "source": "seed",
+    "category": "vectors",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-curse-dim",
+    "title": "General solution to the curse of dimensionality \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Curse_of_dimensionality",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-universal-embedding",
+    "title": "Universal embedding space shared across all modalities and languages \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Embedding_(machine_learning)",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-mech-interp",
+    "title": "Complete mechanistic interpretation of large neural networks \u2014 undiscovered",
+    "url": "https://arxiv.org/abs/2501.16496",
+    "source": "arxiv",
+    "category": "vectors",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-vec-memory",
+    "title": "Vector-native long-term memory system with exact recall \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Semantic_memory",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-dark-energy",
+    "title": "Nature and origin of dark energy \u2014 pre-2026 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Dark_energy",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-baryon-asymmetry",
+    "title": "Baryon asymmetry / why more matter than antimatter \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Baryon_asymmetry",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-strong-cp",
+    "title": "Strong CP problem \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Strong_CP_problem",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-quantum-interpret",
+    "title": "Correct interpretation of quantum mechanics \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Interpretations_of_quantum_mechanics",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-gravity-waves-direct",
+    "title": "Direct detection of primordial gravitational waves \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Gravitational_wave",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-p-np",
+    "title": "Resolution of P versus NP \u2014 pre-2026 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/P_versus_NP_problem",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-collatz",
+    "title": "Collatz conjecture proof or counterexample \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Collatz_conjecture",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-bsd",
+    "title": "Birch-Swinnerton-Dyer conjecture proof \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_conjecture",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-navier-deep",
+    "title": "Navier-Stokes existence and smoothness (full mathematical proof) \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_existence_and_smoothness",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-hodge",
+    "title": "Hodge conjecture \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Hodge_conjecture",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-origin-of-life",
+    "title": "How life originated from non-living chemistry \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Abiogenesis",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-consciousness-neural",
+    "title": "Neural mechanism of subjective consciousness \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Hard_problem_of_consciousness",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-aging-biology",
+    "title": "Fundamental biological mechanism of aging and how to halt it \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Anti-aging",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-protein-fold-all",
+    "title": "Predicting structures of all proteins including disordered \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Protein_folding",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-sleep-purpose",
+    "title": "Complete evolutionary and neural purpose of sleep \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Sleep",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-software-verification",
+    "title": "General-purpose automatic formal verification for large programs \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Formal_verification",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-agi-alignment",
+    "title": "Aligned general intelligence with mathematical guarantees \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/AI_alignment",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-self-healing-systems",
+    "title": "Fully autonomous self-healing software systems \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Autonomic_computing",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-software-synthesis",
+    "title": "Automatic synthesis of correct large-scale software from specs \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Program_synthesis",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-observability-complete",
+    "title": "Complete root-cause analysis in distributed systems with zero human time \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Observability_(software)",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-linear-a-script",
+    "title": "Fully deciphered Minoan Linear A script \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Linear_A",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-voynich-manuscript",
+    "title": "Decoded Voynich manuscript \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Voynich_manuscript",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-indus-script",
+    "title": "Deciphered Indus Valley script \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Indus_script",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-authentic-proof",
+    "title": "Fraud-proof art authentication independent of provenance \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Provenance",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-interpretability-deep",
+    "title": "Full mechanistic interpretation of very large neural networks \u2014 undiscovered",
+    "url": "https://arxiv.org/abs/2501.16496",
+    "source": "arxiv",
+    "category": "vectors",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-embedding-universal",
+    "title": "Universal cross-modal embedding space with exact semantics \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Embedding_(machine_learning)",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-curse-of-dims",
+    "title": "General resolution of distance-concentration / curse of dimensionality \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Curse_of_dimensionality",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-vector-memory",
+    "title": "Exact-recall long-context vector-native memory \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Vector_database",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-geometry-unified",
+    "title": "Single geometric framework for all vector spaces \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Inner_product_space",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "undiscovered"
+  }
+]

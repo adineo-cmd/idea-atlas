@@ -1,0 +1,122 @@
+[
+  {
+    "id": "known-dna-helix",
+    "title": "DNA double helix structure \u2014 discovered (Watson/Crick 1953)",
+    "url": "https://en.wikipedia.org/wiki/DNA",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known"
+  },
+  {
+    "id": "known-crispr",
+    "title": "CRISPR-Cas9 gene editing \u2014 discovered and engineered",
+    "url": "https://en.wikipedia.org/wiki/CRISPR_gene_editing",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known"
+  },
+  {
+    "id": "known-germ-theory",
+    "title": "Germ theory of disease \u2014 established",
+    "url": "https://en.wikipedia.org/wiki/Germ_theory_of_disease",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known"
+  },
+  {
+    "id": "known-mendel",
+    "title": "Mendel's laws of inheritance \u2014 discovered genetics foundations",
+    "url": "https://en.wikipedia.org/wiki/Mendelian_inheritance",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known"
+  },
+  {
+    "id": "known-mrna-vaccines",
+    "title": "mRNA vaccine platform \u2014 discovered and deployed",
+    "url": "https://en.wikipedia.org/wiki/MRNA_vaccine",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known"
+  },
+  {
+    "id": "known-cell-division",
+    "title": "Mitosis and the cell cycle \u2014 mapped process",
+    "url": "https://en.wikipedia.org/wiki/Mitosis",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known"
+  },
+  {
+    "id": "front-als-cure",
+    "title": "Disease-modifying cure for ALS \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Amyotrophic_lateral_sclerosis",
+    "source": "seed",
+    "category": "bio",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-abiogenesis",
+    "title": "How life began (abiogenesis) \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Abiogenesis",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-aging",
+    "title": "Full biological explanation (and halt) of aging \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Ageing",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-consciousness",
+    "title": "Neural basis of consciousness (hard problem) \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Hard_problem_of_consciousness",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-protein-disorder",
+    "title": "Predicting structures of intrinsically disordered proteins \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Intrinsically_disordered_proteins",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered"
+  },
+  {
+    "id": "deb-bio-unsolved",
+    "title": "What are the biggest unsolved questions in biology? (r/biology debate)",
+    "url": "https://www.reddit.com/r/biology/comments/fmg5bl/are_there_any_unsolved_questions_when_it_comes_to",
+    "source": "reddit",
+    "category": "bio",
+    "status": "debated"
+  },
+  {
+    "id": "deb-impossible-qs",
+    "title": "Will some of science's biggest questions remain forever unsolvable? (Scientific American)",
+    "url": "https://www.scientificamerican.com/report/impossible-questions",
+    "source": "web",
+    "category": "bio",
+    "status": "debated"
+  },
+  {
+    "id": "deb-biology-se",
+    "title": "What bio questions have 0 answers on Biology Stack Exchange? (active feed)",
+    "url": "https://biology.stackexchange.com/questions?tab=Active",
+    "source": "stackexchange",
+    "category": "bio",
+    "status": "debated"
+  },
+  {
+    "id": "deb-mystery-century",
+    "title": "What scientific mystery will be solved next century? (r/AskScienceDiscussion)",
+    "url": "https://www.reddit.com/r/AskScienceDiscussion/comments/1p0zngw/whats_the_biggest_scientific_mystery_that_will_be",
+    "source": "reddit",
+    "category": "bio",
+    "status": "debated"
+  }
+]

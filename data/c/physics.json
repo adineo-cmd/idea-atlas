@@ -1,0 +1,130 @@
+[
+  {
+    "id": "known-newton-2",
+    "title": "Newton's second law F=ma \u2014 solved physics, need not rebuild",
+    "url": "https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known"
+  },
+  {
+    "id": "known-thermo",
+    "title": "Laws of thermodynamics \u2014 settled framework",
+    "url": "https://en.wikipedia.org/wiki/Laws_of_thermodynamics",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known"
+  },
+  {
+    "id": "known-maxwell",
+    "title": "Maxwell's equations of electromagnetism \u2014 complete classical theory",
+    "url": "https://en.wikipedia.org/wiki/Maxwell%27s_equations",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known"
+  },
+  {
+    "id": "known-gr",
+    "title": "General relativity \u2014 confirmed gravitational theory",
+    "url": "https://en.wikipedia.org/wiki/General_relativity",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known"
+  },
+  {
+    "id": "known-periodic-table",
+    "title": "Periodic table of elements \u2014 catalogued",
+    "url": "https://en.wikipedia.org/wiki/Periodic_table",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known"
+  },
+  {
+    "id": "known-atomic-nucleus",
+    "title": "Nuclear fission energy release \u2014 understood physics",
+    "url": "https://en.wikipedia.org/wiki/Nuclear_fission",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known"
+  },
+  {
+    "id": "front-room-temp-sc",
+    "title": "Room-temperature superconductor \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Superconductivity",
+    "source": "seed",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-fusion-power",
+    "title": "Net-gain commercial fusion power \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Fusion_power",
+    "source": "seed",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-quantum-gravity",
+    "title": "Unifying general relativity and quantum mechanics \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Quantum_gravity",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-dark-matter",
+    "title": "Nature of dark matter (particle or not) \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Dark_matter",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-turbulence",
+    "title": "Full mathematical solution of fluid turbulence (Navier-Stokes) \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_existence_and_smoothness",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-quantum-error",
+    "title": "Fault-tolerant scalable quantum computing \u2014 practical machine undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Quantum_error_correction",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "deb-quantum-gravity",
+    "title": "Can unified general relativity + quantum theory ever be falsified? (HN debate)",
+    "url": "https://news.ycombinator.com/item?id=44671180",
+    "source": "hackernews",
+    "category": "physics",
+    "status": "debated"
+  },
+  {
+    "id": "deb-navier-stokes",
+    "title": "Will AI crack Navier-Stokes smoothness? (HN debate on DeepMind attempt)",
+    "url": "https://news.ycombinator.com/item?id=44383589",
+    "source": "hackernews",
+    "category": "physics",
+    "status": "debated"
+  },
+  {
+    "id": "deb-measurement",
+    "title": "Is the quantum measurement problem fundamentally unsolvable? (HN debate)",
+    "url": "https://news.ycombinator.com/item?id=8931564",
+    "source": "hackernews",
+    "category": "physics",
+    "status": "debated"
+  },
+  {
+    "id": "deb-millennium",
+    "title": "Which open physics problem matters most after 25 years of Millennium Prizes? (RealClearScience)",
+    "url": "https://www.realclearscience.com/2025/01/08/a_25-year_update_on_the_millennium_problems_in_physics_1083188.html",
+    "source": "web",
+    "category": "physics",
+    "status": "debated"
+  }
+]

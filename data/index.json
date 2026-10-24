@@ -1,0 +1,722 @@
+[
+  {
+    "id": "known-newton-2",
+    "title": "Newton's second law F=ma \u2014 solved physics, need not rebuild",
+    "url": "https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known"
+  },
+  {
+    "id": "known-thermo",
+    "title": "Laws of thermodynamics \u2014 settled framework",
+    "url": "https://en.wikipedia.org/wiki/Laws_of_thermodynamics",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known"
+  },
+  {
+    "id": "known-maxwell",
+    "title": "Maxwell's equations of electromagnetism \u2014 complete classical theory",
+    "url": "https://en.wikipedia.org/wiki/Maxwell%27s_equations",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known"
+  },
+  {
+    "id": "known-gr",
+    "title": "General relativity \u2014 confirmed gravitational theory",
+    "url": "https://en.wikipedia.org/wiki/General_relativity",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known"
+  },
+  {
+    "id": "known-periodic-table",
+    "title": "Periodic table of elements \u2014 catalogued",
+    "url": "https://en.wikipedia.org/wiki/Periodic_table",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known"
+  },
+  {
+    "id": "known-atomic-nucleus",
+    "title": "Nuclear fission energy release \u2014 understood physics",
+    "url": "https://en.wikipedia.org/wiki/Nuclear_fission",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known"
+  },
+  {
+    "id": "known-todo",
+    "title": "Todo list app (CRUD + reminders) \u2014 solved, dozens of better versions exist",
+    "url": "https://en.wikipedia.org/wiki/Getting_Things_Done",
+    "source": "seed",
+    "category": "software",
+    "status": "known"
+  },
+  {
+    "id": "known-git",
+    "title": "Git distributed version control \u2014 mature, don't reimplement",
+    "url": "https://en.wikipedia.org/wiki/Git",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known"
+  },
+  {
+    "id": "known-oauth",
+    "title": "OAuth 2.0 delegated auth \u2014 solved protocol",
+    "url": "https://en.wikipedia.org/wiki/OAuth",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known"
+  },
+  {
+    "id": "known-password-hash",
+    "title": "Password hashing (bcrypt/argon2/scrypt) \u2014 solved problem",
+    "url": "https://en.wikipedia.org/wiki/Bcrypt",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known"
+  },
+  {
+    "id": "known-crud-admin",
+    "title": "CRUD admin panels (Django admin, Rails, Retool-style) \u2014 commoditized",
+    "url": "https://en.wikipedia.org/wiki/Create,_read,_update_and_delete",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known"
+  },
+  {
+    "id": "known-chat-app",
+    "title": "Chat/messaging apps \u2014 massively oversupplied space",
+    "url": "https://en.wikipedia.org/wiki/Comparison_of_cross-platform_instant_messaging_clients",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known"
+  },
+  {
+    "id": "known-markdown",
+    "title": "Markdown editors and renderers \u2014 solved, excellent options exist",
+    "url": "https://en.wikipedia.org/wiki/Markdown",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known"
+  },
+  {
+    "id": "known-pythagoras",
+    "title": "Pythagorean theorem a\u00b2+b\u00b2=c\u00b2 \u2014 proven 2000+ years ago",
+    "url": "https://en.wikipedia.org/wiki/Pythagorean_theorem",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known"
+  },
+  {
+    "id": "known-euler-identity",
+    "title": "Euler's identity e^(i\u03c0)+1=0 \u2014 classical result",
+    "url": "https://en.wikipedia.org/wiki/Euler%27s_identity",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known"
+  },
+  {
+    "id": "known-calculus",
+    "title": "Differential and integral calculus (Newton/Leibniz) \u2014 cornerstone",
+    "url": "https://en.wikipedia.org/wiki/Calculus",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known"
+  },
+  {
+    "id": "known-clt",
+    "title": "Central limit theorem \u2014 proven statistics bedrock",
+    "url": "https://en.wikipedia.org/wiki/Central_limit_theorem",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known"
+  },
+  {
+    "id": "known-bayes",
+    "title": "Bayes' theorem \u2014 foundational inference rule",
+    "url": "https://en.wikipedia.org/wiki/Bayes%27_theorem",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known"
+  },
+  {
+    "id": "known-fourier",
+    "title": "Fourier transform / FFT \u2014 solved technique",
+    "url": "https://en.wikipedia.org/wiki/Fast_Fourier_transform",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known"
+  },
+  {
+    "id": "known-dna-helix",
+    "title": "DNA double helix structure \u2014 discovered (Watson/Crick 1953)",
+    "url": "https://en.wikipedia.org/wiki/DNA",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known"
+  },
+  {
+    "id": "known-crispr",
+    "title": "CRISPR-Cas9 gene editing \u2014 discovered and engineered",
+    "url": "https://en.wikipedia.org/wiki/CRISPR_gene_editing",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known"
+  },
+  {
+    "id": "known-germ-theory",
+    "title": "Germ theory of disease \u2014 established",
+    "url": "https://en.wikipedia.org/wiki/Germ_theory_of_disease",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known"
+  },
+  {
+    "id": "known-mendel",
+    "title": "Mendel's laws of inheritance \u2014 discovered genetics foundations",
+    "url": "https://en.wikipedia.org/wiki/Mendelian_inheritance",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known"
+  },
+  {
+    "id": "known-mrna-vaccines",
+    "title": "mRNA vaccine platform \u2014 discovered and deployed",
+    "url": "https://en.wikipedia.org/wiki/MRNA_vaccine",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known"
+  },
+  {
+    "id": "known-cell-division",
+    "title": "Mitosis and the cell cycle \u2014 mapped process",
+    "url": "https://en.wikipedia.org/wiki/Mitosis",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known"
+  },
+  {
+    "id": "known-mona-lisa",
+    "title": "Mona Lisa by Leonardo da Vinci \u2014 existing masterpiece, no need for another",
+    "url": "https://en.wikipedia.org/wiki/Mona_Lisa",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known"
+  },
+  {
+    "id": "known-linear-perspective",
+    "title": "Linear perspective technique \u2014 codified (Brunelleschi/Alberti)",
+    "url": "https://en.wikipedia.org/wiki/Perspective_(graphical)",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known"
+  },
+  {
+    "id": "known-oil-painting",
+    "title": "Oil painting technique (Van Eyck era) \u2014 mature craft",
+    "url": "https://en.wikipedia.org/wiki/Oil_painting",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known"
+  },
+  {
+    "id": "known-chiaroscuro",
+    "title": "Chiaroscuro / formal composition grammar \u2014 established canon",
+    "url": "https://en.wikipedia.org/wiki/Chiaroscuro",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known"
+  },
+  {
+    "id": "known-photography",
+    "title": "Photography (daguerreotype to digital) \u2014 mature medium",
+    "url": "https://en.wikipedia.org/wiki/Photography",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known"
+  },
+  {
+    "id": "known-cosine-sim",
+    "title": "Cosine similarity for vector comparison \u2014 settled baseline",
+    "url": "https://en.wikipedia.org/wiki/Cosine_similarity",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known"
+  },
+  {
+    "id": "known-word2vec",
+    "title": "Word2Vec embeddings \u2014 discovered representation technique",
+    "url": "https://en.wikipedia.org/wiki/Word2vec",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known"
+  },
+  {
+    "id": "known-pca",
+    "title": "PCA dimensionality reduction \u2014 solved technique",
+    "url": "https://en.wikipedia.org/wiki/Principal_component_analysis",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known"
+  },
+  {
+    "id": "known-hnsw",
+    "title": "HNSW / vector ANN search \u2014 solved indexing problem",
+    "url": "https://en.wikipedia.org/wiki/Nearest_neighbor_search",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known"
+  },
+  {
+    "id": "known-vector-db",
+    "title": "Vector databases (FAISS/Chroma-style) \u2014 crowded space",
+    "url": "https://en.wikipedia.org/wiki/Vector_database",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known"
+  },
+  {
+    "id": "front-room-temp-sc",
+    "title": "Room-temperature superconductor \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Superconductivity",
+    "source": "seed",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-fusion-power",
+    "title": "Net-gain commercial fusion power \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Fusion_power",
+    "source": "seed",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-quantum-gravity",
+    "title": "Unifying general relativity and quantum mechanics \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Quantum_gravity",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-dark-matter",
+    "title": "Nature of dark matter (particle or not) \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Dark_matter",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-turbulence",
+    "title": "Full mathematical solution of fluid turbulence (Navier-Stokes) \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_existence_and_smoothness",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-quantum-error",
+    "title": "Fault-tolerant scalable quantum computing \u2014 practical machine undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Quantum_error_correction",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-p-vs-np",
+    "title": "P vs NP resolution \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/P_versus_NP_problem",
+    "source": "seed",
+    "category": "math",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-riemann",
+    "title": "Proving the Riemann hypothesis \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Riemann_hypothesis",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-collatz",
+    "title": "Resolving the Collatz conjecture \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Collatz_conjecture",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-bsd",
+    "title": "Birch and Swinnerton-Dyer conjecture \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_conjecture",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-hodge",
+    "title": "Hodge conjecture \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Hodge_conjecture",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-als-cure",
+    "title": "Disease-modifying cure for ALS \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Amyotrophic_lateral_sclerosis",
+    "source": "seed",
+    "category": "bio",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-abiogenesis",
+    "title": "How life began (abiogenesis) \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Abiogenesis",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-aging",
+    "title": "Full biological explanation (and halt) of aging \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Ageing",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-consciousness",
+    "title": "Neural basis of consciousness (hard problem) \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Hard_problem_of_consciousness",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-protein-disorder",
+    "title": "Predicting structures of intrinsically disordered proteins \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Intrinsically_disordered_proteins",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-formal-verify",
+    "title": "Fully automatic formal verification for general-purpose software \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Formal_verification",
+    "source": "seed",
+    "category": "software",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-agi-align",
+    "title": "Provably aligned general intelligence \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/AI_alignment",
+    "source": "seed",
+    "category": "software",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-program-synthesis",
+    "title": "Reliable automatic program synthesis from natural-language specs \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Program_synthesis",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-self-healing",
+    "title": "Self-healing production systems with zero human on-call \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Autonomic_computing",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-interop",
+    "title": "Seamless legacy system interoperability without rewrites \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Interoperability",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-dead-language",
+    "title": "Fully deciphered Minoan Linear A script \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Linear_A",
+    "source": "seed",
+    "category": "art",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-voynich",
+    "title": "Decoded Voynich manuscript \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Voynich_manuscript",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-indus",
+    "title": "Deciphered Indus Valley script \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Indus_script",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-attribution",
+    "title": "Fraud-proof artwork attribution independent of provenance \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Provenance",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-music-theory",
+    "title": "Universal predictive model of musical emotion across cultures \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Music_psychology",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-hdviz",
+    "title": "Interpretable high-dimensional vector navigation \u2014 undiscovered",
+    "url": "https://arxiv.org/list/cs.LG/recent",
+    "source": "seed",
+    "category": "vectors",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-curse-dim",
+    "title": "General solution to the curse of dimensionality \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Curse_of_dimensionality",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-universal-embedding",
+    "title": "Universal embedding space shared across all modalities and languages \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Embedding_(machine_learning)",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-mech-interp",
+    "title": "Complete mechanistic interpretation of large neural networks \u2014 undiscovered",
+    "url": "https://arxiv.org/abs/2501.16496",
+    "source": "arxiv",
+    "category": "vectors",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-vec-memory",
+    "title": "Vector-native long-term memory system with exact recall \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Semantic_memory",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "undiscovered"
+  },
+  {
+    "id": "deb-quantum-gravity",
+    "title": "Can unified general relativity + quantum theory ever be falsified? (HN debate)",
+    "url": "https://news.ycombinator.com/item?id=44671180",
+    "source": "hackernews",
+    "category": "physics",
+    "status": "debated"
+  },
+  {
+    "id": "deb-navier-stokes",
+    "title": "Will AI crack Navier-Stokes smoothness? (HN debate on DeepMind attempt)",
+    "url": "https://news.ycombinator.com/item?id=44383589",
+    "source": "hackernews",
+    "category": "physics",
+    "status": "debated"
+  },
+  {
+    "id": "deb-measurement",
+    "title": "Is the quantum measurement problem fundamentally unsolvable? (HN debate)",
+    "url": "https://news.ycombinator.com/item?id=8931564",
+    "source": "hackernews",
+    "category": "physics",
+    "status": "debated"
+  },
+  {
+    "id": "deb-millennium",
+    "title": "Which open physics problem matters most after 25 years of Millennium Prizes? (RealClearScience)",
+    "url": "https://www.realclearscience.com/2025/01/08/a_25-year_update_on_the_millennium_problems_in_physics_1083188.html",
+    "source": "web",
+    "category": "physics",
+    "status": "debated"
+  },
+  {
+    "id": "deb-dist-systems",
+    "title": "Has distributed systems programming actually stalled for a decade? (HN debate)",
+    "url": "https://news.ycombinator.com/item?id=43195702",
+    "source": "hackernews",
+    "category": "software",
+    "status": "debated"
+  },
+  {
+    "id": "deb-observability",
+    "title": "How do teams actually handle observability in 2025? (r/sre debate)",
+    "url": "https://www.reddit.com/r/sre/comments/1lf9n5v/how_are_you_actually_handling_observability_in",
+    "source": "reddit",
+    "category": "software",
+    "status": "debated"
+  },
+  {
+    "id": "deb-legacy",
+    "title": "Is there any real solution to legacy system migration? (HN debate)",
+    "url": "https://news.ycombinator.com/item?id=24759006",
+    "source": "hackernews",
+    "category": "software",
+    "status": "debated"
+  },
+  {
+    "id": "deb-microservices",
+    "title": "Microservices vs monoliths \u2014 where did it all go wrong? (r/lobsters discussion)",
+    "url": "https://lobste.rs/s/8gqidu/distributed_systems_programming_has_stalled",
+    "source": "reddit",
+    "category": "software",
+    "status": "debated"
+  },
+  {
+    "id": "deb-riemann-ignored",
+    "title": "Why is nobody seriously trying to prove the Riemann hypothesis? (SciAm debate)",
+    "url": "https://www.scientificamerican.com/article/the-riemann-hypothesis-is-a-million-dollar-math-problem-hardly-anyone-is-trying-to-solve/",
+    "source": "web",
+    "category": "math",
+    "status": "debated"
+  },
+  {
+    "id": "deb-zeta-simple",
+    "title": "Are the nontrivial zeros of the Riemann zeta function simple? (MathOverflow debate)",
+    "url": "https://mathoverflow.net/posts/59774/revisions",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated"
+  },
+  {
+    "id": "deb-rh-preprints",
+    "title": "Endless arXiv preprints claiming to disprove the Riemann hypothesis \u2014 how to respond? (arXiv)",
+    "url": "https://arxiv.org/abs/2404.06306",
+    "source": "arxiv",
+    "category": "math",
+    "status": "debated"
+  },
+  {
+    "id": "deb-comp-geo",
+    "title": "Open problems in computational geometry \u2014 where to start? (HN debate)",
+    "url": "https://news.ycombinator.com/item?id=44013181",
+    "source": "hackernews",
+    "category": "math",
+    "status": "debated"
+  },
+  {
+    "id": "deb-bio-unsolved",
+    "title": "What are the biggest unsolved questions in biology? (r/biology debate)",
+    "url": "https://www.reddit.com/r/biology/comments/fmg5bl/are_there_any_unsolved_questions_when_it_comes_to",
+    "source": "reddit",
+    "category": "bio",
+    "status": "debated"
+  },
+  {
+    "id": "deb-impossible-qs",
+    "title": "Will some of science's biggest questions remain forever unsolvable? (Scientific American)",
+    "url": "https://www.scientificamerican.com/report/impossible-questions",
+    "source": "web",
+    "category": "bio",
+    "status": "debated"
+  },
+  {
+    "id": "deb-biology-se",
+    "title": "What bio questions have 0 answers on Biology Stack Exchange? (active feed)",
+    "url": "https://biology.stackexchange.com/questions?tab=Active",
+    "source": "stackexchange",
+    "category": "bio",
+    "status": "debated"
+  },
+  {
+    "id": "deb-mystery-century",
+    "title": "What scientific mystery will be solved next century? (r/AskScienceDiscussion)",
+    "url": "https://www.reddit.com/r/AskScienceDiscussion/comments/1p0zngw/whats_the_biggest_scientific_mystery_that_will_be",
+    "source": "reddit",
+    "category": "bio",
+    "status": "debated"
+  },
+  {
+    "id": "deb-rubens",
+    "title": "Is the National Gallery's Rubens 'Samson and Delilah' a 20th-century copy? (Artnet)",
+    "url": "https://news.artnet.com/art-world/national-gallery-rubens-debate-2613165",
+    "source": "web",
+    "category": "art",
+    "status": "debated"
+  },
+  {
+    "id": "deb-van-eyck-ai",
+    "title": "Can AI authentication be trusted for Old Masters? Van Eyck dispute (Artnet)",
+    "url": "https://news.artnet.com/art-world/van-eyck-ai-authenticity-2744090",
+    "source": "web",
+    "category": "art",
+    "status": "debated"
+  },
+  {
+    "id": "deb-michelangelo",
+    "title": "Newly attributed Michelangelo painting divides experts (The Art Newspaper)",
+    "url": "https://www.theartnewspaper.com/2026/03/12/it-has-nothing-to-do-with-michelangeloexpert-wades-in-on-painting-newly-attributed-to-renaissance-master",
+    "source": "web",
+    "category": "art",
+    "status": "debated"
+  },
+  {
+    "id": "deb-ai-guessing",
+    "title": "What if generative AI makes authenticity debates permanently undecidable? (HN debate)",
+    "url": "https://news.ycombinator.com/item?id=44671180",
+    "source": "hackernews",
+    "category": "art",
+    "status": "debated"
+  },
+  {
+    "id": "deb-mech-interp-open",
+    "title": "What are the priority open problems in mechanistic interpretability? (arXiv 2025)",
+    "url": "https://arxiv.org/abs/2501.16496",
+    "source": "arxiv",
+    "category": "vectors",
+    "status": "debated"
+  },
+  {
+    "id": "deb-curse-dim",
+    "title": "Do nearest-neighbor metrics become meaningless in high dims? (arXiv distance concentration)",
+    "url": "https://arxiv.org/abs/2401.00422",
+    "source": "arxiv",
+    "category": "vectors",
+    "status": "debated"
+  },
+  {
+    "id": "deb-interp-trust",
+    "title": "Is 'interpretability' a rigorous science yet? (arXiv Transparent AI debate)",
+    "url": "https://arxiv.org/abs/2507.23535",
+    "source": "arxiv",
+    "category": "vectors",
+    "status": "debated"
+  },
+  {
+    "id": "deb-vec-space",
+    "title": "What actually is an embedding \u2014 geometric space, distribution, or statistics? (arXiv)",
+    "url": "https://arxiv.org/list/cs.CL/recent",
+    "source": "arxiv",
+    "category": "vectors",
+    "status": "debated"
+  }
+]

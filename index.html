@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Idea Atlas — Don't rebuild solved. Build what's new.</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="hero">
+<h1>Idea Atlas</h1>
+<p class="tagline">Don't rebuild solved. Build what's new.</p>
+</header>
+<main>
+<section>
+<h2>Idea Validator</h2>
+<p class="muted">Type an idea. We check it against Known (solved), Debated (live discussion), and Frontier.</p>
+<div class="search-row">
+<input id="q" type="text" placeholder="e.g. todo list app, room-temperature superconductor…" autocomplete="off">
+<button id="check">Check</button>
+</div>
+<p id="verdict" aria-live="polite"></p>
+<div id="hits"></div>
+</section>
+<section>
+<h2>Browse by field</h2>
+<div class="grid">
+<a href="c/physics.html"><div class="icon">⚛️</div><div>Physics</div></a>
+<a href="c/software.html"><div class="icon">💻</div><div>Software</div></a>
+<a href="c/math.html"><div class="icon">📐</div><div>Math</div></a>
+<a href="c/bio.html"><div class="icon">🧬</div><div>Biology</div></a>
+<a href="c/art.html"><div class="icon">🎨</div><div>Arts &amp; Humanities</div></a>
+<a href="c/vectors.html"><div class="icon">🧭</div><div>High-Dim Vectors &amp; Niche</div></a>
+</div>
+</section>
+</main>
+<footer>
+<span id="meta">Loading data status…</span>
+</footer>
+<script src="assets/app.js"></script>
+<script>
+(function () {
+  var index = [];
+  var meta = null;
+  Atlas.loadIndex().then(function (d) { index = d || []; });
+  Atlas.loadMeta().then(function (m) {
+    meta = m;
+    var el = document.getElementById("meta");
+    el.innerHTML = m
+      ? "Data " + Atlas.staleBadge(m) + " · " + Atlas.escapeHtml(String(m.count || 0)) + " items"
+      : "Data unavailable (run pipeline to generate data/index.json).";
+  });
+  function run() {
+    var q = document.getElementById("q").value;
+    var res = Atlas.validator(q, index);
+    document.getElementById("verdict").textContent = res.verdict;
+    Atlas.renderHits(document.getElementById("hits"), res.hits);
+  }
+  document.getElementById("check").addEventListener("click", run);
+  document.getElementById("q").addEventListener("keydown", function (e) {
+    if (e.key === "Enter") run();
+  });
+})();
+</script>
+</body>
+</html>

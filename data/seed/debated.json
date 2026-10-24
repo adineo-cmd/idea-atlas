@@ -1,0 +1,386 @@
+[
+  {
+    "id": "deb-quantum-gravity",
+    "title": "Can unified general relativity + quantum theory ever be falsified? (HN debate)",
+    "url": "https://news.ycombinator.com/item?id=44671180",
+    "source": "hackernews",
+    "category": "physics",
+    "status": "debated"
+  },
+  {
+    "id": "deb-navier-stokes",
+    "title": "Will AI crack Navier-Stokes smoothness? (HN debate on DeepMind attempt)",
+    "url": "https://news.ycombinator.com/item?id=44383589",
+    "source": "hackernews",
+    "category": "physics",
+    "status": "debated"
+  },
+  {
+    "id": "deb-measurement",
+    "title": "Is the quantum measurement problem fundamentally unsolvable? (HN debate)",
+    "url": "https://news.ycombinator.com/item?id=8931564",
+    "source": "hackernews",
+    "category": "physics",
+    "status": "debated"
+  },
+  {
+    "id": "deb-millennium",
+    "title": "Which open physics problem matters most after 25 years of Millennium Prizes? (RealClearScience)",
+    "url": "https://www.realclearscience.com/2025/01/08/a_25-year_update_on_the_millennium_problems_in_physics_1083188.html",
+    "source": "web",
+    "category": "physics",
+    "status": "debated"
+  },
+  {
+    "id": "deb-dist-systems",
+    "title": "Has distributed systems programming actually stalled for a decade? (HN debate)",
+    "url": "https://news.ycombinator.com/item?id=43195702",
+    "source": "hackernews",
+    "category": "software",
+    "status": "debated"
+  },
+  {
+    "id": "deb-observability",
+    "title": "How do teams actually handle observability in 2025? (r/sre debate)",
+    "url": "https://www.reddit.com/r/sre/comments/1lf9n5v/how_are_you_actually_handling_observability_in",
+    "source": "reddit",
+    "category": "software",
+    "status": "debated"
+  },
+  {
+    "id": "deb-legacy",
+    "title": "Is there any real solution to legacy system migration? (HN debate)",
+    "url": "https://news.ycombinator.com/item?id=24759006",
+    "source": "hackernews",
+    "category": "software",
+    "status": "debated"
+  },
+  {
+    "id": "deb-microservices",
+    "title": "Microservices vs monoliths \u2014 where did it all go wrong? (r/lobsters discussion)",
+    "url": "https://lobste.rs/s/8gqidu/distributed_systems_programming_has_stalled",
+    "source": "reddit",
+    "category": "software",
+    "status": "debated"
+  },
+  {
+    "id": "deb-riemann-ignored",
+    "title": "Why is nobody seriously trying to prove the Riemann hypothesis? (SciAm debate)",
+    "url": "https://www.scientificamerican.com/article/the-riemann-hypothesis-is-a-million-dollar-math-problem-hardly-anyone-is-trying-to-solve/",
+    "source": "web",
+    "category": "math",
+    "status": "debated"
+  },
+  {
+    "id": "deb-zeta-simple",
+    "title": "Are the nontrivial zeros of the Riemann zeta function simple? (MathOverflow debate)",
+    "url": "https://mathoverflow.net/posts/59774/revisions",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated"
+  },
+  {
+    "id": "deb-rh-preprints",
+    "title": "Endless arXiv preprints claiming to disprove the Riemann hypothesis \u2014 how to respond? (arXiv)",
+    "url": "https://arxiv.org/abs/2404.06306",
+    "source": "arxiv",
+    "category": "math",
+    "status": "debated"
+  },
+  {
+    "id": "deb-comp-geo",
+    "title": "Open problems in computational geometry \u2014 where to start? (HN debate)",
+    "url": "https://news.ycombinator.com/item?id=44013181",
+    "source": "hackernews",
+    "category": "math",
+    "status": "debated"
+  },
+  {
+    "id": "deb-bio-unsolved",
+    "title": "What are the biggest unsolved questions in biology? (r/biology debate)",
+    "url": "https://www.reddit.com/r/biology/comments/fmg5bl/are_there_any_unsolved_questions_when_it_comes_to",
+    "source": "reddit",
+    "category": "bio",
+    "status": "debated"
+  },
+  {
+    "id": "deb-impossible-qs",
+    "title": "Will some of science's biggest questions remain forever unsolvable? (Scientific American)",
+    "url": "https://www.scientificamerican.com/report/impossible-questions",
+    "source": "web",
+    "category": "bio",
+    "status": "debated"
+  },
+  {
+    "id": "deb-biology-se",
+    "title": "What bio questions have 0 answers on Biology Stack Exchange? (active feed)",
+    "url": "https://biology.stackexchange.com/questions?tab=Active",
+    "source": "stackexchange",
+    "category": "bio",
+    "status": "debated"
+  },
+  {
+    "id": "deb-mystery-century",
+    "title": "What scientific mystery will be solved next century? (r/AskScienceDiscussion)",
+    "url": "https://www.reddit.com/r/AskScienceDiscussion/comments/1p0zngw/whats_the_biggest_scientific_mystery_that_will_be",
+    "source": "reddit",
+    "category": "bio",
+    "status": "debated"
+  },
+  {
+    "id": "deb-rubens",
+    "title": "Is the National Gallery's Rubens 'Samson and Delilah' a 20th-century copy? (Artnet)",
+    "url": "https://news.artnet.com/art-world/national-gallery-rubens-debate-2613165",
+    "source": "web",
+    "category": "art",
+    "status": "debated"
+  },
+  {
+    "id": "deb-van-eyck-ai",
+    "title": "Can AI authentication be trusted for Old Masters? Van Eyck dispute (Artnet)",
+    "url": "https://news.artnet.com/art-world/van-eyck-ai-authenticity-2744090",
+    "source": "web",
+    "category": "art",
+    "status": "debated"
+  },
+  {
+    "id": "deb-michelangelo",
+    "title": "Newly attributed Michelangelo painting divides experts (The Art Newspaper)",
+    "url": "https://www.theartnewspaper.com/2026/03/12/it-has-nothing-to-do-with-michelangeloexpert-wades-in-on-painting-newly-attributed-to-renaissance-master",
+    "source": "web",
+    "category": "art",
+    "status": "debated"
+  },
+  {
+    "id": "deb-ai-guessing",
+    "title": "What if generative AI makes authenticity debates permanently undecidable? (HN debate)",
+    "url": "https://news.ycombinator.com/item?id=44671180",
+    "source": "hackernews",
+    "category": "art",
+    "status": "debated"
+  },
+  {
+    "id": "deb-mech-interp-open",
+    "title": "What are the priority open problems in mechanistic interpretability? (arXiv 2025)",
+    "url": "https://arxiv.org/abs/2501.16496",
+    "source": "arxiv",
+    "category": "vectors",
+    "status": "debated"
+  },
+  {
+    "id": "deb-curse-dim",
+    "title": "Do nearest-neighbor metrics become meaningless in high dims? (arXiv distance concentration)",
+    "url": "https://arxiv.org/abs/2401.00422",
+    "source": "arxiv",
+    "category": "vectors",
+    "status": "debated"
+  },
+  {
+    "id": "deb-interp-trust",
+    "title": "Is 'interpretability' a rigorous science yet? (arXiv Transparent AI debate)",
+    "url": "https://arxiv.org/abs/2507.23535",
+    "source": "arxiv",
+    "category": "vectors",
+    "status": "debated"
+  },
+  {
+    "id": "deb-vec-space",
+    "title": "What actually is an embedding \u2014 geometric space, distribution, or statistics? (arXiv)",
+    "url": "https://arxiv.org/list/cs.CL/recent",
+    "source": "arxiv",
+    "category": "vectors",
+    "status": "debated"
+  },
+  {
+    "id": "deb-gravity-unified",
+    "title": "Is a unified general-relativity-plus-quantum theory even falsifiable? (HN debate)",
+    "url": "https://news.ycombinator.com/item?id=44671180",
+    "source": "hackernews",
+    "category": "physics",
+    "status": "debated"
+  },
+  {
+    "id": "deb-deepmind-navier",
+    "title": "Can DeepMind AI actually solve Navier-Stokes smoothness? (HN debate on attempt)",
+    "url": "https://news.ycombinator.com/item?id=44383589",
+    "source": "hackernews",
+    "category": "physics",
+    "status": "debated"
+  },
+  {
+    "id": "deb-quantum-measure",
+    "title": "Does the quantum measurement problem have a definitive resolution? (HN debate)",
+    "url": "https://news.ycombinator.com/item?id=8931564",
+    "source": "hackernews",
+    "category": "physics",
+    "status": "debated"
+  },
+  {
+    "id": "deb-physics-prizes",
+    "title": "Which open physics problem deserves the next major prize? (RealClearScience)",
+    "url": "https://www.realclearscience.com/2025/01/08/a_25-year_update_on_the_millennium_problems_in_physics_1083188.html",
+    "source": "web",
+    "category": "physics",
+    "status": "debated"
+  },
+  {
+    "id": "deb-distributed-stalled",
+    "title": "Has distributed systems programming stalled for a decade? (HN debate)",
+    "url": "https://news.ycombinator.com/item?id=43195702",
+    "source": "hackernews",
+    "category": "software",
+    "status": "debated"
+  },
+  {
+    "id": "deb-observability-2025",
+    "title": "How does anyone actually handle observability at scale in 2025? (r/sre debate)",
+    "url": "https://www.reddit.com/r/sre/comments/1lf9n5v/how_are_you_actually_handling_observability_in",
+    "source": "reddit",
+    "category": "software",
+    "status": "debated"
+  },
+  {
+    "id": "deb-legacy-it",
+    "title": "Can legacy IT systems ever be fully migrated or only wrapped? (HN debate)",
+    "url": "https://news.ycombinator.com/item?id=24759006",
+    "source": "hackernews",
+    "category": "software",
+    "status": "debated"
+  },
+  {
+    "id": "deb-ai-writing-code",
+    "title": "Will AI ever produce reliable maintainable software without humans? (r/AskProgrammers debate)",
+    "url": "https://www.reddit.com/r/AskProgrammers/comments/1ltqj1b/what_are_the_biggest_unsolved_software_engineering_issues/",
+    "source": "reddit",
+    "category": "software",
+    "status": "debated"
+  },
+  {
+    "id": "deb-rh-neglected",
+    "title": "Why is almost nobody trying to prove the Riemann hypothesis? (SciAm 2026 debate)",
+    "url": "https://www.scientificamerican.com/article/the-riemann-hypothesis-is-a-million-dollar-math-problem-hardly-anyone-is-trying-to-solve/",
+    "source": "web",
+    "category": "math",
+    "status": "debated"
+  },
+  {
+    "id": "deb-rh-disproofs",
+    "title": "Are all arXiv preprints disproving RH just noise? (arXiv debate culture)",
+    "url": "https://arxiv.org/abs/2404.06306",
+    "source": "arxiv",
+    "category": "math",
+    "status": "debated"
+  },
+  {
+    "id": "deb-zeta-simple",
+    "title": "Are all Riemann zeta nontrivial zeros simple? (MathOverflow debate)",
+    "url": "https://mathoverflow.net/posts/59774/revisions",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated"
+  },
+  {
+    "id": "deb-computational-geometry",
+    "title": "What open problems in computational geometry are actually tractable? (HN debate)",
+    "url": "https://news.ycombinator.com/item?id=44013181",
+    "source": "hackernews",
+    "category": "math",
+    "status": "debated"
+  },
+  {
+    "id": "deb-biology-unknown",
+    "title": "How do we even define the biggest unsolved biology questions? (r/biology debate)",
+    "url": "https://www.reddit.com/r/biology/comments/fmg5bl/are_there_any_unsolved_questions_when_it_comes_to",
+    "source": "reddit",
+    "category": "bio",
+    "status": "debated"
+  },
+  {
+    "id": "deb-life-origin-debate",
+    "title": "Can we ever know how life began on Earth, or is it permanently unknowable? (SciAm Impossible Questions)",
+    "url": "https://www.scientificamerican.com/report/impossible-questions",
+    "source": "web",
+    "category": "bio",
+    "status": "debated"
+  },
+  {
+    "id": "deb-consciousness-base",
+    "title": "Is consciousness a neural computation or something fundamentally different? (SciAm debate)",
+    "url": "https://www.scientificamerican.com/report/impossible-questions",
+    "source": "web",
+    "category": "bio",
+    "status": "debated"
+  },
+  {
+    "id": "deb-bio-questions-live",
+    "title": "What biology questions have 0 answers right now? (Biology StackExchange live feed)",
+    "url": "https://biology.stackexchange.com/questions?tab=Active",
+    "source": "stackexchange",
+    "category": "bio",
+    "status": "debated"
+  },
+  {
+    "id": "deb-rubens-authenticity",
+    "title": "Is the National Gallery's Rubens 'Samson and Delilah' authentic or a copy? (Artnet 2025 debate)",
+    "url": "https://news.artnet.com/art-world/national-gallery-rubens-debate-2613165",
+    "source": "web",
+    "category": "art",
+    "status": "debated"
+  },
+  {
+    "id": "deb-van-eyck-ai",
+    "title": "Should AI authentication be trusted for Old Masters? Van Eyck dispute (Artnet 2026 debate)",
+    "url": "https://news.artnet.com/art-world/van-eyck-ai-authenticity-2744090",
+    "source": "web",
+    "category": "art",
+    "status": "debated"
+  },
+  {
+    "id": "deb-michelangelo-new",
+    "title": "Is the newly attributed Michelangelo painting really his? (The Art Newspaper 2026 debate)",
+    "url": "https://www.theartnewspaper.com/2026/03/12/it-has-nothing-to-do-with-michelangeloexpert-wades-in-on-painting-newly-attributed-to-renaissance-master",
+    "source": "web",
+    "category": "art",
+    "status": "debated"
+  },
+  {
+    "id": "deb-ai-attribution",
+    "title": "Can AI ever settle art-attribution disputes definitively? (HN/Artnet cross-debate)",
+    "url": "https://news.artnet.com/art-world/van-eyck-ai-authenticity-2744090",
+    "source": "web",
+    "category": "art",
+    "status": "debated"
+  },
+  {
+    "id": "deb-mechanistic-interpretability-priorities",
+    "title": "Which open problems in mechanistic interpretability should the field prioritize? (arXiv 2025 debate)",
+    "url": "https://arxiv.org/abs/2501.16496",
+    "source": "arxiv",
+    "category": "vectors",
+    "status": "debated"
+  },
+  {
+    "id": "deb-curse-dimensionality",
+    "title": "Does the curse of dimensionality have an actual mathematical resolution, or is it fundamental? (arXiv debate)",
+    "url": "https://arxiv.org/abs/2401.00422",
+    "source": "arxiv",
+    "category": "vectors",
+    "status": "debated"
+  },
+  {
+    "id": "deb-interpretability-science",
+    "title": "Is interpretability of neural networks a rigorous science or a speculative art? (arXiv Transparent AI debate)",
+    "url": "https://arxiv.org/abs/2507.23535",
+    "source": "arxiv",
+    "category": "vectors",
+    "status": "debated"
+  },
+  {
+    "id": "deb-embedding-geometry",
+    "title": "What exactly is an embedding: geometric point, probability, or something else? (arXiv cs.CL debate)",
+    "url": "https://arxiv.org/list/cs.CL/recent",
+    "source": "arxiv",
+    "category": "vectors",
+    "status": "debated"
+  }
+]

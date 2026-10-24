@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Software — Idea Atlas</title>
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+<nav class="top"><a href="../index.html">← Idea Atlas</a></nav>
+<main>
+<h1>💻 Software</h1>
+<p><span id="freshness">Loading data status…</span></p>
+<section class="cat"><h2>Known — don't rebuild</h2><div id="known"><p class="muted">Loading…</p></div></section>
+<section class="cat"><h2>Debated — live discussion</h2><div id="debated"><p class="muted">Loading…</p></div></section>
+<section class="cat"><h2>Undiscovered — frontier</h2><div id="undiscovered"><p class="muted">Loading…</p></div></section>
+</main>
+<footer><span id="meta"></span></footer>
+<script src="../assets/app.js"></script>
+<script>
+(function () {
+  var SLUG = "software";
+  function renderList(el, items, emptyMsg) {
+    if (!items.length) { el.innerHTML = '<p class="muted">' + emptyMsg + "</p>"; return; }
+    el.innerHTML = "<ul>" + items.map(function (h) {
+      return '<li><a href="' + Atlas.escapeHtml(h.url || "#") + '">' +
+        Atlas.escapeHtml(h.title) + "</a> " +
+        '<span class="tag">' + Atlas.escapeHtml(h.source || "") + "</span></li>";
+    }).join("") + "</ul>";
+  }
+  Atlas.loadCategory(SLUG).then(function (items) {
+    items = items || [];
+    renderList(document.getElementById("known"), items.filter(function (x) { return x.status === "known"; }), "Nothing marked Known in this field yet.");
+    renderList(document.getElementById("debated"), items.filter(function (x) { return x.status === "debated"; }), "No live debates tracked right now.");
+    renderList(document.getElementById("undiscovered"), items.filter(function (x) { return x.status === "undiscovered"; }), "No frontier items listed yet.");
+  });
+  Atlas.loadMeta().then(function (m) {
+    document.getElementById("freshness").innerHTML = m ? Atlas.staleBadge(m) : "data missing";
+    if (m) document.getElementById("meta").textContent = "Updated " + m.updated_at + " · " + (m.count || 0) + " items";
+  });
+})();
+</script>
+</body>
+</html>

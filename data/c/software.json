@@ -1,0 +1,130 @@
+[
+  {
+    "id": "known-todo",
+    "title": "Todo list app (CRUD + reminders) \u2014 solved, dozens of better versions exist",
+    "url": "https://en.wikipedia.org/wiki/Getting_Things_Done",
+    "source": "seed",
+    "category": "software",
+    "status": "known"
+  },
+  {
+    "id": "known-git",
+    "title": "Git distributed version control \u2014 mature, don't reimplement",
+    "url": "https://en.wikipedia.org/wiki/Git",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known"
+  },
+  {
+    "id": "known-oauth",
+    "title": "OAuth 2.0 delegated auth \u2014 solved protocol",
+    "url": "https://en.wikipedia.org/wiki/OAuth",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known"
+  },
+  {
+    "id": "known-password-hash",
+    "title": "Password hashing (bcrypt/argon2/scrypt) \u2014 solved problem",
+    "url": "https://en.wikipedia.org/wiki/Bcrypt",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known"
+  },
+  {
+    "id": "known-crud-admin",
+    "title": "CRUD admin panels (Django admin, Rails, Retool-style) \u2014 commoditized",
+    "url": "https://en.wikipedia.org/wiki/Create,_read,_update_and_delete",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known"
+  },
+  {
+    "id": "known-chat-app",
+    "title": "Chat/messaging apps \u2014 massively oversupplied space",
+    "url": "https://en.wikipedia.org/wiki/Comparison_of_cross-platform_instant_messaging_clients",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known"
+  },
+  {
+    "id": "known-markdown",
+    "title": "Markdown editors and renderers \u2014 solved, excellent options exist",
+    "url": "https://en.wikipedia.org/wiki/Markdown",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known"
+  },
+  {
+    "id": "front-formal-verify",
+    "title": "Fully automatic formal verification for general-purpose software \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Formal_verification",
+    "source": "seed",
+    "category": "software",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-agi-align",
+    "title": "Provably aligned general intelligence \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/AI_alignment",
+    "source": "seed",
+    "category": "software",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-program-synthesis",
+    "title": "Reliable automatic program synthesis from natural-language specs \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Program_synthesis",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-self-healing",
+    "title": "Self-healing production systems with zero human on-call \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Autonomic_computing",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-interop",
+    "title": "Seamless legacy system interoperability without rewrites \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Interoperability",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "undiscovered"
+  },
+  {
+    "id": "deb-dist-systems",
+    "title": "Has distributed systems programming actually stalled for a decade? (HN debate)",
+    "url": "https://news.ycombinator.com/item?id=43195702",
+    "source": "hackernews",
+    "category": "software",
+    "status": "debated"
+  },
+  {
+    "id": "deb-observability",
+    "title": "How do teams actually handle observability in 2025? (r/sre debate)",
+    "url": "https://www.reddit.com/r/sre/comments/1lf9n5v/how_are_you_actually_handling_observability_in",
+    "source": "reddit",
+    "category": "software",
+    "status": "debated"
+  },
+  {
+    "id": "deb-legacy",
+    "title": "Is there any real solution to legacy system migration? (HN debate)",
+    "url": "https://news.ycombinator.com/item?id=24759006",
+    "source": "hackernews",
+    "category": "software",
+    "status": "debated"
+  },
+  {
+    "id": "deb-microservices",
+    "title": "Microservices vs monoliths \u2014 where did it all go wrong? (r/lobsters discussion)",
+    "url": "https://lobste.rs/s/8gqidu/distributed_systems_programming_has_stalled",
+    "source": "reddit",
+    "category": "software",
+    "status": "debated"
+  }
+]

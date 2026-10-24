@@ -1,0 +1,114 @@
+[
+  {
+    "id": "known-cosine-sim",
+    "title": "Cosine similarity for vector comparison \u2014 settled baseline",
+    "url": "https://en.wikipedia.org/wiki/Cosine_similarity",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known"
+  },
+  {
+    "id": "known-word2vec",
+    "title": "Word2Vec embeddings \u2014 discovered representation technique",
+    "url": "https://en.wikipedia.org/wiki/Word2vec",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known"
+  },
+  {
+    "id": "known-pca",
+    "title": "PCA dimensionality reduction \u2014 solved technique",
+    "url": "https://en.wikipedia.org/wiki/Principal_component_analysis",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known"
+  },
+  {
+    "id": "known-hnsw",
+    "title": "HNSW / vector ANN search \u2014 solved indexing problem",
+    "url": "https://en.wikipedia.org/wiki/Nearest_neighbor_search",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known"
+  },
+  {
+    "id": "known-vector-db",
+    "title": "Vector databases (FAISS/Chroma-style) \u2014 crowded space",
+    "url": "https://en.wikipedia.org/wiki/Vector_database",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known"
+  },
+  {
+    "id": "front-hdviz",
+    "title": "Interpretable high-dimensional vector navigation \u2014 undiscovered",
+    "url": "https://arxiv.org/list/cs.LG/recent",
+    "source": "seed",
+    "category": "vectors",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-curse-dim",
+    "title": "General solution to the curse of dimensionality \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Curse_of_dimensionality",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-universal-embedding",
+    "title": "Universal embedding space shared across all modalities and languages \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Embedding_(machine_learning)",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-mech-interp",
+    "title": "Complete mechanistic interpretation of large neural networks \u2014 undiscovered",
+    "url": "https://arxiv.org/abs/2501.16496",
+    "source": "arxiv",
+    "category": "vectors",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-vec-memory",
+    "title": "Vector-native long-term memory system with exact recall \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Semantic_memory",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "undiscovered"
+  },
+  {
+    "id": "deb-mech-interp-open",
+    "title": "What are the priority open problems in mechanistic interpretability? (arXiv 2025)",
+    "url": "https://arxiv.org/abs/2501.16496",
+    "source": "arxiv",
+    "category": "vectors",
+    "status": "debated"
+  },
+  {
+    "id": "deb-curse-dim",
+    "title": "Do nearest-neighbor metrics become meaningless in high dims? (arXiv distance concentration)",
+    "url": "https://arxiv.org/abs/2401.00422",
+    "source": "arxiv",
+    "category": "vectors",
+    "status": "debated"
+  },
+  {
+    "id": "deb-interp-trust",
+    "title": "Is 'interpretability' a rigorous science yet? (arXiv Transparent AI debate)",
+    "url": "https://arxiv.org/abs/2507.23535",
+    "source": "arxiv",
+    "category": "vectors",
+    "status": "debated"
+  },
+  {
+    "id": "deb-vec-space",
+    "title": "What actually is an embedding \u2014 geometric space, distribution, or statistics? (arXiv)",
+    "url": "https://arxiv.org/list/cs.CL/recent",
+    "source": "arxiv",
+    "category": "vectors",
+    "status": "debated"
+  }
+]

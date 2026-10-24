@@ -1,0 +1,4 @@
+# Copy values into GitHub Secrets, never commit real keys.
+AI_API_URL: "https://api.free-endpoint.example/v1/chat/completions (put real URL in Secret AI_API_URL)"
+AI_API_KEY: "(put in Secret AI_API_KEY)"
+AI_MODEL: "(optional Secret AI_MODEL)"

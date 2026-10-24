@@ -1,0 +1,8 @@
+[
+  {"slug": "physics", "name": "Physics", "icon": "⚛️"},
+  {"slug": "software", "name": "Software", "icon": "💻"},
+  {"slug": "math", "name": "Math", "icon": "📐"},
+  {"slug": "bio", "name": "Biology", "icon": "🧬"},
+  {"slug": "art", "name": "Arts & Humanities", "icon": "🎨"},
+  {"slug": "vectors", "name": "High-Dim Vectors & Niche", "icon": "🧭"}
+]

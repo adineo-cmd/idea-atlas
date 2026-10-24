@@ -1,0 +1,122 @@
+[
+  {
+    "id": "known-pythagoras",
+    "title": "Pythagorean theorem a\u00b2+b\u00b2=c\u00b2 \u2014 proven 2000+ years ago",
+    "url": "https://en.wikipedia.org/wiki/Pythagorean_theorem",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known"
+  },
+  {
+    "id": "known-euler-identity",
+    "title": "Euler's identity e^(i\u03c0)+1=0 \u2014 classical result",
+    "url": "https://en.wikipedia.org/wiki/Euler%27s_identity",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known"
+  },
+  {
+    "id": "known-calculus",
+    "title": "Differential and integral calculus (Newton/Leibniz) \u2014 cornerstone",
+    "url": "https://en.wikipedia.org/wiki/Calculus",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known"
+  },
+  {
+    "id": "known-clt",
+    "title": "Central limit theorem \u2014 proven statistics bedrock",
+    "url": "https://en.wikipedia.org/wiki/Central_limit_theorem",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known"
+  },
+  {
+    "id": "known-bayes",
+    "title": "Bayes' theorem \u2014 foundational inference rule",
+    "url": "https://en.wikipedia.org/wiki/Bayes%27_theorem",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known"
+  },
+  {
+    "id": "known-fourier",
+    "title": "Fourier transform / FFT \u2014 solved technique",
+    "url": "https://en.wikipedia.org/wiki/Fast_Fourier_transform",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known"
+  },
+  {
+    "id": "front-p-vs-np",
+    "title": "P vs NP resolution \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/P_versus_NP_problem",
+    "source": "seed",
+    "category": "math",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-riemann",
+    "title": "Proving the Riemann hypothesis \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Riemann_hypothesis",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-collatz",
+    "title": "Resolving the Collatz conjecture \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Collatz_conjecture",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-bsd",
+    "title": "Birch and Swinnerton-Dyer conjecture \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_conjecture",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-hodge",
+    "title": "Hodge conjecture \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Hodge_conjecture",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "undiscovered"
+  },
+  {
+    "id": "deb-riemann-ignored",
+    "title": "Why is nobody seriously trying to prove the Riemann hypothesis? (SciAm debate)",
+    "url": "https://www.scientificamerican.com/article/the-riemann-hypothesis-is-a-million-dollar-math-problem-hardly-anyone-is-trying-to-solve/",
+    "source": "web",
+    "category": "math",
+    "status": "debated"
+  },
+  {
+    "id": "deb-zeta-simple",
+    "title": "Are the nontrivial zeros of the Riemann zeta function simple? (MathOverflow debate)",
+    "url": "https://mathoverflow.net/posts/59774/revisions",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated"
+  },
+  {
+    "id": "deb-rh-preprints",
+    "title": "Endless arXiv preprints claiming to disprove the Riemann hypothesis \u2014 how to respond? (arXiv)",
+    "url": "https://arxiv.org/abs/2404.06306",
+    "source": "arxiv",
+    "category": "math",
+    "status": "debated"
+  },
+  {
+    "id": "deb-comp-geo",
+    "title": "Open problems in computational geometry \u2014 where to start? (HN debate)",
+    "url": "https://news.ycombinator.com/item?id=44013181",
+    "source": "hackernews",
+    "category": "math",
+    "status": "debated"
+  }
+]

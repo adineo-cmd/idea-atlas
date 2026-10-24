@@ -1,0 +1,114 @@
+[
+  {
+    "id": "known-mona-lisa",
+    "title": "Mona Lisa by Leonardo da Vinci \u2014 existing masterpiece, no need for another",
+    "url": "https://en.wikipedia.org/wiki/Mona_Lisa",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known"
+  },
+  {
+    "id": "known-linear-perspective",
+    "title": "Linear perspective technique \u2014 codified (Brunelleschi/Alberti)",
+    "url": "https://en.wikipedia.org/wiki/Perspective_(graphical)",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known"
+  },
+  {
+    "id": "known-oil-painting",
+    "title": "Oil painting technique (Van Eyck era) \u2014 mature craft",
+    "url": "https://en.wikipedia.org/wiki/Oil_painting",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known"
+  },
+  {
+    "id": "known-chiaroscuro",
+    "title": "Chiaroscuro / formal composition grammar \u2014 established canon",
+    "url": "https://en.wikipedia.org/wiki/Chiaroscuro",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known"
+  },
+  {
+    "id": "known-photography",
+    "title": "Photography (daguerreotype to digital) \u2014 mature medium",
+    "url": "https://en.wikipedia.org/wiki/Photography",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known"
+  },
+  {
+    "id": "front-dead-language",
+    "title": "Fully deciphered Minoan Linear A script \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Linear_A",
+    "source": "seed",
+    "category": "art",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-voynich",
+    "title": "Decoded Voynich manuscript \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Voynich_manuscript",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-indus",
+    "title": "Deciphered Indus Valley script \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Indus_script",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-attribution",
+    "title": "Fraud-proof artwork attribution independent of provenance \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Provenance",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-music-theory",
+    "title": "Universal predictive model of musical emotion across cultures \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Music_psychology",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "undiscovered"
+  },
+  {
+    "id": "deb-rubens",
+    "title": "Is the National Gallery's Rubens 'Samson and Delilah' a 20th-century copy? (Artnet)",
+    "url": "https://news.artnet.com/art-world/national-gallery-rubens-debate-2613165",
+    "source": "web",
+    "category": "art",
+    "status": "debated"
+  },
+  {
+    "id": "deb-van-eyck-ai",
+    "title": "Can AI authentication be trusted for Old Masters? Van Eyck dispute (Artnet)",
+    "url": "https://news.artnet.com/art-world/van-eyck-ai-authenticity-2744090",
+    "source": "web",
+    "category": "art",
+    "status": "debated"
+  },
+  {
+    "id": "deb-michelangelo",
+    "title": "Newly attributed Michelangelo painting divides experts (The Art Newspaper)",
+    "url": "https://www.theartnewspaper.com/2026/03/12/it-has-nothing-to-do-with-michelangeloexpert-wades-in-on-painting-newly-attributed-to-renaissance-master",
+    "source": "web",
+    "category": "art",
+    "status": "debated"
+  },
+  {
+    "id": "deb-ai-guessing",
+    "title": "What if generative AI makes authenticity debates permanently undecidable? (HN debate)",
+    "url": "https://news.ycombinator.com/item?id=44671180",
+    "source": "hackernews",
+    "category": "art",
+    "status": "debated"
+  }
+]
