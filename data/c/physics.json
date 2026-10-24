@@ -48,6 +48,38 @@
     "status": "known"
   },
   {
+    "id": "known-electricity",
+    "title": "Electromagnetic induction and electricity generation (Faraday/Maxwell) \u2014 solved science",
+    "url": "https://en.wikipedia.org/wiki/Electromagnetic_induction",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known"
+  },
+  {
+    "id": "known-transistor",
+    "title": "Transistor invention and semiconductor physics \u2014 solved technology",
+    "url": "https://en.wikipedia.org/wiki/Transistor",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known"
+  },
+  {
+    "id": "known-relativity",
+    "title": "Special relativity (Einstein 1905) \u2014 solved framework",
+    "url": "https://en.wikipedia.org/wiki/Special_relativity",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known"
+  },
+  {
+    "id": "known-radiography",
+    "title": "X-ray radiography (R\u00f6ntgen) \u2014 solved imaging physics",
+    "url": "https://en.wikipedia.org/wiki/X-ray",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known"
+  },
+  {
     "id": "front-room-temp-sc",
     "title": "Room-temperature superconductor \u2014 undiscovered",
     "url": "https://en.wikipedia.org/wiki/Superconductivity",
@@ -91,6 +123,46 @@
     "id": "front-quantum-error",
     "title": "Fault-tolerant scalable quantum computing \u2014 practical machine undiscovered",
     "url": "https://en.wikipedia.org/wiki/Quantum_error_correction",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-dark-energy",
+    "title": "Nature and origin of dark energy \u2014 pre-2026 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Dark_energy",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-baryon-asymmetry",
+    "title": "Baryon asymmetry / why more matter than antimatter \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Baryon_asymmetry",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-strong-cp",
+    "title": "Strong CP problem \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Strong_CP_problem",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-quantum-interpret",
+    "title": "Correct interpretation of quantum mechanics \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Interpretations_of_quantum_mechanics",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-gravity-waves-direct",
+    "title": "Direct detection of primordial gravitational waves \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Gravitational_wave",
     "source": "wikipedia",
     "category": "physics",
     "status": "undiscovered"

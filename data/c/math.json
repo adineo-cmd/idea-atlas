@@ -48,6 +48,22 @@
     "status": "known"
   },
   {
+    "id": "known-number-theory",
+    "title": "Fundamental theorem of arithmetic (unique factorization) \u2014 solved",
+    "url": "https://en.wikipedia.org/wiki/Fundamental_theorem_of_arithmetic",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known"
+  },
+  {
+    "id": "known-graph-theory",
+    "title": "Graph theory foundations (Euler, K\u0151nig) \u2014 solved mathematical domain",
+    "url": "https://en.wikipedia.org/wiki/Graph_theory",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known"
+  },
+  {
     "id": "front-p-vs-np",
     "title": "P vs NP resolution \u2014 undiscovered",
     "url": "https://en.wikipedia.org/wiki/P_versus_NP_problem",

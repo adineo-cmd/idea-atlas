@@ -57,7 +57,7 @@
   },
   {
     "id": "deb-microservices",
-    "title": "Microservices vs monoliths \u2014 where did it all go wrong? (r/lobsters discussion)",
+    "title": "Microservices vs monoliths — where did it all go wrong? (r/lobsters discussion)",
     "url": "https://lobste.rs/s/8gqidu/distributed_systems_programming_has_stalled",
     "source": "reddit",
     "category": "software",
@@ -81,7 +81,7 @@
   },
   {
     "id": "deb-rh-preprints",
-    "title": "Endless arXiv preprints claiming to disprove the Riemann hypothesis \u2014 how to respond? (arXiv)",
+    "title": "Endless arXiv preprints claiming to disprove the Riemann hypothesis — how to respond? (arXiv)",
     "url": "https://arxiv.org/abs/2404.06306",
     "source": "arxiv",
     "category": "math",
@@ -89,7 +89,7 @@
   },
   {
     "id": "deb-comp-geo",
-    "title": "Open problems in computational geometry \u2014 where to start? (HN debate)",
+    "title": "Open problems in computational geometry — where to start? (HN debate)",
     "url": "https://news.ycombinator.com/item?id=44013181",
     "source": "hackernews",
     "category": "math",
@@ -185,7 +185,7 @@
   },
   {
     "id": "deb-vec-space",
-    "title": "What actually is an embedding \u2014 geometric space, distribution, or statistics? (arXiv)",
+    "title": "What actually is an embedding — geometric space, distribution, or statistics? (arXiv)",
     "url": "https://arxiv.org/list/cs.CL/recent",
     "source": "arxiv",
     "category": "vectors",
@@ -272,7 +272,7 @@
     "status": "debated"
   },
   {
-    "id": "deb-zeta-simple",
+    "id": "deb-zeta-zeros-simple",
     "title": "Are all Riemann zeta nontrivial zeros simple? (MathOverflow debate)",
     "url": "https://mathoverflow.net/posts/59774/revisions",
     "source": "stackexchange",
@@ -328,7 +328,7 @@
     "status": "debated"
   },
   {
-    "id": "deb-van-eyck-ai",
+    "id": "deb-van-eyck-ai-trust",
     "title": "Should AI authentication be trusted for Old Masters? Van Eyck dispute (Artnet 2026 debate)",
     "url": "https://news.artnet.com/art-world/van-eyck-ai-authenticity-2744090",
     "source": "web",
@@ -381,6 +381,198 @@
     "url": "https://arxiv.org/list/cs.CL/recent",
     "source": "arxiv",
     "category": "vectors",
+    "status": "debated"
+  },
+  {
+    "id": "deb-darkmatter-vs-modgrav",
+    "title": "Dark matter particle vs modified gravity — which explains galaxy rotation?",
+    "url": "https://en.wikipedia.org/wiki/Dark_matter",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "debated"
+  },
+  {
+    "id": "deb-hubble-tension",
+    "title": "Hubble tension: real physics or measurement systematics?",
+    "url": "https://en.wikipedia.org/wiki/Hubble_tension",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "debated"
+  },
+  {
+    "id": "deb-mars-colony",
+    "title": "Should humans colonize Mars — feasibility and ethics still hotly debated",
+    "url": "https://news.ycombinator.com/item?id=39361839",
+    "source": "hackernews",
+    "category": "space",
+    "status": "debated"
+  },
+  {
+    "id": "deb-frb-magnetars",
+    "title": "Are all fast radio bursts explained by magnetars?",
+    "url": "https://en.wikipedia.org/wiki/Fast_radio_burst",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "debated"
+  },
+  {
+    "id": "deb-europa-cost",
+    "title": "Is a Europa lander worth the cost versus an orbiter?",
+    "url": "https://europa.nasa.gov/",
+    "source": "web",
+    "category": "space",
+    "status": "debated"
+  },
+  {
+    "id": "deb-starship-refuel",
+    "title": "How many tanker flights does Starship orbital refueling need?",
+    "url": "https://news.ycombinator.com/item?id=38779791",
+    "source": "hackernews",
+    "category": "space",
+    "status": "debated"
+  },
+  {
+    "id": "deb-hard-problem",
+    "title": "Is consciousness reducible to neural computation? The hard problem persists",
+    "url": "https://en.wikipedia.org/wiki/Hard_problem_of_consciousness",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "debated"
+  },
+  {
+    "id": "deb-therapy-factors",
+    "title": "Does psychotherapy work via specific techniques or common factors?",
+    "url": "https://en.wikipedia.org/wiki/Common_factors_theory",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "debated"
+  },
+  {
+    "id": "deb-replication",
+    "title": "Replication crisis: how much of psychology actually holds up?",
+    "url": "https://en.wikipedia.org/wiki/Replication_crisis",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "debated"
+  },
+  {
+    "id": "deb-iq-heritable",
+    "title": "IQ heritability vs environment — polygenic score debates continue",
+    "url": "https://en.wikipedia.org/wiki/Heritability_of_IQ",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "debated"
+  },
+  {
+    "id": "deb-socialmedia-mh",
+    "title": "Social media and adolescent mental health — causation still contested",
+    "url": "https://news.ycombinator.com/item?id=36188486",
+    "source": "hackernews",
+    "category": "mind",
+    "status": "debated"
+  },
+  {
+    "id": "deb-freewill",
+    "title": "Do humans have free will — compatibilism vs incompatibilism, unresolved",
+    "url": "https://en.wikipedia.org/wiki/Free_will",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "debated"
+  },
+  {
+    "id": "deb-water-liquids",
+    "title": "Does supercooled water have a liquid–liquid transition? Two-liquids hypothesis",
+    "url": "https://en.wikipedia.org/wiki/Properties_of_water",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "debated"
+  },
+  {
+    "id": "deb-ml-potentials",
+    "title": "Can machine-learned potentials replace ab initio chemistry?",
+    "url": "https://arxiv.org/abs/2205.00903",
+    "source": "arxiv",
+    "category": "chemistry",
+    "status": "debated"
+  },
+  {
+    "id": "deb-htsc-mechanism",
+    "title": "High-temperature superconductivity mechanism — still no consensus",
+    "url": "https://en.wikipedia.org/wiki/High-temperature_superconductivity",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "debated"
+  },
+  {
+    "id": "deb-island-stability",
+    "title": "How far does the island of stability extend — how many elements exist?",
+    "url": "https://en.wikipedia.org/wiki/Island_of_stability",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "debated"
+  },
+  {
+    "id": "deb-plastic-recycling",
+    "title": "Chemical vs mechanical plastic recycling — which actually scales?",
+    "url": "https://en.wikipedia.org/wiki/Plastic_recycling",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "debated"
+  },
+  {
+    "id": "deb-homochirality",
+    "title": "Origin of homochirality on Earth — multiple competing hypotheses",
+    "url": "https://en.wikipedia.org/wiki/Homochirality",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "debated"
+  },
+  {
+    "id": "deb-minimum-wage",
+    "title": "Does the minimum wage reduce employment? Studies still conflict",
+    "url": "https://en.wikipedia.org/wiki/Minimum_wage",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "debated"
+  },
+  {
+    "id": "deb-mmt",
+    "title": "Modern Monetary Theory vs orthodox fiscal policy — unresolved",
+    "url": "https://en.wikipedia.org/wiki/Modern_monetary_theory",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "debated"
+  },
+  {
+    "id": "deb-ubi-scale",
+    "title": "Basic income pilots look good — does it scale nationally?",
+    "url": "https://en.wikipedia.org/wiki/Universal_basic_income",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "debated"
+  },
+  {
+    "id": "deb-2021-inflation",
+    "title": "2021–2023 inflation: supply shock, demand stimulus, or profit margins?",
+    "url": "https://news.ycombinator.com/item?id=35142755",
+    "source": "hackernews",
+    "category": "economics",
+    "status": "debated"
+  },
+  {
+    "id": "deb-ai-jobs",
+    "title": "Does AI automation polarize jobs or create new ones?",
+    "url": "https://en.wikipedia.org/wiki/Technological_unemployment",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "debated"
+  },
+  {
+    "id": "deb-rent-control",
+    "title": "Rent control: economists split on magnitude of supply effects",
+    "url": "https://en.wikipedia.org/wiki/Rent_regulation",
+    "source": "wikipedia",
+    "category": "economics",
     "status": "debated"
   }
 ]

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "known-supplydemand",
+    "title": "Supply and demand set market prices \u2014 foundational law, solved",
+    "url": "https://en.wikipedia.org/wiki/Supply_and_demand",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known"
+  },
+  {
+    "id": "known-comparative",
+    "title": "Comparative advantage: trade can benefit both parties \u2014 established",
+    "url": "https://en.wikipedia.org/wiki/Comparative_advantage",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known"
+  },
+  {
+    "id": "known-compound",
+    "title": "Compound interest grows exponentially \u2014 solved arithmetic (rule of 72)",
+    "url": "https://en.wikipedia.org/wiki/Compound_interest",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known"
+  },
+  {
+    "id": "known-inflation-erosion",
+    "title": "Inflation erodes fixed nominal returns \u2014 established",
+    "url": "https://en.wikipedia.org/wiki/Inflation",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known"
+  },
+  {
+    "id": "known-gini",
+    "title": "Gini coefficient measures inequality \u2014 solved metric",
+    "url": "https://en.wikipedia.org/wiki/Gini_coefficient",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known"
+  },
+  {
+    "id": "known-trade-gains",
+    "title": "Tariffs create deadweight loss in standard models \u2014 established",
+    "url": "https://en.wikipedia.org/wiki/Deadweight_loss",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known"
+  },
+  {
+    "id": "front-recession-model",
+    "title": "A reliable recession-prediction model \u2014 no leading indicator set works yet",
+    "url": "https://en.wikipedia.org/wiki/Recession",
+    "source": "seed",
+    "category": "economics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-housing-fix",
+    "title": "A working fix for megacity housing affordability \u2014 unsolved",
+    "url": "https://en.wikipedia.org/wiki/Housing_shortage",
+    "source": "seed",
+    "category": "economics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-beyond-gdp",
+    "title": "An adopted well-being measure to replace GDP \u2014 not yet agreed",
+    "url": "https://en.wikipedia.org/wiki/Gross_national_happiness",
+    "source": "seed",
+    "category": "economics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-carbon-price",
+    "title": "A stable global carbon pricing mechanism \u2014 undesigned",
+    "url": "https://en.wikipedia.org/wiki/Carbon_price",
+    "source": "seed",
+    "category": "economics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-ai-transition-model",
+    "title": "An economic model of the AI productivity transition \u2014 missing",
+    "url": "https://en.wikipedia.org/wiki/Productivity_paradox",
+    "source": "seed",
+    "category": "economics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-poverty-scale",
+    "title": "What sustains poverty-graduation programs at national scale \u2014 unknown",
+    "url": "https://en.wikipedia.org/wiki/Graduation_approach",
+    "source": "seed",
+    "category": "economics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "deb-minimum-wage",
+    "title": "Does the minimum wage reduce employment? Studies still conflict",
+    "url": "https://en.wikipedia.org/wiki/Minimum_wage",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "debated"
+  },
+  {
+    "id": "deb-mmt",
+    "title": "Modern Monetary Theory vs orthodox fiscal policy \u2014 unresolved",
+    "url": "https://en.wikipedia.org/wiki/Modern_monetary_theory",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "debated"
+  },
+  {
+    "id": "deb-ubi-scale",
+    "title": "Basic income pilots look good \u2014 does it scale nationally?",
+    "url": "https://en.wikipedia.org/wiki/Universal_basic_income",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "debated"
+  },
+  {
+    "id": "deb-2021-inflation",
+    "title": "2021\u20132023 inflation: supply shock, demand stimulus, or profit margins?",
+    "url": "https://news.ycombinator.com/item?id=35142755",
+    "source": "hackernews",
+    "category": "economics",
+    "status": "debated"
+  },
+  {
+    "id": "deb-ai-jobs",
+    "title": "Does AI automation polarize jobs or create new ones?",
+    "url": "https://en.wikipedia.org/wiki/Technological_unemployment",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "debated"
+  },
+  {
+    "id": "deb-rent-control",
+    "title": "Rent control: economists split on magnitude of supply effects",
+    "url": "https://en.wikipedia.org/wiki/Rent_regulation",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "debated"
+  }
+]

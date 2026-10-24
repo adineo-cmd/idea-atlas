@@ -280,6 +280,342 @@
     "status": "known"
   },
   {
+    "id": "known-electricity",
+    "title": "Electromagnetic induction and electricity generation (Faraday/Maxwell) \u2014 solved science",
+    "url": "https://en.wikipedia.org/wiki/Electromagnetic_induction",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known"
+  },
+  {
+    "id": "known-transistor",
+    "title": "Transistor invention and semiconductor physics \u2014 solved technology",
+    "url": "https://en.wikipedia.org/wiki/Transistor",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known"
+  },
+  {
+    "id": "known-internet",
+    "title": "TCP/IP networking and packet routing \u2014 solved infrastructure",
+    "url": "https://en.wikipedia.org/wiki/Internet_protocol_suite",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known"
+  },
+  {
+    "id": "known-relativity",
+    "title": "Special relativity (Einstein 1905) \u2014 solved framework",
+    "url": "https://en.wikipedia.org/wiki/Special_relativity",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known"
+  },
+  {
+    "id": "known-antibiotics",
+    "title": "Penicillin antibiotic discovery (Fleming) \u2014 solved medicine",
+    "url": "https://en.wikipedia.org/wiki/Penicillin",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known"
+  },
+  {
+    "id": "known-vaccine-smallpox",
+    "title": "Smallpox vaccine (Jenner) \u2014 eradicated disease through solved immunology",
+    "url": "https://en.wikipedia.org/wiki/Smallpox_vaccine",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known"
+  },
+  {
+    "id": "known-number-theory",
+    "title": "Fundamental theorem of arithmetic (unique factorization) \u2014 solved",
+    "url": "https://en.wikipedia.org/wiki/Fundamental_theorem_of_arithmetic",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known"
+  },
+  {
+    "id": "known-impressionism",
+    "title": "Impressionism painting technique (Monet era) \u2014 mature art movement",
+    "url": "https://en.wikipedia.org/wiki/Impressionism",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known"
+  },
+  {
+    "id": "known-film",
+    "title": "Motion picture / cinema technology \u2014 solved medium",
+    "url": "https://en.wikipedia.org/wiki/Motion_picture",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known"
+  },
+  {
+    "id": "known-svd",
+    "title": "Singular value decomposition \u2014 solved linear algebra tool",
+    "url": "https://en.wikipedia.org/wiki/Singular_value_decomposition",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known"
+  },
+  {
+    "id": "known-tf-idf",
+    "title": "TF-IDF information retrieval scoring \u2014 solved baseline",
+    "url": "https://en.wikipedia.org/wiki/Tf%E2%80%93idf",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known"
+  },
+  {
+    "id": "known-graph-theory",
+    "title": "Graph theory foundations (Euler, K\u0151nig) \u2014 solved mathematical domain",
+    "url": "https://en.wikipedia.org/wiki/Graph_theory",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known"
+  },
+  {
+    "id": "known-cell-theory",
+    "title": "Cell theory (Schwann, Virchow) \u2014 solved biology framework",
+    "url": "https://en.wikipedia.org/wiki/Cell_theory",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known"
+  },
+  {
+    "id": "known-radiography",
+    "title": "X-ray radiography (R\u00f6ntgen) \u2014 solved imaging physics",
+    "url": "https://en.wikipedia.org/wiki/X-ray",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known"
+  },
+  {
+    "id": "known-printing-press",
+    "title": "Movable-type printing press (Gutenberg) \u2014 solved dissemination",
+    "url": "https://en.wikipedia.org/wiki/Printing_press",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known"
+  },
+  {
+    "id": "known-digital-camera",
+    "title": "Digital image sensors and cameras \u2014 solved medium",
+    "url": "https://en.wikipedia.org/wiki/Digital_camera",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known"
+  },
+  {
+    "id": "known-encryption-rsa",
+    "title": "RSA public-key cryptography \u2014 solved security protocol",
+    "url": "https://en.wikipedia.org/wiki/RSA_(cryptosystem)",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known"
+  },
+  {
+    "id": "known-web-browser",
+    "title": "Web browsers and HTML rendering engines \u2014 solved platform",
+    "url": "https://en.wikipedia.org/wiki/Web_browser",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known"
+  },
+  {
+    "id": "known-kepler",
+    "title": "Kepler's laws of planetary motion \u2014 orbital mechanics solved",
+    "url": "https://en.wikipedia.org/wiki/Kepler%27s_laws_of_planetary_motion",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known"
+  },
+  {
+    "id": "known-cmb",
+    "title": "Cosmic microwave background is the afterglow of the early universe \u2014 measured to high precision",
+    "url": "https://en.wikipedia.org/wiki/Cosmic_microwave_background",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known"
+  },
+  {
+    "id": "known-hubble-law",
+    "title": "Hubble\u2013Lema\u00eetre law: galaxies recede at speeds proportional to distance \u2014 established",
+    "url": "https://en.wikipedia.org/wiki/Hubble%E2%80%93Lema%C3%AEtre_law",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known"
+  },
+  {
+    "id": "known-nucleosynthesis",
+    "title": "Stars shine by fusing hydrogen into helium \u2014 stellar nucleosynthesis basics solved",
+    "url": "https://en.wikipedia.org/wiki/Stellar_nucleosynthesis",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known"
+  },
+  {
+    "id": "known-lightdelay",
+    "title": "Looking far away is looking back in time \u2014 finite speed of light, solved fact",
+    "url": "https://en.wikipedia.org/wiki/Light-year",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known"
+  },
+  {
+    "id": "known-tides",
+    "title": "Tides are driven mainly by lunar and solar gravity \u2014 solved",
+    "url": "https://en.wikipedia.org/wiki/Tide",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known"
+  },
+  {
+    "id": "known-spacing",
+    "title": "Spaced repetition beats cramming \u2014 one of the most replicated results in learning science",
+    "url": "https://en.wikipedia.org/wiki/Spacing_effect",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known"
+  },
+  {
+    "id": "known-wm-limit",
+    "title": "Working memory holds only ~4 chunks at once (Miller/Cowan) \u2014 established",
+    "url": "https://en.wikipedia.org/wiki/Working_memory",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known"
+  },
+  {
+    "id": "known-sleep-memory",
+    "title": "Sleep consolidates memory \u2014 robustly established",
+    "url": "https://en.wikipedia.org/wiki/Sleep_and_memory",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known"
+  },
+  {
+    "id": "known-conditioning",
+    "title": "Classical conditioning exists (Pavlov) \u2014 solved basics of associative learning",
+    "url": "https://en.wikipedia.org/wiki/Classical_conditioning",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known"
+  },
+  {
+    "id": "known-illusion",
+    "title": "Visual illusions expose perception as inference \u2014 established",
+    "url": "https://en.wikipedia.org/wiki/Optical_illusion",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known"
+  },
+  {
+    "id": "known-placebo-pain",
+    "title": "Placebo measurably reduces reported pain \u2014 established effect",
+    "url": "https://en.wikipedia.org/wiki/Placebo",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known"
+  },
+  {
+    "id": "known-periodic",
+    "title": "Periodic law: element properties recur periodically with atomic number \u2014 solved",
+    "url": "https://en.wikipedia.org/wiki/Periodic_trends",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known"
+  },
+  {
+    "id": "known-idealgas",
+    "title": "Ideal gas law PV=nRT \u2014 solved for dilute gases",
+    "url": "https://en.wikipedia.org/wiki/Ideal_gas_law",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known"
+  },
+  {
+    "id": "known-lechatelier",
+    "title": "Le Chatelier's principle: equilibria shift to oppose changes \u2014 established",
+    "url": "https://en.wikipedia.org/wiki/Le_Chatelier%27s_principle",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known"
+  },
+  {
+    "id": "known-orbitals",
+    "title": "Electrons occupy quantized orbitals \u2014 quantum chemistry foundations solved",
+    "url": "https://en.wikipedia.org/wiki/Atomic_orbital",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known"
+  },
+  {
+    "id": "known-hess",
+    "title": "Hess's law: reaction enthalpy is path-independent \u2014 solved",
+    "url": "https://en.wikipedia.org/wiki/Hess%27s_law",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known"
+  },
+  {
+    "id": "known-neutralization",
+    "title": "Acid\u2013base neutralization stoichiometry \u2014 solved",
+    "url": "https://en.wikipedia.org/wiki/Neutralization_(chemistry)",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known"
+  },
+  {
+    "id": "known-supplydemand",
+    "title": "Supply and demand set market prices \u2014 foundational law, solved",
+    "url": "https://en.wikipedia.org/wiki/Supply_and_demand",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known"
+  },
+  {
+    "id": "known-comparative",
+    "title": "Comparative advantage: trade can benefit both parties \u2014 established",
+    "url": "https://en.wikipedia.org/wiki/Comparative_advantage",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known"
+  },
+  {
+    "id": "known-compound",
+    "title": "Compound interest grows exponentially \u2014 solved arithmetic (rule of 72)",
+    "url": "https://en.wikipedia.org/wiki/Compound_interest",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known"
+  },
+  {
+    "id": "known-inflation-erosion",
+    "title": "Inflation erodes fixed nominal returns \u2014 established",
+    "url": "https://en.wikipedia.org/wiki/Inflation",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known"
+  },
+  {
+    "id": "known-gini",
+    "title": "Gini coefficient measures inequality \u2014 solved metric",
+    "url": "https://en.wikipedia.org/wiki/Gini_coefficient",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known"
+  },
+  {
+    "id": "known-trade-gains",
+    "title": "Tariffs create deadweight loss in standard models \u2014 established",
+    "url": "https://en.wikipedia.org/wiki/Deadweight_loss",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known"
+  },
+  {
     "id": "front-room-temp-sc",
     "title": "Room-temperature superconductor \u2014 undiscovered",
     "url": "https://en.wikipedia.org/wiki/Superconductivity",
@@ -528,6 +864,262 @@
     "status": "undiscovered"
   },
   {
+    "id": "front-dark-energy",
+    "title": "Nature and origin of dark energy \u2014 pre-2026 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Dark_energy",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-baryon-asymmetry",
+    "title": "Baryon asymmetry / why more matter than antimatter \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Baryon_asymmetry",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-strong-cp",
+    "title": "Strong CP problem \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Strong_CP_problem",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-quantum-interpret",
+    "title": "Correct interpretation of quantum mechanics \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Interpretations_of_quantum_mechanics",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-gravity-waves-direct",
+    "title": "Direct detection of primordial gravitational waves \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Gravitational_wave",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-aging-biology",
+    "title": "Fundamental biological mechanism of aging and how to halt it \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Anti-aging",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-protein-fold-all",
+    "title": "Predicting structures of all proteins including disordered \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Protein_folding",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-sleep-purpose",
+    "title": "Complete evolutionary and neural purpose of sleep \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Sleep",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-observability-complete",
+    "title": "Complete root-cause analysis in distributed systems with zero human time \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Observability_(software)",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-geometry-unified",
+    "title": "Single geometric framework for all vector spaces \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Inner_product_space",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-biosignature",
+    "title": "First confirmed biosignature on an exoplanet \u2014 not yet found",
+    "url": "https://en.wikipedia.org/wiki/Biosignature",
+    "source": "seed",
+    "category": "space",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-planet-nine",
+    "title": "Planet Nine in the outer solar system \u2014 predicted, unconfirmed",
+    "url": "https://en.wikipedia.org/wiki/Planet_Nine",
+    "source": "seed",
+    "category": "space",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-flare-prediction",
+    "title": "Predicting the timing of solar flares \u2014 no working method yet",
+    "url": "https://en.wikipedia.org/wiki/Solar_flare",
+    "source": "seed",
+    "category": "space",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-primordial-gw",
+    "title": "Primordial gravitational-wave background from inflation \u2014 not yet detected",
+    "url": "https://en.wikipedia.org/wiki/Gravitational-wave_background",
+    "source": "seed",
+    "category": "space",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-ncc-theory",
+    "title": "A complete theory of the neural correlates of consciousness \u2014 missing",
+    "url": "https://en.wikipedia.org/wiki/Neural_correlates_of_consciousness",
+    "source": "seed",
+    "category": "mind",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-dream-decode",
+    "title": "Reliable decoding of dream content from brain activity \u2014 not yet possible",
+    "url": "https://en.wikipedia.org/wiki/Dream",
+    "source": "seed",
+    "category": "mind",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-depression-biomarker",
+    "title": "Mechanistic biomarkers that subtype depression \u2014 missing",
+    "url": "https://en.wikipedia.org/wiki/Biomarker_(medicine)",
+    "source": "seed",
+    "category": "mind",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-anesthesia-mech",
+    "title": "Full mechanism of how anesthesia removes and restores consciousness \u2014 unknown",
+    "url": "https://en.wikipedia.org/wiki/General_anaesthesia",
+    "source": "seed",
+    "category": "mind",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-engram-code",
+    "title": "The code by which memories are stored (engram format) \u2014 unknown",
+    "url": "https://en.wikipedia.org/wiki/Engram_(neuropsychology)",
+    "source": "seed",
+    "category": "mind",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-therapy-predict",
+    "title": "Predicting which therapy will work for whom, before treatment \u2014 missing",
+    "url": "https://en.wikipedia.org/wiki/Precision_psychiatry",
+    "source": "seed",
+    "category": "mind",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-ambient-sc",
+    "title": "Superconductor at room temperature and ambient pressure \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Room-temperature_superconductor",
+    "source": "seed",
+    "category": "chemistry",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-n2-catalyst",
+    "title": "Ambient-condition nitrogen fixation catalyst better than Haber\u2013Bosch \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Haber_process",
+    "source": "seed",
+    "category": "chemistry",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-folding-energy",
+    "title": "Exact folding free energies for arbitrary proteins in solvent \u2014 unsolved",
+    "url": "https://arxiv.org/abs/2405.08681",
+    "source": "arxiv",
+    "category": "chemistry",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-co2-fuel",
+    "title": "Closed-cycle industrial CO2-to-fuel photosynthesis at scale \u2014 unbuilt",
+    "url": "https://en.wikipedia.org/wiki/Artificial_photosynthesis",
+    "source": "seed",
+    "category": "chemistry",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-post-lithium",
+    "title": "The post-lithium grid-scale battery chemistry \u2014 not yet settled",
+    "url": "https://en.wikipedia.org/wiki/Sodium-ion_battery",
+    "source": "seed",
+    "category": "chemistry",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-retro-always",
+    "title": "Retrosynthesis planning that reliably works in the lab \u2014 not yet achieved",
+    "url": "https://en.wikipedia.org/wiki/Retrosynthetic_analysis",
+    "source": "seed",
+    "category": "chemistry",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-recession-model",
+    "title": "A reliable recession-prediction model \u2014 no leading indicator set works yet",
+    "url": "https://en.wikipedia.org/wiki/Recession",
+    "source": "seed",
+    "category": "economics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-housing-fix",
+    "title": "A working fix for megacity housing affordability \u2014 unsolved",
+    "url": "https://en.wikipedia.org/wiki/Housing_shortage",
+    "source": "seed",
+    "category": "economics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-beyond-gdp",
+    "title": "An adopted well-being measure to replace GDP \u2014 not yet agreed",
+    "url": "https://en.wikipedia.org/wiki/Gross_national_happiness",
+    "source": "seed",
+    "category": "economics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-carbon-price",
+    "title": "A stable global carbon pricing mechanism \u2014 undesigned",
+    "url": "https://en.wikipedia.org/wiki/Carbon_price",
+    "source": "seed",
+    "category": "economics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-ai-transition-model",
+    "title": "An economic model of the AI productivity transition \u2014 missing",
+    "url": "https://en.wikipedia.org/wiki/Productivity_paradox",
+    "source": "seed",
+    "category": "economics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-poverty-scale",
+    "title": "What sustains poverty-graduation programs at national scale \u2014 unknown",
+    "url": "https://en.wikipedia.org/wiki/Graduation_approach",
+    "source": "seed",
+    "category": "economics",
+    "status": "undiscovered"
+  },
+  {
     "id": "deb-quantum-gravity",
     "title": "Can unified general relativity + quantum theory ever be falsified? (HN debate)",
     "url": "https://news.ycombinator.com/item?id=44671180",
@@ -680,22 +1272,6 @@
     "status": "debated"
   },
   {
-    "id": "deb-ai-guessing",
-    "title": "What if generative AI makes authenticity debates permanently undecidable? (HN debate)",
-    "url": "https://news.ycombinator.com/item?id=44671180",
-    "source": "hackernews",
-    "category": "art",
-    "status": "debated"
-  },
-  {
-    "id": "deb-mech-interp-open",
-    "title": "What are the priority open problems in mechanistic interpretability? (arXiv 2025)",
-    "url": "https://arxiv.org/abs/2501.16496",
-    "source": "arxiv",
-    "category": "vectors",
-    "status": "debated"
-  },
-  {
     "id": "deb-curse-dim",
     "title": "Do nearest-neighbor metrics become meaningless in high dims? (arXiv distance concentration)",
     "url": "https://arxiv.org/abs/2401.00422",
@@ -717,6 +1293,190 @@
     "url": "https://arxiv.org/list/cs.CL/recent",
     "source": "arxiv",
     "category": "vectors",
+    "status": "debated"
+  },
+  {
+    "id": "deb-ai-writing-code",
+    "title": "Will AI ever produce reliable maintainable software without humans? (r/AskProgrammers debate)",
+    "url": "https://www.reddit.com/r/AskProgrammers/comments/1ltqj1b/what_are_the_biggest_unsolved_software_engineering_issues/",
+    "source": "reddit",
+    "category": "software",
+    "status": "debated"
+  },
+  {
+    "id": "deb-hubble-tension",
+    "title": "Hubble tension: real physics or measurement systematics?",
+    "url": "https://en.wikipedia.org/wiki/Hubble_tension",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "debated"
+  },
+  {
+    "id": "deb-mars-colony",
+    "title": "Should humans colonize Mars \u2014 feasibility and ethics still hotly debated",
+    "url": "https://news.ycombinator.com/item?id=39361839",
+    "source": "hackernews",
+    "category": "space",
+    "status": "debated"
+  },
+  {
+    "id": "deb-frb-magnetars",
+    "title": "Are all fast radio bursts explained by magnetars?",
+    "url": "https://en.wikipedia.org/wiki/Fast_radio_burst",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "debated"
+  },
+  {
+    "id": "deb-europa-cost",
+    "title": "Is a Europa lander worth the cost versus an orbiter?",
+    "url": "https://europa.nasa.gov/",
+    "source": "web",
+    "category": "space",
+    "status": "debated"
+  },
+  {
+    "id": "deb-starship-refuel",
+    "title": "How many tanker flights does Starship orbital refueling need?",
+    "url": "https://news.ycombinator.com/item?id=38779791",
+    "source": "hackernews",
+    "category": "space",
+    "status": "debated"
+  },
+  {
+    "id": "deb-therapy-factors",
+    "title": "Does psychotherapy work via specific techniques or common factors?",
+    "url": "https://en.wikipedia.org/wiki/Common_factors_theory",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "debated"
+  },
+  {
+    "id": "deb-replication",
+    "title": "Replication crisis: how much of psychology actually holds up?",
+    "url": "https://en.wikipedia.org/wiki/Replication_crisis",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "debated"
+  },
+  {
+    "id": "deb-iq-heritable",
+    "title": "IQ heritability vs environment \u2014 polygenic score debates continue",
+    "url": "https://en.wikipedia.org/wiki/Heritability_of_IQ",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "debated"
+  },
+  {
+    "id": "deb-socialmedia-mh",
+    "title": "Social media and adolescent mental health \u2014 causation still contested",
+    "url": "https://news.ycombinator.com/item?id=36188486",
+    "source": "hackernews",
+    "category": "mind",
+    "status": "debated"
+  },
+  {
+    "id": "deb-freewill",
+    "title": "Do humans have free will \u2014 compatibilism vs incompatibilism, unresolved",
+    "url": "https://en.wikipedia.org/wiki/Free_will",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "debated"
+  },
+  {
+    "id": "deb-water-liquids",
+    "title": "Does supercooled water have a liquid\u2013liquid transition? Two-liquids hypothesis",
+    "url": "https://en.wikipedia.org/wiki/Properties_of_water",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "debated"
+  },
+  {
+    "id": "deb-ml-potentials",
+    "title": "Can machine-learned potentials replace ab initio chemistry?",
+    "url": "https://arxiv.org/abs/2205.00903",
+    "source": "arxiv",
+    "category": "chemistry",
+    "status": "debated"
+  },
+  {
+    "id": "deb-htsc-mechanism",
+    "title": "High-temperature superconductivity mechanism \u2014 still no consensus",
+    "url": "https://en.wikipedia.org/wiki/High-temperature_superconductivity",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "debated"
+  },
+  {
+    "id": "deb-island-stability",
+    "title": "How far does the island of stability extend \u2014 how many elements exist?",
+    "url": "https://en.wikipedia.org/wiki/Island_of_stability",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "debated"
+  },
+  {
+    "id": "deb-plastic-recycling",
+    "title": "Chemical vs mechanical plastic recycling \u2014 which actually scales?",
+    "url": "https://en.wikipedia.org/wiki/Plastic_recycling",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "debated"
+  },
+  {
+    "id": "deb-homochirality",
+    "title": "Origin of homochirality on Earth \u2014 multiple competing hypotheses",
+    "url": "https://en.wikipedia.org/wiki/Homochirality",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "debated"
+  },
+  {
+    "id": "deb-minimum-wage",
+    "title": "Does the minimum wage reduce employment? Studies still conflict",
+    "url": "https://en.wikipedia.org/wiki/Minimum_wage",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "debated"
+  },
+  {
+    "id": "deb-mmt",
+    "title": "Modern Monetary Theory vs orthodox fiscal policy \u2014 unresolved",
+    "url": "https://en.wikipedia.org/wiki/Modern_monetary_theory",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "debated"
+  },
+  {
+    "id": "deb-ubi-scale",
+    "title": "Basic income pilots look good \u2014 does it scale nationally?",
+    "url": "https://en.wikipedia.org/wiki/Universal_basic_income",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "debated"
+  },
+  {
+    "id": "deb-2021-inflation",
+    "title": "2021\u20132023 inflation: supply shock, demand stimulus, or profit margins?",
+    "url": "https://news.ycombinator.com/item?id=35142755",
+    "source": "hackernews",
+    "category": "economics",
+    "status": "debated"
+  },
+  {
+    "id": "deb-ai-jobs",
+    "title": "Does AI automation polarize jobs or create new ones?",
+    "url": "https://en.wikipedia.org/wiki/Technological_unemployment",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "debated"
+  },
+  {
+    "id": "deb-rent-control",
+    "title": "Rent control: economists split on magnitude of supply effects",
+    "url": "https://en.wikipedia.org/wiki/Rent_regulation",
+    "source": "wikipedia",
+    "category": "economics",
     "status": "debated"
   }
 ]

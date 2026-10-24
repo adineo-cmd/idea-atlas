@@ -56,6 +56,30 @@
     "status": "known"
   },
   {
+    "id": "known-internet",
+    "title": "TCP/IP networking and packet routing \u2014 solved infrastructure",
+    "url": "https://en.wikipedia.org/wiki/Internet_protocol_suite",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known"
+  },
+  {
+    "id": "known-encryption-rsa",
+    "title": "RSA public-key cryptography \u2014 solved security protocol",
+    "url": "https://en.wikipedia.org/wiki/RSA_(cryptosystem)",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known"
+  },
+  {
+    "id": "known-web-browser",
+    "title": "Web browsers and HTML rendering engines \u2014 solved platform",
+    "url": "https://en.wikipedia.org/wiki/Web_browser",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known"
+  },
+  {
     "id": "front-formal-verify",
     "title": "Fully automatic formal verification for general-purpose software \u2014 undiscovered",
     "url": "https://en.wikipedia.org/wiki/Formal_verification",
@@ -96,6 +120,14 @@
     "status": "undiscovered"
   },
   {
+    "id": "front-observability-complete",
+    "title": "Complete root-cause analysis in distributed systems with zero human time \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Observability_(software)",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "undiscovered"
+  },
+  {
     "id": "deb-dist-systems",
     "title": "Has distributed systems programming actually stalled for a decade? (HN debate)",
     "url": "https://news.ycombinator.com/item?id=43195702",
@@ -123,6 +155,14 @@
     "id": "deb-microservices",
     "title": "Microservices vs monoliths \u2014 where did it all go wrong? (r/lobsters discussion)",
     "url": "https://lobste.rs/s/8gqidu/distributed_systems_programming_has_stalled",
+    "source": "reddit",
+    "category": "software",
+    "status": "debated"
+  },
+  {
+    "id": "deb-ai-writing-code",
+    "title": "Will AI ever produce reliable maintainable software without humans? (r/AskProgrammers debate)",
+    "url": "https://www.reddit.com/r/AskProgrammers/comments/1ltqj1b/what_are_the_biggest_unsolved_software_engineering_issues/",
     "source": "reddit",
     "category": "software",
     "status": "debated"

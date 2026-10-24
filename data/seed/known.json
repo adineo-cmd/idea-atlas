@@ -1,7 +1,7 @@
 [
   {
     "id": "known-newton-2",
-    "title": "Newton's second law F=ma \u2014 solved physics, need not rebuild",
+    "title": "Newton's second law F=ma — solved physics, need not rebuild",
     "url": "https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion",
     "source": "wikipedia",
     "category": "physics",
@@ -9,7 +9,7 @@
   },
   {
     "id": "known-thermo",
-    "title": "Laws of thermodynamics \u2014 settled framework",
+    "title": "Laws of thermodynamics — settled framework",
     "url": "https://en.wikipedia.org/wiki/Laws_of_thermodynamics",
     "source": "wikipedia",
     "category": "physics",
@@ -17,7 +17,7 @@
   },
   {
     "id": "known-maxwell",
-    "title": "Maxwell's equations of electromagnetism \u2014 complete classical theory",
+    "title": "Maxwell's equations of electromagnetism — complete classical theory",
     "url": "https://en.wikipedia.org/wiki/Maxwell%27s_equations",
     "source": "wikipedia",
     "category": "physics",
@@ -25,7 +25,7 @@
   },
   {
     "id": "known-gr",
-    "title": "General relativity \u2014 confirmed gravitational theory",
+    "title": "General relativity — confirmed gravitational theory",
     "url": "https://en.wikipedia.org/wiki/General_relativity",
     "source": "wikipedia",
     "category": "physics",
@@ -33,7 +33,7 @@
   },
   {
     "id": "known-periodic-table",
-    "title": "Periodic table of elements \u2014 catalogued",
+    "title": "Periodic table of elements — catalogued",
     "url": "https://en.wikipedia.org/wiki/Periodic_table",
     "source": "wikipedia",
     "category": "physics",
@@ -41,7 +41,7 @@
   },
   {
     "id": "known-atomic-nucleus",
-    "title": "Nuclear fission energy release \u2014 understood physics",
+    "title": "Nuclear fission energy release — understood physics",
     "url": "https://en.wikipedia.org/wiki/Nuclear_fission",
     "source": "wikipedia",
     "category": "physics",
@@ -49,7 +49,7 @@
   },
   {
     "id": "known-todo",
-    "title": "Todo list app (CRUD + reminders) \u2014 solved, dozens of better versions exist",
+    "title": "Todo list app (CRUD + reminders) — solved, dozens of better versions exist",
     "url": "https://en.wikipedia.org/wiki/Getting_Things_Done",
     "source": "seed",
     "category": "software",
@@ -57,7 +57,7 @@
   },
   {
     "id": "known-git",
-    "title": "Git distributed version control \u2014 mature, don't reimplement",
+    "title": "Git distributed version control — mature, don't reimplement",
     "url": "https://en.wikipedia.org/wiki/Git",
     "source": "wikipedia",
     "category": "software",
@@ -65,7 +65,7 @@
   },
   {
     "id": "known-oauth",
-    "title": "OAuth 2.0 delegated auth \u2014 solved protocol",
+    "title": "OAuth 2.0 delegated auth — solved protocol",
     "url": "https://en.wikipedia.org/wiki/OAuth",
     "source": "wikipedia",
     "category": "software",
@@ -73,7 +73,7 @@
   },
   {
     "id": "known-password-hash",
-    "title": "Password hashing (bcrypt/argon2/scrypt) \u2014 solved problem",
+    "title": "Password hashing (bcrypt/argon2/scrypt) — solved problem",
     "url": "https://en.wikipedia.org/wiki/Bcrypt",
     "source": "wikipedia",
     "category": "software",
@@ -81,7 +81,7 @@
   },
   {
     "id": "known-crud-admin",
-    "title": "CRUD admin panels (Django admin, Rails, Retool-style) \u2014 commoditized",
+    "title": "CRUD admin panels (Django admin, Rails, Retool-style) — commoditized",
     "url": "https://en.wikipedia.org/wiki/Create,_read,_update_and_delete",
     "source": "wikipedia",
     "category": "software",
@@ -89,7 +89,7 @@
   },
   {
     "id": "known-chat-app",
-    "title": "Chat/messaging apps \u2014 massively oversupplied space",
+    "title": "Chat/messaging apps — massively oversupplied space",
     "url": "https://en.wikipedia.org/wiki/Comparison_of_cross-platform_instant_messaging_clients",
     "source": "wikipedia",
     "category": "software",
@@ -97,7 +97,7 @@
   },
   {
     "id": "known-markdown",
-    "title": "Markdown editors and renderers \u2014 solved, excellent options exist",
+    "title": "Markdown editors and renderers — solved, excellent options exist",
     "url": "https://en.wikipedia.org/wiki/Markdown",
     "source": "wikipedia",
     "category": "software",
@@ -105,7 +105,7 @@
   },
   {
     "id": "known-pythagoras",
-    "title": "Pythagorean theorem a\u00b2+b\u00b2=c\u00b2 \u2014 proven 2000+ years ago",
+    "title": "Pythagorean theorem a²+b²=c² — proven 2000+ years ago",
     "url": "https://en.wikipedia.org/wiki/Pythagorean_theorem",
     "source": "wikipedia",
     "category": "math",
@@ -113,7 +113,7 @@
   },
   {
     "id": "known-euler-identity",
-    "title": "Euler's identity e^(i\u03c0)+1=0 \u2014 classical result",
+    "title": "Euler's identity e^(iπ)+1=0 — classical result",
     "url": "https://en.wikipedia.org/wiki/Euler%27s_identity",
     "source": "wikipedia",
     "category": "math",
@@ -121,7 +121,7 @@
   },
   {
     "id": "known-calculus",
-    "title": "Differential and integral calculus (Newton/Leibniz) \u2014 cornerstone",
+    "title": "Differential and integral calculus (Newton/Leibniz) — cornerstone",
     "url": "https://en.wikipedia.org/wiki/Calculus",
     "source": "wikipedia",
     "category": "math",
@@ -129,7 +129,7 @@
   },
   {
     "id": "known-clt",
-    "title": "Central limit theorem \u2014 proven statistics bedrock",
+    "title": "Central limit theorem — proven statistics bedrock",
     "url": "https://en.wikipedia.org/wiki/Central_limit_theorem",
     "source": "wikipedia",
     "category": "math",
@@ -137,7 +137,7 @@
   },
   {
     "id": "known-bayes",
-    "title": "Bayes' theorem \u2014 foundational inference rule",
+    "title": "Bayes' theorem — foundational inference rule",
     "url": "https://en.wikipedia.org/wiki/Bayes%27_theorem",
     "source": "wikipedia",
     "category": "math",
@@ -145,7 +145,7 @@
   },
   {
     "id": "known-fourier",
-    "title": "Fourier transform / FFT \u2014 solved technique",
+    "title": "Fourier transform / FFT — solved technique",
     "url": "https://en.wikipedia.org/wiki/Fast_Fourier_transform",
     "source": "wikipedia",
     "category": "math",
@@ -153,7 +153,7 @@
   },
   {
     "id": "known-dna-helix",
-    "title": "DNA double helix structure \u2014 discovered (Watson/Crick 1953)",
+    "title": "DNA double helix structure — discovered (Watson/Crick 1953)",
     "url": "https://en.wikipedia.org/wiki/DNA",
     "source": "wikipedia",
     "category": "bio",
@@ -161,7 +161,7 @@
   },
   {
     "id": "known-crispr",
-    "title": "CRISPR-Cas9 gene editing \u2014 discovered and engineered",
+    "title": "CRISPR-Cas9 gene editing — discovered and engineered",
     "url": "https://en.wikipedia.org/wiki/CRISPR_gene_editing",
     "source": "wikipedia",
     "category": "bio",
@@ -169,7 +169,7 @@
   },
   {
     "id": "known-germ-theory",
-    "title": "Germ theory of disease \u2014 established",
+    "title": "Germ theory of disease — established",
     "url": "https://en.wikipedia.org/wiki/Germ_theory_of_disease",
     "source": "wikipedia",
     "category": "bio",
@@ -177,7 +177,7 @@
   },
   {
     "id": "known-mendel",
-    "title": "Mendel's laws of inheritance \u2014 discovered genetics foundations",
+    "title": "Mendel's laws of inheritance — discovered genetics foundations",
     "url": "https://en.wikipedia.org/wiki/Mendelian_inheritance",
     "source": "wikipedia",
     "category": "bio",
@@ -185,7 +185,7 @@
   },
   {
     "id": "known-mrna-vaccines",
-    "title": "mRNA vaccine platform \u2014 discovered and deployed",
+    "title": "mRNA vaccine platform — discovered and deployed",
     "url": "https://en.wikipedia.org/wiki/MRNA_vaccine",
     "source": "wikipedia",
     "category": "bio",
@@ -193,7 +193,7 @@
   },
   {
     "id": "known-cell-division",
-    "title": "Mitosis and the cell cycle \u2014 mapped process",
+    "title": "Mitosis and the cell cycle — mapped process",
     "url": "https://en.wikipedia.org/wiki/Mitosis",
     "source": "wikipedia",
     "category": "bio",
@@ -201,7 +201,7 @@
   },
   {
     "id": "known-mona-lisa",
-    "title": "Mona Lisa by Leonardo da Vinci \u2014 existing masterpiece, no need for another",
+    "title": "Mona Lisa by Leonardo da Vinci — existing masterpiece, no need for another",
     "url": "https://en.wikipedia.org/wiki/Mona_Lisa",
     "source": "wikipedia",
     "category": "art",
@@ -209,7 +209,7 @@
   },
   {
     "id": "known-linear-perspective",
-    "title": "Linear perspective technique \u2014 codified (Brunelleschi/Alberti)",
+    "title": "Linear perspective technique — codified (Brunelleschi/Alberti)",
     "url": "https://en.wikipedia.org/wiki/Perspective_(graphical)",
     "source": "wikipedia",
     "category": "art",
@@ -217,7 +217,7 @@
   },
   {
     "id": "known-oil-painting",
-    "title": "Oil painting technique (Van Eyck era) \u2014 mature craft",
+    "title": "Oil painting technique (Van Eyck era) — mature craft",
     "url": "https://en.wikipedia.org/wiki/Oil_painting",
     "source": "wikipedia",
     "category": "art",
@@ -225,7 +225,7 @@
   },
   {
     "id": "known-chiaroscuro",
-    "title": "Chiaroscuro / formal composition grammar \u2014 established canon",
+    "title": "Chiaroscuro / formal composition grammar — established canon",
     "url": "https://en.wikipedia.org/wiki/Chiaroscuro",
     "source": "wikipedia",
     "category": "art",
@@ -233,7 +233,7 @@
   },
   {
     "id": "known-photography",
-    "title": "Photography (daguerreotype to digital) \u2014 mature medium",
+    "title": "Photography (daguerreotype to digital) — mature medium",
     "url": "https://en.wikipedia.org/wiki/Photography",
     "source": "wikipedia",
     "category": "art",
@@ -241,7 +241,7 @@
   },
   {
     "id": "known-cosine-sim",
-    "title": "Cosine similarity for vector comparison \u2014 settled baseline",
+    "title": "Cosine similarity for vector comparison — settled baseline",
     "url": "https://en.wikipedia.org/wiki/Cosine_similarity",
     "source": "wikipedia",
     "category": "vectors",
@@ -249,7 +249,7 @@
   },
   {
     "id": "known-word2vec",
-    "title": "Word2Vec embeddings \u2014 discovered representation technique",
+    "title": "Word2Vec embeddings — discovered representation technique",
     "url": "https://en.wikipedia.org/wiki/Word2vec",
     "source": "wikipedia",
     "category": "vectors",
@@ -257,7 +257,7 @@
   },
   {
     "id": "known-pca",
-    "title": "PCA dimensionality reduction \u2014 solved technique",
+    "title": "PCA dimensionality reduction — solved technique",
     "url": "https://en.wikipedia.org/wiki/Principal_component_analysis",
     "source": "wikipedia",
     "category": "vectors",
@@ -265,7 +265,7 @@
   },
   {
     "id": "known-hnsw",
-    "title": "HNSW / vector ANN search \u2014 solved indexing problem",
+    "title": "HNSW / vector ANN search — solved indexing problem",
     "url": "https://en.wikipedia.org/wiki/Nearest_neighbor_search",
     "source": "wikipedia",
     "category": "vectors",
@@ -273,7 +273,7 @@
   },
   {
     "id": "known-vector-db",
-    "title": "Vector databases (FAISS/Chroma-style) \u2014 crowded space",
+    "title": "Vector databases (FAISS/Chroma-style) — crowded space",
     "url": "https://en.wikipedia.org/wiki/Vector_database",
     "source": "wikipedia",
     "category": "vectors",
@@ -281,7 +281,7 @@
   },
   {
     "id": "known-electricity",
-    "title": "Electromagnetic induction and electricity generation (Faraday/Maxwell) \u2014 solved science",
+    "title": "Electromagnetic induction and electricity generation (Faraday/Maxwell) — solved science",
     "url": "https://en.wikipedia.org/wiki/Electromagnetic_induction",
     "source": "wikipedia",
     "category": "physics",
@@ -289,7 +289,7 @@
   },
   {
     "id": "known-transistor",
-    "title": "Transistor invention and semiconductor physics \u2014 solved technology",
+    "title": "Transistor invention and semiconductor physics — solved technology",
     "url": "https://en.wikipedia.org/wiki/Transistor",
     "source": "wikipedia",
     "category": "physics",
@@ -297,7 +297,7 @@
   },
   {
     "id": "known-internet",
-    "title": "TCP/IP networking and packet routing \u2014 solved infrastructure",
+    "title": "TCP/IP networking and packet routing — solved infrastructure",
     "url": "https://en.wikipedia.org/wiki/Internet_protocol_suite",
     "source": "wikipedia",
     "category": "software",
@@ -305,7 +305,7 @@
   },
   {
     "id": "known-relativity",
-    "title": "Special relativity (Einstein 1905) \u2014 solved framework",
+    "title": "Special relativity (Einstein 1905) — solved framework",
     "url": "https://en.wikipedia.org/wiki/Special_relativity",
     "source": "wikipedia",
     "category": "physics",
@@ -313,7 +313,7 @@
   },
   {
     "id": "known-antibiotics",
-    "title": "Penicillin antibiotic discovery (Fleming) \u2014 solved medicine",
+    "title": "Penicillin antibiotic discovery (Fleming) — solved medicine",
     "url": "https://en.wikipedia.org/wiki/Penicillin",
     "source": "wikipedia",
     "category": "bio",
@@ -321,7 +321,7 @@
   },
   {
     "id": "known-vaccine-smallpox",
-    "title": "Smallpox vaccine (Jenner) \u2014 eradicated disease through solved immunology",
+    "title": "Smallpox vaccine (Jenner) — eradicated disease through solved immunology",
     "url": "https://en.wikipedia.org/wiki/Smallpox_vaccine",
     "source": "wikipedia",
     "category": "bio",
@@ -329,7 +329,7 @@
   },
   {
     "id": "known-calculus-newton",
-    "title": "Newton-Leibniz calculus \u2014 solved mathematical framework",
+    "title": "Newton-Leibniz calculus — solved mathematical framework",
     "url": "https://en.wikipedia.org/wiki/Calculus",
     "source": "wikipedia",
     "category": "math",
@@ -337,7 +337,7 @@
   },
   {
     "id": "known-number-theory",
-    "title": "Fundamental theorem of arithmetic (unique factorization) \u2014 solved",
+    "title": "Fundamental theorem of arithmetic (unique factorization) — solved",
     "url": "https://en.wikipedia.org/wiki/Fundamental_theorem_of_arithmetic",
     "source": "wikipedia",
     "category": "math",
@@ -345,7 +345,7 @@
   },
   {
     "id": "known-impressionism",
-    "title": "Impressionism painting technique (Monet era) \u2014 mature art movement",
+    "title": "Impressionism painting technique (Monet era) — mature art movement",
     "url": "https://en.wikipedia.org/wiki/Impressionism",
     "source": "wikipedia",
     "category": "art",
@@ -353,7 +353,7 @@
   },
   {
     "id": "known-film",
-    "title": "Motion picture / cinema technology \u2014 solved medium",
+    "title": "Motion picture / cinema technology — solved medium",
     "url": "https://en.wikipedia.org/wiki/Motion_picture",
     "source": "wikipedia",
     "category": "art",
@@ -361,7 +361,7 @@
   },
   {
     "id": "known-fft",
-    "title": "Fast Fourier Transform algorithm \u2014 solved computation",
+    "title": "Fast Fourier Transform algorithm — solved computation",
     "url": "https://en.wikipedia.org/wiki/Fast_Fourier_transform",
     "source": "wikipedia",
     "category": "vectors",
@@ -369,7 +369,7 @@
   },
   {
     "id": "known-svd",
-    "title": "Singular value decomposition \u2014 solved linear algebra tool",
+    "title": "Singular value decomposition — solved linear algebra tool",
     "url": "https://en.wikipedia.org/wiki/Singular_value_decomposition",
     "source": "wikipedia",
     "category": "vectors",
@@ -377,7 +377,7 @@
   },
   {
     "id": "known-tf-idf",
-    "title": "TF-IDF information retrieval scoring \u2014 solved baseline",
+    "title": "TF-IDF information retrieval scoring — solved baseline",
     "url": "https://en.wikipedia.org/wiki/Tf%E2%80%93idf",
     "source": "wikipedia",
     "category": "vectors",
@@ -385,7 +385,7 @@
   },
   {
     "id": "known-graph-theory",
-    "title": "Graph theory foundations (Euler, K\u0151nig) \u2014 solved mathematical domain",
+    "title": "Graph theory foundations (Euler, Kőnig) — solved mathematical domain",
     "url": "https://en.wikipedia.org/wiki/Graph_theory",
     "source": "wikipedia",
     "category": "math",
@@ -393,7 +393,7 @@
   },
   {
     "id": "known-cell-theory",
-    "title": "Cell theory (Schwann, Virchow) \u2014 solved biology framework",
+    "title": "Cell theory (Schwann, Virchow) — solved biology framework",
     "url": "https://en.wikipedia.org/wiki/Cell_theory",
     "source": "wikipedia",
     "category": "bio",
@@ -401,7 +401,7 @@
   },
   {
     "id": "known-radiography",
-    "title": "X-ray radiography (R\u00f6ntgen) \u2014 solved imaging physics",
+    "title": "X-ray radiography (Röntgen) — solved imaging physics",
     "url": "https://en.wikipedia.org/wiki/X-ray",
     "source": "wikipedia",
     "category": "physics",
@@ -409,7 +409,7 @@
   },
   {
     "id": "known-printing-press",
-    "title": "Movable-type printing press (Gutenberg) \u2014 solved dissemination",
+    "title": "Movable-type printing press (Gutenberg) — solved dissemination",
     "url": "https://en.wikipedia.org/wiki/Printing_press",
     "source": "wikipedia",
     "category": "art",
@@ -417,7 +417,7 @@
   },
   {
     "id": "known-digital-camera",
-    "title": "Digital image sensors and cameras \u2014 solved medium",
+    "title": "Digital image sensors and cameras — solved medium",
     "url": "https://en.wikipedia.org/wiki/Digital_camera",
     "source": "wikipedia",
     "category": "art",
@@ -425,7 +425,7 @@
   },
   {
     "id": "known-encryption-rsa",
-    "title": "RSA public-key cryptography \u2014 solved security protocol",
+    "title": "RSA public-key cryptography — solved security protocol",
     "url": "https://en.wikipedia.org/wiki/RSA_(cryptosystem)",
     "source": "wikipedia",
     "category": "software",
@@ -433,10 +433,202 @@
   },
   {
     "id": "known-web-browser",
-    "title": "Web browsers and HTML rendering engines \u2014 solved platform",
+    "title": "Web browsers and HTML rendering engines — solved platform",
     "url": "https://en.wikipedia.org/wiki/Web_browser",
     "source": "wikipedia",
     "category": "software",
+    "status": "known"
+  },
+  {
+    "id": "known-kepler",
+    "title": "Kepler's laws of planetary motion — orbital mechanics solved",
+    "url": "https://en.wikipedia.org/wiki/Kepler%27s_laws_of_planetary_motion",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known"
+  },
+  {
+    "id": "known-cmb",
+    "title": "Cosmic microwave background is the afterglow of the early universe — measured to high precision",
+    "url": "https://en.wikipedia.org/wiki/Cosmic_microwave_background",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known"
+  },
+  {
+    "id": "known-hubble-law",
+    "title": "Hubble–Lemaître law: galaxies recede at speeds proportional to distance — established",
+    "url": "https://en.wikipedia.org/wiki/Hubble%E2%80%93Lema%C3%AEtre_law",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known"
+  },
+  {
+    "id": "known-nucleosynthesis",
+    "title": "Stars shine by fusing hydrogen into helium — stellar nucleosynthesis basics solved",
+    "url": "https://en.wikipedia.org/wiki/Stellar_nucleosynthesis",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known"
+  },
+  {
+    "id": "known-lightdelay",
+    "title": "Looking far away is looking back in time — finite speed of light, solved fact",
+    "url": "https://en.wikipedia.org/wiki/Light-year",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known"
+  },
+  {
+    "id": "known-tides",
+    "title": "Tides are driven mainly by lunar and solar gravity — solved",
+    "url": "https://en.wikipedia.org/wiki/Tide",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known"
+  },
+  {
+    "id": "known-spacing",
+    "title": "Spaced repetition beats cramming — one of the most replicated results in learning science",
+    "url": "https://en.wikipedia.org/wiki/Spacing_effect",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known"
+  },
+  {
+    "id": "known-wm-limit",
+    "title": "Working memory holds only ~4 chunks at once (Miller/Cowan) — established",
+    "url": "https://en.wikipedia.org/wiki/Working_memory",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known"
+  },
+  {
+    "id": "known-sleep-memory",
+    "title": "Sleep consolidates memory — robustly established",
+    "url": "https://en.wikipedia.org/wiki/Sleep_and_memory",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known"
+  },
+  {
+    "id": "known-conditioning",
+    "title": "Classical conditioning exists (Pavlov) — solved basics of associative learning",
+    "url": "https://en.wikipedia.org/wiki/Classical_conditioning",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known"
+  },
+  {
+    "id": "known-illusion",
+    "title": "Visual illusions expose perception as inference — established",
+    "url": "https://en.wikipedia.org/wiki/Optical_illusion",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known"
+  },
+  {
+    "id": "known-placebo-pain",
+    "title": "Placebo measurably reduces reported pain — established effect",
+    "url": "https://en.wikipedia.org/wiki/Placebo",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known"
+  },
+  {
+    "id": "known-periodic",
+    "title": "Periodic law: element properties recur periodically with atomic number — solved",
+    "url": "https://en.wikipedia.org/wiki/Periodic_trends",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known"
+  },
+  {
+    "id": "known-idealgas",
+    "title": "Ideal gas law PV=nRT — solved for dilute gases",
+    "url": "https://en.wikipedia.org/wiki/Ideal_gas_law",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known"
+  },
+  {
+    "id": "known-lechatelier",
+    "title": "Le Chatelier's principle: equilibria shift to oppose changes — established",
+    "url": "https://en.wikipedia.org/wiki/Le_Chatelier%27s_principle",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known"
+  },
+  {
+    "id": "known-orbitals",
+    "title": "Electrons occupy quantized orbitals — quantum chemistry foundations solved",
+    "url": "https://en.wikipedia.org/wiki/Atomic_orbital",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known"
+  },
+  {
+    "id": "known-hess",
+    "title": "Hess's law: reaction enthalpy is path-independent — solved",
+    "url": "https://en.wikipedia.org/wiki/Hess%27s_law",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known"
+  },
+  {
+    "id": "known-neutralization",
+    "title": "Acid–base neutralization stoichiometry — solved",
+    "url": "https://en.wikipedia.org/wiki/Neutralization_(chemistry)",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known"
+  },
+  {
+    "id": "known-supplydemand",
+    "title": "Supply and demand set market prices — foundational law, solved",
+    "url": "https://en.wikipedia.org/wiki/Supply_and_demand",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known"
+  },
+  {
+    "id": "known-comparative",
+    "title": "Comparative advantage: trade can benefit both parties — established",
+    "url": "https://en.wikipedia.org/wiki/Comparative_advantage",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known"
+  },
+  {
+    "id": "known-compound",
+    "title": "Compound interest grows exponentially — solved arithmetic (rule of 72)",
+    "url": "https://en.wikipedia.org/wiki/Compound_interest",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known"
+  },
+  {
+    "id": "known-inflation-erosion",
+    "title": "Inflation erodes fixed nominal returns — established",
+    "url": "https://en.wikipedia.org/wiki/Inflation",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known"
+  },
+  {
+    "id": "known-gini",
+    "title": "Gini coefficient measures inequality — solved metric",
+    "url": "https://en.wikipedia.org/wiki/Gini_coefficient",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known"
+  },
+  {
+    "id": "known-trade-gains",
+    "title": "Tariffs create deadweight loss in standard models — established",
+    "url": "https://en.wikipedia.org/wiki/Deadweight_loss",
+    "source": "wikipedia",
+    "category": "economics",
     "status": "known"
   }
 ]

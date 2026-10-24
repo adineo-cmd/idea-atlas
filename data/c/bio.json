@@ -48,6 +48,30 @@
     "status": "known"
   },
   {
+    "id": "known-antibiotics",
+    "title": "Penicillin antibiotic discovery (Fleming) \u2014 solved medicine",
+    "url": "https://en.wikipedia.org/wiki/Penicillin",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known"
+  },
+  {
+    "id": "known-vaccine-smallpox",
+    "title": "Smallpox vaccine (Jenner) \u2014 eradicated disease through solved immunology",
+    "url": "https://en.wikipedia.org/wiki/Smallpox_vaccine",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known"
+  },
+  {
+    "id": "known-cell-theory",
+    "title": "Cell theory (Schwann, Virchow) \u2014 solved biology framework",
+    "url": "https://en.wikipedia.org/wiki/Cell_theory",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known"
+  },
+  {
     "id": "front-als-cure",
     "title": "Disease-modifying cure for ALS \u2014 undiscovered",
     "url": "https://en.wikipedia.org/wiki/Amyotrophic_lateral_sclerosis",
@@ -83,6 +107,30 @@
     "id": "front-protein-disorder",
     "title": "Predicting structures of intrinsically disordered proteins \u2014 undiscovered",
     "url": "https://en.wikipedia.org/wiki/Intrinsically_disordered_proteins",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-aging-biology",
+    "title": "Fundamental biological mechanism of aging and how to halt it \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Anti-aging",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-protein-fold-all",
+    "title": "Predicting structures of all proteins including disordered \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Protein_folding",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-sleep-purpose",
+    "title": "Complete evolutionary and neural purpose of sleep \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Sleep",
     "source": "wikipedia",
     "category": "bio",
     "status": "undiscovered"

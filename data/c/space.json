@@ -1,0 +1,122 @@
+[
+  {
+    "id": "known-kepler",
+    "title": "Kepler's laws of planetary motion \u2014 orbital mechanics solved",
+    "url": "https://en.wikipedia.org/wiki/Kepler%27s_laws_of_planetary_motion",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known"
+  },
+  {
+    "id": "known-cmb",
+    "title": "Cosmic microwave background is the afterglow of the early universe \u2014 measured to high precision",
+    "url": "https://en.wikipedia.org/wiki/Cosmic_microwave_background",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known"
+  },
+  {
+    "id": "known-hubble-law",
+    "title": "Hubble\u2013Lema\u00eetre law: galaxies recede at speeds proportional to distance \u2014 established",
+    "url": "https://en.wikipedia.org/wiki/Hubble%E2%80%93Lema%C3%AEtre_law",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known"
+  },
+  {
+    "id": "known-nucleosynthesis",
+    "title": "Stars shine by fusing hydrogen into helium \u2014 stellar nucleosynthesis basics solved",
+    "url": "https://en.wikipedia.org/wiki/Stellar_nucleosynthesis",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known"
+  },
+  {
+    "id": "known-lightdelay",
+    "title": "Looking far away is looking back in time \u2014 finite speed of light, solved fact",
+    "url": "https://en.wikipedia.org/wiki/Light-year",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known"
+  },
+  {
+    "id": "known-tides",
+    "title": "Tides are driven mainly by lunar and solar gravity \u2014 solved",
+    "url": "https://en.wikipedia.org/wiki/Tide",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known"
+  },
+  {
+    "id": "front-biosignature",
+    "title": "First confirmed biosignature on an exoplanet \u2014 not yet found",
+    "url": "https://en.wikipedia.org/wiki/Biosignature",
+    "source": "seed",
+    "category": "space",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-planet-nine",
+    "title": "Planet Nine in the outer solar system \u2014 predicted, unconfirmed",
+    "url": "https://en.wikipedia.org/wiki/Planet_Nine",
+    "source": "seed",
+    "category": "space",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-flare-prediction",
+    "title": "Predicting the timing of solar flares \u2014 no working method yet",
+    "url": "https://en.wikipedia.org/wiki/Solar_flare",
+    "source": "seed",
+    "category": "space",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-primordial-gw",
+    "title": "Primordial gravitational-wave background from inflation \u2014 not yet detected",
+    "url": "https://en.wikipedia.org/wiki/Gravitational-wave_background",
+    "source": "seed",
+    "category": "space",
+    "status": "undiscovered"
+  },
+  {
+    "id": "deb-hubble-tension",
+    "title": "Hubble tension: real physics or measurement systematics?",
+    "url": "https://en.wikipedia.org/wiki/Hubble_tension",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "debated"
+  },
+  {
+    "id": "deb-mars-colony",
+    "title": "Should humans colonize Mars \u2014 feasibility and ethics still hotly debated",
+    "url": "https://news.ycombinator.com/item?id=39361839",
+    "source": "hackernews",
+    "category": "space",
+    "status": "debated"
+  },
+  {
+    "id": "deb-frb-magnetars",
+    "title": "Are all fast radio bursts explained by magnetars?",
+    "url": "https://en.wikipedia.org/wiki/Fast_radio_burst",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "debated"
+  },
+  {
+    "id": "deb-europa-cost",
+    "title": "Is a Europa lander worth the cost versus an orbiter?",
+    "url": "https://europa.nasa.gov/",
+    "source": "web",
+    "category": "space",
+    "status": "debated"
+  },
+  {
+    "id": "deb-starship-refuel",
+    "title": "How many tanker flights does Starship orbital refueling need?",
+    "url": "https://news.ycombinator.com/item?id=38779791",
+    "source": "hackernews",
+    "category": "space",
+    "status": "debated"
+  }
+]

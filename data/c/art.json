@@ -40,6 +40,38 @@
     "status": "known"
   },
   {
+    "id": "known-impressionism",
+    "title": "Impressionism painting technique (Monet era) \u2014 mature art movement",
+    "url": "https://en.wikipedia.org/wiki/Impressionism",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known"
+  },
+  {
+    "id": "known-film",
+    "title": "Motion picture / cinema technology \u2014 solved medium",
+    "url": "https://en.wikipedia.org/wiki/Motion_picture",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known"
+  },
+  {
+    "id": "known-printing-press",
+    "title": "Movable-type printing press (Gutenberg) \u2014 solved dissemination",
+    "url": "https://en.wikipedia.org/wiki/Printing_press",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known"
+  },
+  {
+    "id": "known-digital-camera",
+    "title": "Digital image sensors and cameras \u2014 solved medium",
+    "url": "https://en.wikipedia.org/wiki/Digital_camera",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known"
+  },
+  {
     "id": "front-dead-language",
     "title": "Fully deciphered Minoan Linear A script \u2014 undiscovered",
     "url": "https://en.wikipedia.org/wiki/Linear_A",
@@ -100,14 +132,6 @@
     "title": "Newly attributed Michelangelo painting divides experts (The Art Newspaper)",
     "url": "https://www.theartnewspaper.com/2026/03/12/it-has-nothing-to-do-with-michelangeloexpert-wades-in-on-painting-newly-attributed-to-renaissance-master",
     "source": "web",
-    "category": "art",
-    "status": "debated"
-  },
-  {
-    "id": "deb-ai-guessing",
-    "title": "What if generative AI makes authenticity debates permanently undecidable? (HN debate)",
-    "url": "https://news.ycombinator.com/item?id=44671180",
-    "source": "hackernews",
     "category": "art",
     "status": "debated"
   }

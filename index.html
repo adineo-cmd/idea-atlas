@@ -4,62 +4,187 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Idea Atlas — Don't rebuild solved. Build what's new.</title>
+<meta name="description" content="A chart of what's solved, what's debated, and what's genuinely undiscovered — so you build what's new.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..700;1,9..144,400..700&family=Instrument+Sans:ital,wght@0,400..600;1,400&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/style.css">
+<script>
+// Apply saved theme before first paint to avoid a flash.
+(function () {
+  var t = localStorage.getItem("atlas-theme") ||
+    (matchMedia && matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark");
+  document.documentElement.dataset.theme = t;
+})();
+</script>
 </head>
 <body>
-<header class="hero">
-<h1>Idea Atlas</h1>
-<p class="tagline">Don't rebuild solved. Build what's new.</p>
+<header class="masthead">
+  <a class="wordmark" href="index.html"><span class="ast">✦</span>Idea Atlas</a>
+  <nav>
+    <a href="#sheets">Sheets</a>
+    <button id="theme-toggle" type="button" aria-label="Switch light or dark chart">☀</button>
+  </nav>
 </header>
+
+<section class="hero-chart">
+  <svg id="constellation" viewBox="0 0 1000 480" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+    <!-- graticule: faint chart scaffolding -->
+    <g fill="none" stroke="var(--line)" stroke-width="1">
+      <circle cx="880" cy="90" r="180"/>
+      <circle cx="880" cy="90" r="120"/>
+      <path d="M0 400 Q 500 330 1000 400"/>
+      <path d="M0 440 Q 500 380 1000 440"/>
+      <path d="M120 0 L 220 480"/>
+      <path d="M640 0 L 700 480"/>
+    </g>
+    <!-- constellation lines, one per territory -->
+    <g fill="none" stroke="var(--gold-dim)" stroke-width="1">
+      <polyline points="120,120 210,180 300,140 370,210"/>
+      <polyline points="470,300 540,230 610,290"/>
+      <polyline points="700,120 790,170 860,130 930,190"/>
+    </g>
+    <!-- known: filled verdigris diamonds -->
+    <g fill="var(--known)">
+      <rect class="star" x="116" y="116" width="9" height="9" transform="rotate(45 120 120)" style="--star-o:.85"/>
+      <rect class="star" x="206" y="176" width="7" height="7" transform="rotate(45 210 180)" style="--star-o:.6; animation-delay:-1.2s"/>
+      <rect class="star" x="295" y="135" width="10" height="10" transform="rotate(45 300 140)" style="--star-o:.9; animation-delay:-2.6s"/>
+      <rect class="star" x="366" y="206" width="7" height="7" transform="rotate(45 370 210)" style="--star-o:.55; animation-delay:-3.4s"/>
+      <rect class="star" x="80" y="260" width="6" height="6" transform="rotate(45 83 263)" style="--star-o:.45; animation-delay:-.8s"/>
+    </g>
+    <!-- debated: open amber circles -->
+    <g fill="none" stroke="var(--debated)" stroke-width="2">
+      <circle class="star" cx="470" cy="330" r="6" style="--star-o:.4"/>
+      <circle class="star" cx="540" cy="270" r="7" style="--star-o:.3; animation-delay:-1.9s"/>
+      <circle class="star" cx="610" cy="330" r="5" style="--star-o:.28; animation-delay:-3.1s"/>
+      <circle class="star" cx="420" cy="400" r="4" style="--star-o:.35; animation-delay:-2.2s"/>
+    </g>
+    <!-- undiscovered: hollow pale-blue diamonds -->
+    <g fill="none" stroke="var(--frontier)" stroke-width="1.5">
+      <rect class="star" x="696" y="116" width="8" height="8" transform="rotate(45 700 120)" style="--star-o:.8"/>
+      <rect class="star" x="786" y="166" width="7" height="7" transform="rotate(45 790 170)" style="--star-o:.65; animation-delay:-1.5s"/>
+      <rect class="star" x="856" y="126" width="9" height="9" transform="rotate(45 860 130)" style="--star-o:.9; animation-delay:-2.9s"/>
+      <rect class="star" x="926" y="186" width="7" height="7" transform="rotate(45 930 190)" style="--star-o:.6; animation-delay:-.5s"/>
+      <rect class="star" x="750" y="356" width="6" height="6" transform="rotate(45 753 360)" style="--star-o:.4; animation-delay:-3.7s"/>
+    </g>
+  </svg>
+
+  <div class="hero-inner">
+    <h1>Idea Atlas</h1>
+    <p class="tagline">Don’t rebuild solved. Check what is <em>known</em>, what is still <em>debated</em>, and what is genuinely <em>undiscovered</em> — before you spend a year on it.</p>
+
+    <div class="validator">
+      <div class="search-row">
+        <input id="q" type="text" placeholder="Type an idea: todo app, room-temperature superconductor, social scheduler…" autocomplete="off" aria-label="Check an idea against the atlas">
+        <button id="check" class="btn" type="button">Check the chart</button>
+      </div>
+      <p class="hint">Press <kbd>/</kbd> to search · <button id="surprise" class="btn ghost" type="button" style="padding:0 0.3rem;font-size:inherit;">Chart a random frontier</button></p>
+      <p id="verdict" aria-live="polite"></p>
+      <div id="hits"></div>
+    </div>
+  </div>
+</section>
+
+<div class="legend-strip" id="stats" aria-label="Atlas totals">
+  <span class="stat known"><span class="glyph known"></span>Known<b id="st-known">–</b></span>
+  <span class="stat debated"><span class="glyph debated"></span>Debated<b id="st-debated">–</b></span>
+  <span class="stat undiscovered"><span class="glyph undiscovered"></span>Frontier<b id="st-undiscovered">–</b></span>
+  <span class="stat">Charted<b id="st-total">–</b></span>
+</div>
+
 <main>
-<section>
-<h2>Idea Validator</h2>
-<p class="muted">Type an idea. We check it against Known (solved), Debated (live discussion), and Frontier.</p>
-<div class="search-row">
-<input id="q" type="text" placeholder="e.g. todo list app, room-temperature superconductor…" autocomplete="off">
-<button id="check">Check</button>
-</div>
-<p id="verdict" aria-live="polite"></p>
-<div id="hits"></div>
-</section>
-<section>
-<h2>Browse by field</h2>
-<div class="grid">
-<a href="c/physics.html"><div class="icon">⚛️</div><div>Physics</div></a>
-<a href="c/software.html"><div class="icon">💻</div><div>Software</div></a>
-<a href="c/math.html"><div class="icon">📐</div><div>Math</div></a>
-<a href="c/bio.html"><div class="icon">🧬</div><div>Biology</div></a>
-<a href="c/art.html"><div class="icon">🎨</div><div>Arts &amp; Humanities</div></a>
-<a href="c/vectors.html"><div class="icon">🧭</div><div>High-Dim Vectors &amp; Niche</div></a>
-</div>
-</section>
+  <div class="section-head">
+    <h2>Sheets of the atlas</h2>
+    <span class="aside">every field, charted the same way</span>
+  </div>
+  <hr class="rule">
+  <ol class="sheets" id="sheets"><li><p class="empty">Loading sheets…</p></li></ol>
 </main>
+
 <footer>
-<span id="meta">Loading data status…</span>
+  <div class="cols">
+    <span id="meta">Loading data status…</span>
+    <span>Free &amp; static · refreshed by GitHub Actions every 6h · <a href="https://github.com/adineo-cmd/idea-atlas">source</a></span>
+  </div>
 </footer>
+
 <script src="assets/app.js"></script>
 <script>
 (function () {
+  Atlas.initTheme();
   var index = [];
-  var meta = null;
-  Atlas.loadIndex().then(function (d) { index = d || []; });
-  Atlas.loadMeta().then(function (m) {
-    meta = m;
-    var el = document.getElementById("meta");
-    el.innerHTML = m
-      ? "Data " + Atlas.staleBadge(m) + " · " + Atlas.escapeHtml(String(m.count || 0)) + " items"
-      : "Data unavailable (run pipeline to generate data/index.json).";
+  var q = document.getElementById("q");
+  var verdictEl = document.getElementById("verdict");
+  var hitsEl = document.getElementById("hits");
+
+  Atlas.loadIndex().then(function (d) {
+    index = d || [];
+    var c = { known: 0, debated: 0, undiscovered: 0 };
+    index.forEach(function (x) { if (c[x.status] != null) c[x.status]++; });
+    Atlas.countUp(document.getElementById("st-known"), c.known);
+    Atlas.countUp(document.getElementById("st-debated"), c.debated);
+    Atlas.countUp(document.getElementById("st-undiscovered"), c.undiscovered);
+    Atlas.countUp(document.getElementById("st-total"), index.length);
+    Atlas.loadCategories().then(renderSheets);
   });
+
+  function renderSheets(cats) {
+    var byCat = {};
+    index.forEach(function (x) {
+      byCat[x.category] = byCat[x.category] || { known: 0, debated: 0, undiscovered: 0, n: 0 };
+      if (byCat[x.category][x.status] != null) byCat[x.category][x.status]++;
+      byCat[x.category].n++;
+    });
+    var el = document.getElementById("sheets");
+    el.innerHTML = (cats || []).map(function (c, i) {
+      var b = byCat[c.slug] || { known: 0, debated: 0, undiscovered: 0, n: 0 };
+      var pct = function (v) { return b.n ? Math.round((v / b.n) * 100) : 0; };
+      return '<li><a href="c/' + c.slug + '.html">' +
+        '<span class="sheet-no">Sheet ' + String(i + 1).padStart(2, "0") + "</span>" +
+        '<span class="icon">' + c.icon + "</span>" +
+        '<span class="name">' + Atlas.escapeHtml(c.name) + "<small>" + b.known + " known · " + b.debated + " debated · " + b.undiscovered + " frontier</small></span>" +
+        '<span class="tally"><span class="minibar" aria-hidden="true">' +
+          '<i class="k" style="width:' + pct(b.known) + '%"></i>' +
+          '<i class="d" style="width:' + pct(b.debated) + '%"></i>' +
+          '<i class="u" style="width:' + pct(b.undiscovered) + '%"></i>' +
+          '</span><span class="n">' + b.n + "</span></span>" +
+        "</a></li>";
+    }).join("");
+  }
+
   function run() {
-    var q = document.getElementById("q").value;
-    var res = Atlas.validator(q, index);
-    document.getElementById("verdict").textContent = res.verdict;
-    Atlas.renderHits(document.getElementById("hits"), res.hits);
+    var res = Atlas.validator(q.value, index);
+    Atlas.renderVerdict(verdictEl, res);
+    Atlas.renderHits(hitsEl, res);
   }
   document.getElementById("check").addEventListener("click", run);
-  document.getElementById("q").addEventListener("keydown", function (e) {
+  q.addEventListener("input", run);
+  q.addEventListener("keydown", function (e) {
     if (e.key === "Enter") run();
+    if (e.key === "Escape") { q.value = ""; run(); }
   });
+  document.addEventListener("keydown", function (e) {
+    if (e.key === "/" && document.activeElement !== q) { e.preventDefault(); q.focus(); }
+  });
+  document.getElementById("surprise").addEventListener("click", function () {
+    var frontier = index.filter(function (x) { return x.status === "undiscovered"; });
+    if (!frontier.length) return;
+    var pick = frontier[Math.floor(Math.random() * frontier.length)];
+    q.value = pick.title.split(/[—:(]/)[0].trim().split(/\s+/).slice(0, 3).join(" ");
+    run();
+    document.querySelector(".validator").scrollIntoView({ block: "nearest" });
+  });
+
+  Atlas.loadMeta().then(function (m) {
+    var el = document.getElementById("meta");
+    el.innerHTML = m
+      ? Atlas.staleBadge(m) + " · " + Atlas.escapeHtml(String(m.count || 0)) + " items across " + Atlas.escapeHtml(String(m.categories || "?")) + " fields"
+      : "Data unavailable (run pipeline to generate data/index.json).";
+  });
+
+  // Deep link: index.html?q=room-temperature+superconductor
+  var params = new URLSearchParams(location.search);
+  if (params.get("q")) { q.value = params.get("q"); run(); }
 })();
 </script>
 </body>

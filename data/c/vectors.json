@@ -40,6 +40,22 @@
     "status": "known"
   },
   {
+    "id": "known-svd",
+    "title": "Singular value decomposition \u2014 solved linear algebra tool",
+    "url": "https://en.wikipedia.org/wiki/Singular_value_decomposition",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known"
+  },
+  {
+    "id": "known-tf-idf",
+    "title": "TF-IDF information retrieval scoring \u2014 solved baseline",
+    "url": "https://en.wikipedia.org/wiki/Tf%E2%80%93idf",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known"
+  },
+  {
     "id": "front-hdviz",
     "title": "Interpretable high-dimensional vector navigation \u2014 undiscovered",
     "url": "https://arxiv.org/list/cs.LG/recent",
@@ -80,12 +96,12 @@
     "status": "undiscovered"
   },
   {
-    "id": "deb-mech-interp-open",
-    "title": "What are the priority open problems in mechanistic interpretability? (arXiv 2025)",
-    "url": "https://arxiv.org/abs/2501.16496",
-    "source": "arxiv",
+    "id": "front-geometry-unified",
+    "title": "Single geometric framework for all vector spaces \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Inner_product_space",
+    "source": "wikipedia",
     "category": "vectors",
-    "status": "debated"
+    "status": "undiscovered"
   },
   {
     "id": "deb-curse-dim",

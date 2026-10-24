@@ -35,8 +35,15 @@ def fetch_reddit(sub="AskScience", limit=10):
         r.raise_for_status()
         return [to_item("reddit", c["data"]["id"], c["data"]["title"], "https://reddit.com"+c["data"]["permalink"], "bio") for c in r.json()["data"]["children"] if c["data"].get("title")]
     except Exception as e: print(f"reddit skip: {e}"); return []
+def fetch_stackexchange(site="mathoverflow", limit=10):
+    try:
+        r=requests.get(f"https://api.stackexchange.com/2.3/search/advanced?order=desc&sort=activity&site={site}&pagesize={limit}&filter=default&q=open%20problem", headers={"User-Agent":"idea-atlas/1.0"}, timeout=TIMEOUT)
+        r.raise_for_status()
+        cats={"mathoverflow":"math","physics":"physics","stackoverflow":"software","biology":"bio"}
+        return [to_item("stackexchange", str(q["question_id"]), q["title"], q["link"], cats.get(site,"vectors")) for q in r.json().get("items",[]) if q.get("title")]
+    except Exception as e: print(f"stackexchange skip: {e}"); return []
 def fetch_all(out_dir="data/live"):
-    items = dedupe(fetch_hn()+fetch_arxiv()+fetch_reddit())
+    items = dedupe(fetch_hn()+fetch_arxiv()+fetch_reddit()+fetch_stackexchange("mathoverflow")+fetch_stackexchange("physics"))
     pathlib.Path(out_dir).mkdir(parents=True, exist_ok=True)
     pathlib.Path(out_dir,"all.json").write_text(json.dumps(items, indent=2))
     print(f"fetched {len(items)}"); return items

@@ -4,39 +4,127 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Math — Idea Atlas</title>
+<meta name="description" content="Math: what is known, what is debated, and what is genuinely undiscovered.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..700;1,9..144,400..700&family=Instrument+Sans:ital,wght@0,400..600;1,400&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="../assets/style.css">
+<script>
+(function () {
+  var t = localStorage.getItem("atlas-theme") ||
+    (matchMedia && matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark");
+  document.documentElement.dataset.theme = t;
+})();
+</script>
 </head>
 <body>
-<nav class="top"><a href="../index.html">← Idea Atlas</a></nav>
+<header class="masthead">
+  <a class="wordmark" href="../index.html"><span class="ast">✦</span>Idea Atlas</a>
+  <nav>
+    <a href="../index.html#sheets">All sheets</a>
+    <button id="theme-toggle" type="button" aria-label="Switch light or dark chart">☀</button>
+  </nav>
+</header>
+
 <main>
-<h1>📐 Math</h1>
-<p><span id="freshness">Loading data status…</span></p>
-<section class="cat"><h2>Known — don't rebuild</h2><div id="known"><p class="muted">Loading…</p></div></section>
-<section class="cat"><h2>Debated — live discussion</h2><div id="debated"><p class="muted">Loading…</p></div></section>
-<section class="cat"><h2>Undiscovered — frontier</h2><div id="undiscovered"><p class="muted">Loading…</p></div></section>
+  <header class="sheet-head">
+    <div class="sheet-no-big">SHEET 03</div>
+    <h1><span class="icon">📐</span>Math</h1>
+    <p class="sub">Known laws you shouldn’t rebuild, live disputes, and the open frontier of math.</p>
+    <p><span id="freshness" class="muted">Loading data status…</span></p>
+  </header>
+
+  <div class="toolbar">
+    <input id="filter" type="search" placeholder="Filter this sheet…" aria-label="Filter Math entries">
+    <div class="tabs" role="tablist" aria-label="Filter by status">
+      <button role="tab" aria-selected="true" data-status="all">All<span class="ct" id="ct-all">–</span></button>
+      <button role="tab" aria-selected="false" data-status="known">Known<span class="ct" id="ct-known">–</span></button>
+      <button role="tab" aria-selected="false" data-status="debated">Debated<span class="ct" id="ct-debated">–</span></button>
+      <button role="tab" aria-selected="false" data-status="undiscovered">Frontier<span class="ct" id="ct-undiscovered">–</span></button>
+    </div>
+  </div>
+
+  <ol class="ledger" id="entries"><li><p class="empty">Charting the sheet…</p></li></ol>
+
+  <nav class="other-sheets" aria-label="Other sheets">
+    <span class="muted">Other sheets:</span>
+    <a href="physics.html">⚛️ Physics</a>
+    <a href="software.html">💻 Software</a>
+    <a href="bio.html">🧬 Biology</a>
+    <a href="art.html">🎨 Arts & Humanities</a>
+    <a href="vectors.html">🧭 High-Dim Vectors & Niche</a>
+    <a href="space.html">🌌 Astronomy & Space</a>
+    <a href="mind.html">🧠 Mind & Psychology</a>
+    <a href="chemistry.html">⚗️ Chemistry</a>
+    <a href="economics.html">📈 Economics & Society</a>
+  </nav>
 </main>
-<footer><span id="meta"></span></footer>
+
+<footer>
+  <div class="cols">
+    <span id="meta"></span>
+    <span>Free &amp; static · refreshed by GitHub Actions every 6h · <a href="https://github.com/adineo-cmd/idea-atlas">source</a></span>
+  </div>
+</footer>
+
 <script src="../assets/app.js"></script>
 <script>
 (function () {
   var SLUG = "math";
-  function renderList(el, items, emptyMsg) {
-    if (!items.length) { el.innerHTML = '<p class="muted">' + emptyMsg + "</p>"; return; }
-    el.innerHTML = "<ul>" + items.map(function (h) {
-      return '<li><a href="' + Atlas.escapeHtml(h.url || "#") + '">' +
-        Atlas.escapeHtml(h.title) + "</a> " +
-        '<span class="tag">' + Atlas.escapeHtml(h.source || "") + "</span></li>";
-    }).join("") + "</ul>";
-  }
-  Atlas.loadCategory(SLUG).then(function (items) {
-    items = items || [];
-    renderList(document.getElementById("known"), items.filter(function (x) { return x.status === "known"; }), "Nothing marked Known in this field yet.");
-    renderList(document.getElementById("debated"), items.filter(function (x) { return x.status === "debated"; }), "No live debates tracked right now.");
-    renderList(document.getElementById("undiscovered"), items.filter(function (x) { return x.status === "undiscovered"; }), "No frontier items listed yet.");
+  Atlas.initTheme();
+
+  var items = [];
+  var status = "all";
+  var query = "";
+  var entriesEl = document.getElementById("entries");
+  var tabs = Array.prototype.slice.call(document.querySelectorAll('[role="tab"]'));
+
+  Atlas.loadCategory(SLUG).then(function (d) {
+    items = d || [];
+    var c = { known: 0, debated: 0, undiscovered: 0 };
+    items.forEach(function (x) { if (c[x.status] != null) c[x.status]++; });
+    document.getElementById("ct-all").textContent = items.length;
+    document.getElementById("ct-known").textContent = c.known;
+    document.getElementById("ct-debated").textContent = c.debated;
+    document.getElementById("ct-undiscovered").textContent = c.undiscovered;
+    draw();
   });
+
+  function draw() {
+    var q = query.trim().toLowerCase();
+    var shown = items.filter(function (x) {
+      if (status !== "all" && x.status !== status) return false;
+      if (q && !(x.title || "").toLowerCase().includes(q)) return false;
+      return true;
+    });
+    Atlas.renderEntries(entriesEl, shown, query);
+    if (query && shown.length) return;
+    if (query && !shown.length) {
+      entriesEl.innerHTML = '<li><p class="empty">Nothing on this sheet matches “' +
+        Atlas.escapeHtml(query) + '”.</p></li>';
+    }
+  }
+
+  document.getElementById("filter").addEventListener("input", function (e) {
+    query = e.target.value; draw();
+  });
+  tabs.forEach(function (t) {
+    t.addEventListener("click", function () {
+      status = t.dataset.status;
+      tabs.forEach(function (o) { o.setAttribute("aria-selected", String(o === t)); });
+      draw();
+    });
+  });
+  document.addEventListener("keydown", function (e) {
+    var f = document.getElementById("filter");
+    if (e.key === "/" && document.activeElement !== f) { e.preventDefault(); f.focus(); }
+  });
+
   Atlas.loadMeta().then(function (m) {
     document.getElementById("freshness").innerHTML = m ? Atlas.staleBadge(m) : "data missing";
-    if (m) document.getElementById("meta").textContent = "Updated " + m.updated_at + " · " + (m.count || 0) + " items";
+    document.getElementById("meta").textContent = m
+      ? "Updated " + m.updated_at + " · " + (m.count || 0) + " items in the full atlas"
+      : "data unavailable";
   });
 })();
 </script>

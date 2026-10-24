@@ -1,0 +1,146 @@
+[
+  {
+    "id": "known-periodic",
+    "title": "Periodic law: element properties recur periodically with atomic number \u2014 solved",
+    "url": "https://en.wikipedia.org/wiki/Periodic_trends",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known"
+  },
+  {
+    "id": "known-idealgas",
+    "title": "Ideal gas law PV=nRT \u2014 solved for dilute gases",
+    "url": "https://en.wikipedia.org/wiki/Ideal_gas_law",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known"
+  },
+  {
+    "id": "known-lechatelier",
+    "title": "Le Chatelier's principle: equilibria shift to oppose changes \u2014 established",
+    "url": "https://en.wikipedia.org/wiki/Le_Chatelier%27s_principle",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known"
+  },
+  {
+    "id": "known-orbitals",
+    "title": "Electrons occupy quantized orbitals \u2014 quantum chemistry foundations solved",
+    "url": "https://en.wikipedia.org/wiki/Atomic_orbital",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known"
+  },
+  {
+    "id": "known-hess",
+    "title": "Hess's law: reaction enthalpy is path-independent \u2014 solved",
+    "url": "https://en.wikipedia.org/wiki/Hess%27s_law",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known"
+  },
+  {
+    "id": "known-neutralization",
+    "title": "Acid\u2013base neutralization stoichiometry \u2014 solved",
+    "url": "https://en.wikipedia.org/wiki/Neutralization_(chemistry)",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known"
+  },
+  {
+    "id": "front-ambient-sc",
+    "title": "Superconductor at room temperature and ambient pressure \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Room-temperature_superconductor",
+    "source": "seed",
+    "category": "chemistry",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-n2-catalyst",
+    "title": "Ambient-condition nitrogen fixation catalyst better than Haber\u2013Bosch \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Haber_process",
+    "source": "seed",
+    "category": "chemistry",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-folding-energy",
+    "title": "Exact folding free energies for arbitrary proteins in solvent \u2014 unsolved",
+    "url": "https://arxiv.org/abs/2405.08681",
+    "source": "arxiv",
+    "category": "chemistry",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-co2-fuel",
+    "title": "Closed-cycle industrial CO2-to-fuel photosynthesis at scale \u2014 unbuilt",
+    "url": "https://en.wikipedia.org/wiki/Artificial_photosynthesis",
+    "source": "seed",
+    "category": "chemistry",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-post-lithium",
+    "title": "The post-lithium grid-scale battery chemistry \u2014 not yet settled",
+    "url": "https://en.wikipedia.org/wiki/Sodium-ion_battery",
+    "source": "seed",
+    "category": "chemistry",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-retro-always",
+    "title": "Retrosynthesis planning that reliably works in the lab \u2014 not yet achieved",
+    "url": "https://en.wikipedia.org/wiki/Retrosynthetic_analysis",
+    "source": "seed",
+    "category": "chemistry",
+    "status": "undiscovered"
+  },
+  {
+    "id": "deb-water-liquids",
+    "title": "Does supercooled water have a liquid\u2013liquid transition? Two-liquids hypothesis",
+    "url": "https://en.wikipedia.org/wiki/Properties_of_water",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "debated"
+  },
+  {
+    "id": "deb-ml-potentials",
+    "title": "Can machine-learned potentials replace ab initio chemistry?",
+    "url": "https://arxiv.org/abs/2205.00903",
+    "source": "arxiv",
+    "category": "chemistry",
+    "status": "debated"
+  },
+  {
+    "id": "deb-htsc-mechanism",
+    "title": "High-temperature superconductivity mechanism \u2014 still no consensus",
+    "url": "https://en.wikipedia.org/wiki/High-temperature_superconductivity",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "debated"
+  },
+  {
+    "id": "deb-island-stability",
+    "title": "How far does the island of stability extend \u2014 how many elements exist?",
+    "url": "https://en.wikipedia.org/wiki/Island_of_stability",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "debated"
+  },
+  {
+    "id": "deb-plastic-recycling",
+    "title": "Chemical vs mechanical plastic recycling \u2014 which actually scales?",
+    "url": "https://en.wikipedia.org/wiki/Plastic_recycling",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "debated"
+  },
+  {
+    "id": "deb-homochirality",
+    "title": "Origin of homochirality on Earth \u2014 multiple competing hypotheses",
+    "url": "https://en.wikipedia.org/wiki/Homochirality",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "debated"
+  }
+]

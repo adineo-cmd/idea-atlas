@@ -1,0 +1,138 @@
+[
+  {
+    "id": "known-spacing",
+    "title": "Spaced repetition beats cramming \u2014 one of the most replicated results in learning science",
+    "url": "https://en.wikipedia.org/wiki/Spacing_effect",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known"
+  },
+  {
+    "id": "known-wm-limit",
+    "title": "Working memory holds only ~4 chunks at once (Miller/Cowan) \u2014 established",
+    "url": "https://en.wikipedia.org/wiki/Working_memory",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known"
+  },
+  {
+    "id": "known-sleep-memory",
+    "title": "Sleep consolidates memory \u2014 robustly established",
+    "url": "https://en.wikipedia.org/wiki/Sleep_and_memory",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known"
+  },
+  {
+    "id": "known-conditioning",
+    "title": "Classical conditioning exists (Pavlov) \u2014 solved basics of associative learning",
+    "url": "https://en.wikipedia.org/wiki/Classical_conditioning",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known"
+  },
+  {
+    "id": "known-illusion",
+    "title": "Visual illusions expose perception as inference \u2014 established",
+    "url": "https://en.wikipedia.org/wiki/Optical_illusion",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known"
+  },
+  {
+    "id": "known-placebo-pain",
+    "title": "Placebo measurably reduces reported pain \u2014 established effect",
+    "url": "https://en.wikipedia.org/wiki/Placebo",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known"
+  },
+  {
+    "id": "front-ncc-theory",
+    "title": "A complete theory of the neural correlates of consciousness \u2014 missing",
+    "url": "https://en.wikipedia.org/wiki/Neural_correlates_of_consciousness",
+    "source": "seed",
+    "category": "mind",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-dream-decode",
+    "title": "Reliable decoding of dream content from brain activity \u2014 not yet possible",
+    "url": "https://en.wikipedia.org/wiki/Dream",
+    "source": "seed",
+    "category": "mind",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-depression-biomarker",
+    "title": "Mechanistic biomarkers that subtype depression \u2014 missing",
+    "url": "https://en.wikipedia.org/wiki/Biomarker_(medicine)",
+    "source": "seed",
+    "category": "mind",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-anesthesia-mech",
+    "title": "Full mechanism of how anesthesia removes and restores consciousness \u2014 unknown",
+    "url": "https://en.wikipedia.org/wiki/General_anaesthesia",
+    "source": "seed",
+    "category": "mind",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-engram-code",
+    "title": "The code by which memories are stored (engram format) \u2014 unknown",
+    "url": "https://en.wikipedia.org/wiki/Engram_(neuropsychology)",
+    "source": "seed",
+    "category": "mind",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-therapy-predict",
+    "title": "Predicting which therapy will work for whom, before treatment \u2014 missing",
+    "url": "https://en.wikipedia.org/wiki/Precision_psychiatry",
+    "source": "seed",
+    "category": "mind",
+    "status": "undiscovered"
+  },
+  {
+    "id": "deb-therapy-factors",
+    "title": "Does psychotherapy work via specific techniques or common factors?",
+    "url": "https://en.wikipedia.org/wiki/Common_factors_theory",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "debated"
+  },
+  {
+    "id": "deb-replication",
+    "title": "Replication crisis: how much of psychology actually holds up?",
+    "url": "https://en.wikipedia.org/wiki/Replication_crisis",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "debated"
+  },
+  {
+    "id": "deb-iq-heritable",
+    "title": "IQ heritability vs environment \u2014 polygenic score debates continue",
+    "url": "https://en.wikipedia.org/wiki/Heritability_of_IQ",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "debated"
+  },
+  {
+    "id": "deb-socialmedia-mh",
+    "title": "Social media and adolescent mental health \u2014 causation still contested",
+    "url": "https://news.ycombinator.com/item?id=36188486",
+    "source": "hackernews",
+    "category": "mind",
+    "status": "debated"
+  },
+  {
+    "id": "deb-freewill",
+    "title": "Do humans have free will \u2014 compatibilism vs incompatibilism, unresolved",
+    "url": "https://en.wikipedia.org/wiki/Free_will",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "debated"
+  }
+]
