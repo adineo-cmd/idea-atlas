@@ -1384,5 +1384,68 @@
     "category": "economics",
     "status": "debated",
     "era": "1950-2000"
+  },
+  {
+    "id": "d2-ph-muon-g2",
+    "title": "The muon's magnetism: anomaly or error? g-2 still unsettled",
+    "url": "https://en.wikipedia.org/wiki/Muon_g-2",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "debated",
+    "era": "2020-2026"
+  },
+  {
+    "id": "d2-ph-w-mass",
+    "title": "The W boson mass anomaly (CDF 2022): new physics or mismeasurement?",
+    "url": "https://en.wikipedia.org/wiki/W_and_Z_bosons",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "debated",
+    "era": "2020-2026"
+  },
+  {
+    "id": "d2-ph-lk99",
+    "title": "LK-99: was the 2023 room-temperature superconductor claim a Mirage?",
+    "url": "https://en.wikipedia.org/wiki/LK-99",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "debated",
+    "era": "2020-2026"
+  },
+  {
+    "id": "d2-ec-bronze-collapse",
+    "title": "What caused the Late Bronze Age collapse? Trade, climate, or war?",
+    "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "debated",
+    "era": "Antiquity"
+  },
+  {
+    "id": "d2-ar-sea-peoples",
+    "title": "Who were the Sea Peoples? Still a mystery of antiquity",
+    "url": "https://en.wikipedia.org/wiki/Sea_Peoples",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "debated",
+    "era": "Antiquity"
+  },
+  {
+    "id": "d2-mi-glp1-mind",
+    "title": "Do GLP-1 drugs dampen addiction and change mood? Evidence accumulating, mechanisms open",
+    "url": "https://en.wikipedia.org/wiki/Semaglutide",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "debated",
+    "era": "2020-2026"
+  },
+  {
+    "id": "d2-mi-ai-companions",
+    "title": "AI companions: social lifeline or dependency risk?",
+    "url": "https://en.wikipedia.org/wiki/Chatbot",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "debated",
+    "era": "2020-2026"
   }
 ]

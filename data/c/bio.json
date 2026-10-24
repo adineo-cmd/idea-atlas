@@ -288,6 +288,168 @@
     "era": "2000-2019"
   },
   {
+    "id": "k2-bi-ebers",
+    "title": "The Ebers Papyrus: 700 remedies catalogued (c. 1550 BC)",
+    "url": "https://en.wikipedia.org/wiki/Ebers_Papyrus",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-bi-materia-medica",
+    "title": "Dioscorides' De Materia Medica: the pharmacy bible for 1,500 years (1st c. AD)",
+    "url": "https://en.wikipedia.org/wiki/De_Materia_Medica",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-bi-theophrastus",
+    "title": "Theophrastus founds botany (4th c. BC)",
+    "url": "https://en.wikipedia.org/wiki/Theophrastus",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-bi-galen",
+    "title": "Galen's anatomy and physiology dominate medicine for 1,300 years",
+    "url": "https://en.wikipedia.org/wiki/Galen",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-bi-sericulture",
+    "title": "Silk cultivation perfected (China, 3rd millennium BC)",
+    "url": "https://en.wikipedia.org/wiki/Sericulture",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-bi-fermentation-k",
+    "title": "Fermentation: bread, beer, and wine (7,000 BC-)",
+    "url": "https://en.wikipedia.org/wiki/Fermentation",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-bi-domestication",
+    "title": "Plant and animal domestication (c. 10,000 BC-)",
+    "url": "https://en.wikipedia.org/wiki/Domestication",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-bi-chargaff",
+    "title": "Chargaff's rules point at base pairing (1950)",
+    "url": "https://en.wikipedia.org/wiki/Chargaff%27s_rules",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-bi-hershey-chase",
+    "title": "DNA, not protein, is the genetic material (1952)",
+    "url": "https://en.wikipedia.org/wiki/Hershey%E2%80%93Chase_experiment",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-bi-photosynthesis-k",
+    "title": "Photosynthesis' inputs and outputs traced (Ingenhousz, 1779)",
+    "url": "https://en.wikipedia.org/wiki/Photosynthesis",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1700s"
+  },
+  {
+    "id": "k2-bi-archaea",
+    "title": "Archaea recognized as a third domain of life (1977)",
+    "url": "https://en.wikipedia.org/wiki/Archaea",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-bi-extremophile",
+    "title": "Extremophiles thrive where life 'shouldn't' (1960s-)",
+    "url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-bi-sanger",
+    "title": "Sanger sequencing reads DNA letter by letter (1977)",
+    "url": "https://en.wikipedia.org/wiki/Sanger_sequencing",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-bi-ips",
+    "title": "Induced pluripotent stem cells reprogram adult cells (2006; Nobel 2012)",
+    "url": "https://en.wikipedia.org/wiki/Induced_pluripotent_stem_cell",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-bi-telomerase",
+    "title": "Telomerase and chromosome caps (Nobel 2009)",
+    "url": "https://en.wikipedia.org/wiki/Telomerase",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-bi-oncogene",
+    "title": "Oncogenes identified, mechanizing cancer (1976-)",
+    "url": "https://en.wikipedia.org/wiki/Oncogene",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-bi-rtss",
+    "title": "The first malaria vaccine recommended (RTS,S, 2021)",
+    "url": "https://en.wikipedia.org/wiki/RTS,S",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k2-bi-glp1",
+    "title": "GLP-1 medications transform obesity care (2021-)",
+    "url": "https://en.wikipedia.org/wiki/Glucagon-like_peptide-1_receptor_agonist",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
     "id": "front-als-cure",
     "title": "Disease-modifying cure for ALS \u2014 undiscovered",
     "url": "https://en.wikipedia.org/wiki/Amyotrophic_lateral_sclerosis",

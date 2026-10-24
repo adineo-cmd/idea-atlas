@@ -218,6 +218,105 @@
     "era": "2000-2019"
   },
   {
+    "id": "k2-ve-markov",
+    "title": "Markov chains model sequences (1906)",
+    "url": "https://en.wikipedia.org/wiki/Markov_chain",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-ve-montecarlo",
+    "title": "Monte Carlo methods (1946-)",
+    "url": "https://en.wikipedia.org/wiki/Monte_Carlo_method",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-ve-em-alg",
+    "title": "The EM algorithm fits latent-variable models (1977)",
+    "url": "https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ve-backprop",
+    "title": "Backpropagation trains layered networks efficiently (1986)",
+    "url": "https://en.wikipedia.org/wiki/Backpropagation",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ve-universal-approx",
+    "title": "Universal approximation theorems (1989)",
+    "url": "https://en.wikipedia.org/wiki/Universal_approximation_theorem",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ve-vc-dim",
+    "title": "VC dimension: a theory of learning from data (1971)",
+    "url": "https://en.wikipedia.org/wiki/VC_dimension",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ve-levenshtein",
+    "title": "Levenshtein edit distance (1965)",
+    "url": "https://en.wikipedia.org/wiki/Levenshtein_distance",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ve-bloom",
+    "title": "Bloom filters: probabilistic membership (1970)",
+    "url": "https://en.wikipedia.org/wiki/Bloom_filter",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ve-minhash",
+    "title": "MinHash: similarity at web scale (1997)",
+    "url": "https://en.wikipedia.org/wiki/MinHash",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ve-rag",
+    "title": "Retrieval-augmented generation becomes the standard pattern (2023-)",
+    "url": "https://en.wikipedia.org/wiki/Retrieval-augmented_generation",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k2-ve-llama",
+    "title": "Open-weight LLMs level the field (LLaMA, 2023-)",
+    "url": "https://en.wikipedia.org/wiki/LLaMA",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
     "id": "front-hdviz",
     "title": "Interpretable high-dimensional vector navigation \u2014 undiscovered",
     "url": "https://arxiv.org/list/cs.LG/recent",

@@ -255,6 +255,105 @@
     "era": "1950-2000"
   },
   {
+    "id": "k2-ch-bronze",
+    "title": "Bronze smelting: the first engineered alloy (c. 3300 BC)",
+    "url": "https://en.wikipedia.org/wiki/Bronze_Age",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ch-iron",
+    "title": "Iron smelting and steeling (c. 1200 BC-)",
+    "url": "https://en.wikipedia.org/wiki/Iron",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ch-glass",
+    "title": "Glassmaking (c. 2500 BC-)",
+    "url": "https://en.wikipedia.org/wiki/Glass",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ch-soap",
+    "title": "Soap-making (c. 2800 BC-)",
+    "url": "https://en.wikipedia.org/wiki/Soap",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ch-tyrian",
+    "title": "Tyrian purple: the first luxury chemical industry (c. 1600 BC)",
+    "url": "https://en.wikipedia.org/wiki/Tyrian_purple",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ch-paper-k",
+    "title": "Paper invented (Cai Lun, 105 AD)",
+    "url": "https://en.wikipedia.org/wiki/History_of_paper",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ch-gunpowder-k",
+    "title": "Gunpowder formulated (Tang China, 9th c.)",
+    "url": "https://en.wikipedia.org/wiki/Gunpowder",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k2-ch-porcelain",
+    "title": "Porcelain perfected (Song China, 10th-12th c.)",
+    "url": "https://en.wikipedia.org/wiki/Porcelain",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k2-ch-prussian-blue",
+    "title": "Prussian blue: the first modern synthetic pigment (1706)",
+    "url": "https://en.wikipedia.org/wiki/Prussian_blue",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "1700s"
+  },
+  {
+    "id": "k2-ch-quantum-dot",
+    "title": "Quantum dots synthesized and commercialized (1980s-; Nobel 2023)",
+    "url": "https://en.wikipedia.org/wiki/Quantum_dot",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ch-dac",
+    "title": "Direct air capture plants operate commercially (Climeworks, 2021-)",
+    "url": "https://en.wikipedia.org/wiki/Direct_air_capture",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
     "id": "front-ambient-sc",
     "title": "Superconductor at room temperature and ambient pressure \u2014 undiscovered",
     "url": "https://en.wikipedia.org/wiki/Room-temperature_superconductor",

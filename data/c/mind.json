@@ -237,6 +237,186 @@
     "era": "2000-2019"
   },
   {
+    "id": "k2-mi-on-soul",
+    "title": "The first written theories of mind and soul (Aristotle's On the Soul, 4th c. BC)",
+    "url": "https://en.wikipedia.org/wiki/On_the_Soul",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-mi-skandha",
+    "title": "An ancient model of experience: the five aggregates (Buddhism)",
+    "url": "https://en.wikipedia.org/wiki/Skandha",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-mi-humorism",
+    "title": "The four-humors model of temperament (Hippocratic school) \u2014 dominant for 2,000 years",
+    "url": "https://en.wikipedia.org/wiki/Humorism",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-mi-pinel",
+    "title": "Moral treatment: asylums reform (Pinel, 1790s)",
+    "url": "https://en.wikipedia.org/wiki/Philippe_Pinel",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1700s"
+  },
+  {
+    "id": "k2-mi-phrenology",
+    "title": "Phrenology: an influential, thoroughly debunked psychology",
+    "url": "https://en.wikipedia.org/wiki/Phrenology",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-mi-wundt",
+    "title": "The first psychology laboratory (Wundt, 1879)",
+    "url": "https://en.wikipedia.org/wiki/Wilhelm_Wundt",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-mi-forgetting-curve",
+    "title": "The forgetting curve measured (Ebbinghaus 1885)",
+    "url": "https://en.wikipedia.org/wiki/Forgetting_curve",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-mi-james-lange",
+    "title": "The James-Lange theory ties emotion to the body (1884)",
+    "url": "https://en.wikipedia.org/wiki/James-Lange_theory",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-mi-behaviorism",
+    "title": "Behaviorism systematizes stimulus and response (Watson 1913)",
+    "url": "https://en.wikipedia.org/wiki/Behaviorism",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-mi-piaget",
+    "title": "Piaget maps children's cognitive stages (1920s-60s)",
+    "url": "https://en.wikipedia.org/wiki/Piaget%27s_theory_of_cognitive_development",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-mi-milgram",
+    "title": "Obedience under authority measured (Milgram 1961)",
+    "url": "https://en.wikipedia.org/wiki/Milgram_experiment",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-mi-social-learning",
+    "title": "Social learning: we copy models (Bandura 1961)",
+    "url": "https://en.wikipedia.org/wiki/Social_learning_theory",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-mi-dissonance",
+    "title": "Cognitive dissonance demonstrated (Festinger 1957)",
+    "url": "https://en.wikipedia.org/wiki/Cognitive_dissonance",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-mi-ekman",
+    "title": "Basic emotions readable across cultures (Ekman 1960s-70s)",
+    "url": "https://en.wikipedia.org/wiki/Paul_Ekman",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-mi-kandel",
+    "title": "Memory's molecular mechanism in the sea slug (Kandel, Nobel 2000)",
+    "url": "https://en.wikipedia.org/wiki/Eric_Kandel",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-mi-visual-cortex",
+    "title": "How the visual cortex deconstructs images (Hubel & Wiesel, Nobel 1981)",
+    "url": "https://en.wikipedia.org/wiki/Visual_cortex",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-mi-flow",
+    "title": "Flow: the psychology of optimal experience (Csikszentmihalyi 1975)",
+    "url": "https://en.wikipedia.org/wiki/Flow_(psychology)",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-mi-mbsr",
+    "title": "Mindfulness-based stress reduction tested clinically (1979-)",
+    "url": "https://en.wikipedia.org/wiki/Mindfulness-based_stress_reduction",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-mi-nudge",
+    "title": "Nudges measurably change behavior (Thaler-Sunstein 2008)",
+    "url": "https://en.wikipedia.org/wiki/Nudge_(book)",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-mi-lecanemab",
+    "title": "A drug slows early Alzheimer's decline (Lecanemab, 2023)",
+    "url": "https://en.wikipedia.org/wiki/Lecanemab",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
     "id": "front-ncc-theory",
     "title": "A complete theory of the neural correlates of consciousness \u2014 missing",
     "url": "https://en.wikipedia.org/wiki/Neural_correlates_of_consciousness",
@@ -440,5 +620,23 @@
     "category": "mind",
     "status": "debated",
     "era": "1950-2000"
+  },
+  {
+    "id": "d2-mi-glp1-mind",
+    "title": "Do GLP-1 drugs dampen addiction and change mood? Evidence accumulating, mechanisms open",
+    "url": "https://en.wikipedia.org/wiki/Semaglutide",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "debated",
+    "era": "2020-2026"
+  },
+  {
+    "id": "d2-mi-ai-companions",
+    "title": "AI companions: social lifeline or dependency risk?",
+    "url": "https://en.wikipedia.org/wiki/Chatbot",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "debated",
+    "era": "2020-2026"
   }
 ]

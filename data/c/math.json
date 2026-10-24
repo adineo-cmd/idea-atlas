@@ -325,6 +325,141 @@
     "era": "2000-2019"
   },
   {
+    "id": "k2-ma-plimpton",
+    "title": "Plimpton 322: Babylonian Pythagorean triples (c. 1800 BC)",
+    "url": "https://en.wikipedia.org/wiki/Plimpton_322",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ma-sexagesimal",
+    "title": "Base-60 arithmetic (Babylon) \u2014 why minutes and seconds are 60",
+    "url": "https://en.wikipedia.org/wiki/Sexagesimal",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ma-rhind",
+    "title": "Rhind Mathematical Papyrus: Egyptian arithmetic and geometry (c. 1550 BC)",
+    "url": "https://en.wikipedia.org/wiki/Rhind_Mathematical_Papyrus",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ma-sqrt2",
+    "title": "Incommensurability of the diagonal proved (Pythagoreans, 5th c. BC)",
+    "url": "https://en.wikipedia.org/wiki/Square_root_of_2",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ma-euclid-alg",
+    "title": "Euclid's algorithm for the greatest common divisor (c. 300 BC)",
+    "url": "https://en.wikipedia.org/wiki/Euclidean_algorithm",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ma-apollonius",
+    "title": "Conic sections systematized (Apollonius, c. 200 BC)",
+    "url": "https://en.wikipedia.org/wiki/Apollonius_of_Perga",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ma-diophantus",
+    "title": "Diophantus' Arithmetica founds algebraic number problems (c. 250 AD)",
+    "url": "https://en.wikipedia.org/wiki/Diophantus",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ma-zu-chongzhi",
+    "title": "Pi computed to 7 digits (Zu Chongzhi, 5th c. AD)",
+    "url": "https://en.wikipedia.org/wiki/Zu_Chongzhi",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ma-aryabhata",
+    "title": "Aryabhata systematizes place value, sine tables, and algebra (499 AD)",
+    "url": "https://en.wikipedia.org/wiki/Aryabhata",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ma-brahmagupta",
+    "title": "Rules for zero and negatives stated (Brahmagupta, 628 AD)",
+    "url": "https://en.wikipedia.org/wiki/Brahmagupta",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ma-khayyam",
+    "title": "Omar Khayyam solves cubics geometrically (1070s)",
+    "url": "https://en.wikipedia.org/wiki/Omar_Khayyam",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k2-ma-al-kashi",
+    "title": "Decimal fractions and pi to 16 digits (al-Kashi, 1424)",
+    "url": "https://en.wikipedia.org/wiki/Jamshid_al-Kashi",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k2-ma-madhava",
+    "title": "Madhava's infinite series for pi and sine (c. 1400) \u2014 calculus before calculus",
+    "url": "https://en.wikipedia.org/wiki/Madhava_of_Sangamagrama",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k2-ma-lean",
+    "title": "Lean proof assistants formalize modern research mathematics (Mathlib, 2020s)",
+    "url": "https://en.wikipedia.org/wiki/Lean_(proof_assistant)",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k2-ma-alphageometry",
+    "title": "AlphaGeometry solves olympiad geometry at medalist level (2024)",
+    "url": "https://en.wikipedia.org/wiki/AlphaGeometry",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
     "id": "front-p-vs-np",
     "title": "P vs NP resolution \u2014 undiscovered",
     "url": "https://en.wikipedia.org/wiki/P_versus_NP_problem",

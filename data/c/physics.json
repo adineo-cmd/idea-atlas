@@ -386,6 +386,195 @@
     "era": "2000-2019"
   },
   {
+    "id": "k2-ph-wheel",
+    "title": "The wheel and axle (c. 3500 BC) \u2014 solved mechanics of transport",
+    "url": "https://en.wikipedia.org/wiki/Wheel",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ph-democritus",
+    "title": "Atomism proposed (Democritus, Leucippus, 5th c. BC) \u2014 vindicated 2,300 years later",
+    "url": "https://en.wikipedia.org/wiki/Democritus",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ph-thales-eclipse",
+    "title": "Solar eclipse predicted (Thales, 585 BC) \u2014 astronomy becomes predictive",
+    "url": "https://en.wikipedia.org/wiki/Thales_of_Miletus",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ph-mozi-optics",
+    "title": "Camera-obscura optics described (Mozi, 4th c. BC)",
+    "url": "https://en.wikipedia.org/wiki/Mozi",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ph-zhang-heng",
+    "title": "Earthquake direction detected by seismoscope (Zhang Heng, 132 AD)",
+    "url": "https://en.wikipedia.org/wiki/Zhang_Heng",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ph-aeolipile",
+    "title": "Hero's aeolipile: the first reaction steam device (1st c. AD)",
+    "url": "https://en.wikipedia.org/wiki/Hero_of_Alexandria",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ph-antikythera",
+    "title": "The Antikythera mechanism: a geared astronomical computer (2nd c. BC)",
+    "url": "https://en.wikipedia.org/wiki/Antikythera_mechanism",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ph-ctesibius",
+    "title": "Compressed air mastered (Ctesibius' water organ and pumps, 3rd c. BC)",
+    "url": "https://en.wikipedia.org/wiki/Ctesibius",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ph-roman-concrete",
+    "title": "Roman concrete \u2014 solved and still standing 2,000 years later",
+    "url": "https://en.wikipedia.org/wiki/Roman_concrete",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ph-vitruvius",
+    "title": "Vitruvius codifies structural mechanics and acoustics (1st c. BC)",
+    "url": "https://en.wikipedia.org/wiki/Vitruvius",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ph-compass-k",
+    "title": "Magnetic compass invented (Han dynasty, 2nd c. BC)",
+    "url": "https://en.wikipedia.org/wiki/Compass",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ph-babylon-astronomy",
+    "title": "Babylonian astronomers could predict lunar eclipses with the Saros cycle",
+    "url": "https://en.wikipedia.org/wiki/Babylonian_astronomy",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ph-helium-sun",
+    "title": "Helium found on the Sun before it was found on Earth (1868)",
+    "url": "https://en.wikipedia.org/wiki/Helium",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-ph-noble-gases",
+    "title": "The noble gases isolated and placed in the periodic table (1894-98)",
+    "url": "https://en.wikipedia.org/wiki/Noble_gas",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-ph-benzene",
+    "title": "Benzene's ring structure solved (Kekule 1865, confirmed 1929)",
+    "url": "https://en.wikipedia.org/wiki/Benzene",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-ph-isotopes",
+    "title": "Isotopes discovered and systematized (Soddy, 1913)",
+    "url": "https://en.wikipedia.org/wiki/Isotope",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-ph-nylon",
+    "title": "Nylon synthesized and industrialized (1935-39)",
+    "url": "https://en.wikipedia.org/wiki/Nylon",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-ph-teflon",
+    "title": "Polytetrafluoroethylene (Teflon) discovered (1938)",
+    "url": "https://en.wikipedia.org/wiki/Polytetrafluoroethylene",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-ph-stereochemistry",
+    "title": "Molecular chirality discovered (Pasteur 1848) \u2014 stereochemistry solved",
+    "url": "https://en.wikipedia.org/wiki/Stereochemistry",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-ph-vulcanization",
+    "title": "Rubber vulcanization (Goodyear 1839)",
+    "url": "https://en.wikipedia.org/wiki/Vulcanization",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-ph-nif",
+    "title": "Fusion ignition achieved in the lab (NIF, December 2022)",
+    "url": "https://en.wikipedia.org/wiki/National_Ignition_Facility",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
     "id": "front-room-temp-sc",
     "title": "Room-temperature superconductor \u2014 undiscovered",
     "url": "https://en.wikipedia.org/wiki/Superconductivity",
@@ -702,5 +891,32 @@
     "category": "physics",
     "status": "debated",
     "era": "1900-1950"
+  },
+  {
+    "id": "d2-ph-muon-g2",
+    "title": "The muon's magnetism: anomaly or error? g-2 still unsettled",
+    "url": "https://en.wikipedia.org/wiki/Muon_g-2",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "debated",
+    "era": "2020-2026"
+  },
+  {
+    "id": "d2-ph-w-mass",
+    "title": "The W boson mass anomaly (CDF 2022): new physics or mismeasurement?",
+    "url": "https://en.wikipedia.org/wiki/W_and_Z_bosons",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "debated",
+    "era": "2020-2026"
+  },
+  {
+    "id": "d2-ph-lk99",
+    "title": "LK-99: was the 2023 room-temperature superconductor claim a Mirage?",
+    "url": "https://en.wikipedia.org/wiki/LK-99",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "debated",
+    "era": "2020-2026"
   }
 ]

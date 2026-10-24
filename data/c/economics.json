@@ -264,6 +264,213 @@
     "era": "2000-2019"
   },
   {
+    "id": "k2-ec-banking",
+    "title": "Interest-bearing loans and banking in Mesopotamia (c. 2000 BC)",
+    "url": "https://en.wikipedia.org/wiki/History_of_banking",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ec-roman-currency",
+    "title": "Roman coinage, debasement, and inflation management (3rd c. BC-)",
+    "url": "https://en.wikipedia.org/wiki/Roman_currency",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ec-grain-dole",
+    "title": "The Roman grain supply: feeding a metropolis (Republic-Empire)",
+    "url": "https://en.wikipedia.org/wiki/Grain_supply_to_the_city_of_Rome",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ec-silk-road",
+    "title": "The Silk Road links Eurasian markets (2nd c. BC-)",
+    "url": "https://en.wikipedia.org/wiki/Silk_Road",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ec-hanseatic",
+    "title": "The Hanseatic League runs northern trade (12th-17th c.)",
+    "url": "https://en.wikipedia.org/wiki/Hanseatic_League",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k2-ec-medici-bank",
+    "title": "The Medici bank pioneers branch banking and letters of credit (1397-1494)",
+    "url": "https://en.wikipedia.org/wiki/Medici_Bank",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "Renaissance (1400-1600)"
+  },
+  {
+    "id": "k2-ec-lloyds",
+    "title": "Marine insurance organized (Lloyd's of London, 1686-)",
+    "url": "https://en.wikipedia.org/wiki/Lloyd%27s_of_London",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1600s"
+  },
+  {
+    "id": "k2-ec-tulip",
+    "title": "Tulip mania: the first documented speculative bubble (1637)",
+    "url": "https://en.wikipedia.org/wiki/Tulip_mania",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1600s"
+  },
+  {
+    "id": "k2-ec-south-sea",
+    "title": "The South Sea bubble teaches financial contagion (1720)",
+    "url": "https://en.wikipedia.org/wiki/South_Sea_Company",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1700s"
+  },
+  {
+    "id": "k2-ec-corn-laws",
+    "title": "The Corn Laws repealed after the first modern policy debate (1846)",
+    "url": "https://en.wikipedia.org/wiki/Corn_Laws",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-ec-antitrust",
+    "title": "Antitrust law becomes enforceable (Sherman Act 1890)",
+    "url": "https://en.wikipedia.org/wiki/Sherman_Antitrust_Act",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-ec-fed",
+    "title": "The Federal Reserve founded as lender of last resort (1913)",
+    "url": "https://en.wikipedia.org/wiki/Federal_Reserve",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-ec-social-security",
+    "title": "Public pensions established (Social Security Act 1935)",
+    "url": "https://en.wikipedia.org/wiki/Social_Security_(United_States)",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-ec-marshall-plan",
+    "title": "The Marshall Plan rebuilds an economy (1948-52)",
+    "url": "https://en.wikipedia.org/wiki/Marshall_Plan",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-ec-nafta",
+    "title": "Deep regional trade integration (NAFTA 1994)",
+    "url": "https://en.wikipedia.org/wiki/NAFTA",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ec-microfinance",
+    "title": "Microfinance reaches tens of millions (Grameen 1983-)",
+    "url": "https://en.wikipedia.org/wiki/Microfinance",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ec-credit-card",
+    "title": "The credit card network standardizes consumer credit (Diners 1950, Visa 1958)",
+    "url": "https://en.wikipedia.org/wiki/Credit_card",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ec-barcode",
+    "title": "The barcode standardizes retail logistics (1974-)",
+    "url": "https://en.wikipedia.org/wiki/Barcode",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ec-lean-mfg",
+    "title": "Just-in-time manufacturing (Toyota, 1950s-80s)",
+    "url": "https://en.wikipedia.org/wiki/Lean_manufacturing",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ec-index-fund",
+    "title": "Index funds beat stock-picking at scale (Bogle 1976-)",
+    "url": "https://en.wikipedia.org/wiki/Index_fund",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ec-single-market",
+    "title": "The European single market removes internal barriers (1993)",
+    "url": "https://en.wikipedia.org/wiki/European_Single_Market",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ec-ira",
+    "title": "Major climate investment legislation passes (Inflation Reduction Act 2022)",
+    "url": "https://en.wikipedia.org/wiki/Inflation_Reduction_Act",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k2-ec-chips-act",
+    "title": "Industrial policy for chips returns (CHIPS and Science Act 2022)",
+    "url": "https://en.wikipedia.org/wiki/CHIPS_and_Science_Act",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
     "id": "front-recession-model",
     "title": "A reliable recession-prediction model \u2014 no leading indicator set works yet",
     "url": "https://en.wikipedia.org/wiki/Recession",
@@ -475,5 +682,14 @@
     "category": "economics",
     "status": "debated",
     "era": "1950-2000"
+  },
+  {
+    "id": "d2-ec-bronze-collapse",
+    "title": "What caused the Late Bronze Age collapse? Trade, climate, or war?",
+    "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "debated",
+    "era": "Antiquity"
   }
 ]

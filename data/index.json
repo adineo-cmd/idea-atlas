@@ -2893,6 +2893,1887 @@
     "era": "2000-2019"
   },
   {
+    "id": "k2-ph-wheel",
+    "title": "The wheel and axle (c. 3500 BC) \u2014 solved mechanics of transport",
+    "url": "https://en.wikipedia.org/wiki/Wheel",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ph-democritus",
+    "title": "Atomism proposed (Democritus, Leucippus, 5th c. BC) \u2014 vindicated 2,300 years later",
+    "url": "https://en.wikipedia.org/wiki/Democritus",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ph-thales-eclipse",
+    "title": "Solar eclipse predicted (Thales, 585 BC) \u2014 astronomy becomes predictive",
+    "url": "https://en.wikipedia.org/wiki/Thales_of_Miletus",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ph-mozi-optics",
+    "title": "Camera-obscura optics described (Mozi, 4th c. BC)",
+    "url": "https://en.wikipedia.org/wiki/Mozi",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ph-zhang-heng",
+    "title": "Earthquake direction detected by seismoscope (Zhang Heng, 132 AD)",
+    "url": "https://en.wikipedia.org/wiki/Zhang_Heng",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ph-aeolipile",
+    "title": "Hero's aeolipile: the first reaction steam device (1st c. AD)",
+    "url": "https://en.wikipedia.org/wiki/Hero_of_Alexandria",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ph-antikythera",
+    "title": "The Antikythera mechanism: a geared astronomical computer (2nd c. BC)",
+    "url": "https://en.wikipedia.org/wiki/Antikythera_mechanism",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ph-ctesibius",
+    "title": "Compressed air mastered (Ctesibius' water organ and pumps, 3rd c. BC)",
+    "url": "https://en.wikipedia.org/wiki/Ctesibius",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ph-roman-concrete",
+    "title": "Roman concrete \u2014 solved and still standing 2,000 years later",
+    "url": "https://en.wikipedia.org/wiki/Roman_concrete",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ph-vitruvius",
+    "title": "Vitruvius codifies structural mechanics and acoustics (1st c. BC)",
+    "url": "https://en.wikipedia.org/wiki/Vitruvius",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ph-compass-k",
+    "title": "Magnetic compass invented (Han dynasty, 2nd c. BC)",
+    "url": "https://en.wikipedia.org/wiki/Compass",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ph-babylon-astronomy",
+    "title": "Babylonian astronomers could predict lunar eclipses with the Saros cycle",
+    "url": "https://en.wikipedia.org/wiki/Babylonian_astronomy",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ph-helium-sun",
+    "title": "Helium found on the Sun before it was found on Earth (1868)",
+    "url": "https://en.wikipedia.org/wiki/Helium",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-ph-noble-gases",
+    "title": "The noble gases isolated and placed in the periodic table (1894-98)",
+    "url": "https://en.wikipedia.org/wiki/Noble_gas",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-ph-benzene",
+    "title": "Benzene's ring structure solved (Kekule 1865, confirmed 1929)",
+    "url": "https://en.wikipedia.org/wiki/Benzene",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-ph-isotopes",
+    "title": "Isotopes discovered and systematized (Soddy, 1913)",
+    "url": "https://en.wikipedia.org/wiki/Isotope",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-ph-nylon",
+    "title": "Nylon synthesized and industrialized (1935-39)",
+    "url": "https://en.wikipedia.org/wiki/Nylon",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-ph-teflon",
+    "title": "Polytetrafluoroethylene (Teflon) discovered (1938)",
+    "url": "https://en.wikipedia.org/wiki/Polytetrafluoroethylene",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-ph-stereochemistry",
+    "title": "Molecular chirality discovered (Pasteur 1848) \u2014 stereochemistry solved",
+    "url": "https://en.wikipedia.org/wiki/Stereochemistry",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-ph-vulcanization",
+    "title": "Rubber vulcanization (Goodyear 1839)",
+    "url": "https://en.wikipedia.org/wiki/Vulcanization",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-ph-nif",
+    "title": "Fusion ignition achieved in the lab (NIF, December 2022)",
+    "url": "https://en.wikipedia.org/wiki/National_Ignition_Facility",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k2-sp-newgrange",
+    "title": "Winter-solstice alignments built into monuments (Newgrange, c. 3200 BC)",
+    "url": "https://en.wikipedia.org/wiki/Newgrange",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-sp-zodiac",
+    "title": "The zodiac and ecliptic mapped (Babylonians, 1st millennium BC)",
+    "url": "https://en.wikipedia.org/wiki/Zodiac",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-sp-calendar-k",
+    "title": "Calendars predict seasons and Nile floods (Bronze Age onward)",
+    "url": "https://en.wikipedia.org/wiki/Calendar",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-sp-hipparchus",
+    "title": "Hipparchus catalogs 850 stars and discovers precession (2nd c. BC)",
+    "url": "https://en.wikipedia.org/wiki/Hipparchus",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-sp-almagest",
+    "title": "Ptolemy's Almagest: predictive planetary tables for 1,400 years (c. 150 AD)",
+    "url": "https://en.wikipedia.org/wiki/Almagest",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-sp-astrolabe",
+    "title": "The astrolabe: a pocket analog computer of the sky (Islamic Golden Age)",
+    "url": "https://en.wikipedia.org/wiki/Astrolabe",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k2-sp-ulugh-beg",
+    "title": "Ulugh Beg's observatory measures star positions to minutes of arc (1420s)",
+    "url": "https://en.wikipedia.org/wiki/Ulugh_Beg",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k2-sp-transit-venus",
+    "title": "Transits of Venus measured to size the solar system (1761-1769)",
+    "url": "https://en.wikipedia.org/wiki/Transit_of_Venus",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "1700s"
+  },
+  {
+    "id": "k2-sp-uranus",
+    "title": "Uranus discovered with a telescope (Herschel 1781) \u2014 first new planet in history",
+    "url": "https://en.wikipedia.org/wiki/William_Herschel",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "1700s"
+  },
+  {
+    "id": "k2-sp-ceres",
+    "title": "Ceres found (1801) \u2014 the first asteroid, predicted by Gauss",
+    "url": "https://en.wikipedia.org/wiki/Ceres_(dwarf_planet)",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-sp-milky-way",
+    "title": "The Milky Way's shape and our place in it mapped (1800s)",
+    "url": "https://en.wikipedia.org/wiki/Milky_Way",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-sp-hr-diagram",
+    "title": "The Hertzsprung-Russell diagram organizes stellar evolution (1910s)",
+    "url": "https://en.wikipedia.org/wiki/Hertzsprung%E2%80%93Russell_diagram",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-sp-sputnik",
+    "title": "The space age begins (Sputnik 1, 1957)",
+    "url": "https://en.wikipedia.org/wiki/Sputnik_1",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-sp-vostok",
+    "title": "A human orbits Earth (Gagarin, Vostok 1, 1961)",
+    "url": "https://en.wikipedia.org/wiki/Vostok_1",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-sp-luna3",
+    "title": "The Moon's far side photographed (Luna 3, 1959)",
+    "url": "https://en.wikipedia.org/wiki/Luna_3",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-sp-hst",
+    "title": "Hubble Space Telescope delivers deep-space precision (1990-)",
+    "url": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-sp-cassini",
+    "title": "Cassini orbits Saturn for 13 years (2004-2017)",
+    "url": "https://en.wikipedia.org/wiki/Giovanni_Domenico_Cassini",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "1600s"
+  },
+  {
+    "id": "k2-sp-gaia",
+    "title": "Gaia charts a billion stars (2013-)",
+    "url": "https://en.wikipedia.org/wiki/Gaia_(spacecraft)",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-sp-starship-catch",
+    "title": "A 70m rocket booster caught by its launch tower (SpaceX Starship, 2024)",
+    "url": "https://en.wikipedia.org/wiki/SpaceX_Starship",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k2-sp-euclid-telescope",
+    "title": "Euclid telescope begins mapping dark matter (2023-)",
+    "url": "https://en.wikipedia.org/wiki/Euclid_(spacecraft)",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k2-sp-chandrayaan3",
+    "title": "India lands near the lunar south pole (Chandrayaan-3, 2023)",
+    "url": "https://en.wikipedia.org/wiki/Chandrayaan-3",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k2-ma-plimpton",
+    "title": "Plimpton 322: Babylonian Pythagorean triples (c. 1800 BC)",
+    "url": "https://en.wikipedia.org/wiki/Plimpton_322",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ma-sexagesimal",
+    "title": "Base-60 arithmetic (Babylon) \u2014 why minutes and seconds are 60",
+    "url": "https://en.wikipedia.org/wiki/Sexagesimal",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ma-rhind",
+    "title": "Rhind Mathematical Papyrus: Egyptian arithmetic and geometry (c. 1550 BC)",
+    "url": "https://en.wikipedia.org/wiki/Rhind_Mathematical_Papyrus",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ma-sqrt2",
+    "title": "Incommensurability of the diagonal proved (Pythagoreans, 5th c. BC)",
+    "url": "https://en.wikipedia.org/wiki/Square_root_of_2",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ma-euclid-alg",
+    "title": "Euclid's algorithm for the greatest common divisor (c. 300 BC)",
+    "url": "https://en.wikipedia.org/wiki/Euclidean_algorithm",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ma-apollonius",
+    "title": "Conic sections systematized (Apollonius, c. 200 BC)",
+    "url": "https://en.wikipedia.org/wiki/Apollonius_of_Perga",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ma-diophantus",
+    "title": "Diophantus' Arithmetica founds algebraic number problems (c. 250 AD)",
+    "url": "https://en.wikipedia.org/wiki/Diophantus",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ma-zu-chongzhi",
+    "title": "Pi computed to 7 digits (Zu Chongzhi, 5th c. AD)",
+    "url": "https://en.wikipedia.org/wiki/Zu_Chongzhi",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ma-aryabhata",
+    "title": "Aryabhata systematizes place value, sine tables, and algebra (499 AD)",
+    "url": "https://en.wikipedia.org/wiki/Aryabhata",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ma-brahmagupta",
+    "title": "Rules for zero and negatives stated (Brahmagupta, 628 AD)",
+    "url": "https://en.wikipedia.org/wiki/Brahmagupta",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ma-khayyam",
+    "title": "Omar Khayyam solves cubics geometrically (1070s)",
+    "url": "https://en.wikipedia.org/wiki/Omar_Khayyam",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k2-ma-al-kashi",
+    "title": "Decimal fractions and pi to 16 digits (al-Kashi, 1424)",
+    "url": "https://en.wikipedia.org/wiki/Jamshid_al-Kashi",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k2-ma-madhava",
+    "title": "Madhava's infinite series for pi and sine (c. 1400) \u2014 calculus before calculus",
+    "url": "https://en.wikipedia.org/wiki/Madhava_of_Sangamagrama",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k2-ma-lean",
+    "title": "Lean proof assistants formalize modern research mathematics (Mathlib, 2020s)",
+    "url": "https://en.wikipedia.org/wiki/Lean_(proof_assistant)",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k2-ma-alphageometry",
+    "title": "AlphaGeometry solves olympiad geometry at medalist level (2024)",
+    "url": "https://en.wikipedia.org/wiki/AlphaGeometry",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k2-sw-cuneiform",
+    "title": "Cuneiform writing: the first information storage (c. 3200 BC)",
+    "url": "https://en.wikipedia.org/wiki/Cuneiform",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-sw-abacus",
+    "title": "The abacus: the first computing aid (c. 2500 BC)",
+    "url": "https://en.wikipedia.org/wiki/Abacus",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-sw-quipu",
+    "title": "Quipu: knotted-cord data records (Andes)",
+    "url": "https://en.wikipedia.org/wiki/Quipu",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-sw-jacquard",
+    "title": "The Jacquard loom programs cloth with punched cards (1804)",
+    "url": "https://en.wikipedia.org/wiki/Jacquard_loom",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-sw-telegraph",
+    "title": "The electrical telegraph annihilates distance (1837-44)",
+    "url": "https://en.wikipedia.org/wiki/Electrical_telegraph",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-sw-punchcards",
+    "title": "Punched-card data processing (Hollerith 1890)",
+    "url": "https://en.wikipedia.org/wiki/Punched_card",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-sw-colossus",
+    "title": "Colossus: the first electronic programmable computer (1943-44)",
+    "url": "https://en.wikipedia.org/wiki/Colossus_computer",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-sw-eniac",
+    "title": "ENIAC: general-purpose electronic computing (1945)",
+    "url": "https://en.wikipedia.org/wiki/ENIAC",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-sw-manchester-baby",
+    "title": "The stored-program computer runs (Manchester Baby, 1948)",
+    "url": "https://en.wikipedia.org/wiki/Manchester_Baby",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-sw-ascii",
+    "title": "ASCII standardizes digital text (1963)",
+    "url": "https://en.wikipedia.org/wiki/ASCII",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-sw-basic",
+    "title": "BASIC brings programming to students (1964)",
+    "url": "https://en.wikipedia.org/wiki/BASIC",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-sw-clang",
+    "title": "C: the portable systems language (1972)",
+    "url": "https://en.wikipedia.org/wiki/C_(programming_language)",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-sw-smalltalk",
+    "title": "Smalltalk invents objects and the modern IDE (1972-80)",
+    "url": "https://en.wikipedia.org/wiki/Smalltalk",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-sw-sql",
+    "title": "SQL standardizes database access (1974-)",
+    "url": "https://en.wikipedia.org/wiki/SQL",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-sw-ethernet",
+    "title": "Ethernet standardizes local networks (1973-)",
+    "url": "https://en.wikipedia.org/wiki/Ethernet",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-sw-xerox-alto",
+    "title": "The GUI is invented (Xerox Alto, 1973)",
+    "url": "https://en.wikipedia.org/wiki/Xerox_Alto",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-sw-usenet",
+    "title": "Distributed online communities (Usenet, 1980)",
+    "url": "https://en.wikipedia.org/wiki/Usenet",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-sw-mosaic",
+    "title": "The browser makes the web popular (Mosaic 1993)",
+    "url": "https://en.wikipedia.org/wiki/Mosaic_(web_browser)",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-sw-java",
+    "title": "Java: write once, run anywhere (1995)",
+    "url": "https://en.wikipedia.org/wiki/Java_(programming_language)",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-sw-tensorflow",
+    "title": "TensorFlow/PyTorch make deep learning everyone's tool (2015-17)",
+    "url": "https://en.wikipedia.org/wiki/TensorFlow",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-sw-jupyter",
+    "title": "Notebooks become the lab bench of data science (Jupyter 2014-)",
+    "url": "https://en.wikipedia.org/wiki/Project_Jupyter",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-sw-stackoverflow",
+    "title": "Stack Overflow: the programmer's commons (2008)",
+    "url": "https://en.wikipedia.org/wiki/Stack_Overflow",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-sw-wasm",
+    "title": "WebAssembly: a fast universal runtime (2017-)",
+    "url": "https://en.wikipedia.org/wiki/WebAssembly",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-sw-ethereum",
+    "title": "Programmable blockchains (Ethereum smart contracts, 2015)",
+    "url": "https://en.wikipedia.org/wiki/Ethereum",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-sw-signal",
+    "title": "End-to-end encryption for the masses (Signal Protocol, 2013-)",
+    "url": "https://en.wikipedia.org/wiki/Signal_Protocol",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-sw-cuda",
+    "title": "GPUs become general computers (CUDA, 2007)",
+    "url": "https://en.wikipedia.org/wiki/CUDA",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-sw-github",
+    "title": "GitHub becomes the world's code commons (2008)",
+    "url": "https://en.wikipedia.org/wiki/GitHub",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-sw-vscode",
+    "title": "VS Code and the LSP era of editors (2015-)",
+    "url": "https://en.wikipedia.org/wiki/Visual_Studio_Code",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-sw-typescript",
+    "title": "TypeScript: typed JavaScript at scale (2012-)",
+    "url": "https://en.wikipedia.org/wiki/TypeScript",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-sw-react",
+    "title": "React and component UIs (2013-)",
+    "url": "https://en.wikipedia.org/wiki/React_(software)",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-sw-copilot",
+    "title": "AI pair programming ships by default (GitHub Copilot, 2021)",
+    "url": "https://en.wikipedia.org/wiki/GitHub_Copilot",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k2-sw-gpt4",
+    "title": "Multimodal LLMs reach professional competence (GPT-4, 2023)",
+    "url": "https://en.wikipedia.org/wiki/GPT-4",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k2-sw-http3",
+    "title": "HTTP/3 runs over QUIC (standardized 2022)",
+    "url": "https://en.wikipedia.org/wiki/HTTP/3",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k2-sw-passkeys",
+    "title": "Passkey authentication standardizes (FIDO/WebAuthn, 2022-)",
+    "url": "https://en.wikipedia.org/wiki/WebAuthn",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k2-ve-markov",
+    "title": "Markov chains model sequences (1906)",
+    "url": "https://en.wikipedia.org/wiki/Markov_chain",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-ve-montecarlo",
+    "title": "Monte Carlo methods (1946-)",
+    "url": "https://en.wikipedia.org/wiki/Monte_Carlo_method",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-ve-em-alg",
+    "title": "The EM algorithm fits latent-variable models (1977)",
+    "url": "https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ve-backprop",
+    "title": "Backpropagation trains layered networks efficiently (1986)",
+    "url": "https://en.wikipedia.org/wiki/Backpropagation",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ve-universal-approx",
+    "title": "Universal approximation theorems (1989)",
+    "url": "https://en.wikipedia.org/wiki/Universal_approximation_theorem",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ve-vc-dim",
+    "title": "VC dimension: a theory of learning from data (1971)",
+    "url": "https://en.wikipedia.org/wiki/VC_dimension",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ve-levenshtein",
+    "title": "Levenshtein edit distance (1965)",
+    "url": "https://en.wikipedia.org/wiki/Levenshtein_distance",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ve-bloom",
+    "title": "Bloom filters: probabilistic membership (1970)",
+    "url": "https://en.wikipedia.org/wiki/Bloom_filter",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ve-minhash",
+    "title": "MinHash: similarity at web scale (1997)",
+    "url": "https://en.wikipedia.org/wiki/MinHash",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ve-rag",
+    "title": "Retrieval-augmented generation becomes the standard pattern (2023-)",
+    "url": "https://en.wikipedia.org/wiki/Retrieval-augmented_generation",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k2-ve-llama",
+    "title": "Open-weight LLMs level the field (LLaMA, 2023-)",
+    "url": "https://en.wikipedia.org/wiki/LLaMA",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k2-bi-ebers",
+    "title": "The Ebers Papyrus: 700 remedies catalogued (c. 1550 BC)",
+    "url": "https://en.wikipedia.org/wiki/Ebers_Papyrus",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-bi-materia-medica",
+    "title": "Dioscorides' De Materia Medica: the pharmacy bible for 1,500 years (1st c. AD)",
+    "url": "https://en.wikipedia.org/wiki/De_Materia_Medica",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-bi-theophrastus",
+    "title": "Theophrastus founds botany (4th c. BC)",
+    "url": "https://en.wikipedia.org/wiki/Theophrastus",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-bi-galen",
+    "title": "Galen's anatomy and physiology dominate medicine for 1,300 years",
+    "url": "https://en.wikipedia.org/wiki/Galen",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-bi-sericulture",
+    "title": "Silk cultivation perfected (China, 3rd millennium BC)",
+    "url": "https://en.wikipedia.org/wiki/Sericulture",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-bi-fermentation-k",
+    "title": "Fermentation: bread, beer, and wine (7,000 BC-)",
+    "url": "https://en.wikipedia.org/wiki/Fermentation",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-bi-domestication",
+    "title": "Plant and animal domestication (c. 10,000 BC-)",
+    "url": "https://en.wikipedia.org/wiki/Domestication",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-bi-chargaff",
+    "title": "Chargaff's rules point at base pairing (1950)",
+    "url": "https://en.wikipedia.org/wiki/Chargaff%27s_rules",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-bi-hershey-chase",
+    "title": "DNA, not protein, is the genetic material (1952)",
+    "url": "https://en.wikipedia.org/wiki/Hershey%E2%80%93Chase_experiment",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-bi-photosynthesis-k",
+    "title": "Photosynthesis' inputs and outputs traced (Ingenhousz, 1779)",
+    "url": "https://en.wikipedia.org/wiki/Photosynthesis",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1700s"
+  },
+  {
+    "id": "k2-bi-archaea",
+    "title": "Archaea recognized as a third domain of life (1977)",
+    "url": "https://en.wikipedia.org/wiki/Archaea",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-bi-extremophile",
+    "title": "Extremophiles thrive where life 'shouldn't' (1960s-)",
+    "url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-bi-sanger",
+    "title": "Sanger sequencing reads DNA letter by letter (1977)",
+    "url": "https://en.wikipedia.org/wiki/Sanger_sequencing",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-bi-ips",
+    "title": "Induced pluripotent stem cells reprogram adult cells (2006; Nobel 2012)",
+    "url": "https://en.wikipedia.org/wiki/Induced_pluripotent_stem_cell",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-bi-telomerase",
+    "title": "Telomerase and chromosome caps (Nobel 2009)",
+    "url": "https://en.wikipedia.org/wiki/Telomerase",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-bi-oncogene",
+    "title": "Oncogenes identified, mechanizing cancer (1976-)",
+    "url": "https://en.wikipedia.org/wiki/Oncogene",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-bi-rtss",
+    "title": "The first malaria vaccine recommended (RTS,S, 2021)",
+    "url": "https://en.wikipedia.org/wiki/RTS,S",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k2-bi-glp1",
+    "title": "GLP-1 medications transform obesity care (2021-)",
+    "url": "https://en.wikipedia.org/wiki/Glucagon-like_peptide-1_receptor_agonist",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k2-mi-on-soul",
+    "title": "The first written theories of mind and soul (Aristotle's On the Soul, 4th c. BC)",
+    "url": "https://en.wikipedia.org/wiki/On_the_Soul",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-mi-skandha",
+    "title": "An ancient model of experience: the five aggregates (Buddhism)",
+    "url": "https://en.wikipedia.org/wiki/Skandha",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-mi-humorism",
+    "title": "The four-humors model of temperament (Hippocratic school) \u2014 dominant for 2,000 years",
+    "url": "https://en.wikipedia.org/wiki/Humorism",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-mi-pinel",
+    "title": "Moral treatment: asylums reform (Pinel, 1790s)",
+    "url": "https://en.wikipedia.org/wiki/Philippe_Pinel",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1700s"
+  },
+  {
+    "id": "k2-mi-phrenology",
+    "title": "Phrenology: an influential, thoroughly debunked psychology",
+    "url": "https://en.wikipedia.org/wiki/Phrenology",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-mi-wundt",
+    "title": "The first psychology laboratory (Wundt, 1879)",
+    "url": "https://en.wikipedia.org/wiki/Wilhelm_Wundt",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-mi-forgetting-curve",
+    "title": "The forgetting curve measured (Ebbinghaus 1885)",
+    "url": "https://en.wikipedia.org/wiki/Forgetting_curve",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-mi-james-lange",
+    "title": "The James-Lange theory ties emotion to the body (1884)",
+    "url": "https://en.wikipedia.org/wiki/James-Lange_theory",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-mi-behaviorism",
+    "title": "Behaviorism systematizes stimulus and response (Watson 1913)",
+    "url": "https://en.wikipedia.org/wiki/Behaviorism",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-mi-piaget",
+    "title": "Piaget maps children's cognitive stages (1920s-60s)",
+    "url": "https://en.wikipedia.org/wiki/Piaget%27s_theory_of_cognitive_development",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-mi-milgram",
+    "title": "Obedience under authority measured (Milgram 1961)",
+    "url": "https://en.wikipedia.org/wiki/Milgram_experiment",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-mi-social-learning",
+    "title": "Social learning: we copy models (Bandura 1961)",
+    "url": "https://en.wikipedia.org/wiki/Social_learning_theory",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-mi-dissonance",
+    "title": "Cognitive dissonance demonstrated (Festinger 1957)",
+    "url": "https://en.wikipedia.org/wiki/Cognitive_dissonance",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-mi-ekman",
+    "title": "Basic emotions readable across cultures (Ekman 1960s-70s)",
+    "url": "https://en.wikipedia.org/wiki/Paul_Ekman",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-mi-kandel",
+    "title": "Memory's molecular mechanism in the sea slug (Kandel, Nobel 2000)",
+    "url": "https://en.wikipedia.org/wiki/Eric_Kandel",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-mi-visual-cortex",
+    "title": "How the visual cortex deconstructs images (Hubel & Wiesel, Nobel 1981)",
+    "url": "https://en.wikipedia.org/wiki/Visual_cortex",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-mi-flow",
+    "title": "Flow: the psychology of optimal experience (Csikszentmihalyi 1975)",
+    "url": "https://en.wikipedia.org/wiki/Flow_(psychology)",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-mi-mbsr",
+    "title": "Mindfulness-based stress reduction tested clinically (1979-)",
+    "url": "https://en.wikipedia.org/wiki/Mindfulness-based_stress_reduction",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-mi-nudge",
+    "title": "Nudges measurably change behavior (Thaler-Sunstein 2008)",
+    "url": "https://en.wikipedia.org/wiki/Nudge_(book)",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-mi-lecanemab",
+    "title": "A drug slows early Alzheimer's decline (Lecanemab, 2023)",
+    "url": "https://en.wikipedia.org/wiki/Lecanemab",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k2-ar-cave-painting",
+    "title": "Figurative cave painting (c. 40,000+ BC) \u2014 the first art",
+    "url": "https://en.wikipedia.org/wiki/Cave_painting",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ar-venus-figurines",
+    "title": "Venus figurines across Ice Age Europe (c. 30,000 BC)",
+    "url": "https://en.wikipedia.org/wiki/Venus_figurines",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ar-greek-sculpture",
+    "title": "Greek sculpture solves idealized naturalism (5th c. BC)",
+    "url": "https://en.wikipedia.org/wiki/Ancient_Greek_sculpture",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ar-fresco",
+    "title": "Fresco mastered (Minoan to Roman, 2nd millennium BC-)",
+    "url": "https://en.wikipedia.org/wiki/Fresco",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ar-mosaic",
+    "title": "Mosaic: durable monumental imagery (3rd millennium BC-)",
+    "url": "https://en.wikipedia.org/wiki/Mosaic",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ar-greek-theatre",
+    "title": "The theatre building and its conventions (Athens, 5th c. BC)",
+    "url": "https://en.wikipedia.org/wiki/Theatre_of_ancient_Greece",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ar-tragedy",
+    "title": "Tragedy as a dramatic form codified (Aeschylus-Sophocles-Euripides)",
+    "url": "https://en.wikipedia.org/wiki/Tragedy",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ar-epic",
+    "title": "Epic poetry as the memory technology of cultures (Homer, Gilgamesh)",
+    "url": "https://en.wikipedia.org/wiki/Epic_poetry",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ar-rhetoric",
+    "title": "Rhetoric systematized (Aristotle, 4th c. BC)",
+    "url": "https://en.wikipedia.org/wiki/Rhetoric",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ar-calligraphy",
+    "title": "Chinese calligraphy elevated to the highest art (Han dynasty)",
+    "url": "https://en.wikipedia.org/wiki/Chinese_calligraphy",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ar-pythagorean-tuning",
+    "title": "Pythagorean tuning: music as number (6th c. BC)",
+    "url": "https://en.wikipedia.org/wiki/Pythagorean_tuning",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ar-library-alexandria",
+    "title": "The Library of Alexandria: the first universal research library (3rd c. BC)",
+    "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ar-house-of-wisdom",
+    "title": "The House of Wisdom translates the world's science (9th c. Baghdad)",
+    "url": "https://en.wikipedia.org/wiki/House_of_Wisdom",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k2-ar-noh",
+    "title": "Noh theatre perfected (14th c. Japan)",
+    "url": "https://en.wikipedia.org/wiki/Noh",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k2-ar-gothic",
+    "title": "Gothic architecture: structural light (12th-13th c.)",
+    "url": "https://en.wikipedia.org/wiki/Gothic_architecture",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k2-ar-byzantine",
+    "title": "Byzantine icon tradition defined sacred art (4th-15th c.)",
+    "url": "https://en.wikipedia.org/wiki/Byzantine_art",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k2-ar-manuscripts",
+    "title": "Illuminated manuscripts preserve knowledge through the Middle Ages",
+    "url": "https://en.wikipedia.org/wiki/Illuminated_manuscript",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k2-ar-ukiyo-e",
+    "title": "Ukiyo-e woodblock printing reaches mass audiences (17th-19th c.)",
+    "url": "https://en.wikipedia.org/wiki/Ukiyo-e",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1600s"
+  },
+  {
+    "id": "k2-ar-mughal",
+    "title": "Mughal miniature painting synthesizes Persian and Indian art (16th c.)",
+    "url": "https://en.wikipedia.org/wiki/Mughal_painting",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Renaissance (1400-1600)"
+  },
+  {
+    "id": "k2-ar-leonardo",
+    "title": "Leonardo da Vinci's notebooks and paintings set the Renaissance bar",
+    "url": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Renaissance (1400-1600)"
+  },
+  {
+    "id": "k2-ar-baroque",
+    "title": "The Baroque: drama, light, and movement in art (1600s)",
+    "url": "https://en.wikipedia.org/wiki/Baroque",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1600s"
+  },
+  {
+    "id": "k2-ar-caravaggio",
+    "title": "Chiaroscuro revolutionizes painting (Caravaggio, 1600s)",
+    "url": "https://en.wikipedia.org/wiki/Caravaggio",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1600s"
+  },
+  {
+    "id": "k2-ar-rembrandt",
+    "title": "Rembrandt's light and portraits (1600s)",
+    "url": "https://en.wikipedia.org/wiki/Rembrandt",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1600s"
+  },
+  {
+    "id": "k2-ar-hokusai",
+    "title": "Hokusai's prints reshape world art (1830s)",
+    "url": "https://en.wikipedia.org/wiki/Hokusai",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-ar-cubism",
+    "title": "Cubism fractures perspective (Picasso-Braque, 1907-14)",
+    "url": "https://en.wikipedia.org/wiki/Cubism",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-ar-dada",
+    "title": "Dada and the ready-made question art itself (1916-)",
+    "url": "https://en.wikipedia.org/wiki/Dada",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-ar-bauhaus",
+    "title": "The Bauhaus unites art, craft, and industry (1919-33)",
+    "url": "https://en.wikipedia.org/wiki/Bauhaus",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-ar-jazz",
+    "title": "Jazz: improvisation becomes a global art (1900s-)",
+    "url": "https://en.wikipedia.org/wiki/Jazz",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-ar-blues",
+    "title": "The blues: the root of popular music (1900s-)",
+    "url": "https://en.wikipedia.org/wiki/Blues",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-ar-rock",
+    "title": "Rock and roll (1950s)",
+    "url": "https://en.wikipedia.org/wiki/Rock_and_roll",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ar-pop-art",
+    "title": "Pop art brings mass culture into the gallery (1960s)",
+    "url": "https://en.wikipedia.org/wiki/Pop_art",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ar-minimalism-art",
+    "title": "Minimalism in art and music (1960s)",
+    "url": "https://en.wikipedia.org/wiki/Minimalism",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ar-hiphop",
+    "title": "Hip hop: DJing, MCing, breaking, graffiti (1970s-)",
+    "url": "https://en.wikipedia.org/wiki/Hip_hop_music",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ar-music-video",
+    "title": "The music video era (MTV 1981)",
+    "url": "https://en.wikipedia.org/wiki/Music_video",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ar-dalle",
+    "title": "Text-to-image generation opens to the public (DALL-E/Stable Diffusion, 2022)",
+    "url": "https://en.wikipedia.org/wiki/DALL-E",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k2-ch-bronze",
+    "title": "Bronze smelting: the first engineered alloy (c. 3300 BC)",
+    "url": "https://en.wikipedia.org/wiki/Bronze_Age",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ch-iron",
+    "title": "Iron smelting and steeling (c. 1200 BC-)",
+    "url": "https://en.wikipedia.org/wiki/Iron",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ch-glass",
+    "title": "Glassmaking (c. 2500 BC-)",
+    "url": "https://en.wikipedia.org/wiki/Glass",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ch-soap",
+    "title": "Soap-making (c. 2800 BC-)",
+    "url": "https://en.wikipedia.org/wiki/Soap",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ch-tyrian",
+    "title": "Tyrian purple: the first luxury chemical industry (c. 1600 BC)",
+    "url": "https://en.wikipedia.org/wiki/Tyrian_purple",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ch-paper-k",
+    "title": "Paper invented (Cai Lun, 105 AD)",
+    "url": "https://en.wikipedia.org/wiki/History_of_paper",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ch-gunpowder-k",
+    "title": "Gunpowder formulated (Tang China, 9th c.)",
+    "url": "https://en.wikipedia.org/wiki/Gunpowder",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k2-ch-porcelain",
+    "title": "Porcelain perfected (Song China, 10th-12th c.)",
+    "url": "https://en.wikipedia.org/wiki/Porcelain",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k2-ch-prussian-blue",
+    "title": "Prussian blue: the first modern synthetic pigment (1706)",
+    "url": "https://en.wikipedia.org/wiki/Prussian_blue",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "1700s"
+  },
+  {
+    "id": "k2-ch-quantum-dot",
+    "title": "Quantum dots synthesized and commercialized (1980s-; Nobel 2023)",
+    "url": "https://en.wikipedia.org/wiki/Quantum_dot",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ch-dac",
+    "title": "Direct air capture plants operate commercially (Climeworks, 2021-)",
+    "url": "https://en.wikipedia.org/wiki/Direct_air_capture",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k2-ec-banking",
+    "title": "Interest-bearing loans and banking in Mesopotamia (c. 2000 BC)",
+    "url": "https://en.wikipedia.org/wiki/History_of_banking",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ec-roman-currency",
+    "title": "Roman coinage, debasement, and inflation management (3rd c. BC-)",
+    "url": "https://en.wikipedia.org/wiki/Roman_currency",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ec-grain-dole",
+    "title": "The Roman grain supply: feeding a metropolis (Republic-Empire)",
+    "url": "https://en.wikipedia.org/wiki/Grain_supply_to_the_city_of_Rome",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ec-silk-road",
+    "title": "The Silk Road links Eurasian markets (2nd c. BC-)",
+    "url": "https://en.wikipedia.org/wiki/Silk_Road",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ec-hanseatic",
+    "title": "The Hanseatic League runs northern trade (12th-17th c.)",
+    "url": "https://en.wikipedia.org/wiki/Hanseatic_League",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k2-ec-medici-bank",
+    "title": "The Medici bank pioneers branch banking and letters of credit (1397-1494)",
+    "url": "https://en.wikipedia.org/wiki/Medici_Bank",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "Renaissance (1400-1600)"
+  },
+  {
+    "id": "k2-ec-lloyds",
+    "title": "Marine insurance organized (Lloyd's of London, 1686-)",
+    "url": "https://en.wikipedia.org/wiki/Lloyd%27s_of_London",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1600s"
+  },
+  {
+    "id": "k2-ec-tulip",
+    "title": "Tulip mania: the first documented speculative bubble (1637)",
+    "url": "https://en.wikipedia.org/wiki/Tulip_mania",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1600s"
+  },
+  {
+    "id": "k2-ec-south-sea",
+    "title": "The South Sea bubble teaches financial contagion (1720)",
+    "url": "https://en.wikipedia.org/wiki/South_Sea_Company",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1700s"
+  },
+  {
+    "id": "k2-ec-corn-laws",
+    "title": "The Corn Laws repealed after the first modern policy debate (1846)",
+    "url": "https://en.wikipedia.org/wiki/Corn_Laws",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-ec-antitrust",
+    "title": "Antitrust law becomes enforceable (Sherman Act 1890)",
+    "url": "https://en.wikipedia.org/wiki/Sherman_Antitrust_Act",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-ec-fed",
+    "title": "The Federal Reserve founded as lender of last resort (1913)",
+    "url": "https://en.wikipedia.org/wiki/Federal_Reserve",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-ec-social-security",
+    "title": "Public pensions established (Social Security Act 1935)",
+    "url": "https://en.wikipedia.org/wiki/Social_Security_(United_States)",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-ec-marshall-plan",
+    "title": "The Marshall Plan rebuilds an economy (1948-52)",
+    "url": "https://en.wikipedia.org/wiki/Marshall_Plan",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-ec-nafta",
+    "title": "Deep regional trade integration (NAFTA 1994)",
+    "url": "https://en.wikipedia.org/wiki/NAFTA",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ec-microfinance",
+    "title": "Microfinance reaches tens of millions (Grameen 1983-)",
+    "url": "https://en.wikipedia.org/wiki/Microfinance",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ec-credit-card",
+    "title": "The credit card network standardizes consumer credit (Diners 1950, Visa 1958)",
+    "url": "https://en.wikipedia.org/wiki/Credit_card",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ec-barcode",
+    "title": "The barcode standardizes retail logistics (1974-)",
+    "url": "https://en.wikipedia.org/wiki/Barcode",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ec-lean-mfg",
+    "title": "Just-in-time manufacturing (Toyota, 1950s-80s)",
+    "url": "https://en.wikipedia.org/wiki/Lean_manufacturing",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ec-index-fund",
+    "title": "Index funds beat stock-picking at scale (Bogle 1976-)",
+    "url": "https://en.wikipedia.org/wiki/Index_fund",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ec-single-market",
+    "title": "The European single market removes internal barriers (1993)",
+    "url": "https://en.wikipedia.org/wiki/European_Single_Market",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ec-ira",
+    "title": "Major climate investment legislation passes (Inflation Reduction Act 2022)",
+    "url": "https://en.wikipedia.org/wiki/Inflation_Reduction_Act",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k2-ec-chips-act",
+    "title": "Industrial policy for chips returns (CHIPS and Science Act 2022)",
+    "url": "https://en.wikipedia.org/wiki/CHIPS_and_Science_Act",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
     "id": "front-room-temp-sc",
     "title": "Room-temperature superconductor \u2014 undiscovered",
     "url": "https://en.wikipedia.org/wiki/Superconductivity",
@@ -5204,5 +7085,68 @@
     "category": "economics",
     "status": "debated",
     "era": "1950-2000"
+  },
+  {
+    "id": "d2-ph-muon-g2",
+    "title": "The muon's magnetism: anomaly or error? g-2 still unsettled",
+    "url": "https://en.wikipedia.org/wiki/Muon_g-2",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "debated",
+    "era": "2020-2026"
+  },
+  {
+    "id": "d2-ph-w-mass",
+    "title": "The W boson mass anomaly (CDF 2022): new physics or mismeasurement?",
+    "url": "https://en.wikipedia.org/wiki/W_and_Z_bosons",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "debated",
+    "era": "2020-2026"
+  },
+  {
+    "id": "d2-ph-lk99",
+    "title": "LK-99: was the 2023 room-temperature superconductor claim a Mirage?",
+    "url": "https://en.wikipedia.org/wiki/LK-99",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "debated",
+    "era": "2020-2026"
+  },
+  {
+    "id": "d2-ec-bronze-collapse",
+    "title": "What caused the Late Bronze Age collapse? Trade, climate, or war?",
+    "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "debated",
+    "era": "Antiquity"
+  },
+  {
+    "id": "d2-ar-sea-peoples",
+    "title": "Who were the Sea Peoples? Still a mystery of antiquity",
+    "url": "https://en.wikipedia.org/wiki/Sea_Peoples",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "debated",
+    "era": "Antiquity"
+  },
+  {
+    "id": "d2-mi-glp1-mind",
+    "title": "Do GLP-1 drugs dampen addiction and change mood? Evidence accumulating, mechanisms open",
+    "url": "https://en.wikipedia.org/wiki/Semaglutide",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "debated",
+    "era": "2020-2026"
+  },
+  {
+    "id": "d2-mi-ai-companions",
+    "title": "AI companions: social lifeline or dependency risk?",
+    "url": "https://en.wikipedia.org/wiki/Chatbot",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "debated",
+    "era": "2020-2026"
   }
 ]

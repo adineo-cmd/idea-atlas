@@ -264,6 +264,195 @@
     "era": "2000-2019"
   },
   {
+    "id": "k2-sp-newgrange",
+    "title": "Winter-solstice alignments built into monuments (Newgrange, c. 3200 BC)",
+    "url": "https://en.wikipedia.org/wiki/Newgrange",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-sp-zodiac",
+    "title": "The zodiac and ecliptic mapped (Babylonians, 1st millennium BC)",
+    "url": "https://en.wikipedia.org/wiki/Zodiac",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-sp-calendar-k",
+    "title": "Calendars predict seasons and Nile floods (Bronze Age onward)",
+    "url": "https://en.wikipedia.org/wiki/Calendar",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-sp-hipparchus",
+    "title": "Hipparchus catalogs 850 stars and discovers precession (2nd c. BC)",
+    "url": "https://en.wikipedia.org/wiki/Hipparchus",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-sp-almagest",
+    "title": "Ptolemy's Almagest: predictive planetary tables for 1,400 years (c. 150 AD)",
+    "url": "https://en.wikipedia.org/wiki/Almagest",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-sp-astrolabe",
+    "title": "The astrolabe: a pocket analog computer of the sky (Islamic Golden Age)",
+    "url": "https://en.wikipedia.org/wiki/Astrolabe",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k2-sp-ulugh-beg",
+    "title": "Ulugh Beg's observatory measures star positions to minutes of arc (1420s)",
+    "url": "https://en.wikipedia.org/wiki/Ulugh_Beg",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k2-sp-transit-venus",
+    "title": "Transits of Venus measured to size the solar system (1761-1769)",
+    "url": "https://en.wikipedia.org/wiki/Transit_of_Venus",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "1700s"
+  },
+  {
+    "id": "k2-sp-uranus",
+    "title": "Uranus discovered with a telescope (Herschel 1781) \u2014 first new planet in history",
+    "url": "https://en.wikipedia.org/wiki/William_Herschel",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "1700s"
+  },
+  {
+    "id": "k2-sp-ceres",
+    "title": "Ceres found (1801) \u2014 the first asteroid, predicted by Gauss",
+    "url": "https://en.wikipedia.org/wiki/Ceres_(dwarf_planet)",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-sp-milky-way",
+    "title": "The Milky Way's shape and our place in it mapped (1800s)",
+    "url": "https://en.wikipedia.org/wiki/Milky_Way",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-sp-hr-diagram",
+    "title": "The Hertzsprung-Russell diagram organizes stellar evolution (1910s)",
+    "url": "https://en.wikipedia.org/wiki/Hertzsprung%E2%80%93Russell_diagram",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-sp-sputnik",
+    "title": "The space age begins (Sputnik 1, 1957)",
+    "url": "https://en.wikipedia.org/wiki/Sputnik_1",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-sp-vostok",
+    "title": "A human orbits Earth (Gagarin, Vostok 1, 1961)",
+    "url": "https://en.wikipedia.org/wiki/Vostok_1",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-sp-luna3",
+    "title": "The Moon's far side photographed (Luna 3, 1959)",
+    "url": "https://en.wikipedia.org/wiki/Luna_3",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-sp-hst",
+    "title": "Hubble Space Telescope delivers deep-space precision (1990-)",
+    "url": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-sp-cassini",
+    "title": "Cassini orbits Saturn for 13 years (2004-2017)",
+    "url": "https://en.wikipedia.org/wiki/Giovanni_Domenico_Cassini",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "1600s"
+  },
+  {
+    "id": "k2-sp-gaia",
+    "title": "Gaia charts a billion stars (2013-)",
+    "url": "https://en.wikipedia.org/wiki/Gaia_(spacecraft)",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-sp-starship-catch",
+    "title": "A 70m rocket booster caught by its launch tower (SpaceX Starship, 2024)",
+    "url": "https://en.wikipedia.org/wiki/SpaceX_Starship",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k2-sp-euclid-telescope",
+    "title": "Euclid telescope begins mapping dark matter (2023-)",
+    "url": "https://en.wikipedia.org/wiki/Euclid_(spacecraft)",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k2-sp-chandrayaan3",
+    "title": "India lands near the lunar south pole (Chandrayaan-3, 2023)",
+    "url": "https://en.wikipedia.org/wiki/Chandrayaan-3",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
     "id": "front-biosignature",
     "title": "First confirmed biosignature on an exoplanet \u2014 not yet found",
     "url": "https://en.wikipedia.org/wiki/Biosignature",

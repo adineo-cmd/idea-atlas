@@ -413,6 +413,312 @@
     "era": "1950-2000"
   },
   {
+    "id": "k2-sw-cuneiform",
+    "title": "Cuneiform writing: the first information storage (c. 3200 BC)",
+    "url": "https://en.wikipedia.org/wiki/Cuneiform",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-sw-abacus",
+    "title": "The abacus: the first computing aid (c. 2500 BC)",
+    "url": "https://en.wikipedia.org/wiki/Abacus",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-sw-quipu",
+    "title": "Quipu: knotted-cord data records (Andes)",
+    "url": "https://en.wikipedia.org/wiki/Quipu",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-sw-jacquard",
+    "title": "The Jacquard loom programs cloth with punched cards (1804)",
+    "url": "https://en.wikipedia.org/wiki/Jacquard_loom",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-sw-telegraph",
+    "title": "The electrical telegraph annihilates distance (1837-44)",
+    "url": "https://en.wikipedia.org/wiki/Electrical_telegraph",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-sw-punchcards",
+    "title": "Punched-card data processing (Hollerith 1890)",
+    "url": "https://en.wikipedia.org/wiki/Punched_card",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-sw-colossus",
+    "title": "Colossus: the first electronic programmable computer (1943-44)",
+    "url": "https://en.wikipedia.org/wiki/Colossus_computer",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-sw-eniac",
+    "title": "ENIAC: general-purpose electronic computing (1945)",
+    "url": "https://en.wikipedia.org/wiki/ENIAC",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-sw-manchester-baby",
+    "title": "The stored-program computer runs (Manchester Baby, 1948)",
+    "url": "https://en.wikipedia.org/wiki/Manchester_Baby",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-sw-ascii",
+    "title": "ASCII standardizes digital text (1963)",
+    "url": "https://en.wikipedia.org/wiki/ASCII",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-sw-basic",
+    "title": "BASIC brings programming to students (1964)",
+    "url": "https://en.wikipedia.org/wiki/BASIC",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-sw-clang",
+    "title": "C: the portable systems language (1972)",
+    "url": "https://en.wikipedia.org/wiki/C_(programming_language)",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-sw-smalltalk",
+    "title": "Smalltalk invents objects and the modern IDE (1972-80)",
+    "url": "https://en.wikipedia.org/wiki/Smalltalk",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-sw-sql",
+    "title": "SQL standardizes database access (1974-)",
+    "url": "https://en.wikipedia.org/wiki/SQL",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-sw-ethernet",
+    "title": "Ethernet standardizes local networks (1973-)",
+    "url": "https://en.wikipedia.org/wiki/Ethernet",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-sw-xerox-alto",
+    "title": "The GUI is invented (Xerox Alto, 1973)",
+    "url": "https://en.wikipedia.org/wiki/Xerox_Alto",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-sw-usenet",
+    "title": "Distributed online communities (Usenet, 1980)",
+    "url": "https://en.wikipedia.org/wiki/Usenet",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-sw-mosaic",
+    "title": "The browser makes the web popular (Mosaic 1993)",
+    "url": "https://en.wikipedia.org/wiki/Mosaic_(web_browser)",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-sw-java",
+    "title": "Java: write once, run anywhere (1995)",
+    "url": "https://en.wikipedia.org/wiki/Java_(programming_language)",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-sw-tensorflow",
+    "title": "TensorFlow/PyTorch make deep learning everyone's tool (2015-17)",
+    "url": "https://en.wikipedia.org/wiki/TensorFlow",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-sw-jupyter",
+    "title": "Notebooks become the lab bench of data science (Jupyter 2014-)",
+    "url": "https://en.wikipedia.org/wiki/Project_Jupyter",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-sw-stackoverflow",
+    "title": "Stack Overflow: the programmer's commons (2008)",
+    "url": "https://en.wikipedia.org/wiki/Stack_Overflow",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-sw-wasm",
+    "title": "WebAssembly: a fast universal runtime (2017-)",
+    "url": "https://en.wikipedia.org/wiki/WebAssembly",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-sw-ethereum",
+    "title": "Programmable blockchains (Ethereum smart contracts, 2015)",
+    "url": "https://en.wikipedia.org/wiki/Ethereum",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-sw-signal",
+    "title": "End-to-end encryption for the masses (Signal Protocol, 2013-)",
+    "url": "https://en.wikipedia.org/wiki/Signal_Protocol",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-sw-cuda",
+    "title": "GPUs become general computers (CUDA, 2007)",
+    "url": "https://en.wikipedia.org/wiki/CUDA",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-sw-github",
+    "title": "GitHub becomes the world's code commons (2008)",
+    "url": "https://en.wikipedia.org/wiki/GitHub",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-sw-vscode",
+    "title": "VS Code and the LSP era of editors (2015-)",
+    "url": "https://en.wikipedia.org/wiki/Visual_Studio_Code",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-sw-typescript",
+    "title": "TypeScript: typed JavaScript at scale (2012-)",
+    "url": "https://en.wikipedia.org/wiki/TypeScript",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-sw-react",
+    "title": "React and component UIs (2013-)",
+    "url": "https://en.wikipedia.org/wiki/React_(software)",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-sw-copilot",
+    "title": "AI pair programming ships by default (GitHub Copilot, 2021)",
+    "url": "https://en.wikipedia.org/wiki/GitHub_Copilot",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k2-sw-gpt4",
+    "title": "Multimodal LLMs reach professional competence (GPT-4, 2023)",
+    "url": "https://en.wikipedia.org/wiki/GPT-4",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k2-sw-http3",
+    "title": "HTTP/3 runs over QUIC (standardized 2022)",
+    "url": "https://en.wikipedia.org/wiki/HTTP/3",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k2-sw-passkeys",
+    "title": "Passkey authentication standardizes (FIDO/WebAuthn, 2022-)",
+    "url": "https://en.wikipedia.org/wiki/WebAuthn",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
     "id": "front-formal-verify",
     "title": "Fully automatic formal verification for general-purpose software \u2014 undiscovered",
     "url": "https://en.wikipedia.org/wiki/Formal_verification",

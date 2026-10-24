@@ -243,6 +243,321 @@
     "era": "1950-2000"
   },
   {
+    "id": "k2-ar-cave-painting",
+    "title": "Figurative cave painting (c. 40,000+ BC) \u2014 the first art",
+    "url": "https://en.wikipedia.org/wiki/Cave_painting",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ar-venus-figurines",
+    "title": "Venus figurines across Ice Age Europe (c. 30,000 BC)",
+    "url": "https://en.wikipedia.org/wiki/Venus_figurines",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ar-greek-sculpture",
+    "title": "Greek sculpture solves idealized naturalism (5th c. BC)",
+    "url": "https://en.wikipedia.org/wiki/Ancient_Greek_sculpture",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ar-fresco",
+    "title": "Fresco mastered (Minoan to Roman, 2nd millennium BC-)",
+    "url": "https://en.wikipedia.org/wiki/Fresco",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ar-mosaic",
+    "title": "Mosaic: durable monumental imagery (3rd millennium BC-)",
+    "url": "https://en.wikipedia.org/wiki/Mosaic",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ar-greek-theatre",
+    "title": "The theatre building and its conventions (Athens, 5th c. BC)",
+    "url": "https://en.wikipedia.org/wiki/Theatre_of_ancient_Greece",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ar-tragedy",
+    "title": "Tragedy as a dramatic form codified (Aeschylus-Sophocles-Euripides)",
+    "url": "https://en.wikipedia.org/wiki/Tragedy",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ar-epic",
+    "title": "Epic poetry as the memory technology of cultures (Homer, Gilgamesh)",
+    "url": "https://en.wikipedia.org/wiki/Epic_poetry",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ar-rhetoric",
+    "title": "Rhetoric systematized (Aristotle, 4th c. BC)",
+    "url": "https://en.wikipedia.org/wiki/Rhetoric",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ar-calligraphy",
+    "title": "Chinese calligraphy elevated to the highest art (Han dynasty)",
+    "url": "https://en.wikipedia.org/wiki/Chinese_calligraphy",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ar-pythagorean-tuning",
+    "title": "Pythagorean tuning: music as number (6th c. BC)",
+    "url": "https://en.wikipedia.org/wiki/Pythagorean_tuning",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ar-library-alexandria",
+    "title": "The Library of Alexandria: the first universal research library (3rd c. BC)",
+    "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ar-house-of-wisdom",
+    "title": "The House of Wisdom translates the world's science (9th c. Baghdad)",
+    "url": "https://en.wikipedia.org/wiki/House_of_Wisdom",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k2-ar-noh",
+    "title": "Noh theatre perfected (14th c. Japan)",
+    "url": "https://en.wikipedia.org/wiki/Noh",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k2-ar-gothic",
+    "title": "Gothic architecture: structural light (12th-13th c.)",
+    "url": "https://en.wikipedia.org/wiki/Gothic_architecture",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k2-ar-byzantine",
+    "title": "Byzantine icon tradition defined sacred art (4th-15th c.)",
+    "url": "https://en.wikipedia.org/wiki/Byzantine_art",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k2-ar-manuscripts",
+    "title": "Illuminated manuscripts preserve knowledge through the Middle Ages",
+    "url": "https://en.wikipedia.org/wiki/Illuminated_manuscript",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k2-ar-ukiyo-e",
+    "title": "Ukiyo-e woodblock printing reaches mass audiences (17th-19th c.)",
+    "url": "https://en.wikipedia.org/wiki/Ukiyo-e",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1600s"
+  },
+  {
+    "id": "k2-ar-mughal",
+    "title": "Mughal miniature painting synthesizes Persian and Indian art (16th c.)",
+    "url": "https://en.wikipedia.org/wiki/Mughal_painting",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Renaissance (1400-1600)"
+  },
+  {
+    "id": "k2-ar-leonardo",
+    "title": "Leonardo da Vinci's notebooks and paintings set the Renaissance bar",
+    "url": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Renaissance (1400-1600)"
+  },
+  {
+    "id": "k2-ar-baroque",
+    "title": "The Baroque: drama, light, and movement in art (1600s)",
+    "url": "https://en.wikipedia.org/wiki/Baroque",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1600s"
+  },
+  {
+    "id": "k2-ar-caravaggio",
+    "title": "Chiaroscuro revolutionizes painting (Caravaggio, 1600s)",
+    "url": "https://en.wikipedia.org/wiki/Caravaggio",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1600s"
+  },
+  {
+    "id": "k2-ar-rembrandt",
+    "title": "Rembrandt's light and portraits (1600s)",
+    "url": "https://en.wikipedia.org/wiki/Rembrandt",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1600s"
+  },
+  {
+    "id": "k2-ar-hokusai",
+    "title": "Hokusai's prints reshape world art (1830s)",
+    "url": "https://en.wikipedia.org/wiki/Hokusai",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-ar-cubism",
+    "title": "Cubism fractures perspective (Picasso-Braque, 1907-14)",
+    "url": "https://en.wikipedia.org/wiki/Cubism",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-ar-dada",
+    "title": "Dada and the ready-made question art itself (1916-)",
+    "url": "https://en.wikipedia.org/wiki/Dada",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-ar-bauhaus",
+    "title": "The Bauhaus unites art, craft, and industry (1919-33)",
+    "url": "https://en.wikipedia.org/wiki/Bauhaus",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-ar-jazz",
+    "title": "Jazz: improvisation becomes a global art (1900s-)",
+    "url": "https://en.wikipedia.org/wiki/Jazz",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-ar-blues",
+    "title": "The blues: the root of popular music (1900s-)",
+    "url": "https://en.wikipedia.org/wiki/Blues",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-ar-rock",
+    "title": "Rock and roll (1950s)",
+    "url": "https://en.wikipedia.org/wiki/Rock_and_roll",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ar-pop-art",
+    "title": "Pop art brings mass culture into the gallery (1960s)",
+    "url": "https://en.wikipedia.org/wiki/Pop_art",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ar-minimalism-art",
+    "title": "Minimalism in art and music (1960s)",
+    "url": "https://en.wikipedia.org/wiki/Minimalism",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ar-hiphop",
+    "title": "Hip hop: DJing, MCing, breaking, graffiti (1970s-)",
+    "url": "https://en.wikipedia.org/wiki/Hip_hop_music",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ar-music-video",
+    "title": "The music video era (MTV 1981)",
+    "url": "https://en.wikipedia.org/wiki/Music_video",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ar-dalle",
+    "title": "Text-to-image generation opens to the public (DALL-E/Stable Diffusion, 2022)",
+    "url": "https://en.wikipedia.org/wiki/DALL-E",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
     "id": "front-dead-language",
     "title": "Fully deciphered Minoan Linear A script \u2014 undiscovered",
     "url": "https://en.wikipedia.org/wiki/Linear_A",
@@ -409,6 +724,15 @@
     "id": "d-ar-translation",
     "title": "Faithful or free translation? The debate is as old as translation",
     "url": "https://en.wikipedia.org/wiki/Translation",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "debated",
+    "era": "Antiquity"
+  },
+  {
+    "id": "d2-ar-sea-peoples",
+    "title": "Who were the Sea Peoples? Still a mystery of antiquity",
+    "url": "https://en.wikipedia.org/wiki/Sea_Peoples",
     "source": "wikipedia",
     "category": "art",
     "status": "debated",
