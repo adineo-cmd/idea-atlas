@@ -25,6 +25,8 @@ def test_seed_schema():
             assert it["status"] in ("known","debated","undiscovered")
             assert it["url"].startswith("http")
             assert it["category"] in categories()
+            if "era" in it:
+                assert isinstance(it["era"], str) and it["era"]
 
 
 def test_seed_ids_unique():

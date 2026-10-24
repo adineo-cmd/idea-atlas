@@ -36,6 +36,7 @@
 
   <div class="toolbar">
     <input id="filter" type="search" placeholder="Filter this sheet…" aria-label="Filter Biology entries">
+    <select id="era" aria-label="Filter by era"><option value="all">All eras</option></select>
     <div class="tabs" role="tablist" aria-label="Filter by status">
       <button role="tab" aria-selected="true" data-status="all">All<span class="ct" id="ct-all">–</span></button>
       <button role="tab" aria-selected="false" data-status="known">Known<span class="ct" id="ct-known">–</span></button>
@@ -76,8 +77,8 @@
   var items = [];
   var status = "all";
   var query = "";
+  var era = "all";
   var entriesEl = document.getElementById("entries");
-  var tabs = Array.prototype.slice.call(document.querySelectorAll('[role="tab"]'));
 
   Atlas.loadCategory(SLUG).then(function (d) {
     items = d || [];
@@ -87,6 +88,16 @@
     document.getElementById("ct-known").textContent = c.known;
     document.getElementById("ct-debated").textContent = c.debated;
     document.getElementById("ct-undiscovered").textContent = c.undiscovered;
+
+    var eras = [];
+    items.forEach(function (x) { if (x.era && eras.indexOf(x.era) === -1) eras.push(x.era); });
+    eras.sort(function (a, b) {
+      return Atlas.ERA_ORDER.indexOf(a) - Atlas.ERA_ORDER.indexOf(b);
+    });
+    var sel = document.getElementById("era");
+    sel.innerHTML = '<option value="all">All eras</option>' + eras.map(function (e) {
+      return '<option value="' + Atlas.escapeHtml(e) + '">' + Atlas.escapeHtml(e) + "</option>";
+    }).join("");
     draw();
   });
 
@@ -94,20 +105,23 @@
     var q = query.trim().toLowerCase();
     var shown = items.filter(function (x) {
       if (status !== "all" && x.status !== status) return false;
+      if (era !== "all" && x.era !== era) return false;
       if (q && !(x.title || "").toLowerCase().includes(q)) return false;
       return true;
     });
     Atlas.renderEntries(entriesEl, shown, query);
-    if (query && shown.length) return;
     if (query && !shown.length) {
-      entriesEl.innerHTML = '<li><p class="empty">Nothing on this sheet matches “' +
-        Atlas.escapeHtml(query) + '”.</p></li>';
+      entriesEl.innerHTML = '<li><p class="empty">Nothing on this sheet matches the current filters.</p></li>';
     }
   }
 
   document.getElementById("filter").addEventListener("input", function (e) {
     query = e.target.value; draw();
   });
+  document.getElementById("era").addEventListener("change", function (e) {
+    era = e.target.value; draw();
+  });
+  var tabs = Array.prototype.slice.call(document.querySelectorAll('[role="tab"]'));
   tabs.forEach(function (t) {
     t.addEventListener("click", function () {
       status = t.dataset.status;

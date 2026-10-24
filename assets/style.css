@@ -116,10 +116,12 @@ button { font: inherit; color: inherit; }
 .validator { max-width: 620px; margin: 0 auto; text-align: left; }
 .search-row { display: flex; gap: 0.6rem; }
 .search-row input { min-width: 0; }
-input[type="search"], input[type="text"] {
+input[type="search"], input[type="text"], select {
   flex: 1; padding: 0.7rem 0.9rem; font: inherit; color: var(--text);
   background: var(--plate); border: 1px solid var(--line); border-radius: var(--radius);
 }
+select { flex: 0 0 auto; }
+.toolbar input[type="search"] { flex: 0 1 auto; }
 input:focus-visible, button:focus-visible, a:focus-visible, [role="tab"]:focus-visible {
   outline: 2px solid var(--gold); outline-offset: 2px;
 }

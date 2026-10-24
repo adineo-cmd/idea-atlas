@@ -70,7 +70,7 @@ def build_index(seeds, mapped, out="data"):
     (p / "index.json").write_text(json.dumps(idx, indent=2))
     (p / "c").mkdir(exist_ok=True)
     for c in load_categories():
-        (p / "c" / f"{c}.json").write_text(json.dumps([x for x in idx if x.get("category") == c][:100], indent=2))
+        (p / "c" / f"{c}.json").write_text(json.dumps([x for x in idx if x.get("category") == c][:400], indent=2))
     # Site-facing copy of the registry so pages don't read from data/seed/.
     (p / "categories.json").write_text(json.dumps(json.loads((SEED_DIR / "categories.json").read_text()), indent=2))
     counts = {}

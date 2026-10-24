@@ -72,6 +72,177 @@
     "status": "known"
   },
   {
+    "id": "k-ar-notation",
+    "title": "Staff notation systematized (Guido of Arezzo, 11th century)",
+    "url": "https://en.wikipedia.org/wiki/Musical_notation",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k-ar-temperament",
+    "title": "Equal temperament systematized (16th-17th c.) \u2014 solved tuning for all keys",
+    "url": "https://en.wikipedia.org/wiki/Equal_temperament",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1600s"
+  },
+  {
+    "id": "k-ar-sonnet",
+    "title": "The sonnet form codified (Petrarch, 14th century)",
+    "url": "https://en.wikipedia.org/wiki/Sonnet",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Renaissance (1400-1600)"
+  },
+  {
+    "id": "k-ar-opera",
+    "title": "Opera invented around the Florentine Camerata (c. 1600)",
+    "url": "https://en.wikipedia.org/wiki/Opera",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1600s"
+  },
+  {
+    "id": "k-ar-encyclopedie",
+    "title": "The Encyclopedie organizes all knowledge (1751-72)",
+    "url": "https://en.wikipedia.org/wiki/Encyclop%C3%A9die",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1700s"
+  },
+  {
+    "id": "k-ar-louvre",
+    "title": "The public museum opens to everyone (Louvre 1793)",
+    "url": "https://en.wikipedia.org/wiki/Louvre",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1700s"
+  },
+  {
+    "id": "k-ar-phonograph",
+    "title": "Sound recorded and replayed (Edison 1877)",
+    "url": "https://en.wikipedia.org/wiki/Phonograph",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k-ar-cinema",
+    "title": "Projected cinema (Lumiere brothers 1895)",
+    "url": "https://en.wikipedia.org/wiki/History_of_film",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k-ar-tv",
+    "title": "Television broadcast (1920s-30s)",
+    "url": "https://en.wikipedia.org/wiki/Television",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k-ar-abstract",
+    "title": "Abstraction arrives in painting (Kandinsky c. 1911)",
+    "url": "https://en.wikipedia.org/wiki/Abstract_art",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k-ar-sound-film",
+    "title": "Synchronized sound film (1927)",
+    "url": "https://en.wikipedia.org/wiki/Sound_film",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k-ar-multitrack",
+    "title": "Multitrack recording transforms music production (1950s-60s)",
+    "url": "https://en.wikipedia.org/wiki/Multitrack_recording",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ar-sketchpad",
+    "title": "Interactive computer graphics (Sketchpad 1963)",
+    "url": "https://en.wikipedia.org/wiki/Sketchpad",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ar-midi",
+    "title": "MIDI standardizes digital instruments (1983)",
+    "url": "https://en.wikipedia.org/wiki/MIDI",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ar-cd",
+    "title": "Digital audio for consumers (CD 1982)",
+    "url": "https://en.wikipedia.org/wiki/Compact_disc",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ar-toystory",
+    "title": "The fully computer-animated feature film (Toy Story 1995)",
+    "url": "https://en.wikipedia.org/wiki/Toy_Story",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ar-photoshop",
+    "title": "Digital image editing goes mainstream (Photoshop 1990)",
+    "url": "https://en.wikipedia.org/wiki/Adobe_Photoshop",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ar-streaming",
+    "title": "Streaming replaces physical distribution (2006-)",
+    "url": "https://en.wikipedia.org/wiki/Streaming_media",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k-ar-sol-lewitt",
+    "title": "Instruction-based conceptual art (LeWitt 1960s) \u2014 art as algorithm",
+    "url": "https://en.wikipedia.org/wiki/Sol_LeWitt",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
     "id": "front-dead-language",
     "title": "Fully deciphered Minoan Linear A script \u2014 undiscovered",
     "url": "https://en.wikipedia.org/wiki/Linear_A",
@@ -112,6 +283,42 @@
     "status": "undiscovered"
   },
   {
+    "id": "f-ar-digital-preservation",
+    "title": "Preserving born-digital art for centuries \u2014 unsolved in practice",
+    "url": "https://en.wikipedia.org/wiki/Digital_preservation",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ar-lit-mt",
+    "title": "Machine translation that carries literature's voice \u2014 not achieved",
+    "url": "https://en.wikipedia.org/wiki/Literary_translation",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ar-herculaneum",
+    "title": "Reading the unopenable Herculaneum papyri \u2014 AI is just starting",
+    "url": "https://en.wikipedia.org/wiki/Herculaneum_papyri",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "undiscovered",
+    "era": "1700s"
+  },
+  {
+    "id": "f-ar-aesthetics-theory",
+    "title": "A predictive theory of aesthetic experience \u2014 missing",
+    "url": "https://en.wikipedia.org/wiki/Aesthetics",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "undiscovered",
+    "era": "Antiquity"
+  },
+  {
     "id": "deb-rubens",
     "title": "Is the National Gallery's Rubens 'Samson and Delilah' a 20th-century copy? (Artnet)",
     "url": "https://news.artnet.com/art-world/national-gallery-rubens-debate-2613165",
@@ -134,5 +341,77 @@
     "source": "web",
     "category": "art",
     "status": "debated"
+  },
+  {
+    "id": "d-ar-ai-art",
+    "title": "Can AI-generated work be art \u2014 and who owns it?",
+    "url": "https://en.wikipedia.org/wiki/Artificial_intelligence_art",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "debated",
+    "era": "2020-2026"
+  },
+  {
+    "id": "d-ar-restitution",
+    "title": "Should museums return colonial-era artifacts?",
+    "url": "https://en.wikipedia.org/wiki/Repatriation_(cultural_property)",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "debated",
+    "era": "2000-2019"
+  },
+  {
+    "id": "d-ar-canon",
+    "title": "Whose works belong in the canon? The Western canon debates",
+    "url": "https://en.wikipedia.org/wiki/Western_canon",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "debated",
+    "era": "1950-2000"
+  },
+  {
+    "id": "d-ar-copyright-term",
+    "title": "Are copyright terms (life+70) too long? Argued since Statute of Anne",
+    "url": "https://en.wikipedia.org/wiki/Copyright",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "debated",
+    "era": "1700s"
+  },
+  {
+    "id": "d-ar-nft",
+    "title": "NFTs: durable value or speculative bubble?",
+    "url": "https://en.wikipedia.org/wiki/Non-fungible_token",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "debated",
+    "era": "2020-2026"
+  },
+  {
+    "id": "d-ar-restoration",
+    "title": "How much should restoration intervene? (Sistine, and worse)",
+    "url": "https://en.wikipedia.org/wiki/Sistine_Chapel_ceiling",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "debated",
+    "era": "1950-2000"
+  },
+  {
+    "id": "d-ar-hip",
+    "title": "Historically informed performance: can we ever play it like they did?",
+    "url": "https://en.wikipedia.org/wiki/Historically_informed_performance",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "debated",
+    "era": "1900-1950"
+  },
+  {
+    "id": "d-ar-translation",
+    "title": "Faithful or free translation? The debate is as old as translation",
+    "url": "https://en.wikipedia.org/wiki/Translation",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "debated",
+    "era": "Antiquity"
   }
 ]

@@ -48,6 +48,222 @@
     "status": "known"
   },
   {
+    "id": "k-ec-hammurabi",
+    "title": "Written price and interest regulation (Code of Hammurabi, c. 1750 BC)",
+    "url": "https://en.wikipedia.org/wiki/Code_of_Hammurabi",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k-ec-coinage",
+    "title": "Coinage invented in Lydia (c. 600 BC) \u2014 standardized money",
+    "url": "https://en.wikipedia.org/wiki/Coin",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k-ec-bookkeeping",
+    "title": "Double-entry bookkeeping codified (Pacioli 1494) \u2014 solved accounting",
+    "url": "https://en.wikipedia.org/wiki/Double-entry_bookkeeping",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "Renaissance (1400-1600)"
+  },
+  {
+    "id": "k-ec-voc",
+    "title": "The joint-stock company scales trade (VOC 1602)",
+    "url": "https://en.wikipedia.org/wiki/Dutch_East_India_Company",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1600s"
+  },
+  {
+    "id": "k-ec-central-bank-k",
+    "title": "Central banking invented (Riksbank 1668, Bank of England 1694)",
+    "url": "https://en.wikipedia.org/wiki/Central_bank",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1600s"
+  },
+  {
+    "id": "k-ec-smith",
+    "title": "Division of labor and market coordination (Wealth of Nations 1776)",
+    "url": "https://en.wikipedia.org/wiki/The_Wealth_of_Nations",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1700s"
+  },
+  {
+    "id": "k-ec-malthus",
+    "title": "The Malthusian model \u2014 and the industrial escape from it",
+    "url": "https://en.wikipedia.org/wiki/Malthusianism",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1700s"
+  },
+  {
+    "id": "k-ec-gold-standard",
+    "title": "The classical gold standard and its mechanics (1870s-1914)",
+    "url": "https://en.wikipedia.org/wiki/Gold_standard",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k-ec-business-cycle-k",
+    "title": "Business cycles measured systematically (NBER, 1920s)",
+    "url": "https://en.wikipedia.org/wiki/Business_cycle",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k-ec-keynes",
+    "title": "Countercyclical fiscal policy formalized (Keynes 1936)",
+    "url": "https://en.wikipedia.org/wiki/Keynesian_economics",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k-ec-gdp",
+    "title": "National income accounting and GDP (Kuznets 1934)",
+    "url": "https://en.wikipedia.org/wiki/Gross_domestic_product",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k-ec-bretton",
+    "title": "Bretton Woods builds the postwar monetary order (1944)",
+    "url": "https://en.wikipedia.org/wiki/Bretton_Woods_system",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k-ec-gatt",
+    "title": "The GATT/WTO trade system lowers tariffs worldwide (1947-)",
+    "url": "https://en.wikipedia.org/wiki/General_Agreement_on_Tariffs_and_Trade",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k-ec-arrow-debreu",
+    "title": "General equilibrium proved to exist (Arrow-Debreu 1954)",
+    "url": "https://en.wikipedia.org/wiki/General_equilibrium_theory",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ec-coase",
+    "title": "The Coase theorem reframes property and externalities (1960)",
+    "url": "https://en.wikipedia.org/wiki/Coase_theorem",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ec-rct-policy",
+    "title": "Randomized trials as the gold standard for policy evidence (1948-, Nobel 2019)",
+    "url": "https://en.wikipedia.org/wiki/Randomized_controlled_trial",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ec-blackscholes",
+    "title": "Black-Scholes option pricing (1973) \u2014 solved a market's math",
+    "url": "https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ec-emh",
+    "title": "The efficient-market hypothesis formalized and tested (1965-)",
+    "url": "https://en.wikipedia.org/wiki/Efficient-market_hypothesis",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ec-prospect",
+    "title": "Prospect theory: real people deviate measurably from rationality (1979)",
+    "url": "https://en.wikipedia.org/wiki/Prospect_theory",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ec-euro",
+    "title": "The euro launches (1999) \u2014 a shared currency for 20+ nations",
+    "url": "https://en.wikipedia.org/wiki/Euro",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ec-inflation-target",
+    "title": "Inflation targeting becomes standard central-bank doctrine (1990-)",
+    "url": "https://en.wikipedia.org/wiki/Inflation_targeting",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ec-china-reform",
+    "title": "China's reforms lift ~800 million out of poverty (1978-)",
+    "url": "https://en.wikipedia.org/wiki/Chinese_economic_reform",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ec-ets",
+    "title": "Emissions trading works at scale (EU ETS 2005-)",
+    "url": "https://en.wikipedia.org/wiki/European_Union_Emissions_Trading_System",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k-ec-mpesa",
+    "title": "Mobile money reaches the unbanked (M-Pesa 2007)",
+    "url": "https://en.wikipedia.org/wiki/M-Pesa",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
     "id": "front-recession-model",
     "title": "A reliable recession-prediction model \u2014 no leading indicator set works yet",
     "url": "https://en.wikipedia.org/wiki/Recession",
@@ -90,10 +306,64 @@
   {
     "id": "front-poverty-scale",
     "title": "What sustains poverty-graduation programs at national scale \u2014 unknown",
-    "url": "https://en.wikipedia.org/wiki/Graduation_approach",
-    "source": "seed",
+    "url": "https://en.wikipedia.org/wiki/Poverty_reduction",
+    "source": "wikipedia",
     "category": "economics",
     "status": "undiscovered"
+  },
+  {
+    "id": "f-ec-social-capital",
+    "title": "Measuring and rebuilding social capital at national scale \u2014 unsolved",
+    "url": "https://en.wikipedia.org/wiki/Social_capital",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ec-public-good-funding",
+    "title": "Mechanism design that funds public goods without free-riding \u2014 unsolved",
+    "url": "https://en.wikipedia.org/wiki/Public_good_(economics)",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ec-prediction-policy",
+    "title": "Prediction markets trusted enough for policy decisions \u2014 unrealized",
+    "url": "https://en.wikipedia.org/wiki/Prediction_market",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ec-dollarization",
+    "title": "When should nations dollarize? No general theory",
+    "url": "https://en.wikipedia.org/wiki/Dollarization",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ec-human-capital",
+    "title": "The complete production function for human capital in schools \u2014 unknown",
+    "url": "https://en.wikipedia.org/wiki/Human_capital",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ec-demographic-decline",
+    "title": "Managing sustained population decline without stagnation \u2014 untested",
+    "url": "https://en.wikipedia.org/wiki/Demographic_transition",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "undiscovered",
+    "era": "1900-1950"
   },
   {
     "id": "deb-minimum-wage",
@@ -142,5 +412,68 @@
     "source": "wikipedia",
     "category": "economics",
     "status": "debated"
+  },
+  {
+    "id": "d-ec-industrial-policy",
+    "title": "Does industrial policy work, or does it pick losers?",
+    "url": "https://en.wikipedia.org/wiki/Industrial_policy",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "debated",
+    "era": "1950-2000"
+  },
+  {
+    "id": "d-ec-piketty",
+    "title": "Does r>g make inequality self-reinforcing? The Piketty debate",
+    "url": "https://en.wikipedia.org/wiki/Capital_in_the_Twenty-First_Century",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "debated",
+    "era": "2000-2019"
+  },
+  {
+    "id": "d-ec-zoning",
+    "title": "Zoning: how much of the housing crisis is regulation?",
+    "url": "https://en.wikipedia.org/wiki/Zoning",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "debated",
+    "era": "1900-1950"
+  },
+  {
+    "id": "d-ec-financialization",
+    "title": "Has financialization helped or hurt the real economy?",
+    "url": "https://en.wikipedia.org/wiki/Financialization",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "debated",
+    "era": "1950-2000"
+  },
+  {
+    "id": "d-ec-charter-cities",
+    "title": "Can charter cities bootstrap development?",
+    "url": "https://en.wikipedia.org/wiki/Charter_city",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "debated",
+    "era": "2000-2019"
+  },
+  {
+    "id": "d-ec-aid",
+    "title": "Does foreign aid cause dependency or growth? Sachs vs Easterly",
+    "url": "https://en.wikipedia.org/wiki/Development_aid",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "debated",
+    "era": "1950-2000"
+  },
+  {
+    "id": "d-ec-35h",
+    "title": "Do shorter workweeks cost or create prosperity? Trials keep testing",
+    "url": "https://en.wikipedia.org/wiki/35-hour_workweek",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "debated",
+    "era": "1950-2000"
   }
 ]

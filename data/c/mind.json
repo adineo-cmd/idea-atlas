@@ -48,6 +48,195 @@
     "status": "known"
   },
   {
+    "id": "k-mi-gage",
+    "title": "Localization of brain function (Phineas Gage, Broca 1861)",
+    "url": "https://en.wikipedia.org/wiki/Phineas_Gage",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k-mi-broca",
+    "title": "Language areas identified (Broca 1861, Wernicke 1874)",
+    "url": "https://en.wikipedia.org/wiki/Broca%27s_area",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k-mi-cajal",
+    "title": "The neuron doctrine (Cajal, 1888-1906) \u2014 brains are cells",
+    "url": "https://en.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k-mi-reflex",
+    "title": "Reflex physiology quantified (Sherrington)",
+    "url": "https://en.wikipedia.org/wiki/Reflex_arc",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k-mi-operant",
+    "title": "Operant conditioning mapped (Skinner 1938)",
+    "url": "https://en.wikipedia.org/wiki/Operant_conditioning",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k-mi-attachment",
+    "title": "Attachment theory established (Bowlby, Ainsworth 1950s-70s)",
+    "url": "https://en.wikipedia.org/wiki/Attachment_theory",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-mi-cognitive-bias",
+    "title": "Systematic cognitive biases measured (Tversky-Kahneman 1970s)",
+    "url": "https://en.wikipedia.org/wiki/Cognitive_bias",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-mi-split-brain",
+    "title": "Split-brain experiments reveal hemispheric specialization (1960s)",
+    "url": "https://en.wikipedia.org/wiki/Split-brain",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-mi-hm",
+    "title": "Patient H.M. shows memory is modular (1953-)",
+    "url": "https://en.wikipedia.org/wiki/Henry_Molaison",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-mi-neurotransmitter",
+    "title": "Chemical neurotransmission demonstrated (Loewi 1921)",
+    "url": "https://en.wikipedia.org/wiki/Neurotransmitter",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k-mi-action-potential",
+    "title": "Action potential mechanism computed (Hodgkin-Huxley 1952)",
+    "url": "https://en.wikipedia.org/wiki/Action_potential",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k-mi-rem",
+    "title": "REM sleep discovered (1953)",
+    "url": "https://en.wikipedia.org/wiki/REM_sleep",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-mi-circadian-genes",
+    "title": "Circadian clock genes identified (Nobel 2017)",
+    "url": "https://en.wikipedia.org/wiki/Circadian_rhythm",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-mi-fmri",
+    "title": "fMRI maps human brain activity (1990-)",
+    "url": "https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-mi-cbt",
+    "title": "Cognitive behavioral therapy works for anxiety and depression (trials 1970s-)",
+    "url": "https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-mi-place-cell",
+    "title": "Place and grid cells: the brain's positioning system (Nobel 2014)",
+    "url": "https://en.wikipedia.org/wiki/Place_cell",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-mi-bci",
+    "title": "Brain-computer interfaces let paralyzed people type (2006-)",
+    "url": "https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k-mi-dbs",
+    "title": "Deep brain stimulation treats Parkinson's tremor (1997-)",
+    "url": "https://en.wikipedia.org/wiki/Deep_brain_stimulation",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k-mi-testing-effect",
+    "title": "Retrieval practice beats re-reading (2006, heavily replicated)",
+    "url": "https://en.wikipedia.org/wiki/Testing_effect",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k-mi-dk-effect",
+    "title": "The Dunning-Kruger effect and its statistical subtleties (1999)",
+    "url": "https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k-mi-brain-training",
+    "title": "Brain-training games fail to transfer broadly \u2014 established null",
+    "url": "https://en.wikipedia.org/wiki/Cognitive_training",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
     "id": "front-ncc-theory",
     "title": "A complete theory of the neural correlates of consciousness \u2014 missing",
     "url": "https://en.wikipedia.org/wiki/Neural_correlates_of_consciousness",
@@ -96,6 +285,51 @@
     "status": "undiscovered"
   },
   {
+    "id": "f-mi-connectome",
+    "title": "A full connectome mapped and simulated for a mammal \u2014 unfinished",
+    "url": "https://en.wikipedia.org/wiki/Connectome",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-mi-alzheimers",
+    "title": "A disease-modifying treatment for Alzheimer's \u2014 still missing",
+    "url": "https://en.wikipedia.org/wiki/Alzheimer%27s_disease",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "undiscovered",
+    "era": "1900-1950"
+  },
+  {
+    "id": "f-mi-artificial-conscious",
+    "title": "Whether machines can be conscious \u2014 unresolved",
+    "url": "https://en.wikipedia.org/wiki/Artificial_consciousness",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-mi-mind-uploading",
+    "title": "Whole-brain emulation \u2014 not possible",
+    "url": "https://en.wikipedia.org/wiki/Mind_uploading",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-mi-schizophrenia",
+    "title": "The causal mechanisms of schizophrenia \u2014 unsolved",
+    "url": "https://en.wikipedia.org/wiki/Schizophrenia",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "undiscovered",
+    "era": "1900-1950"
+  },
+  {
     "id": "deb-therapy-factors",
     "title": "Does psychotherapy work via specific techniques or common factors?",
     "url": "https://en.wikipedia.org/wiki/Common_factors_theory",
@@ -134,5 +368,77 @@
     "source": "wikipedia",
     "category": "mind",
     "status": "debated"
+  },
+  {
+    "id": "d-mi-serotonin-hyp",
+    "title": "Is depression a serotonin-chemical imbalance? The hypothesis is under fire",
+    "url": "https://en.wikipedia.org/wiki/Serotonin",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "debated",
+    "era": "1950-2000"
+  },
+  {
+    "id": "d-mi-mindset",
+    "title": "Do growth-mindset interventions work at scale? Mixed evidence",
+    "url": "https://en.wikipedia.org/wiki/Mindset",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "debated",
+    "era": "2000-2019"
+  },
+  {
+    "id": "d-mi-mirror-neurons",
+    "title": "What mirror neurons actually do for human cognition \u2014 contested",
+    "url": "https://en.wikipedia.org/wiki/Mirror_neuron",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "debated",
+    "era": "1950-2000"
+  },
+  {
+    "id": "d-mi-ug",
+    "title": "Is universal grammar real? Linguistics still argues",
+    "url": "https://en.wikipedia.org/wiki/Universal_grammar",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "debated",
+    "era": "1950-2000"
+  },
+  {
+    "id": "d-mi-learning-styles",
+    "title": "Why did the learning-styles myth persist despite null results?",
+    "url": "https://en.wikipedia.org/wiki/Learning_styles",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "debated",
+    "era": "1950-2000"
+  },
+  {
+    "id": "d-mi-psychedelics",
+    "title": "Do psychedelic therapies work beyond expectation effects?",
+    "url": "https://en.wikipedia.org/wiki/Psychedelic_therapy",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "debated",
+    "era": "2000-2019"
+  },
+  {
+    "id": "d-mi-repressed",
+    "title": "Are repressed memories real memories? Still contested",
+    "url": "https://en.wikipedia.org/wiki/Repressed_memory",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "debated",
+    "era": "1950-2000"
+  },
+  {
+    "id": "d-mi-multi-intel",
+    "title": "Multiple intelligences: influential theory, weak evidence",
+    "url": "https://en.wikipedia.org/wiki/Theory_of_multiple_intelligences",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "debated",
+    "era": "1950-2000"
   }
 ]

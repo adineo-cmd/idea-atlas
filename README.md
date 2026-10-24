@@ -2,7 +2,8 @@
 
 **Don't rebuild solved. Build what's new.**
 
-A free, static atlas of knowledge that charts every field the same way:
+A free, static atlas of knowledge that charts every field the same way — from
+antiquity to 2026:
 
 | Territory | Glyph | Meaning |
 |---|---|---|
@@ -10,9 +11,11 @@ A free, static atlas of knowledge that charts every field the same way:
 | **Debated** | open circle | Live problems people are actively discussing across the internet. |
 | **Frontier** | hollow diamond | Genuinely undiscovered — open problems, missing inventions. |
 
-The site ships an **Idea Validator** (type an idea, get a verdict) and per-field
-**sheets** you can browse: physics, software, math, biology, arts & humanities,
-high-dim vectors, astronomy & space, mind & psychology, chemistry, economics & society.
+Nearly 600 hand-curated entries across ten sheets: physics, software, math,
+biology, arts & humanities, high-dim vectors, astronomy & space, mind &
+psychology, chemistry, and economics & society. Each entry can carry an `era`
+tag (Antiquity, Medieval, Renaissance, 1600s … 2020-2026), and every sheet page
+has status tabs, a live text filter, and an era filter.
 
 ## How it works
 
@@ -69,12 +72,15 @@ Add entries to `data/seed/known.json`, `debated.json`, or `undiscovered.json`:
   "url": "https://en.wikipedia.org/wiki/…",
   "source": "wikipedia",
   "category": "physics",
-  "status": "known"
+  "status": "known",
+  "era": "1600s"
 }
 ```
 
 `status` ∈ `known | debated | undiscovered`, `category` must be a slug from
-`data/seed/categories.json`. IDs must be unique across all three files.
+`data/seed/categories.json`, `era` is optional (Antiquity … 2020-2026).
+IDs must be unique across all three files, and one URL may appear only once —
+dedupe keeps the first entry, and seeds load in the order known → undiscovered → debated.
 
 ## License
 

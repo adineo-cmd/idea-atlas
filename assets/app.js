@@ -3,7 +3,7 @@
 async function loadJSON(paths) {
   for (const p of paths) {
     try {
-      const r = await fetch(p);
+      const r = await fetch(p, { cache: "no-cache" });
       if (r.ok) return await r.json();
     } catch (e) { /* try next path */ }
   }
@@ -38,6 +38,10 @@ function highlight(title, query) {
 
 const STATUS_ORDER = ["known", "debated", "undiscovered"];
 const STATUS_WORD = { known: "Known", debated: "Debated", undiscovered: "Frontier" };
+const ERA_ORDER = [
+  "Antiquity", "Medieval", "Renaissance (1400-1600)", "1600s", "1700s", "1800s",
+  "1900-1950", "1950-2000", "2000-2019", "2020-2026",
+];
 const STATUS_BLURB = {
   known: "Known — don't rebuild",
   debated: "Debated — people are discussing",
@@ -105,6 +109,7 @@ function hitRow(query) {
       '<span class="title">' + highlight(h.title, query) + "</span>" +
       '<span class="meta"><span class="status-word ' + h.status + '">' + STATUS_WORD[h.status] + "</span>" +
       "<span>" + escapeHtml(h.category || "") + "</span>" +
+      (h.era ? "<span>" + escapeHtml(h.era) + "</span>" : "") +
       "<span>" + escapeHtml(h.source || "") + "</span></span>" +
       (h.note ? '<span class="callout">' + escapeHtml(h.note) + "</span>" : "") +
       "</a></li>"
@@ -159,7 +164,7 @@ if (typeof window !== "undefined") {
     loadIndex, loadMeta, loadCategory, loadCategories,
     validator, escapeHtml, escapeRe, highlight,
     isStale, staleBadge, renderHits, renderVerdict, renderEntries,
-    STATUS_ORDER, STATUS_WORD,
+    STATUS_ORDER, STATUS_WORD, ERA_ORDER,
     initTheme, setTheme, countUp,
   };
 }

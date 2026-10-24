@@ -522,8 +522,8 @@
   {
     "id": "front-primordial-gw",
     "title": "Primordial gravitational-wave background from inflation — not yet detected",
-    "url": "https://en.wikipedia.org/wiki/Gravitational-wave_background",
-    "source": "seed",
+    "url": "https://en.wikipedia.org/wiki/Stochastic_gravitational_wave_background",
+    "source": "wikipedia",
     "category": "space",
     "status": "undiscovered"
   },
@@ -666,9 +666,657 @@
   {
     "id": "front-poverty-scale",
     "title": "What sustains poverty-graduation programs at national scale — unknown",
-    "url": "https://en.wikipedia.org/wiki/Graduation_approach",
-    "source": "seed",
+    "url": "https://en.wikipedia.org/wiki/Poverty_reduction",
+    "source": "wikipedia",
     "category": "economics",
     "status": "undiscovered"
+  },
+  {
+    "id": "f-ph-gut",
+    "title": "Grand unified theory linking the forces — undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Grand_Unified_Theory",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ph-baryogenesis",
+    "title": "Why matter outweighs antimatter (baryogenesis mechanism) — undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Baryogenesis",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ph-proton-decay",
+    "title": "Whether the proton decays (and how) — unobserved, undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Proton_decay",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ph-sterile-neutrino",
+    "title": "Sterile neutrinos and the absolute neutrino mass scale — unknown",
+    "url": "https://en.wikipedia.org/wiki/Sterile_neutrino",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ph-big-bang-cause",
+    "title": "What caused or preceded the Big Bang — unknown",
+    "url": "https://en.wikipedia.org/wiki/Big_Bang",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered",
+    "era": "1900-1950"
+  },
+  {
+    "id": "f-ph-earthquake-prediction",
+    "title": "Predicting the time and place of earthquakes — no working method",
+    "url": "https://en.wikipedia.org/wiki/Earthquake_prediction",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered",
+    "era": "1900-1950"
+  },
+  {
+    "id": "f-ph-ball-lightning",
+    "title": "The physical mechanism of ball lightning — unsolved",
+    "url": "https://en.wikipedia.org/wiki/Ball_lightning",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered",
+    "era": "1800s"
+  },
+  {
+    "id": "f-ph-antimatter-macro",
+    "title": "Producing and storing macroscopic antimatter — unbuilt",
+    "url": "https://en.wikipedia.org/wiki/Antimatter",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered",
+    "era": "1900-1950"
+  },
+  {
+    "id": "f-ph-inflation-mechanism",
+    "title": "The mechanism (and evidence) for cosmic inflation — unsettled",
+    "url": "https://en.wikipedia.org/wiki/Inflation_(cosmology)",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-sp-earth-twin-image",
+    "title": "Direct image and spectrum of an Earth-like exoplanet — not yet taken",
+    "url": "https://en.wikipedia.org/wiki/Coronagraph",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-sp-europa-lander",
+    "title": "Life in Europa's or Enceladus' subsurface ocean — untested",
+    "url": "https://en.wikipedia.org/wiki/Europa_Clipper",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "undiscovered",
+    "era": "2000-2019"
+  },
+  {
+    "id": "f-sp-seti-detection",
+    "title": "A confirmed technosignature from another civilization — none yet",
+    "url": "https://en.wikipedia.org/wiki/Search_for_extraterrestrial_intelligence",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-sp-starshot",
+    "title": "Interstellar probe to another star (breakthrough-class) — unbuilt",
+    "url": "https://en.wikipedia.org/wiki/Breakthrough_Starshot",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "undiscovered",
+    "era": "2000-2019"
+  },
+  {
+    "id": "f-sp-space-elevator",
+    "title": "A space elevator or equivalent cheap launch structure — undesigned",
+    "url": "https://en.wikipedia.org/wiki/Space_elevator",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "undiscovered",
+    "era": "1800s"
+  },
+  {
+    "id": "f-sp-asteroid-mining",
+    "title": "Profitable asteroid mining — unbuilt",
+    "url": "https://en.wikipedia.org/wiki/Asteroid_mining",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "undiscovered",
+    "era": "2000-2019"
+  },
+  {
+    "id": "f-sp-debris-removal",
+    "title": "Active removal of orbital debris at scale — unbuilt",
+    "url": "https://en.wikipedia.org/wiki/Kessler_syndrome",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-sp-hibernation",
+    "title": "Human torpor/hibernation for long transit — not achievable",
+    "url": "https://en.wikipedia.org/wiki/Hibernation",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ma-yang-mills",
+    "title": "Yang-Mills existence and mass gap (Clay problem) — unresolved",
+    "url": "https://en.wikipedia.org/wiki/Yang%E2%80%93Mills_existence_and_mass_gap",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ma-twin-primes",
+    "title": "Are there infinitely many twin primes? Open since 1849",
+    "url": "https://en.wikipedia.org/wiki/Twin_prime",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "undiscovered",
+    "era": "1800s"
+  },
+  {
+    "id": "f-ma-goldbach",
+    "title": "Goldbach's conjecture (every even number a sum of two primes) — open since 1742",
+    "url": "https://en.wikipedia.org/wiki/Goldbach%27s_conjecture",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "undiscovered",
+    "era": "1700s"
+  },
+  {
+    "id": "f-ma-langlands",
+    "title": "The Langlands program: unifying number theory and representation theory — incomplete",
+    "url": "https://en.wikipedia.org/wiki/Langlands_program",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ma-odd-perfect",
+    "title": "Does an odd perfect number exist? Open since antiquity",
+    "url": "https://en.wikipedia.org/wiki/Perfect_number",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "undiscovered",
+    "era": "Antiquity"
+  },
+  {
+    "id": "f-ma-hadwiger-nelson",
+    "title": "Chromatic number of the plane (Hadwiger-Nelson) — only 5,6,7 ruled in/out",
+    "url": "https://en.wikipedia.org/wiki/Hadwiger%E2%80%93Nelson_problem",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ma-moving-sofa",
+    "title": "Moving sofa problem: the exact largest sofa is still unknown",
+    "url": "https://en.wikipedia.org/wiki/Moving_sofa_problem",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ma-inscribed-square",
+    "title": "Does every Jordan curve contain four points forming a square? Open",
+    "url": "https://en.wikipedia.org/wiki/Inscribed_square_problem",
+    "source": "wikipedia",
+    "category": "math",
+    "status": "undiscovered",
+    "era": "1900-1950"
+  },
+  {
+    "id": "f-sw-autonomous-swe",
+    "title": "AI agents that plan and ship reliable changes over large codebases — missing",
+    "url": "https://en.wikipedia.org/wiki/Intelligent_agent",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "undiscovered",
+    "era": "2020-2026"
+  },
+  {
+    "id": "f-sw-pq-migration",
+    "title": "Completed migration to post-quantum cryptography — in progress",
+    "url": "https://en.wikipedia.org/wiki/Post-quantum_cryptography",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "undiscovered",
+    "era": "2020-2026"
+  },
+  {
+    "id": "f-sw-neuromorphic",
+    "title": "Computing that breaks von Neumann's energy wall — unbuilt",
+    "url": "https://en.wikipedia.org/wiki/Neuromorphic_engineering",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-sw-verifiable-voting",
+    "title": "Internet voting that is provably coercion-resistant — unsolved",
+    "url": "https://en.wikipedia.org/wiki/Electronic_voting",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-sw-repro-builds",
+    "title": "Reproducible builds everywhere — incomplete",
+    "url": "https://en.wikipedia.org/wiki/Reproducible_builds",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "undiscovered",
+    "era": "2000-2019"
+  },
+  {
+    "id": "f-sw-supply-chain-safety",
+    "title": "End-to-end provenance for every software dependency — unbuilt",
+    "url": "https://en.wikipedia.org/wiki/Supply_chain_attack",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "undiscovered",
+    "era": "2000-2019"
+  },
+  {
+    "id": "f-ve-interp-frontier",
+    "title": "Full mechanistic interpretability of a frontier model — not achieved",
+    "url": "https://en.wikipedia.org/wiki/Interpretability_(machine_learning)",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "undiscovered",
+    "era": "2020-2026"
+  },
+  {
+    "id": "f-ve-few-shot",
+    "title": "Human-level sample efficiency from a handful of examples — missing",
+    "url": "https://en.wikipedia.org/wiki/Few-shot_learning",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "undiscovered",
+    "era": "2000-2019"
+  },
+  {
+    "id": "f-ve-continual",
+    "title": "Continual learning without catastrophic forgetting — unsolved",
+    "url": "https://en.wikipedia.org/wiki/Catastrophic_interference",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ve-grounding",
+    "title": "Solving the symbol grounding problem for embodied agents — open",
+    "url": "https://en.wikipedia.org/wiki/Symbol_grounding_problem",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ve-causal-representation",
+    "title": "Learning causal models from observation alone — open",
+    "url": "https://en.wikipedia.org/wiki/Causal_inference",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ve-world-models",
+    "title": "Agents with genuine world models that plan reliably — open",
+    "url": "https://en.wikipedia.org/wiki/World_model",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "undiscovered",
+    "era": "2000-2019"
+  },
+  {
+    "id": "f-ve-robust-guarantee",
+    "title": "Certified robustness of neural networks to adversarial inputs — unsolved",
+    "url": "https://en.wikipedia.org/wiki/Adversarial_machine_learning",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "undiscovered",
+    "era": "2000-2019"
+  },
+  {
+    "id": "f-ve-qml-advantage",
+    "title": "A quantum speedup for practical machine learning — unproven",
+    "url": "https://en.wikipedia.org/wiki/Quantum_machine_learning",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "undiscovered",
+    "era": "2000-2019"
+  },
+  {
+    "id": "f-ve-hutter",
+    "title": "Compression as intelligence: the Hutter Prize frontier",
+    "url": "https://en.wikipedia.org/wiki/Hutter_Prize",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "undiscovered",
+    "era": "2000-2019"
+  },
+  {
+    "id": "f-ve-ml-weather",
+    "title": "ML weather models that fully beat numerical prediction — nearly there",
+    "url": "https://en.wikipedia.org/wiki/Numerical_weather_prediction",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-bi-protocell",
+    "title": "A self-replicating protocell built from scratch — not achieved",
+    "url": "https://en.wikipedia.org/wiki/Protocell",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-bi-cancer-immuno",
+    "title": "Broad, reliable cures for most cancers — missing",
+    "url": "https://en.wikipedia.org/wiki/Cancer_immunotherapy",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered",
+    "era": "2000-2019"
+  },
+  {
+    "id": "f-bi-hiv-cure",
+    "title": "A scalable cure for HIV — not achieved",
+    "url": "https://en.wikipedia.org/wiki/HIV/AIDS_research",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-bi-senolytics",
+    "title": "Interventions that reliably slow human aging — unproven in humans",
+    "url": "https://en.wikipedia.org/wiki/Senolytic",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered",
+    "era": "2000-2019"
+  },
+  {
+    "id": "f-bi-regeneration",
+    "title": "Human-scale limb and organ regeneration — missing",
+    "url": "https://en.wikipedia.org/wiki/Regeneration_(biology)",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered",
+    "era": "1800s"
+  },
+  {
+    "id": "f-bi-c4-rice",
+    "title": "C4 photosynthesis engineered into staple crops — unbuilt",
+    "url": "https://en.wikipedia.org/wiki/C4_carbon_fixation",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-bi-planetary-tipping",
+    "title": "Predicting ecosystem and climate tipping points before they hit — missing",
+    "url": "https://en.wikipedia.org/wiki/Planetary_boundaries",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered",
+    "era": "2000-2019"
+  },
+  {
+    "id": "f-bi-nitrogen-cereals",
+    "title": "Nitrogen-fixing cereal crops (symbiotic) — unbuilt",
+    "url": "https://en.wikipedia.org/wiki/Nitrogen_fixation",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered",
+    "era": "1800s"
+  },
+  {
+    "id": "f-bi-pollinator-crash",
+    "title": "Causes and reversal of global pollinator decline — unsolved",
+    "url": "https://en.wikipedia.org/wiki/Pollinator_decline",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered",
+    "era": "2000-2019"
+  },
+  {
+    "id": "f-ar-digital-preservation",
+    "title": "Preserving born-digital art for centuries — unsolved in practice",
+    "url": "https://en.wikipedia.org/wiki/Digital_preservation",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ar-lit-mt",
+    "title": "Machine translation that carries literature's voice — not achieved",
+    "url": "https://en.wikipedia.org/wiki/Literary_translation",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ar-herculaneum",
+    "title": "Reading the unopenable Herculaneum papyri — AI is just starting",
+    "url": "https://en.wikipedia.org/wiki/Herculaneum_papyri",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "undiscovered",
+    "era": "1700s"
+  },
+  {
+    "id": "f-ar-aesthetics-theory",
+    "title": "A predictive theory of aesthetic experience — missing",
+    "url": "https://en.wikipedia.org/wiki/Aesthetics",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "undiscovered",
+    "era": "Antiquity"
+  },
+  {
+    "id": "f-mi-connectome",
+    "title": "A full connectome mapped and simulated for a mammal — unfinished",
+    "url": "https://en.wikipedia.org/wiki/Connectome",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-mi-alzheimers",
+    "title": "A disease-modifying treatment for Alzheimer's — still missing",
+    "url": "https://en.wikipedia.org/wiki/Alzheimer%27s_disease",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "undiscovered",
+    "era": "1900-1950"
+  },
+  {
+    "id": "f-mi-artificial-conscious",
+    "title": "Whether machines can be conscious — unresolved",
+    "url": "https://en.wikipedia.org/wiki/Artificial_consciousness",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-mi-mind-uploading",
+    "title": "Whole-brain emulation — not possible",
+    "url": "https://en.wikipedia.org/wiki/Mind_uploading",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-mi-schizophrenia",
+    "title": "The causal mechanisms of schizophrenia — unsolved",
+    "url": "https://en.wikipedia.org/wiki/Schizophrenia",
+    "source": "wikipedia",
+    "category": "mind",
+    "status": "undiscovered",
+    "era": "1900-1950"
+  },
+  {
+    "id": "f-ch-ch-activation",
+    "title": "Cheap, selective C-H activation as a commodity tool — unsolved",
+    "url": "https://en.wikipedia.org/wiki/Carbon%E2%80%93hydrogen_bond_activation",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ch-denovo-enzyme",
+    "title": "De novo designed enzymes matching natural catalysis — not achieved",
+    "url": "https://en.wikipedia.org/wiki/Protein_design",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "undiscovered",
+    "era": "2000-2019"
+  },
+  {
+    "id": "f-ch-methane-removal",
+    "title": "Methane removal from air at scale — unbuilt",
+    "url": "https://en.wikipedia.org/wiki/Atmospheric_methane",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ch-desal-step",
+    "title": "A step-change in desalination energy cost — missing",
+    "url": "https://en.wikipedia.org/wiki/Desalination",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ch-atomic-mfg",
+    "title": "Atomically precise manufacturing beyond self-assembly — unbuilt",
+    "url": "https://en.wikipedia.org/wiki/Molecular_nanotechnology",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ch-prion-cure",
+    "title": "A cure for prion diseases — missing",
+    "url": "https://en.wikipedia.org/wiki/Prion",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ch-heterog-catalysis",
+    "title": "Predictive theory of heterogeneous catalysis under working conditions — incomplete",
+    "url": "https://en.wikipedia.org/wiki/Heterogeneous_catalysis",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "undiscovered",
+    "era": "1900-1950"
+  },
+  {
+    "id": "f-ec-social-capital",
+    "title": "Measuring and rebuilding social capital at national scale — unsolved",
+    "url": "https://en.wikipedia.org/wiki/Social_capital",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ec-public-good-funding",
+    "title": "Mechanism design that funds public goods without free-riding — unsolved",
+    "url": "https://en.wikipedia.org/wiki/Public_good_(economics)",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ec-prediction-policy",
+    "title": "Prediction markets trusted enough for policy decisions — unrealized",
+    "url": "https://en.wikipedia.org/wiki/Prediction_market",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ec-dollarization",
+    "title": "When should nations dollarize? No general theory",
+    "url": "https://en.wikipedia.org/wiki/Dollarization",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ec-human-capital",
+    "title": "The complete production function for human capital in schools — unknown",
+    "url": "https://en.wikipedia.org/wiki/Human_capital",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ec-demographic-decline",
+    "title": "Managing sustained population decline without stagnation — untested",
+    "url": "https://en.wikipedia.org/wiki/Demographic_transition",
+    "source": "wikipedia",
+    "category": "economics",
+    "status": "undiscovered",
+    "era": "1900-1950"
   }
 ]

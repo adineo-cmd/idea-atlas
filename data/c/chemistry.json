@@ -48,6 +48,213 @@
     "status": "known"
   },
   {
+    "id": "k-ch-alchemy-tech",
+    "title": "Distillation and lab technique inherited from alchemy (8th-14th c.)",
+    "url": "https://en.wikipedia.org/wiki/Alchemy",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k-ch-lavoisier",
+    "title": "Lavoisier's oxygen chemistry kills phlogiston (1770s-80s)",
+    "url": "https://en.wikipedia.org/wiki/Antoine_Lavoisier",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "1700s"
+  },
+  {
+    "id": "k-ch-mass-conservation",
+    "title": "Conservation of mass in reactions established (1789)",
+    "url": "https://en.wikipedia.org/wiki/Conservation_of_mass",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "1700s"
+  },
+  {
+    "id": "k-ch-dalton",
+    "title": "Dalton's atomic theory (1808)",
+    "url": "https://en.wikipedia.org/wiki/John_Dalton",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k-ch-avogadro",
+    "title": "Avogadro's law and the mole concept (1811)",
+    "url": "https://en.wikipedia.org/wiki/Avogadro%27s_law",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k-ch-electrochem",
+    "title": "Electrochemistry: Volta's pile through Faraday's laws (1800-34)",
+    "url": "https://en.wikipedia.org/wiki/Electrochemistry",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k-ch-wohler",
+    "title": "Wohler synthesizes urea: organic from inorganic (1828)",
+    "url": "https://en.wikipedia.org/wiki/W%C3%B6hler_synthesis",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k-ch-mauveine",
+    "title": "Synthetic dye industry begins (Perkin's mauveine 1856)",
+    "url": "https://en.wikipedia.org/wiki/Mauveine",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k-ch-gibbs",
+    "title": "Chemical thermodynamics founded (Gibbs 1876-78)",
+    "url": "https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k-ch-arrhenius",
+    "title": "Arrhenius equation quantifies reaction rates (1889)",
+    "url": "https://en.wikipedia.org/wiki/Arrhenius_equation",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k-ch-bonding",
+    "title": "The chemical bond explained by quantum mechanics (1916-39)",
+    "url": "https://en.wikipedia.org/wiki/Chemical_bond",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k-ch-coordination",
+    "title": "Coordination chemistry systematized (Werner 1893)",
+    "url": "https://en.wikipedia.org/wiki/Coordination_complex",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k-ch-haber",
+    "title": "Haber-Bosch fixes nitrogen for fertilizer (1909-13) \u2014 feeds billions",
+    "url": "https://en.wikipedia.org/wiki/Fritz_Haber",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k-ch-polymer-k",
+    "title": "Polymer chemistry established (Staudinger 1920s)",
+    "url": "https://en.wikipedia.org/wiki/Polymer",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k-ch-ph-scale",
+    "title": "The pH scale standardizes acidity (Sorensen 1909)",
+    "url": "https://en.wikipedia.org/wiki/PH",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k-ch-fullerene",
+    "title": "Fullerenes discovered (1985)",
+    "url": "https://en.wikipedia.org/wiki/Fullerene",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ch-nmr-k",
+    "title": "NMR spectroscopy solves molecular structure (1945-)",
+    "url": "https://en.wikipedia.org/wiki/Nuclear_magnetic_resonance_spectroscopy",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ch-li-ion",
+    "title": "Lithium-ion batteries (1985-91) \u2014 solved portable energy, Nobel 2019",
+    "url": "https://en.wikipedia.org/wiki/Lithium-ion_battery",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ch-oled",
+    "title": "OLED displays (1987-)",
+    "url": "https://en.wikipedia.org/wiki/OLED",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ch-click",
+    "title": "Click chemistry and bioorthogonal reactions (Nobel 2022)",
+    "url": "https://en.wikipedia.org/wiki/Click_chemistry",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k-ch-cryoem",
+    "title": "Cryo-EM resolves biomolecules at near-atomic scale (Nobel 2017)",
+    "url": "https://en.wikipedia.org/wiki/Cryogenic_electron_microscopy",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k-ch-directed-evo",
+    "title": "Directed evolution of enzymes (Nobel 2018)",
+    "url": "https://en.wikipedia.org/wiki/Directed_evolution",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k-ch-enantio",
+    "title": "Enantioselective synthesis industrialized (Nobel 2001)",
+    "url": "https://en.wikipedia.org/wiki/Enantioselective_synthesis",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
     "id": "front-ambient-sc",
     "title": "Superconductor at room temperature and ambient pressure \u2014 undiscovered",
     "url": "https://en.wikipedia.org/wiki/Room-temperature_superconductor",
@@ -96,6 +303,69 @@
     "status": "undiscovered"
   },
   {
+    "id": "f-ch-ch-activation",
+    "title": "Cheap, selective C-H activation as a commodity tool \u2014 unsolved",
+    "url": "https://en.wikipedia.org/wiki/Carbon%E2%80%93hydrogen_bond_activation",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ch-denovo-enzyme",
+    "title": "De novo designed enzymes matching natural catalysis \u2014 not achieved",
+    "url": "https://en.wikipedia.org/wiki/Protein_design",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "undiscovered",
+    "era": "2000-2019"
+  },
+  {
+    "id": "f-ch-methane-removal",
+    "title": "Methane removal from air at scale \u2014 unbuilt",
+    "url": "https://en.wikipedia.org/wiki/Atmospheric_methane",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ch-desal-step",
+    "title": "A step-change in desalination energy cost \u2014 missing",
+    "url": "https://en.wikipedia.org/wiki/Desalination",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ch-atomic-mfg",
+    "title": "Atomically precise manufacturing beyond self-assembly \u2014 unbuilt",
+    "url": "https://en.wikipedia.org/wiki/Molecular_nanotechnology",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ch-prion-cure",
+    "title": "A cure for prion diseases \u2014 missing",
+    "url": "https://en.wikipedia.org/wiki/Prion",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ch-heterog-catalysis",
+    "title": "Predictive theory of heterogeneous catalysis under working conditions \u2014 incomplete",
+    "url": "https://en.wikipedia.org/wiki/Heterogeneous_catalysis",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "undiscovered",
+    "era": "1900-1950"
+  },
+  {
     "id": "deb-water-liquids",
     "title": "Does supercooled water have a liquid\u2013liquid transition? Two-liquids hypothesis",
     "url": "https://en.wikipedia.org/wiki/Properties_of_water",
@@ -142,5 +412,59 @@
     "source": "wikipedia",
     "category": "chemistry",
     "status": "debated"
+  },
+  {
+    "id": "d-ch-hydrophobic",
+    "title": "Is the hydrophobic effect fully understood? Debates continue",
+    "url": "https://en.wikipedia.org/wiki/Hydrophobic_effect",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "debated",
+    "era": "1950-2000"
+  },
+  {
+    "id": "d-ch-prebiotic-path",
+    "title": "Which prebiotic chemistry pathway actually started life? Miller-Urey debates continue",
+    "url": "https://en.wikipedia.org/wiki/Miller%E2%80%93Urey_experiment",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "debated",
+    "era": "1950-2000"
+  },
+  {
+    "id": "d-ch-ccs",
+    "title": "Can carbon capture and storage work at climate-relevant scale?",
+    "url": "https://en.wikipedia.org/wiki/Carbon_capture_and_storage",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "debated",
+    "era": "2000-2019"
+  },
+  {
+    "id": "d-ch-pfas",
+    "title": "Remediation of 'forever chemicals' (PFAS) \u2014 methods contested",
+    "url": "https://en.wikipedia.org/wiki/Per-_and_polyfluoroalkyl_substances",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "debated",
+    "era": "2000-2019"
+  },
+  {
+    "id": "d-ch-quantum-bio",
+    "title": "Does quantum coherence matter functionally in biology?",
+    "url": "https://en.wikipedia.org/wiki/Quantum_biology",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "debated",
+    "era": "2000-2019"
+  },
+  {
+    "id": "d-ch-efuels",
+    "title": "E-fuels vs batteries for transport: which decarbonizes faster?",
+    "url": "https://en.wikipedia.org/wiki/Synthetic_fuel",
+    "source": "wikipedia",
+    "category": "chemistry",
+    "status": "debated",
+    "era": "2020-2026"
   }
 ]

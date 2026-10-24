@@ -48,6 +48,222 @@
     "status": "known"
   },
   {
+    "id": "k-sp-eratosthenes",
+    "title": "Eratosthenes measured Earth's circumference (~240 BC) \u2014 solved geometry",
+    "url": "https://en.wikipedia.org/wiki/Eratosthenes",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k-sp-aristarchus",
+    "title": "Aristarchus proposed heliocentrism and measured the Moon's distance \u2014 antiquity",
+    "url": "https://en.wikipedia.org/wiki/Aristarchus_of_Samos",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k-sp-sn1054",
+    "title": "Supernova SN 1054 recorded by astronomers \u2014 now the Crab Nebula",
+    "url": "https://en.wikipedia.org/wiki/SN_1054",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k-sp-revolutionibus",
+    "title": "Copernicus' De revolutionibus establishes the heliocentric system (1543)",
+    "url": "https://en.wikipedia.org/wiki/De_revolutionibus_orbium_coelestium",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "Renaissance (1400-1600)"
+  },
+  {
+    "id": "k-sp-sidereus",
+    "title": "Galileo's Sidereus Nuncius: moons of Jupiter, lunar mountains (1610)",
+    "url": "https://en.wikipedia.org/wiki/Sidereus_Nuncius",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "1600s"
+  },
+  {
+    "id": "k-sp-halley",
+    "title": "Halley predicted his comet's return (1705) \u2014 comets follow orbits",
+    "url": "https://en.wikipedia.org/wiki/Halley%27s_Comet",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "1700s"
+  },
+  {
+    "id": "k-sp-neptune-discovery",
+    "title": "Neptune found by calculation before observation (1846) \u2014 solved prediction",
+    "url": "https://en.wikipedia.org/wiki/Discovery_of_Neptune",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k-sp-parallax",
+    "title": "Stellar parallax measured (Bessel 1838) \u2014 proof Earth orbits the Sun",
+    "url": "https://en.wikipedia.org/wiki/Stellar_parallax",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k-sp-spectroscopy",
+    "title": "Astronomical spectroscopy: what stars are made of (Kirchhoff, Bunsen 1859)",
+    "url": "https://en.wikipedia.org/wiki/Astronomical_spectroscopy",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k-sp-leavitt",
+    "title": "Cepheid period-luminosity relation (Leavitt 1908) \u2014 the ruler for the universe",
+    "url": "https://en.wikipedia.org/wiki/Period-luminosity_relation",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k-sp-pulsar",
+    "title": "Pulsars discovered (Bell-Burnell & Hewish 1967)",
+    "url": "https://en.wikipedia.org/wiki/Pulsar",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-sp-quasar",
+    "title": "Quasars identified as bright nuclei of distant galaxies (1963)",
+    "url": "https://en.wikipedia.org/wiki/Quasar",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-sp-apollo",
+    "title": "Humans walked on the Moon (Apollo 11, 1969)",
+    "url": "https://en.wikipedia.org/wiki/Apollo_program",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-sp-voyager",
+    "title": "Voyager missions surveyed the outer planets and left the heliosphere",
+    "url": "https://en.wikipedia.org/wiki/Voyager_program",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-sp-exoplanet",
+    "title": "Exoplanets around sun-like stars confirmed (1995; Nobel 2019) \u2014 thousands now known",
+    "url": "https://en.wikipedia.org/wiki/Exoplanet",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-sp-eht",
+    "title": "First image of a black hole's shadow (Event Horizon Telescope 2019)",
+    "url": "https://en.wikipedia.org/wiki/Event_Horizon_Telescope",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k-sp-jwst",
+    "title": "James Webb Space Telescope launched and producing deep-field science (2021-)",
+    "url": "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k-sp-dart",
+    "title": "DART deflected an asteroid on purpose (2022) \u2014 planetary defense demonstrated",
+    "url": "https://en.wikipedia.org/wiki/Double_Asteroid_Redirection_Test",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k-sp-change6",
+    "title": "Chang'e 6 returned samples from the Moon's far side (2024)",
+    "url": "https://en.wikipedia.org/wiki/Chang%27e_6",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k-sp-ingenuity",
+    "title": "Powered flight on another planet (Mars helicopter Ingenuity, 2021)",
+    "url": "https://en.wikipedia.org/wiki/Ingenuity_(helicopter)",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k-sp-spacex-reuse",
+    "title": "Orbital rocket boosters land and fly again (SpaceX, 2015-)",
+    "url": "https://en.wikipedia.org/wiki/SpaceX",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k-sp-arrokoth",
+    "title": "Close-up of a pristine Kuiper Belt object (New Horizons at Arrokoth, 2019)",
+    "url": "https://en.wikipedia.org/wiki/Arrokoth",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k-sp-parker",
+    "title": "Parker Solar Probe flew through the Sun's corona (2021)",
+    "url": "https://en.wikipedia.org/wiki/Parker_Solar_Probe",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k-sp-interstellar-obj",
+    "title": "Interstellar objects detected passing through the solar system (2017-)",
+    "url": "https://en.wikipedia.org/wiki/Interstellar_object",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
     "id": "front-biosignature",
     "title": "First confirmed biosignature on an exoplanet \u2014 not yet found",
     "url": "https://en.wikipedia.org/wiki/Biosignature",
@@ -74,10 +290,82 @@
   {
     "id": "front-primordial-gw",
     "title": "Primordial gravitational-wave background from inflation \u2014 not yet detected",
-    "url": "https://en.wikipedia.org/wiki/Gravitational-wave_background",
-    "source": "seed",
+    "url": "https://en.wikipedia.org/wiki/Stochastic_gravitational_wave_background",
+    "source": "wikipedia",
     "category": "space",
     "status": "undiscovered"
+  },
+  {
+    "id": "f-sp-earth-twin-image",
+    "title": "Direct image and spectrum of an Earth-like exoplanet \u2014 not yet taken",
+    "url": "https://en.wikipedia.org/wiki/Coronagraph",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-sp-europa-lander",
+    "title": "Life in Europa's or Enceladus' subsurface ocean \u2014 untested",
+    "url": "https://en.wikipedia.org/wiki/Europa_Clipper",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "undiscovered",
+    "era": "2000-2019"
+  },
+  {
+    "id": "f-sp-seti-detection",
+    "title": "A confirmed technosignature from another civilization \u2014 none yet",
+    "url": "https://en.wikipedia.org/wiki/Search_for_extraterrestrial_intelligence",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-sp-starshot",
+    "title": "Interstellar probe to another star (breakthrough-class) \u2014 unbuilt",
+    "url": "https://en.wikipedia.org/wiki/Breakthrough_Starshot",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "undiscovered",
+    "era": "2000-2019"
+  },
+  {
+    "id": "f-sp-space-elevator",
+    "title": "A space elevator or equivalent cheap launch structure \u2014 undesigned",
+    "url": "https://en.wikipedia.org/wiki/Space_elevator",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "undiscovered",
+    "era": "1800s"
+  },
+  {
+    "id": "f-sp-asteroid-mining",
+    "title": "Profitable asteroid mining \u2014 unbuilt",
+    "url": "https://en.wikipedia.org/wiki/Asteroid_mining",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "undiscovered",
+    "era": "2000-2019"
+  },
+  {
+    "id": "f-sp-debris-removal",
+    "title": "Active removal of orbital debris at scale \u2014 unbuilt",
+    "url": "https://en.wikipedia.org/wiki/Kessler_syndrome",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-sp-hibernation",
+    "title": "Human torpor/hibernation for long transit \u2014 not achievable",
+    "url": "https://en.wikipedia.org/wiki/Hibernation",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "undiscovered",
+    "era": "1950-2000"
   },
   {
     "id": "deb-hubble-tension",
@@ -118,5 +406,59 @@
     "source": "hackernews",
     "category": "space",
     "status": "debated"
+  },
+  {
+    "id": "d-sp-cmb-cold-spot",
+    "title": "The CMB Cold Spot: statistical fluke, void, or new physics?",
+    "url": "https://en.wikipedia.org/wiki/CMB_cold_spot",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "debated",
+    "era": "2000-2019"
+  },
+  {
+    "id": "d-sp-venus-phosphine",
+    "title": "Venus phosphine: signs of life or instrument artifact?",
+    "url": "https://en.wikipedia.org/wiki/Phosphine",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "debated",
+    "era": "2020-2026"
+  },
+  {
+    "id": "d-sp-meti",
+    "title": "Should we deliberately message extraterrestrial intelligence?",
+    "url": "https://en.wikipedia.org/wiki/METI",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "debated",
+    "era": "1950-2000"
+  },
+  {
+    "id": "d-sp-fermi",
+    "title": "Fermi paradox: where is everybody? Great Filter debates continue",
+    "url": "https://en.wikipedia.org/wiki/Fermi_paradox",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "debated",
+    "era": "1950-2000"
+  },
+  {
+    "id": "d-sp-space-debris",
+    "title": "Orbital debris and Kessler syndrome: who cleans up low Earth orbit?",
+    "url": "https://en.wikipedia.org/wiki/Space_debris",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "debated",
+    "era": "1950-2000"
+  },
+  {
+    "id": "d-sp-space-resources",
+    "title": "Who owns asteroid and lunar resources under the Outer Space Treaty?",
+    "url": "https://en.wikipedia.org/wiki/Outer_Space_Treaty",
+    "source": "wikipedia",
+    "category": "space",
+    "status": "debated",
+    "era": "1950-2000"
   }
 ]
