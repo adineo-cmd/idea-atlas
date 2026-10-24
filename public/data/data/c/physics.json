@@ -1,0 +1,922 @@
+[
+  {
+    "id": "known-newton-2",
+    "title": "Newton's second law F=ma \u2014 solved physics, need not rebuild",
+    "url": "https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known"
+  },
+  {
+    "id": "known-thermo",
+    "title": "Laws of thermodynamics \u2014 settled framework",
+    "url": "https://en.wikipedia.org/wiki/Laws_of_thermodynamics",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known"
+  },
+  {
+    "id": "known-maxwell",
+    "title": "Maxwell's equations of electromagnetism \u2014 complete classical theory",
+    "url": "https://en.wikipedia.org/wiki/Maxwell%27s_equations",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known"
+  },
+  {
+    "id": "known-gr",
+    "title": "General relativity \u2014 confirmed gravitational theory",
+    "url": "https://en.wikipedia.org/wiki/General_relativity",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known"
+  },
+  {
+    "id": "known-periodic-table",
+    "title": "Periodic table of elements \u2014 catalogued",
+    "url": "https://en.wikipedia.org/wiki/Periodic_table",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known"
+  },
+  {
+    "id": "known-atomic-nucleus",
+    "title": "Nuclear fission energy release \u2014 understood physics",
+    "url": "https://en.wikipedia.org/wiki/Nuclear_fission",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known"
+  },
+  {
+    "id": "known-electricity",
+    "title": "Electromagnetic induction and electricity generation (Faraday/Maxwell) \u2014 solved science",
+    "url": "https://en.wikipedia.org/wiki/Electromagnetic_induction",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known"
+  },
+  {
+    "id": "known-transistor",
+    "title": "Transistor invention and semiconductor physics \u2014 solved technology",
+    "url": "https://en.wikipedia.org/wiki/Transistor",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known"
+  },
+  {
+    "id": "known-relativity",
+    "title": "Special relativity (Einstein 1905) \u2014 solved framework",
+    "url": "https://en.wikipedia.org/wiki/Special_relativity",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known"
+  },
+  {
+    "id": "known-radiography",
+    "title": "X-ray radiography (R\u00f6ntgen) \u2014 solved imaging physics",
+    "url": "https://en.wikipedia.org/wiki/X-ray",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known"
+  },
+  {
+    "id": "k-ph-buoyancy",
+    "title": "Archimedes' principle of buoyancy \u2014 solved since antiquity",
+    "url": "https://en.wikipedia.org/wiki/Archimedes%27_principle",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k-ph-lever",
+    "title": "Law of the lever \u2014 solved mechanics, antiquity",
+    "url": "https://en.wikipedia.org/wiki/Lever",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k-ph-snell",
+    "title": "Snell's law of refraction (Ibn Sahl 984, Snell 1621) \u2014 solved optics",
+    "url": "https://en.wikipedia.org/wiki/Snell%27s_law",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k-ph-alhazen",
+    "title": "Intromission theory of vision (Ibn al-Haytham) \u2014 foundation of optics",
+    "url": "https://en.wikipedia.org/wiki/Ibn_al-Haytham",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k-ph-oresme",
+    "title": "Mean speed theorem (Merton College, Oresme) \u2014 kinematics before Galileo",
+    "url": "https://en.wikipedia.org/wiki/Nicole_Oresme",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k-ph-freefall",
+    "title": "Law of falling bodies (Galileo): distance grows with time squared \u2014 solved",
+    "url": "https://en.wikipedia.org/wiki/Free_fall",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1600s"
+  },
+  {
+    "id": "k-ph-gravitation",
+    "title": "Newton's law of universal gravitation \u2014 solved and confirmed",
+    "url": "https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1600s"
+  },
+  {
+    "id": "k-ph-huygens-wave",
+    "title": "Huygens' wave theory of light \u2014 solved foundation of wave optics",
+    "url": "https://en.wikipedia.org/wiki/Christiaan_Huygens",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1600s"
+  },
+  {
+    "id": "k-ph-boyle-law",
+    "title": "Boyle's law: gas pressure inversely proportional to volume \u2014 solved",
+    "url": "https://en.wikipedia.org/wiki/Boyle%27s_law",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1600s"
+  },
+  {
+    "id": "k-ph-speed-of-light",
+    "title": "Finite speed of light measured (Romer 1676) \u2014 solved",
+    "url": "https://en.wikipedia.org/wiki/Speed_of_light",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1600s"
+  },
+  {
+    "id": "k-ph-bernoulli",
+    "title": "Bernoulli's principle for fluid flow \u2014 solved",
+    "url": "https://en.wikipedia.org/wiki/Bernoulli%27s_principle",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1700s"
+  },
+  {
+    "id": "k-ph-coulomb",
+    "title": "Coulomb's law of electrostatic force \u2014 solved",
+    "url": "https://en.wikipedia.org/wiki/Coulomb%27s_law",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1700s"
+  },
+  {
+    "id": "k-ph-ohm",
+    "title": "Ohm's law relating voltage, current, resistance \u2014 solved",
+    "url": "https://en.wikipedia.org/wiki/Ohm%27s_law",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k-ph-induction-motor",
+    "title": "AC induction motor (Tesla 1887) \u2014 built, solved engineering",
+    "url": "https://en.wikipedia.org/wiki/Induction_motor",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k-ph-doppler",
+    "title": "Doppler effect for waves \u2014 solved",
+    "url": "https://en.wikipedia.org/wiki/Doppler_effect",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k-ph-michelson-morley",
+    "title": "Michelson-Morley null result (1887) \u2014 the measurement that set up relativity",
+    "url": "https://en.wikipedia.org/wiki/Michelson%E2%80%93Morley_experiment",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k-ph-electron",
+    "title": "Electron discovered and measured (Thomson 1897) \u2014 solved",
+    "url": "https://en.wikipedia.org/wiki/Electron",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k-ph-radioactivity",
+    "title": "Radioactivity discovered (Becquerel 1896, Curies) \u2014 solved",
+    "url": "https://en.wikipedia.org/wiki/Radioactivity",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k-ph-photoelectric",
+    "title": "Photoelectric effect explained by light quanta (Einstein) \u2014 solved, Nobel 1921",
+    "url": "https://en.wikipedia.org/wiki/Photoelectric_effect",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k-ph-nucleus",
+    "title": "Atomic nucleus discovered by gold-foil scattering (Geiger-Marsden-Rutherford)",
+    "url": "https://en.wikipedia.org/wiki/Geiger%E2%80%93Marsden_experiment",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k-ph-bohr-model",
+    "title": "Bohr model: quantized electron orbits \u2014 solved stepping stone",
+    "url": "https://en.wikipedia.org/wiki/Bohr_model",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k-ph-matter-wave",
+    "title": "De Broglie matter waves \u2014 confirmed by electron diffraction",
+    "url": "https://en.wikipedia.org/wiki/Matter_wave",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k-ph-schrodinger",
+    "title": "Schrodinger equation \u2014 solved foundation of quantum mechanics",
+    "url": "https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k-ph-dirac",
+    "title": "Dirac equation predicts antimatter (1928, found 1932) \u2014 solved",
+    "url": "https://en.wikipedia.org/wiki/Dirac_equation",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k-ph-superconductivity-disc",
+    "title": "Superconductivity discovered (Kamerlingh Onnes 1911) \u2014 solved phenomenon",
+    "url": "https://en.wikipedia.org/wiki/Heike_Kamerlingh_Onnes",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k-ph-neutron",
+    "title": "Neutron discovered (Chadwick 1932) \u2014 solved",
+    "url": "https://en.wikipedia.org/wiki/Neutron",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k-ph-quark",
+    "title": "Quark model of hadrons (1964, confirmed by deep inelastic scattering)",
+    "url": "https://en.wikipedia.org/wiki/Quark",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ph-standard-model",
+    "title": "The Standard Model of particle physics \u2014 solved framework, confirmed repeatedly",
+    "url": "https://en.wikipedia.org/wiki/Standard_Model",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ph-neutrino-det",
+    "title": "Neutrino first detected (Reines-Cowan 1956) \u2014 solved",
+    "url": "https://en.wikipedia.org/wiki/Neutrino",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ph-laser",
+    "title": "Laser invented (Maiman 1960) \u2014 built, solved",
+    "url": "https://en.wikipedia.org/wiki/Laser",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ph-bec",
+    "title": "Bose-Einstein condensate created (1995) \u2014 predicted 1924, achieved",
+    "url": "https://en.wikipedia.org/wiki/Bose%E2%80%93Einstein_condensate",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ph-entanglement",
+    "title": "Quantum entanglement verified experimentally (Aspect 1982; Nobel 2022)",
+    "url": "https://en.wikipedia.org/wiki/Quantum_entanglement",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ph-graphene",
+    "title": "Graphene isolated (2004) \u2014 solved material, Nobel 2010",
+    "url": "https://en.wikipedia.org/wiki/Graphene",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k-ph-ligo",
+    "title": "Gravitational waves directly detected (LIGO 2015) \u2014 solved, Nobel 2017",
+    "url": "https://en.wikipedia.org/wiki/First_observation_of_gravitational_waves",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-ph-wheel",
+    "title": "The wheel and axle (c. 3500 BC) \u2014 solved mechanics of transport",
+    "url": "https://en.wikipedia.org/wiki/Wheel",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ph-democritus",
+    "title": "Atomism proposed (Democritus, Leucippus, 5th c. BC) \u2014 vindicated 2,300 years later",
+    "url": "https://en.wikipedia.org/wiki/Democritus",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ph-thales-eclipse",
+    "title": "Solar eclipse predicted (Thales, 585 BC) \u2014 astronomy becomes predictive",
+    "url": "https://en.wikipedia.org/wiki/Thales_of_Miletus",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ph-mozi-optics",
+    "title": "Camera-obscura optics described (Mozi, 4th c. BC)",
+    "url": "https://en.wikipedia.org/wiki/Mozi",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ph-zhang-heng",
+    "title": "Earthquake direction detected by seismoscope (Zhang Heng, 132 AD)",
+    "url": "https://en.wikipedia.org/wiki/Zhang_Heng",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ph-aeolipile",
+    "title": "Hero's aeolipile: the first reaction steam device (1st c. AD)",
+    "url": "https://en.wikipedia.org/wiki/Hero_of_Alexandria",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ph-antikythera",
+    "title": "The Antikythera mechanism: a geared astronomical computer (2nd c. BC)",
+    "url": "https://en.wikipedia.org/wiki/Antikythera_mechanism",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ph-ctesibius",
+    "title": "Compressed air mastered (Ctesibius' water organ and pumps, 3rd c. BC)",
+    "url": "https://en.wikipedia.org/wiki/Ctesibius",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ph-roman-concrete",
+    "title": "Roman concrete \u2014 solved and still standing 2,000 years later",
+    "url": "https://en.wikipedia.org/wiki/Roman_concrete",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ph-vitruvius",
+    "title": "Vitruvius codifies structural mechanics and acoustics (1st c. BC)",
+    "url": "https://en.wikipedia.org/wiki/Vitruvius",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ph-compass-k",
+    "title": "Magnetic compass invented (Han dynasty, 2nd c. BC)",
+    "url": "https://en.wikipedia.org/wiki/Compass",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ph-babylon-astronomy",
+    "title": "Babylonian astronomers could predict lunar eclipses with the Saros cycle",
+    "url": "https://en.wikipedia.org/wiki/Babylonian_astronomy",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ph-helium-sun",
+    "title": "Helium found on the Sun before it was found on Earth (1868)",
+    "url": "https://en.wikipedia.org/wiki/Helium",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-ph-noble-gases",
+    "title": "The noble gases isolated and placed in the periodic table (1894-98)",
+    "url": "https://en.wikipedia.org/wiki/Noble_gas",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-ph-benzene",
+    "title": "Benzene's ring structure solved (Kekule 1865, confirmed 1929)",
+    "url": "https://en.wikipedia.org/wiki/Benzene",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-ph-isotopes",
+    "title": "Isotopes discovered and systematized (Soddy, 1913)",
+    "url": "https://en.wikipedia.org/wiki/Isotope",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-ph-nylon",
+    "title": "Nylon synthesized and industrialized (1935-39)",
+    "url": "https://en.wikipedia.org/wiki/Nylon",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-ph-teflon",
+    "title": "Polytetrafluoroethylene (Teflon) discovered (1938)",
+    "url": "https://en.wikipedia.org/wiki/Polytetrafluoroethylene",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-ph-stereochemistry",
+    "title": "Molecular chirality discovered (Pasteur 1848) \u2014 stereochemistry solved",
+    "url": "https://en.wikipedia.org/wiki/Stereochemistry",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-ph-vulcanization",
+    "title": "Rubber vulcanization (Goodyear 1839)",
+    "url": "https://en.wikipedia.org/wiki/Vulcanization",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-ph-nif",
+    "title": "Fusion ignition achieved in the lab (NIF, December 2022)",
+    "url": "https://en.wikipedia.org/wiki/National_Ignition_Facility",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "front-room-temp-sc",
+    "title": "Room-temperature superconductor \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Superconductivity",
+    "source": "seed",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-fusion-power",
+    "title": "Net-gain commercial fusion power \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Fusion_power",
+    "source": "seed",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-quantum-gravity",
+    "title": "Unifying general relativity and quantum mechanics \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Quantum_gravity",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-dark-matter",
+    "title": "Nature of dark matter (particle or not) \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Dark_matter",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-turbulence",
+    "title": "Full mathematical solution of fluid turbulence (Navier-Stokes) \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_existence_and_smoothness",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-quantum-error",
+    "title": "Fault-tolerant scalable quantum computing \u2014 practical machine undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Quantum_error_correction",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-dark-energy",
+    "title": "Nature and origin of dark energy \u2014 pre-2026 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Dark_energy",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-baryon-asymmetry",
+    "title": "Baryon asymmetry / why more matter than antimatter \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Baryon_asymmetry",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-strong-cp",
+    "title": "Strong CP problem \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Strong_CP_problem",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-quantum-interpret",
+    "title": "Correct interpretation of quantum mechanics \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Interpretations_of_quantum_mechanics",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-gravity-waves-direct",
+    "title": "Direct detection of primordial gravitational waves \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Gravitational_wave",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered"
+  },
+  {
+    "id": "f-ph-gut",
+    "title": "Grand unified theory linking the forces \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Grand_Unified_Theory",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ph-baryogenesis",
+    "title": "Why matter outweighs antimatter (baryogenesis mechanism) \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Baryogenesis",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ph-proton-decay",
+    "title": "Whether the proton decays (and how) \u2014 unobserved, undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Proton_decay",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ph-sterile-neutrino",
+    "title": "Sterile neutrinos and the absolute neutrino mass scale \u2014 unknown",
+    "url": "https://en.wikipedia.org/wiki/Sterile_neutrino",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ph-big-bang-cause",
+    "title": "What caused or preceded the Big Bang \u2014 unknown",
+    "url": "https://en.wikipedia.org/wiki/Big_Bang",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered",
+    "era": "1900-1950"
+  },
+  {
+    "id": "f-ph-earthquake-prediction",
+    "title": "Predicting the time and place of earthquakes \u2014 no working method",
+    "url": "https://en.wikipedia.org/wiki/Earthquake_prediction",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered",
+    "era": "1900-1950"
+  },
+  {
+    "id": "f-ph-ball-lightning",
+    "title": "The physical mechanism of ball lightning \u2014 unsolved",
+    "url": "https://en.wikipedia.org/wiki/Ball_lightning",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered",
+    "era": "1800s"
+  },
+  {
+    "id": "f-ph-antimatter-macro",
+    "title": "Producing and storing macroscopic antimatter \u2014 unbuilt",
+    "url": "https://en.wikipedia.org/wiki/Antimatter",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered",
+    "era": "1900-1950"
+  },
+  {
+    "id": "f-ph-inflation-mechanism",
+    "title": "The mechanism (and evidence) for cosmic inflation \u2014 unsettled",
+    "url": "https://en.wikipedia.org/wiki/Inflation_(cosmology)",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "deb-quantum-gravity",
+    "title": "Can unified general relativity + quantum theory ever be falsified? (HN debate)",
+    "url": "https://news.ycombinator.com/item?id=44671180",
+    "source": "hackernews",
+    "category": "physics",
+    "status": "debated"
+  },
+  {
+    "id": "deb-navier-stokes",
+    "title": "Will AI crack Navier-Stokes smoothness? (HN debate on DeepMind attempt)",
+    "url": "https://news.ycombinator.com/item?id=44383589",
+    "source": "hackernews",
+    "category": "physics",
+    "status": "debated"
+  },
+  {
+    "id": "deb-measurement",
+    "title": "Is the quantum measurement problem fundamentally unsolvable? (HN debate)",
+    "url": "https://news.ycombinator.com/item?id=8931564",
+    "source": "hackernews",
+    "category": "physics",
+    "status": "debated"
+  },
+  {
+    "id": "deb-millennium",
+    "title": "Which open physics problem matters most after 25 years of Millennium Prizes? (RealClearScience)",
+    "url": "https://www.realclearscience.com/2025/01/08/a_25-year_update_on_the_millennium_problems_in_physics_1083188.html",
+    "source": "web",
+    "category": "physics",
+    "status": "debated"
+  },
+  {
+    "id": "d-ph-measurement",
+    "title": "The measurement problem: why does observation yield one outcome?",
+    "url": "https://en.wikipedia.org/wiki/Measurement_problem",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "debated",
+    "era": "1900-1950"
+  },
+  {
+    "id": "d-ph-string-theory",
+    "title": "String theory: right framework or untestable mathematics?",
+    "url": "https://en.wikipedia.org/wiki/String_theory",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "debated",
+    "era": "1950-2000"
+  },
+  {
+    "id": "d-ph-multiverse",
+    "title": "Is the multiverse science if it cannot be observed?",
+    "url": "https://en.wikipedia.org/wiki/Multiverse",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "debated",
+    "era": "2000-2019"
+  },
+  {
+    "id": "d-ph-arrow-of-time",
+    "title": "Why did the early universe start in such a low-entropy state? Boltzmann's question is open",
+    "url": "https://en.wikipedia.org/wiki/Arrow_of_time",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "debated",
+    "era": "1800s"
+  },
+  {
+    "id": "d-ph-cosmo-constant",
+    "title": "Why is the cosmological constant so absurdly small but nonzero?",
+    "url": "https://en.wikipedia.org/wiki/Cosmological_constant",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "debated",
+    "era": "1900-1950"
+  },
+  {
+    "id": "d-ph-mond",
+    "title": "Modified gravity (MOND) vs dark matter: which fits galaxies better?",
+    "url": "https://en.wikipedia.org/wiki/Modified_Newtonian_dynamics",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "debated",
+    "era": "1950-2000"
+  },
+  {
+    "id": "d-ph-time-fundamental",
+    "title": "Is time fundamental or emergent? The problem of time in quantum gravity",
+    "url": "https://en.wikipedia.org/wiki/Problem_of_time",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "debated",
+    "era": "1950-2000"
+  },
+  {
+    "id": "d-ph-bh-information",
+    "title": "Black hole information paradox: is information destroyed or recovered?",
+    "url": "https://en.wikipedia.org/wiki/Black_hole_information_paradox",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "debated",
+    "era": "1950-2000"
+  },
+  {
+    "id": "d-ph-emergence",
+    "title": "Can emergence be quantified, or is reductionism the whole story?",
+    "url": "https://en.wikipedia.org/wiki/Emergence",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "debated",
+    "era": "1950-2000"
+  },
+  {
+    "id": "d-ph-psi-ontology",
+    "title": "Is the quantum wavefunction real or just knowledge (psi-ontology debate)?",
+    "url": "https://en.wikipedia.org/wiki/Wave_function",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "debated",
+    "era": "1900-1950"
+  },
+  {
+    "id": "d-ph-constants-drift",
+    "title": "Are the fundamental constants drifting over cosmic time?",
+    "url": "https://en.wikipedia.org/wiki/Physical_constant",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "debated",
+    "era": "1950-2000"
+  },
+  {
+    "id": "d-ph-cold-fusion",
+    "title": "Cold fusion claims: error or suppressed phenomenon? Still argued",
+    "url": "https://en.wikipedia.org/wiki/Cold_fusion",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "debated",
+    "era": "1950-2000"
+  },
+  {
+    "id": "d-ph-sonoluminescence",
+    "title": "Sonoluminescence: what actually makes the flash inside collapsing bubbles?",
+    "url": "https://en.wikipedia.org/wiki/Sonoluminescence",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "debated",
+    "era": "1900-1950"
+  },
+  {
+    "id": "d2-ph-muon-g2",
+    "title": "The muon's magnetism: anomaly or error? g-2 still unsettled",
+    "url": "https://en.wikipedia.org/wiki/Muon_g-2",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "debated",
+    "era": "2020-2026"
+  },
+  {
+    "id": "d2-ph-w-mass",
+    "title": "The W boson mass anomaly (CDF 2022): new physics or mismeasurement?",
+    "url": "https://en.wikipedia.org/wiki/W_and_Z_bosons",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "debated",
+    "era": "2020-2026"
+  },
+  {
+    "id": "d2-ph-lk99",
+    "title": "LK-99: was the 2023 room-temperature superconductor claim a Mirage?",
+    "url": "https://en.wikipedia.org/wiki/LK-99",
+    "source": "wikipedia",
+    "category": "physics",
+    "status": "debated",
+    "era": "2020-2026"
+  }
+]

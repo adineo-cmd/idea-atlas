@@ -1,0 +1,737 @@
+[
+  {
+    "id": "known-dna-helix",
+    "title": "DNA double helix structure \u2014 discovered (Watson/Crick 1953)",
+    "url": "https://en.wikipedia.org/wiki/DNA",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known"
+  },
+  {
+    "id": "known-crispr",
+    "title": "CRISPR-Cas9 gene editing \u2014 discovered and engineered",
+    "url": "https://en.wikipedia.org/wiki/CRISPR_gene_editing",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known"
+  },
+  {
+    "id": "known-germ-theory",
+    "title": "Germ theory of disease \u2014 established",
+    "url": "https://en.wikipedia.org/wiki/Germ_theory_of_disease",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known"
+  },
+  {
+    "id": "known-mendel",
+    "title": "Mendel's laws of inheritance \u2014 discovered genetics foundations",
+    "url": "https://en.wikipedia.org/wiki/Mendelian_inheritance",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known"
+  },
+  {
+    "id": "known-mrna-vaccines",
+    "title": "mRNA vaccine platform \u2014 discovered and deployed",
+    "url": "https://en.wikipedia.org/wiki/MRNA_vaccine",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known"
+  },
+  {
+    "id": "known-cell-division",
+    "title": "Mitosis and the cell cycle \u2014 mapped process",
+    "url": "https://en.wikipedia.org/wiki/Mitosis",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known"
+  },
+  {
+    "id": "known-antibiotics",
+    "title": "Penicillin antibiotic discovery (Fleming) \u2014 solved medicine",
+    "url": "https://en.wikipedia.org/wiki/Penicillin",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known"
+  },
+  {
+    "id": "known-vaccine-smallpox",
+    "title": "Smallpox vaccine (Jenner) \u2014 eradicated disease through solved immunology",
+    "url": "https://en.wikipedia.org/wiki/Smallpox_vaccine",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known"
+  },
+  {
+    "id": "known-cell-theory",
+    "title": "Cell theory (Schwann, Virchow) \u2014 solved biology framework",
+    "url": "https://en.wikipedia.org/wiki/Cell_theory",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known"
+  },
+  {
+    "id": "k-bi-aristotle-bio",
+    "title": "Aristotle's systematic biology: dissection and classification \u2014 antiquity",
+    "url": "https://en.wikipedia.org/wiki/Aristotle%27s_biology",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k-bi-vesalius",
+    "title": "Vesalius' Fabrica corrects ancient anatomy (1543)",
+    "url": "https://en.wikipedia.org/wiki/Andreas_Vesalius",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "Renaissance (1400-1600)"
+  },
+  {
+    "id": "k-bi-harvey",
+    "title": "Blood circulation demonstrated (Harvey 1628)",
+    "url": "https://en.wikipedia.org/wiki/William_Harvey",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1600s"
+  },
+  {
+    "id": "k-bi-hooke-cells",
+    "title": "Cells seen and named (Hooke's Micrographia, 1665)",
+    "url": "https://en.wikipedia.org/wiki/Cell_(biology)",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1600s"
+  },
+  {
+    "id": "k-bi-linnaeus",
+    "title": "Binomial taxonomy systematized (Linnaeus, 1735)",
+    "url": "https://en.wikipedia.org/wiki/Carl_Linnaeus",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1700s"
+  },
+  {
+    "id": "k-bi-vaccination",
+    "title": "Vaccination demonstrated (Jenner 1796) \u2014 smallpox inoculation",
+    "url": "https://en.wikipedia.org/wiki/Vaccination",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1700s"
+  },
+  {
+    "id": "k-bi-darwin",
+    "title": "Evolution by natural selection published (1859)",
+    "url": "https://en.wikipedia.org/wiki/On_the_Origin_of_Species",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k-bi-lister",
+    "title": "Antiseptic surgery (Lister 1867) \u2014 operating rooms become survivable",
+    "url": "https://en.wikipedia.org/wiki/Joseph_Lister",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k-bi-anesthesia-k",
+    "title": "Surgical anesthesia (1840s) \u2014 solved painless surgery",
+    "url": "https://en.wikipedia.org/wiki/Anesthesia",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k-bi-insulin",
+    "title": "Insulin isolated for diabetes treatment (1921)",
+    "url": "https://en.wikipedia.org/wiki/Insulin",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k-bi-genetic-code",
+    "title": "The genetic code cracked (Nirenberg, Khorana 1961-66)",
+    "url": "https://en.wikipedia.org/wiki/Genetic_code",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-bi-central-dogma",
+    "title": "Central dogma of molecular biology (Crick 1958)",
+    "url": "https://en.wikipedia.org/wiki/Central_dogma_of_molecular_biology",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-bi-protein-structure",
+    "title": "First protein structures solved by crystallography (Kendrew 1958)",
+    "url": "https://en.wikipedia.org/wiki/Protein_structure",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-bi-pcr",
+    "title": "PCR amplifies DNA exponentially (Mullis 1983)",
+    "url": "https://en.wikipedia.org/wiki/Polymerase_chain_reaction",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-bi-ivf",
+    "title": "In vitro fertilization succeeds (1978)",
+    "url": "https://en.wikipedia.org/wiki/In_vitro_fertilisation",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-bi-smallpox",
+    "title": "Smallpox eradicated worldwide (1980) \u2014 the only human disease ever beaten",
+    "url": "https://en.wikipedia.org/wiki/Smallpox",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-bi-hgp",
+    "title": "Human genome sequenced (2003)",
+    "url": "https://en.wikipedia.org/wiki/Human_Genome_Project",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k-bi-gfp",
+    "title": "Green fluorescent protein lights up living cells (Nobel 2008)",
+    "url": "https://en.wikipedia.org/wiki/Green_fluorescent_protein",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-bi-crispr",
+    "title": "CRISPR gene editing works in human cells (2012; therapy approved 2023)",
+    "url": "https://en.wikipedia.org/wiki/CRISPR",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k-bi-alphafold",
+    "title": "AlphaFold solves protein structure prediction (2020; Nobel 2024)",
+    "url": "https://en.wikipedia.org/wiki/AlphaFold",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k-bi-optogenetics",
+    "title": "Optogenetics controls neurons with light (2005-)",
+    "url": "https://en.wikipedia.org/wiki/Optogenetics",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k-bi-microbiome",
+    "title": "The human microbiome mapped (2007-)",
+    "url": "https://en.wikipedia.org/wiki/Human_microbiome",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k-bi-organoid",
+    "title": "Organoids grown from stem cells (2009-)",
+    "url": "https://en.wikipedia.org/wiki/Organoid",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k-bi-single-cell",
+    "title": "Single-cell RNA sequencing maps tissues cell by cell (2013-)",
+    "url": "https://en.wikipedia.org/wiki/Single-cell_sequencing",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-bi-ebers",
+    "title": "The Ebers Papyrus: 700 remedies catalogued (c. 1550 BC)",
+    "url": "https://en.wikipedia.org/wiki/Ebers_Papyrus",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-bi-materia-medica",
+    "title": "Dioscorides' De Materia Medica: the pharmacy bible for 1,500 years (1st c. AD)",
+    "url": "https://en.wikipedia.org/wiki/De_Materia_Medica",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-bi-theophrastus",
+    "title": "Theophrastus founds botany (4th c. BC)",
+    "url": "https://en.wikipedia.org/wiki/Theophrastus",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-bi-galen",
+    "title": "Galen's anatomy and physiology dominate medicine for 1,300 years",
+    "url": "https://en.wikipedia.org/wiki/Galen",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-bi-sericulture",
+    "title": "Silk cultivation perfected (China, 3rd millennium BC)",
+    "url": "https://en.wikipedia.org/wiki/Sericulture",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-bi-fermentation-k",
+    "title": "Fermentation: bread, beer, and wine (7,000 BC-)",
+    "url": "https://en.wikipedia.org/wiki/Fermentation",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-bi-domestication",
+    "title": "Plant and animal domestication (c. 10,000 BC-)",
+    "url": "https://en.wikipedia.org/wiki/Domestication",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-bi-chargaff",
+    "title": "Chargaff's rules point at base pairing (1950)",
+    "url": "https://en.wikipedia.org/wiki/Chargaff%27s_rules",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-bi-hershey-chase",
+    "title": "DNA, not protein, is the genetic material (1952)",
+    "url": "https://en.wikipedia.org/wiki/Hershey%E2%80%93Chase_experiment",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-bi-photosynthesis-k",
+    "title": "Photosynthesis' inputs and outputs traced (Ingenhousz, 1779)",
+    "url": "https://en.wikipedia.org/wiki/Photosynthesis",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1700s"
+  },
+  {
+    "id": "k2-bi-archaea",
+    "title": "Archaea recognized as a third domain of life (1977)",
+    "url": "https://en.wikipedia.org/wiki/Archaea",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-bi-extremophile",
+    "title": "Extremophiles thrive where life 'shouldn't' (1960s-)",
+    "url": "https://en.wikipedia.org/wiki/Extremophile",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-bi-sanger",
+    "title": "Sanger sequencing reads DNA letter by letter (1977)",
+    "url": "https://en.wikipedia.org/wiki/Sanger_sequencing",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-bi-ips",
+    "title": "Induced pluripotent stem cells reprogram adult cells (2006; Nobel 2012)",
+    "url": "https://en.wikipedia.org/wiki/Induced_pluripotent_stem_cell",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-bi-telomerase",
+    "title": "Telomerase and chromosome caps (Nobel 2009)",
+    "url": "https://en.wikipedia.org/wiki/Telomerase",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-bi-oncogene",
+    "title": "Oncogenes identified, mechanizing cancer (1976-)",
+    "url": "https://en.wikipedia.org/wiki/Oncogene",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-bi-rtss",
+    "title": "The first malaria vaccine recommended (RTS,S, 2021)",
+    "url": "https://en.wikipedia.org/wiki/RTS,S",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k2-bi-glp1",
+    "title": "GLP-1 medications transform obesity care (2021-)",
+    "url": "https://en.wikipedia.org/wiki/Glucagon-like_peptide-1_receptor_agonist",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "front-als-cure",
+    "title": "Disease-modifying cure for ALS \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Amyotrophic_lateral_sclerosis",
+    "source": "seed",
+    "category": "bio",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-abiogenesis",
+    "title": "How life began (abiogenesis) \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Abiogenesis",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-aging",
+    "title": "Full biological explanation (and halt) of aging \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Ageing",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-consciousness",
+    "title": "Neural basis of consciousness (hard problem) \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Hard_problem_of_consciousness",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-protein-disorder",
+    "title": "Predicting structures of intrinsically disordered proteins \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Intrinsically_disordered_proteins",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-aging-biology",
+    "title": "Fundamental biological mechanism of aging and how to halt it \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Anti-aging",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-protein-fold-all",
+    "title": "Predicting structures of all proteins including disordered \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Protein_folding",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-sleep-purpose",
+    "title": "Complete evolutionary and neural purpose of sleep \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Sleep",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered"
+  },
+  {
+    "id": "f-bi-protocell",
+    "title": "A self-replicating protocell built from scratch \u2014 not achieved",
+    "url": "https://en.wikipedia.org/wiki/Protocell",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-bi-cancer-immuno",
+    "title": "Broad, reliable cures for most cancers \u2014 missing",
+    "url": "https://en.wikipedia.org/wiki/Cancer_immunotherapy",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered",
+    "era": "2000-2019"
+  },
+  {
+    "id": "f-bi-hiv-cure",
+    "title": "A scalable cure for HIV \u2014 not achieved",
+    "url": "https://en.wikipedia.org/wiki/HIV/AIDS_research",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-bi-senolytics",
+    "title": "Interventions that reliably slow human aging \u2014 unproven in humans",
+    "url": "https://en.wikipedia.org/wiki/Senolytic",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered",
+    "era": "2000-2019"
+  },
+  {
+    "id": "f-bi-regeneration",
+    "title": "Human-scale limb and organ regeneration \u2014 missing",
+    "url": "https://en.wikipedia.org/wiki/Regeneration_(biology)",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered",
+    "era": "1800s"
+  },
+  {
+    "id": "f-bi-c4-rice",
+    "title": "C4 photosynthesis engineered into staple crops \u2014 unbuilt",
+    "url": "https://en.wikipedia.org/wiki/C4_carbon_fixation",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-bi-planetary-tipping",
+    "title": "Predicting ecosystem and climate tipping points before they hit \u2014 missing",
+    "url": "https://en.wikipedia.org/wiki/Planetary_boundaries",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered",
+    "era": "2000-2019"
+  },
+  {
+    "id": "f-bi-nitrogen-cereals",
+    "title": "Nitrogen-fixing cereal crops (symbiotic) \u2014 unbuilt",
+    "url": "https://en.wikipedia.org/wiki/Nitrogen_fixation",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered",
+    "era": "1800s"
+  },
+  {
+    "id": "f-bi-pollinator-crash",
+    "title": "Causes and reversal of global pollinator decline \u2014 unsolved",
+    "url": "https://en.wikipedia.org/wiki/Pollinator_decline",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "undiscovered",
+    "era": "2000-2019"
+  },
+  {
+    "id": "deb-bio-unsolved",
+    "title": "What are the biggest unsolved questions in biology? (r/biology debate)",
+    "url": "https://www.reddit.com/r/biology/comments/fmg5bl/are_there_any_unsolved_questions_when_it_comes_to",
+    "source": "reddit",
+    "category": "bio",
+    "status": "debated"
+  },
+  {
+    "id": "deb-impossible-qs",
+    "title": "Will some of science's biggest questions remain forever unsolvable? (Scientific American)",
+    "url": "https://www.scientificamerican.com/report/impossible-questions",
+    "source": "web",
+    "category": "bio",
+    "status": "debated"
+  },
+  {
+    "id": "deb-biology-se",
+    "title": "What bio questions have 0 answers on Biology Stack Exchange? (active feed)",
+    "url": "https://biology.stackexchange.com/questions?tab=Active",
+    "source": "stackexchange",
+    "category": "bio",
+    "status": "debated"
+  },
+  {
+    "id": "deb-mystery-century",
+    "title": "What scientific mystery will be solved next century? (r/AskScienceDiscussion)",
+    "url": "https://www.reddit.com/r/AskScienceDiscussion/comments/1p0zngw/whats_the_biggest_scientific_mystery_that_will_be",
+    "source": "reddit",
+    "category": "bio",
+    "status": "debated"
+  },
+  {
+    "id": "d-bi-group-selection",
+    "title": "Group selection vs kin selection: does evolution act on groups?",
+    "url": "https://en.wikipedia.org/wiki/Group_selection",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "debated",
+    "era": "1950-2000"
+  },
+  {
+    "id": "d-bi-neutral-theory",
+    "title": "How much of the genome is shaped by drift rather than selection?",
+    "url": "https://en.wikipedia.org/wiki/Neutral_theory_of_molecular_evolution",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "debated",
+    "era": "1950-2000"
+  },
+  {
+    "id": "d-bi-rna-world",
+    "title": "Is the RNA world the right story for life's origin?",
+    "url": "https://en.wikipedia.org/wiki/RNA_world",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "debated",
+    "era": "1950-2000"
+  },
+  {
+    "id": "d-bi-gut-brain",
+    "title": "Gut-brain axis: how causal are microbiome claims about mood?",
+    "url": "https://en.wikipedia.org/wiki/Gut%E2%80%93brain_axis",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "debated",
+    "era": "2000-2019"
+  },
+  {
+    "id": "d-bi-transgenerational",
+    "title": "Does epigenetic inheritance shape humans across generations?",
+    "url": "https://en.wikipedia.org/wiki/Transgenerational_epigenetic_inheritance",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "debated",
+    "era": "2000-2019"
+  },
+  {
+    "id": "d-bi-noncoding",
+    "title": "How much non-coding DNA is functional? The ENCODE dispute",
+    "url": "https://en.wikipedia.org/wiki/Non-coding_DNA",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "debated",
+    "era": "1950-2000"
+  },
+  {
+    "id": "d-bi-warburg",
+    "title": "Is cancer primarily a metabolic disease? Warburg hypothesis revisited",
+    "url": "https://en.wikipedia.org/wiki/Warburg_hypothesis",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "debated",
+    "era": "1900-1950"
+  },
+  {
+    "id": "d-bi-gene-drive",
+    "title": "Should gene drives be released against malaria and invasives?",
+    "url": "https://en.wikipedia.org/wiki/Gene_drive",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "debated",
+    "era": "2000-2019"
+  },
+  {
+    "id": "d-bi-gof",
+    "title": "Gain-of-function research: how much risk is worth it?",
+    "url": "https://en.wikipedia.org/wiki/Gain-of-function_research",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "debated",
+    "era": "2000-2019"
+  },
+  {
+    "id": "d-bi-covid-origin",
+    "title": "COVID-19 origin: natural spillover or research-related? Still unresolved",
+    "url": "https://en.wikipedia.org/wiki/Investigations_into_the_origin_of_COVID-19",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "debated",
+    "era": "2020-2026"
+  },
+  {
+    "id": "d-bi-de-extinction",
+    "title": "De-extinction: conservation tool or distraction?",
+    "url": "https://en.wikipedia.org/wiki/De-extinction",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "debated",
+    "era": "2000-2019"
+  },
+  {
+    "id": "d-bi-human-enhancement",
+    "title": "Where are the lines for human genetic enhancement?",
+    "url": "https://en.wikipedia.org/wiki/Human_genetic_engineering",
+    "source": "wikipedia",
+    "category": "bio",
+    "status": "debated",
+    "era": "2000-2019"
+  }
+]

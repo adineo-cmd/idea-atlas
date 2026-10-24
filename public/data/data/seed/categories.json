@@ -1,0 +1,52 @@
+[
+  {
+    "slug": "physics",
+    "name": "Physics",
+    "icon": "⚛️"
+  },
+  {
+    "slug": "software",
+    "name": "Software",
+    "icon": "💻"
+  },
+  {
+    "slug": "math",
+    "name": "Math",
+    "icon": "📐"
+  },
+  {
+    "slug": "bio",
+    "name": "Biology",
+    "icon": "🧬"
+  },
+  {
+    "slug": "art",
+    "name": "Arts & Humanities",
+    "icon": "🎨"
+  },
+  {
+    "slug": "vectors",
+    "name": "High-Dim Vectors & Niche",
+    "icon": "🧭"
+  },
+  {
+    "slug": "space",
+    "name": "Astronomy & Space",
+    "icon": "🌌"
+  },
+  {
+    "slug": "mind",
+    "name": "Mind & Psychology",
+    "icon": "🧠"
+  },
+  {
+    "slug": "chemistry",
+    "name": "Chemistry",
+    "icon": "⚗️"
+  },
+  {
+    "slug": "economics",
+    "name": "Economics & Society",
+    "icon": "📈"
+  }
+]

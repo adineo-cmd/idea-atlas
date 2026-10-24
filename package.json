@@ -1,0 +1,16 @@
+{
+  "name": "idea-atlas-site",
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "astro dev",
+    "predev": "cp -r data public/data 2>/dev/null || true",
+    "build": "astro build",
+    "prebuild": "cp -r data public/data 2>/dev/null || true",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^5.0.0"
+  }
+}

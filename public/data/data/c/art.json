@@ -1,0 +1,741 @@
+[
+  {
+    "id": "known-mona-lisa",
+    "title": "Mona Lisa by Leonardo da Vinci \u2014 existing masterpiece, no need for another",
+    "url": "https://en.wikipedia.org/wiki/Mona_Lisa",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known"
+  },
+  {
+    "id": "known-linear-perspective",
+    "title": "Linear perspective technique \u2014 codified (Brunelleschi/Alberti)",
+    "url": "https://en.wikipedia.org/wiki/Perspective_(graphical)",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known"
+  },
+  {
+    "id": "known-oil-painting",
+    "title": "Oil painting technique (Van Eyck era) \u2014 mature craft",
+    "url": "https://en.wikipedia.org/wiki/Oil_painting",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known"
+  },
+  {
+    "id": "known-chiaroscuro",
+    "title": "Chiaroscuro / formal composition grammar \u2014 established canon",
+    "url": "https://en.wikipedia.org/wiki/Chiaroscuro",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known"
+  },
+  {
+    "id": "known-photography",
+    "title": "Photography (daguerreotype to digital) \u2014 mature medium",
+    "url": "https://en.wikipedia.org/wiki/Photography",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known"
+  },
+  {
+    "id": "known-impressionism",
+    "title": "Impressionism painting technique (Monet era) \u2014 mature art movement",
+    "url": "https://en.wikipedia.org/wiki/Impressionism",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known"
+  },
+  {
+    "id": "known-film",
+    "title": "Motion picture / cinema technology \u2014 solved medium",
+    "url": "https://en.wikipedia.org/wiki/Motion_picture",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known"
+  },
+  {
+    "id": "known-printing-press",
+    "title": "Movable-type printing press (Gutenberg) \u2014 solved dissemination",
+    "url": "https://en.wikipedia.org/wiki/Printing_press",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known"
+  },
+  {
+    "id": "known-digital-camera",
+    "title": "Digital image sensors and cameras \u2014 solved medium",
+    "url": "https://en.wikipedia.org/wiki/Digital_camera",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known"
+  },
+  {
+    "id": "k-ar-notation",
+    "title": "Staff notation systematized (Guido of Arezzo, 11th century)",
+    "url": "https://en.wikipedia.org/wiki/Musical_notation",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k-ar-temperament",
+    "title": "Equal temperament systematized (16th-17th c.) \u2014 solved tuning for all keys",
+    "url": "https://en.wikipedia.org/wiki/Equal_temperament",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1600s"
+  },
+  {
+    "id": "k-ar-sonnet",
+    "title": "The sonnet form codified (Petrarch, 14th century)",
+    "url": "https://en.wikipedia.org/wiki/Sonnet",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Renaissance (1400-1600)"
+  },
+  {
+    "id": "k-ar-opera",
+    "title": "Opera invented around the Florentine Camerata (c. 1600)",
+    "url": "https://en.wikipedia.org/wiki/Opera",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1600s"
+  },
+  {
+    "id": "k-ar-encyclopedie",
+    "title": "The Encyclopedie organizes all knowledge (1751-72)",
+    "url": "https://en.wikipedia.org/wiki/Encyclop%C3%A9die",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1700s"
+  },
+  {
+    "id": "k-ar-louvre",
+    "title": "The public museum opens to everyone (Louvre 1793)",
+    "url": "https://en.wikipedia.org/wiki/Louvre",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1700s"
+  },
+  {
+    "id": "k-ar-phonograph",
+    "title": "Sound recorded and replayed (Edison 1877)",
+    "url": "https://en.wikipedia.org/wiki/Phonograph",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k-ar-cinema",
+    "title": "Projected cinema (Lumiere brothers 1895)",
+    "url": "https://en.wikipedia.org/wiki/History_of_film",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k-ar-tv",
+    "title": "Television broadcast (1920s-30s)",
+    "url": "https://en.wikipedia.org/wiki/Television",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k-ar-abstract",
+    "title": "Abstraction arrives in painting (Kandinsky c. 1911)",
+    "url": "https://en.wikipedia.org/wiki/Abstract_art",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k-ar-sound-film",
+    "title": "Synchronized sound film (1927)",
+    "url": "https://en.wikipedia.org/wiki/Sound_film",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k-ar-multitrack",
+    "title": "Multitrack recording transforms music production (1950s-60s)",
+    "url": "https://en.wikipedia.org/wiki/Multitrack_recording",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ar-sketchpad",
+    "title": "Interactive computer graphics (Sketchpad 1963)",
+    "url": "https://en.wikipedia.org/wiki/Sketchpad",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ar-midi",
+    "title": "MIDI standardizes digital instruments (1983)",
+    "url": "https://en.wikipedia.org/wiki/MIDI",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ar-cd",
+    "title": "Digital audio for consumers (CD 1982)",
+    "url": "https://en.wikipedia.org/wiki/Compact_disc",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ar-toystory",
+    "title": "The fully computer-animated feature film (Toy Story 1995)",
+    "url": "https://en.wikipedia.org/wiki/Toy_Story",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ar-photoshop",
+    "title": "Digital image editing goes mainstream (Photoshop 1990)",
+    "url": "https://en.wikipedia.org/wiki/Adobe_Photoshop",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ar-streaming",
+    "title": "Streaming replaces physical distribution (2006-)",
+    "url": "https://en.wikipedia.org/wiki/Streaming_media",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k-ar-sol-lewitt",
+    "title": "Instruction-based conceptual art (LeWitt 1960s) \u2014 art as algorithm",
+    "url": "https://en.wikipedia.org/wiki/Sol_LeWitt",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ar-cave-painting",
+    "title": "Figurative cave painting (c. 40,000+ BC) \u2014 the first art",
+    "url": "https://en.wikipedia.org/wiki/Cave_painting",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ar-venus-figurines",
+    "title": "Venus figurines across Ice Age Europe (c. 30,000 BC)",
+    "url": "https://en.wikipedia.org/wiki/Venus_figurines",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ar-greek-sculpture",
+    "title": "Greek sculpture solves idealized naturalism (5th c. BC)",
+    "url": "https://en.wikipedia.org/wiki/Ancient_Greek_sculpture",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ar-fresco",
+    "title": "Fresco mastered (Minoan to Roman, 2nd millennium BC-)",
+    "url": "https://en.wikipedia.org/wiki/Fresco",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ar-mosaic",
+    "title": "Mosaic: durable monumental imagery (3rd millennium BC-)",
+    "url": "https://en.wikipedia.org/wiki/Mosaic",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ar-greek-theatre",
+    "title": "The theatre building and its conventions (Athens, 5th c. BC)",
+    "url": "https://en.wikipedia.org/wiki/Theatre_of_ancient_Greece",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ar-tragedy",
+    "title": "Tragedy as a dramatic form codified (Aeschylus-Sophocles-Euripides)",
+    "url": "https://en.wikipedia.org/wiki/Tragedy",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ar-epic",
+    "title": "Epic poetry as the memory technology of cultures (Homer, Gilgamesh)",
+    "url": "https://en.wikipedia.org/wiki/Epic_poetry",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ar-rhetoric",
+    "title": "Rhetoric systematized (Aristotle, 4th c. BC)",
+    "url": "https://en.wikipedia.org/wiki/Rhetoric",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ar-calligraphy",
+    "title": "Chinese calligraphy elevated to the highest art (Han dynasty)",
+    "url": "https://en.wikipedia.org/wiki/Chinese_calligraphy",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ar-pythagorean-tuning",
+    "title": "Pythagorean tuning: music as number (6th c. BC)",
+    "url": "https://en.wikipedia.org/wiki/Pythagorean_tuning",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ar-library-alexandria",
+    "title": "The Library of Alexandria: the first universal research library (3rd c. BC)",
+    "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-ar-house-of-wisdom",
+    "title": "The House of Wisdom translates the world's science (9th c. Baghdad)",
+    "url": "https://en.wikipedia.org/wiki/House_of_Wisdom",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k2-ar-noh",
+    "title": "Noh theatre perfected (14th c. Japan)",
+    "url": "https://en.wikipedia.org/wiki/Noh",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k2-ar-gothic",
+    "title": "Gothic architecture: structural light (12th-13th c.)",
+    "url": "https://en.wikipedia.org/wiki/Gothic_architecture",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k2-ar-byzantine",
+    "title": "Byzantine icon tradition defined sacred art (4th-15th c.)",
+    "url": "https://en.wikipedia.org/wiki/Byzantine_art",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k2-ar-manuscripts",
+    "title": "Illuminated manuscripts preserve knowledge through the Middle Ages",
+    "url": "https://en.wikipedia.org/wiki/Illuminated_manuscript",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k2-ar-ukiyo-e",
+    "title": "Ukiyo-e woodblock printing reaches mass audiences (17th-19th c.)",
+    "url": "https://en.wikipedia.org/wiki/Ukiyo-e",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1600s"
+  },
+  {
+    "id": "k2-ar-mughal",
+    "title": "Mughal miniature painting synthesizes Persian and Indian art (16th c.)",
+    "url": "https://en.wikipedia.org/wiki/Mughal_painting",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Renaissance (1400-1600)"
+  },
+  {
+    "id": "k2-ar-leonardo",
+    "title": "Leonardo da Vinci's notebooks and paintings set the Renaissance bar",
+    "url": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "Renaissance (1400-1600)"
+  },
+  {
+    "id": "k2-ar-baroque",
+    "title": "The Baroque: drama, light, and movement in art (1600s)",
+    "url": "https://en.wikipedia.org/wiki/Baroque",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1600s"
+  },
+  {
+    "id": "k2-ar-caravaggio",
+    "title": "Chiaroscuro revolutionizes painting (Caravaggio, 1600s)",
+    "url": "https://en.wikipedia.org/wiki/Caravaggio",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1600s"
+  },
+  {
+    "id": "k2-ar-rembrandt",
+    "title": "Rembrandt's light and portraits (1600s)",
+    "url": "https://en.wikipedia.org/wiki/Rembrandt",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1600s"
+  },
+  {
+    "id": "k2-ar-hokusai",
+    "title": "Hokusai's prints reshape world art (1830s)",
+    "url": "https://en.wikipedia.org/wiki/Hokusai",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-ar-cubism",
+    "title": "Cubism fractures perspective (Picasso-Braque, 1907-14)",
+    "url": "https://en.wikipedia.org/wiki/Cubism",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-ar-dada",
+    "title": "Dada and the ready-made question art itself (1916-)",
+    "url": "https://en.wikipedia.org/wiki/Dada",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-ar-bauhaus",
+    "title": "The Bauhaus unites art, craft, and industry (1919-33)",
+    "url": "https://en.wikipedia.org/wiki/Bauhaus",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-ar-jazz",
+    "title": "Jazz: improvisation becomes a global art (1900s-)",
+    "url": "https://en.wikipedia.org/wiki/Jazz",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-ar-blues",
+    "title": "The blues: the root of popular music (1900s-)",
+    "url": "https://en.wikipedia.org/wiki/Blues",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-ar-rock",
+    "title": "Rock and roll (1950s)",
+    "url": "https://en.wikipedia.org/wiki/Rock_and_roll",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ar-pop-art",
+    "title": "Pop art brings mass culture into the gallery (1960s)",
+    "url": "https://en.wikipedia.org/wiki/Pop_art",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ar-minimalism-art",
+    "title": "Minimalism in art and music (1960s)",
+    "url": "https://en.wikipedia.org/wiki/Minimalism",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ar-hiphop",
+    "title": "Hip hop: DJing, MCing, breaking, graffiti (1970s-)",
+    "url": "https://en.wikipedia.org/wiki/Hip_hop_music",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ar-music-video",
+    "title": "The music video era (MTV 1981)",
+    "url": "https://en.wikipedia.org/wiki/Music_video",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ar-dalle",
+    "title": "Text-to-image generation opens to the public (DALL-E/Stable Diffusion, 2022)",
+    "url": "https://en.wikipedia.org/wiki/DALL-E",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "front-dead-language",
+    "title": "Fully deciphered Minoan Linear A script \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Linear_A",
+    "source": "seed",
+    "category": "art",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-voynich",
+    "title": "Decoded Voynich manuscript \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Voynich_manuscript",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-indus",
+    "title": "Deciphered Indus Valley script \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Indus_script",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-attribution",
+    "title": "Fraud-proof artwork attribution independent of provenance \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Provenance",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-music-theory",
+    "title": "Universal predictive model of musical emotion across cultures \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Music_psychology",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "undiscovered"
+  },
+  {
+    "id": "f-ar-digital-preservation",
+    "title": "Preserving born-digital art for centuries \u2014 unsolved in practice",
+    "url": "https://en.wikipedia.org/wiki/Digital_preservation",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ar-lit-mt",
+    "title": "Machine translation that carries literature's voice \u2014 not achieved",
+    "url": "https://en.wikipedia.org/wiki/Literary_translation",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ar-herculaneum",
+    "title": "Reading the unopenable Herculaneum papyri \u2014 AI is just starting",
+    "url": "https://en.wikipedia.org/wiki/Herculaneum_papyri",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "undiscovered",
+    "era": "1700s"
+  },
+  {
+    "id": "f-ar-aesthetics-theory",
+    "title": "A predictive theory of aesthetic experience \u2014 missing",
+    "url": "https://en.wikipedia.org/wiki/Aesthetics",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "undiscovered",
+    "era": "Antiquity"
+  },
+  {
+    "id": "deb-rubens",
+    "title": "Is the National Gallery's Rubens 'Samson and Delilah' a 20th-century copy? (Artnet)",
+    "url": "https://news.artnet.com/art-world/national-gallery-rubens-debate-2613165",
+    "source": "web",
+    "category": "art",
+    "status": "debated"
+  },
+  {
+    "id": "deb-van-eyck-ai",
+    "title": "Can AI authentication be trusted for Old Masters? Van Eyck dispute (Artnet)",
+    "url": "https://news.artnet.com/art-world/van-eyck-ai-authenticity-2744090",
+    "source": "web",
+    "category": "art",
+    "status": "debated"
+  },
+  {
+    "id": "deb-michelangelo",
+    "title": "Newly attributed Michelangelo painting divides experts (The Art Newspaper)",
+    "url": "https://www.theartnewspaper.com/2026/03/12/it-has-nothing-to-do-with-michelangeloexpert-wades-in-on-painting-newly-attributed-to-renaissance-master",
+    "source": "web",
+    "category": "art",
+    "status": "debated"
+  },
+  {
+    "id": "d-ar-ai-art",
+    "title": "Can AI-generated work be art \u2014 and who owns it?",
+    "url": "https://en.wikipedia.org/wiki/Artificial_intelligence_art",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "debated",
+    "era": "2020-2026"
+  },
+  {
+    "id": "d-ar-restitution",
+    "title": "Should museums return colonial-era artifacts?",
+    "url": "https://en.wikipedia.org/wiki/Repatriation_(cultural_property)",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "debated",
+    "era": "2000-2019"
+  },
+  {
+    "id": "d-ar-canon",
+    "title": "Whose works belong in the canon? The Western canon debates",
+    "url": "https://en.wikipedia.org/wiki/Western_canon",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "debated",
+    "era": "1950-2000"
+  },
+  {
+    "id": "d-ar-copyright-term",
+    "title": "Are copyright terms (life+70) too long? Argued since Statute of Anne",
+    "url": "https://en.wikipedia.org/wiki/Copyright",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "debated",
+    "era": "1700s"
+  },
+  {
+    "id": "d-ar-nft",
+    "title": "NFTs: durable value or speculative bubble?",
+    "url": "https://en.wikipedia.org/wiki/Non-fungible_token",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "debated",
+    "era": "2020-2026"
+  },
+  {
+    "id": "d-ar-restoration",
+    "title": "How much should restoration intervene? (Sistine, and worse)",
+    "url": "https://en.wikipedia.org/wiki/Sistine_Chapel_ceiling",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "debated",
+    "era": "1950-2000"
+  },
+  {
+    "id": "d-ar-hip",
+    "title": "Historically informed performance: can we ever play it like they did?",
+    "url": "https://en.wikipedia.org/wiki/Historically_informed_performance",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "debated",
+    "era": "1900-1950"
+  },
+  {
+    "id": "d-ar-translation",
+    "title": "Faithful or free translation? The debate is as old as translation",
+    "url": "https://en.wikipedia.org/wiki/Translation",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "debated",
+    "era": "Antiquity"
+  },
+  {
+    "id": "d2-ar-sea-peoples",
+    "title": "Who were the Sea Peoples? Still a mystery of antiquity",
+    "url": "https://en.wikipedia.org/wiki/Sea_Peoples",
+    "source": "wikipedia",
+    "category": "art",
+    "status": "debated",
+    "era": "Antiquity"
+  }
+]

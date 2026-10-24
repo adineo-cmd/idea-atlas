@@ -1,0 +1,971 @@
+[
+  {
+    "id": "known-todo",
+    "title": "Todo list app (CRUD + reminders) \u2014 solved, dozens of better versions exist",
+    "url": "https://en.wikipedia.org/wiki/Getting_Things_Done",
+    "source": "seed",
+    "category": "software",
+    "status": "known"
+  },
+  {
+    "id": "known-git",
+    "title": "Git distributed version control \u2014 mature, don't reimplement",
+    "url": "https://en.wikipedia.org/wiki/Git",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known"
+  },
+  {
+    "id": "known-oauth",
+    "title": "OAuth 2.0 delegated auth \u2014 solved protocol",
+    "url": "https://en.wikipedia.org/wiki/OAuth",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known"
+  },
+  {
+    "id": "known-password-hash",
+    "title": "Password hashing (bcrypt/argon2/scrypt) \u2014 solved problem",
+    "url": "https://en.wikipedia.org/wiki/Bcrypt",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known"
+  },
+  {
+    "id": "known-crud-admin",
+    "title": "CRUD admin panels (Django admin, Rails, Retool-style) \u2014 commoditized",
+    "url": "https://en.wikipedia.org/wiki/Create,_read,_update_and_delete",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known"
+  },
+  {
+    "id": "known-chat-app",
+    "title": "Chat/messaging apps \u2014 massively oversupplied space",
+    "url": "https://en.wikipedia.org/wiki/Comparison_of_cross-platform_instant_messaging_clients",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known"
+  },
+  {
+    "id": "known-markdown",
+    "title": "Markdown editors and renderers \u2014 solved, excellent options exist",
+    "url": "https://en.wikipedia.org/wiki/Markdown",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known"
+  },
+  {
+    "id": "known-internet",
+    "title": "TCP/IP networking and packet routing \u2014 solved infrastructure",
+    "url": "https://en.wikipedia.org/wiki/Internet_protocol_suite",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known"
+  },
+  {
+    "id": "known-encryption-rsa",
+    "title": "RSA public-key cryptography \u2014 solved security protocol",
+    "url": "https://en.wikipedia.org/wiki/RSA_(cryptosystem)",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known"
+  },
+  {
+    "id": "known-web-browser",
+    "title": "Web browsers and HTML rendering engines \u2014 solved platform",
+    "url": "https://en.wikipedia.org/wiki/Web_browser",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known"
+  },
+  {
+    "id": "k-sw-algorithm",
+    "title": "The algorithm concept formalized (al-Khwarizmi, 9th century)",
+    "url": "https://en.wikipedia.org/wiki/Algorithm",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "Medieval"
+  },
+  {
+    "id": "k-sw-lovelace",
+    "title": "Ada Lovelace writes the first published program (1843)",
+    "url": "https://en.wikipedia.org/wiki/Ada_Lovelace",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k-sw-babbage",
+    "title": "Babbage designs the programmable Analytical Engine (1837)",
+    "url": "https://en.wikipedia.org/wiki/Analytical_Engine",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k-sw-boolean",
+    "title": "Boolean algebra gives logic an arithmetic (1854)",
+    "url": "https://en.wikipedia.org/wiki/Boolean_algebra",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k-sw-turing-machine",
+    "title": "The Turing machine defines computation itself (1936)",
+    "url": "https://en.wikipedia.org/wiki/Turing_machine",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k-sw-von-neumann",
+    "title": "Stored-program computer architecture (von Neumann, 1945)",
+    "url": "https://en.wikipedia.org/wiki/Von_Neumann_architecture",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k-sw-hopper",
+    "title": "First compiler written (Grace Hopper's A-0, 1952)",
+    "url": "https://en.wikipedia.org/wiki/Grace_Hopper",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-sw-fortran",
+    "title": "FORTRAN: the first high-level language that mattered (1957)",
+    "url": "https://en.wikipedia.org/wiki/Fortran",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-sw-lisp",
+    "title": "LISP invents the language processor, GC and the REPL (1958)",
+    "url": "https://en.wikipedia.org/wiki/Lisp_(programming_language)",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-sw-ic",
+    "title": "The integrated circuit (1958-59) \u2014 solved scaling electronics",
+    "url": "https://en.wikipedia.org/wiki/Integrated_circuit",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-sw-arpanet",
+    "title": "ARPANET demonstrates packet-switched networking (1969)",
+    "url": "https://en.wikipedia.org/wiki/ARPANET",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-sw-unix",
+    "title": "Unix and C: portable operating systems (1969-73)",
+    "url": "https://en.wikipedia.org/wiki/Unix",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-sw-rdbms",
+    "title": "Relational databases (Codd 1970) \u2014 solved data management",
+    "url": "https://en.wikipedia.org/wiki/Relational_database",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-sw-publickey",
+    "title": "Public-key cryptography (Diffie-Hellman, RSA, 1976-77)",
+    "url": "https://en.wikipedia.org/wiki/Public-key_cryptography",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-sw-pc",
+    "title": "Personal computing goes mass-market (1977-1981)",
+    "url": "https://en.wikipedia.org/wiki/Home_computer",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-sw-www",
+    "title": "The World Wide Web proposed and built (Berners-Lee, 1989-91)",
+    "url": "https://www.w3.org/History/1989/proposal.html",
+    "source": "web",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-sw-linux",
+    "title": "Linux and the collaborative kernel that ate the world (1991-)",
+    "url": "https://en.wikipedia.org/wiki/Linux",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-sw-https",
+    "title": "HTTPS/TLS secures web commerce (1994-)",
+    "url": "https://en.wikipedia.org/wiki/HTTPS",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-sw-pagerank",
+    "title": "PageRank makes search work at web scale (1998)",
+    "url": "https://en.wikipedia.org/wiki/PageRank",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-sw-wikipedia",
+    "title": "Wikipedia (2001): the collaboratively built encyclopedia",
+    "url": "https://en.wikipedia.org/wiki/Wikipedia",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k-sw-alexnet",
+    "title": "Deep learning breaks out on GPUs (AlexNet, 2012)",
+    "url": "https://en.wikipedia.org/wiki/AlexNet",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k-sw-transformer",
+    "title": "The transformer architecture (2017) \u2014 solved sequence modeling base",
+    "url": "https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k-sw-gpt3",
+    "title": "Large language models at scale (GPT-3, 2020)",
+    "url": "https://en.wikipedia.org/wiki/GPT-3",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k-sw-chatgpt",
+    "title": "Conversational AI reaches hundreds of millions (ChatGPT, 2022-)",
+    "url": "https://en.wikipedia.org/wiki/ChatGPT",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k-sw-docker",
+    "title": "Containerization standardizes deployment (Docker, 2013)",
+    "url": "https://en.wikipedia.org/wiki/Docker_(software)",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k-sw-kubernetes",
+    "title": "Kubernetes becomes the orchestration standard (2014-)",
+    "url": "https://en.wikipedia.org/wiki/Kubernetes",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k-sw-cloud",
+    "title": "Renting compute by the second (AWS, 2006-)",
+    "url": "https://en.wikipedia.org/wiki/Cloud_computing",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k-sw-smartphone",
+    "title": "The smartphone platform (2007-) \u2014 solved pocket computer",
+    "url": "https://en.wikipedia.org/wiki/Smartphone",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k-sw-gps",
+    "title": "Civilian GPS in every pocket \u2014 solved positioning",
+    "url": "https://en.wikipedia.org/wiki/Global_Positioning_System",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-sw-qrcode",
+    "title": "QR codes (1994) \u2014 solved machine-readable links",
+    "url": "https://en.wikipedia.org/wiki/QR_code",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-sw-unicode",
+    "title": "Unicode: one encoding for every script (1991-)",
+    "url": "https://en.wikipedia.org/wiki/Unicode",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-sw-wifi",
+    "title": "Wi-Fi standardizes wireless networking (1997-)",
+    "url": "https://en.wikipedia.org/wiki/Wi-Fi",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-sw-mapreduce",
+    "title": "MapReduce and datacenter-scale data processing (2004)",
+    "url": "https://en.wikipedia.org/wiki/MapReduce",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k-sw-alphago",
+    "title": "AlphaGo beats the world Go champion (2016)",
+    "url": "https://en.wikipedia.org/wiki/AlphaGo",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k-sw-bitcoin",
+    "title": "Bitcoin and blockchains: built, do not reinvent (2009-)",
+    "url": "https://en.wikipedia.org/wiki/Bitcoin",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k-sw-rust",
+    "title": "A memory-safe systems language goes mainstream (Rust in Linux/Windows, 2019-)",
+    "url": "https://en.wikipedia.org/wiki/Rust_(programming_language)",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k-sw-freesw",
+    "title": "The free software movement and copyleft licensing (1983-)",
+    "url": "https://en.wikipedia.org/wiki/Free_software_movement",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-sw-cuneiform",
+    "title": "Cuneiform writing: the first information storage (c. 3200 BC)",
+    "url": "https://en.wikipedia.org/wiki/Cuneiform",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-sw-abacus",
+    "title": "The abacus: the first computing aid (c. 2500 BC)",
+    "url": "https://en.wikipedia.org/wiki/Abacus",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-sw-quipu",
+    "title": "Quipu: knotted-cord data records (Andes)",
+    "url": "https://en.wikipedia.org/wiki/Quipu",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "Antiquity"
+  },
+  {
+    "id": "k2-sw-jacquard",
+    "title": "The Jacquard loom programs cloth with punched cards (1804)",
+    "url": "https://en.wikipedia.org/wiki/Jacquard_loom",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-sw-telegraph",
+    "title": "The electrical telegraph annihilates distance (1837-44)",
+    "url": "https://en.wikipedia.org/wiki/Electrical_telegraph",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-sw-punchcards",
+    "title": "Punched-card data processing (Hollerith 1890)",
+    "url": "https://en.wikipedia.org/wiki/Punched_card",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k2-sw-colossus",
+    "title": "Colossus: the first electronic programmable computer (1943-44)",
+    "url": "https://en.wikipedia.org/wiki/Colossus_computer",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-sw-eniac",
+    "title": "ENIAC: general-purpose electronic computing (1945)",
+    "url": "https://en.wikipedia.org/wiki/ENIAC",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-sw-manchester-baby",
+    "title": "The stored-program computer runs (Manchester Baby, 1948)",
+    "url": "https://en.wikipedia.org/wiki/Manchester_Baby",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-sw-ascii",
+    "title": "ASCII standardizes digital text (1963)",
+    "url": "https://en.wikipedia.org/wiki/ASCII",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-sw-basic",
+    "title": "BASIC brings programming to students (1964)",
+    "url": "https://en.wikipedia.org/wiki/BASIC",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-sw-clang",
+    "title": "C: the portable systems language (1972)",
+    "url": "https://en.wikipedia.org/wiki/C_(programming_language)",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-sw-smalltalk",
+    "title": "Smalltalk invents objects and the modern IDE (1972-80)",
+    "url": "https://en.wikipedia.org/wiki/Smalltalk",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-sw-sql",
+    "title": "SQL standardizes database access (1974-)",
+    "url": "https://en.wikipedia.org/wiki/SQL",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-sw-ethernet",
+    "title": "Ethernet standardizes local networks (1973-)",
+    "url": "https://en.wikipedia.org/wiki/Ethernet",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-sw-xerox-alto",
+    "title": "The GUI is invented (Xerox Alto, 1973)",
+    "url": "https://en.wikipedia.org/wiki/Xerox_Alto",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-sw-usenet",
+    "title": "Distributed online communities (Usenet, 1980)",
+    "url": "https://en.wikipedia.org/wiki/Usenet",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-sw-mosaic",
+    "title": "The browser makes the web popular (Mosaic 1993)",
+    "url": "https://en.wikipedia.org/wiki/Mosaic_(web_browser)",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-sw-java",
+    "title": "Java: write once, run anywhere (1995)",
+    "url": "https://en.wikipedia.org/wiki/Java_(programming_language)",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-sw-tensorflow",
+    "title": "TensorFlow/PyTorch make deep learning everyone's tool (2015-17)",
+    "url": "https://en.wikipedia.org/wiki/TensorFlow",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-sw-jupyter",
+    "title": "Notebooks become the lab bench of data science (Jupyter 2014-)",
+    "url": "https://en.wikipedia.org/wiki/Project_Jupyter",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-sw-stackoverflow",
+    "title": "Stack Overflow: the programmer's commons (2008)",
+    "url": "https://en.wikipedia.org/wiki/Stack_Overflow",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-sw-wasm",
+    "title": "WebAssembly: a fast universal runtime (2017-)",
+    "url": "https://en.wikipedia.org/wiki/WebAssembly",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-sw-ethereum",
+    "title": "Programmable blockchains (Ethereum smart contracts, 2015)",
+    "url": "https://en.wikipedia.org/wiki/Ethereum",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-sw-signal",
+    "title": "End-to-end encryption for the masses (Signal Protocol, 2013-)",
+    "url": "https://en.wikipedia.org/wiki/Signal_Protocol",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-sw-cuda",
+    "title": "GPUs become general computers (CUDA, 2007)",
+    "url": "https://en.wikipedia.org/wiki/CUDA",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-sw-github",
+    "title": "GitHub becomes the world's code commons (2008)",
+    "url": "https://en.wikipedia.org/wiki/GitHub",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-sw-vscode",
+    "title": "VS Code and the LSP era of editors (2015-)",
+    "url": "https://en.wikipedia.org/wiki/Visual_Studio_Code",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-sw-typescript",
+    "title": "TypeScript: typed JavaScript at scale (2012-)",
+    "url": "https://en.wikipedia.org/wiki/TypeScript",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-sw-react",
+    "title": "React and component UIs (2013-)",
+    "url": "https://en.wikipedia.org/wiki/React_(software)",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-sw-copilot",
+    "title": "AI pair programming ships by default (GitHub Copilot, 2021)",
+    "url": "https://en.wikipedia.org/wiki/GitHub_Copilot",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k2-sw-gpt4",
+    "title": "Multimodal LLMs reach professional competence (GPT-4, 2023)",
+    "url": "https://en.wikipedia.org/wiki/GPT-4",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k2-sw-http3",
+    "title": "HTTP/3 runs over QUIC (standardized 2022)",
+    "url": "https://en.wikipedia.org/wiki/HTTP/3",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k2-sw-passkeys",
+    "title": "Passkey authentication standardizes (FIDO/WebAuthn, 2022-)",
+    "url": "https://en.wikipedia.org/wiki/WebAuthn",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "front-formal-verify",
+    "title": "Fully automatic formal verification for general-purpose software \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Formal_verification",
+    "source": "seed",
+    "category": "software",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-agi-align",
+    "title": "Provably aligned general intelligence \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/AI_alignment",
+    "source": "seed",
+    "category": "software",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-program-synthesis",
+    "title": "Reliable automatic program synthesis from natural-language specs \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Program_synthesis",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-self-healing",
+    "title": "Self-healing production systems with zero human on-call \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Autonomic_computing",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-interop",
+    "title": "Seamless legacy system interoperability without rewrites \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Interoperability",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-observability-complete",
+    "title": "Complete root-cause analysis in distributed systems with zero human time \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Observability_(software)",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "undiscovered"
+  },
+  {
+    "id": "f-sw-autonomous-swe",
+    "title": "AI agents that plan and ship reliable changes over large codebases \u2014 missing",
+    "url": "https://en.wikipedia.org/wiki/Intelligent_agent",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "undiscovered",
+    "era": "2020-2026"
+  },
+  {
+    "id": "f-sw-pq-migration",
+    "title": "Completed migration to post-quantum cryptography \u2014 in progress",
+    "url": "https://en.wikipedia.org/wiki/Post-quantum_cryptography",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "undiscovered",
+    "era": "2020-2026"
+  },
+  {
+    "id": "f-sw-neuromorphic",
+    "title": "Computing that breaks von Neumann's energy wall \u2014 unbuilt",
+    "url": "https://en.wikipedia.org/wiki/Neuromorphic_engineering",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-sw-verifiable-voting",
+    "title": "Internet voting that is provably coercion-resistant \u2014 unsolved",
+    "url": "https://en.wikipedia.org/wiki/Electronic_voting",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-sw-repro-builds",
+    "title": "Reproducible builds everywhere \u2014 incomplete",
+    "url": "https://en.wikipedia.org/wiki/Reproducible_builds",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "undiscovered",
+    "era": "2000-2019"
+  },
+  {
+    "id": "f-sw-supply-chain-safety",
+    "title": "End-to-end provenance for every software dependency \u2014 unbuilt",
+    "url": "https://en.wikipedia.org/wiki/Supply_chain_attack",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "undiscovered",
+    "era": "2000-2019"
+  },
+  {
+    "id": "deb-dist-systems",
+    "title": "Has distributed systems programming actually stalled for a decade? (HN debate)",
+    "url": "https://news.ycombinator.com/item?id=43195702",
+    "source": "hackernews",
+    "category": "software",
+    "status": "debated"
+  },
+  {
+    "id": "deb-observability",
+    "title": "How do teams actually handle observability in 2025? (r/sre debate)",
+    "url": "https://www.reddit.com/r/sre/comments/1lf9n5v/how_are_you_actually_handling_observability_in",
+    "source": "reddit",
+    "category": "software",
+    "status": "debated"
+  },
+  {
+    "id": "deb-legacy",
+    "title": "Is there any real solution to legacy system migration? (HN debate)",
+    "url": "https://news.ycombinator.com/item?id=24759006",
+    "source": "hackernews",
+    "category": "software",
+    "status": "debated"
+  },
+  {
+    "id": "deb-microservices",
+    "title": "Microservices vs monoliths \u2014 where did it all go wrong? (r/lobsters discussion)",
+    "url": "https://en.wikipedia.org/wiki/Microservices",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "debated"
+  },
+  {
+    "id": "deb-ai-writing-code",
+    "title": "Will AI ever produce reliable maintainable software without humans? (r/AskProgrammers debate)",
+    "url": "https://www.reddit.com/r/AskProgrammers/comments/1ltqj1b/what_are_the_biggest_unsolved_software_engineering_issues/",
+    "source": "reddit",
+    "category": "software",
+    "status": "debated"
+  },
+  {
+    "id": "d-sw-vibe-coding",
+    "title": "AI-assisted 'vibe coding': productivity or maintenance disaster?",
+    "url": "https://en.wikipedia.org/wiki/Vibe_coding",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "debated",
+    "era": "2020-2026"
+  },
+  {
+    "id": "d-sw-ai-copyright",
+    "title": "Is training AI on public code and art fair use?",
+    "url": "https://en.wikipedia.org/wiki/Generative_artificial_intelligence",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "debated",
+    "era": "2020-2026"
+  },
+  {
+    "id": "d-sw-agi-timeline",
+    "title": "How far is artificial general intelligence, really?",
+    "url": "https://en.wikipedia.org/wiki/Artificial_general_intelligence",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "debated",
+    "era": "2020-2026"
+  },
+  {
+    "id": "d-sw-rust-linux",
+    "title": "Should the Linux kernel absorb Rust? The debate is live",
+    "url": "https://en.wikipedia.org/wiki/Linux_kernel",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "debated",
+    "era": "2020-2026"
+  },
+  {
+    "id": "d-sw-oss-funding",
+    "title": "How should open-source work be funded sustainably?",
+    "url": "https://en.wikipedia.org/wiki/Open_source",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "debated",
+    "era": "2020-2026"
+  },
+  {
+    "id": "d-sw-typing",
+    "title": "Static vs dynamic typing: which prevents more failures per hour?",
+    "url": "https://en.wikipedia.org/wiki/Type_system",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "debated",
+    "era": "1950-2000"
+  },
+  {
+    "id": "d-sw-web3",
+    "title": "Web3: decentralized promise or solution in search of a problem?",
+    "url": "https://en.wikipedia.org/wiki/Web3",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "debated",
+    "era": "2020-2026"
+  },
+  {
+    "id": "d-sw-quantum-hype",
+    "title": "Quantum computing: engineering reality vs hype cycle",
+    "url": "https://en.wikipedia.org/wiki/Quantum_computing",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "debated",
+    "era": "2020-2026"
+  },
+  {
+    "id": "d-sw-remote-work",
+    "title": "Does remote work help or hurt productivity and careers?",
+    "url": "https://en.wikipedia.org/wiki/Remote_work",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "debated",
+    "era": "2020-2026"
+  },
+  {
+    "id": "d-sw-cookies",
+    "title": "Web tracking and cookies: consent theater or genuine choice?",
+    "url": "https://en.wikipedia.org/wiki/HTTP_cookie",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "debated",
+    "era": "1950-2000"
+  },
+  {
+    "id": "d-sw-r2r",
+    "title": "Right to repair: should devices be open to owners?",
+    "url": "https://en.wikipedia.org/wiki/Right_to_repair",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "debated",
+    "era": "2020-2026"
+  },
+  {
+    "id": "d-sw-safety-ai",
+    "title": "Should safety-critical code be written by AI at all?",
+    "url": "https://en.wikipedia.org/wiki/Safety-critical_system",
+    "source": "wikipedia",
+    "category": "software",
+    "status": "debated",
+    "era": "2020-2026"
+  }
+]

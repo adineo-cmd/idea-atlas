@@ -1,0 +1,553 @@
+[
+  {
+    "id": "known-cosine-sim",
+    "title": "Cosine similarity for vector comparison \u2014 settled baseline",
+    "url": "https://en.wikipedia.org/wiki/Cosine_similarity",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known"
+  },
+  {
+    "id": "known-word2vec",
+    "title": "Word2Vec embeddings \u2014 discovered representation technique",
+    "url": "https://en.wikipedia.org/wiki/Word2vec",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known"
+  },
+  {
+    "id": "known-pca",
+    "title": "PCA dimensionality reduction \u2014 solved technique",
+    "url": "https://en.wikipedia.org/wiki/Principal_component_analysis",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known"
+  },
+  {
+    "id": "known-hnsw",
+    "title": "HNSW / vector ANN search \u2014 solved indexing problem",
+    "url": "https://en.wikipedia.org/wiki/Nearest_neighbor_search",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known"
+  },
+  {
+    "id": "known-vector-db",
+    "title": "Vector databases (FAISS/Chroma-style) \u2014 crowded space",
+    "url": "https://en.wikipedia.org/wiki/Vector_database",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known"
+  },
+  {
+    "id": "known-svd",
+    "title": "Singular value decomposition \u2014 solved linear algebra tool",
+    "url": "https://en.wikipedia.org/wiki/Singular_value_decomposition",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known"
+  },
+  {
+    "id": "known-tf-idf",
+    "title": "TF-IDF information retrieval scoring \u2014 solved baseline",
+    "url": "https://en.wikipedia.org/wiki/Tf%E2%80%93idf",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known"
+  },
+  {
+    "id": "k-ve-vector-space",
+    "title": "Vector spaces axiomatized (Peano 1888) \u2014 solved algebra of dimension",
+    "url": "https://en.wikipedia.org/wiki/Vector_space",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "1800s"
+  },
+  {
+    "id": "k-ve-hilbert",
+    "title": "Hilbert spaces: infinite-dimensional geometry made rigorous",
+    "url": "https://en.wikipedia.org/wiki/Hilbert_space",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k-ve-knn",
+    "title": "k-nearest-neighbors \u2014 solved baseline of similarity search",
+    "url": "https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ve-lsa",
+    "title": "Latent semantic analysis (1988) \u2014 the first meaning-from-matrices",
+    "url": "https://en.wikipedia.org/wiki/Latent_semantic_analysis",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ve-lsh",
+    "title": "Locality-sensitive hashing (1998) \u2014 solved sublinear similarity search",
+    "url": "https://en.wikipedia.org/wiki/Locality-sensitive_hashing",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ve-attention",
+    "title": "Attention mechanisms (Bahdanau 2014) \u2014 solved alignment-to-input",
+    "url": "https://en.wikipedia.org/wiki/Attention_(machine_learning)",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k-ve-tsne",
+    "title": "t-SNE/UMAP: seeing high-dimensional structure (2008-)",
+    "url": "https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k-ve-cnn",
+    "title": "Convolutional networks (LeCun 1989-) \u2014 solved vision at scale",
+    "url": "https://en.wikipedia.org/wiki/Convolutional_neural_network",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ve-lstm",
+    "title": "LSTM solves the vanishing gradient for sequences (1997)",
+    "url": "https://en.wikipedia.org/wiki/Long_short-term_memory",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ve-gans",
+    "title": "Generative adversarial networks (2014)",
+    "url": "https://en.wikipedia.org/wiki/Generative_adversarial_network",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k-ve-diffusion",
+    "title": "Diffusion models solve high-fidelity generation (2020-)",
+    "url": "https://en.wikipedia.org/wiki/Diffusion_model",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k-ve-qlearning",
+    "title": "Q-learning and temporal-difference control (1989)",
+    "url": "https://en.wikipedia.org/wiki/Q-learning",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ve-svm",
+    "title": "Support vector machines and kernel tricks (1992-95)",
+    "url": "https://en.wikipedia.org/wiki/Support_vector_machine",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ve-rf",
+    "title": "Random forests (2001) \u2014 solved robust tabular baseline",
+    "url": "https://en.wikipedia.org/wiki/Random_forest",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k-ve-boosting",
+    "title": "Gradient boosting wins tabular ML (2001-)",
+    "url": "https://en.wikipedia.org/wiki/Gradient_boosting",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k-ve-resnet",
+    "title": "Residual networks make depth trainable (2015)",
+    "url": "https://en.wikipedia.org/wiki/Residual_neural_network",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k-ve-rlhf",
+    "title": "RLHF aligns models with human preference (2017-)",
+    "url": "https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k-ve-scaling-laws",
+    "title": "Neural scaling laws measured (2020) \u2014 loss predicts from compute/data/params",
+    "url": "https://en.wikipedia.org/wiki/Neural_scaling_law",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "2000-2019"
+  },
+  {
+    "id": "k2-ve-markov",
+    "title": "Markov chains model sequences (1906)",
+    "url": "https://en.wikipedia.org/wiki/Markov_chain",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-ve-montecarlo",
+    "title": "Monte Carlo methods (1946-)",
+    "url": "https://en.wikipedia.org/wiki/Monte_Carlo_method",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "1900-1950"
+  },
+  {
+    "id": "k2-ve-em-alg",
+    "title": "The EM algorithm fits latent-variable models (1977)",
+    "url": "https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ve-backprop",
+    "title": "Backpropagation trains layered networks efficiently (1986)",
+    "url": "https://en.wikipedia.org/wiki/Backpropagation",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ve-universal-approx",
+    "title": "Universal approximation theorems (1989)",
+    "url": "https://en.wikipedia.org/wiki/Universal_approximation_theorem",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ve-vc-dim",
+    "title": "VC dimension: a theory of learning from data (1971)",
+    "url": "https://en.wikipedia.org/wiki/VC_dimension",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ve-levenshtein",
+    "title": "Levenshtein edit distance (1965)",
+    "url": "https://en.wikipedia.org/wiki/Levenshtein_distance",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ve-bloom",
+    "title": "Bloom filters: probabilistic membership (1970)",
+    "url": "https://en.wikipedia.org/wiki/Bloom_filter",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ve-minhash",
+    "title": "MinHash: similarity at web scale (1997)",
+    "url": "https://en.wikipedia.org/wiki/MinHash",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "1950-2000"
+  },
+  {
+    "id": "k2-ve-rag",
+    "title": "Retrieval-augmented generation becomes the standard pattern (2023-)",
+    "url": "https://en.wikipedia.org/wiki/Retrieval-augmented_generation",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "k2-ve-llama",
+    "title": "Open-weight LLMs level the field (LLaMA, 2023-)",
+    "url": "https://en.wikipedia.org/wiki/LLaMA",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "known",
+    "era": "2020-2026"
+  },
+  {
+    "id": "front-hdviz",
+    "title": "Interpretable high-dimensional vector navigation \u2014 undiscovered",
+    "url": "https://arxiv.org/list/cs.LG/recent",
+    "source": "seed",
+    "category": "vectors",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-curse-dim",
+    "title": "General solution to the curse of dimensionality \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Curse_of_dimensionality",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-universal-embedding",
+    "title": "Universal embedding space shared across all modalities and languages \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Embedding_(machine_learning)",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-mech-interp",
+    "title": "Complete mechanistic interpretation of large neural networks \u2014 undiscovered",
+    "url": "https://arxiv.org/abs/2501.16496",
+    "source": "arxiv",
+    "category": "vectors",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-vec-memory",
+    "title": "Vector-native long-term memory system with exact recall \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Semantic_memory",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "undiscovered"
+  },
+  {
+    "id": "front-geometry-unified",
+    "title": "Single geometric framework for all vector spaces \u2014 undiscovered",
+    "url": "https://en.wikipedia.org/wiki/Inner_product_space",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "undiscovered"
+  },
+  {
+    "id": "f-ve-interp-frontier",
+    "title": "Full mechanistic interpretability of a frontier model \u2014 not achieved",
+    "url": "https://en.wikipedia.org/wiki/Interpretability_(machine_learning)",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "undiscovered",
+    "era": "2020-2026"
+  },
+  {
+    "id": "f-ve-few-shot",
+    "title": "Human-level sample efficiency from a handful of examples \u2014 missing",
+    "url": "https://en.wikipedia.org/wiki/Few-shot_learning",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "undiscovered",
+    "era": "2000-2019"
+  },
+  {
+    "id": "f-ve-continual",
+    "title": "Continual learning without catastrophic forgetting \u2014 unsolved",
+    "url": "https://en.wikipedia.org/wiki/Catastrophic_interference",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ve-grounding",
+    "title": "Solving the symbol grounding problem for embodied agents \u2014 open",
+    "url": "https://en.wikipedia.org/wiki/Symbol_grounding_problem",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ve-causal-representation",
+    "title": "Learning causal models from observation alone \u2014 open",
+    "url": "https://en.wikipedia.org/wiki/Causal_inference",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "f-ve-world-models",
+    "title": "Agents with genuine world models that plan reliably \u2014 open",
+    "url": "https://en.wikipedia.org/wiki/World_model",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "undiscovered",
+    "era": "2000-2019"
+  },
+  {
+    "id": "f-ve-robust-guarantee",
+    "title": "Certified robustness of neural networks to adversarial inputs \u2014 unsolved",
+    "url": "https://en.wikipedia.org/wiki/Adversarial_machine_learning",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "undiscovered",
+    "era": "2000-2019"
+  },
+  {
+    "id": "f-ve-qml-advantage",
+    "title": "A quantum speedup for practical machine learning \u2014 unproven",
+    "url": "https://en.wikipedia.org/wiki/Quantum_machine_learning",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "undiscovered",
+    "era": "2000-2019"
+  },
+  {
+    "id": "f-ve-hutter",
+    "title": "Compression as intelligence: the Hutter Prize frontier",
+    "url": "https://en.wikipedia.org/wiki/Hutter_Prize",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "undiscovered",
+    "era": "2000-2019"
+  },
+  {
+    "id": "f-ve-ml-weather",
+    "title": "ML weather models that fully beat numerical prediction \u2014 nearly there",
+    "url": "https://en.wikipedia.org/wiki/Numerical_weather_prediction",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "undiscovered",
+    "era": "1950-2000"
+  },
+  {
+    "id": "deb-curse-dim",
+    "title": "Do nearest-neighbor metrics become meaningless in high dims? (arXiv distance concentration)",
+    "url": "https://arxiv.org/abs/2401.00422",
+    "source": "arxiv",
+    "category": "vectors",
+    "status": "debated"
+  },
+  {
+    "id": "deb-interp-trust",
+    "title": "Is 'interpretability' a rigorous science yet? (arXiv Transparent AI debate)",
+    "url": "https://arxiv.org/abs/2507.23535",
+    "source": "arxiv",
+    "category": "vectors",
+    "status": "debated"
+  },
+  {
+    "id": "deb-vec-space",
+    "title": "What actually is an embedding \u2014 geometric space, distribution, or statistics? (arXiv)",
+    "url": "https://arxiv.org/list/cs.CL/recent",
+    "source": "arxiv",
+    "category": "vectors",
+    "status": "debated"
+  },
+  {
+    "id": "d-ve-parrot",
+    "title": "Do LLMs understand or merely parrot? The stochastic parrot dispute",
+    "url": "https://en.wikipedia.org/wiki/Stochastic_parrot",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "debated",
+    "era": "2000-2019"
+  },
+  {
+    "id": "d-ve-mech-interp",
+    "title": "Is mechanistic interpretability the path to trusting models?",
+    "url": "https://en.wikipedia.org/wiki/Mechanistic_interpretability",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "debated",
+    "era": "2020-2026"
+  },
+  {
+    "id": "d-ve-synthetic-data",
+    "title": "As real text runs out, does synthetic data keep scaling working?",
+    "url": "https://en.wikipedia.org/wiki/Synthetic_data",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "debated",
+    "era": "2020-2026"
+  },
+  {
+    "id": "d-ve-emergent-llm",
+    "title": "Are emergent abilities of LLMs real or measurement artifacts?",
+    "url": "https://en.wikipedia.org/wiki/Large_language_model",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "debated",
+    "era": "2020-2026"
+  },
+  {
+    "id": "d-ve-manifold",
+    "title": "How true is the manifold hypothesis in practice?",
+    "url": "https://en.wikipedia.org/wiki/Manifold_hypothesis",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "debated",
+    "era": "2000-2019"
+  },
+  {
+    "id": "d-ve-bm25-dense",
+    "title": "Does dense retrieval actually beat BM25 where it matters?",
+    "url": "https://en.wikipedia.org/wiki/Okapi_BM25",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "debated",
+    "era": "1950-2000"
+  },
+  {
+    "id": "d-ve-neuro-symbolic",
+    "title": "Neural nets vs symbolic reasoning: hybrid or replacement?",
+    "url": "https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "debated",
+    "era": "1950-2000"
+  },
+  {
+    "id": "d-ve-double-descent",
+    "title": "Why do bigger models sometimes generalize better? Double descent debates",
+    "url": "https://en.wikipedia.org/wiki/Double_descent",
+    "source": "wikipedia",
+    "category": "vectors",
+    "status": "debated",
+    "era": "2000-2019"
+  }
+]
