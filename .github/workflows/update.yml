@@ -1,8 +1,9 @@
 name: atlas-update
 
 # Every 6 hours (and on every push to main): refetch live debate sources,
-# re-map the atlas, run tests, and commit refreshed data. The data commit
-# pushes to main, which triggers deploy.yml to rebuild Astro and deploy Pages.
+# re-map the atlas, run tests, commit refreshed data, then build and deploy.
+# The deploy job lives here because commits pushed with GITHUB_TOKEN do not
+# trigger deploy.yml.
 on:
   schedule:
     - cron: "0 */6 * * *"
@@ -12,6 +13,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: atlas-update
@@ -64,3 +67,31 @@ jobs:
             git commit -m "chore(atlas): refresh data $(date -u +%Y-%m-%dT%H:%MZ)"
             git push
           fi
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }} # pick up the data commit pushed above
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+      - run: npm run build
+
+      - uses: actions/configure-pages@v4
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
