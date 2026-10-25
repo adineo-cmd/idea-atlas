@@ -967,5 +967,105 @@
     "category": "software",
     "status": "debated",
     "era": "2020-2026"
+  },
+  {
+    "id": "hn-33969908",
+    "title": "Show HN: We scaled Git to support 1 TB repos",
+    "url": "https://xethub.com/user/login",
+    "source": "hn",
+    "category": "software",
+    "status": "debated",
+    "updated_at": "2026-10-25",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "hn-47552974",
+    "title": "Using Catastrophic Forgetting as a Knowledge Topology Probe",
+    "url": "https://news.ycombinator.com/item?id=47552974",
+    "source": "hn",
+    "category": "software",
+    "status": "debated",
+    "updated_at": "2026-10-25",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "hn-30072244",
+    "title": "Launch HN: Castled Data (YC W22) \u2013 Open-Source Reverse ETL",
+    "url": "https://github.com/castledio/castled",
+    "source": "hn",
+    "category": "software",
+    "status": "debated",
+    "updated_at": "2026-10-25",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "hn-39917364",
+    "title": "Show HN: Burr \u2013 A framework for building and debugging GenAI apps faster",
+    "url": "https://github.com/DAGWorks-Inc/burr",
+    "source": "hn",
+    "category": "software",
+    "status": "debated",
+    "updated_at": "2026-10-25",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "hn-20776655",
+    "title": "Remote Workers: What are some common problems faced by you?",
+    "url": "https://news.ycombinator.com/item?id=20776655",
+    "source": "hn",
+    "category": "software",
+    "status": "debated",
+    "updated_at": "2026-10-25",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "hn-5693309",
+    "title": "Ask HN: How to ignore guilt while using open source code?",
+    "url": "https://news.ycombinator.com/item?id=5693309",
+    "source": "hn",
+    "category": "software",
+    "status": "debated",
+    "updated_at": "2026-10-25",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "hn-47256849",
+    "title": "Show HN: Open dataset of real-world LLM performance on Apple Silicon",
+    "url": "https://devpadapp.com/anubis-oss.html",
+    "source": "hn",
+    "category": "software",
+    "status": "debated",
+    "updated_at": "2026-10-25",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "hn-45190739",
+    "title": "Ask HN: How high is the bar for AGI? what problems are \"AGI-complete\"?",
+    "url": "https://news.ycombinator.com/item?id=45190739",
+    "source": "hn",
+    "category": "software",
+    "status": "debated",
+    "updated_at": "2026-10-25",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "hn-46096192",
+    "title": "Show HN: SolveMyPainPoint \u2013 A single place to post and discover real problems",
+    "url": "https://www.solvemypainpoint.com/",
+    "source": "hn",
+    "category": "software",
+    "status": "debated",
+    "updated_at": "2026-10-25",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "hn-44901528",
+    "title": "Launch HN: Cyberdesk (YC S25) \u2013 Automate Windows legacy desktop apps",
+    "url": "https://news.ycombinator.com/item?id=44901528",
+    "source": "hn",
+    "category": "software",
+    "status": "debated",
+    "updated_at": "2026-10-25",
+    "note": "Possibly solved \u2014 see Known"
   }
 ]

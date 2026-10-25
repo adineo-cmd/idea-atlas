@@ -683,5 +683,105 @@
     "category": "math",
     "status": "debated",
     "era": "2000-2019"
+  },
+  {
+    "id": "stackexchange-510717",
+    "title": "What core difficulties and preliminary obstacles does EDMP confront across the various (m,d) cases?",
+    "url": "https://mathoverflow.net/questions/510717/what-core-difficulties-and-preliminary-obstacles-does-edmp-confront-across-the-v",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-10-25",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "stackexchange-516336",
+    "title": "Has AI made any progress as a mathematical theory-builder, rather than just a problem-solver?",
+    "url": "https://mathoverflow.net/questions/516336/has-ai-made-any-progress-as-a-mathematical-theory-builder-rather-than-just-a-pr",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-10-25",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "stackexchange-516103",
+    "title": "A note on finite characterizability of realizable cc-systems in &quot;Axioms and Hulls&quot; by D. Knuth",
+    "url": "https://mathoverflow.net/questions/516103/a-note-on-finite-characterizability-of-realizable-cc-systems-in-axioms-and-hull",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-10-25",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "stackexchange-516201",
+    "title": "Incomparable elements in Rudin-Keisler order, is this open problem resolved?",
+    "url": "https://mathoverflow.net/questions/516201/incomparable-elements-in-rudin-keisler-order-is-this-open-problem-resolved",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-10-25",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "stackexchange-515723",
+    "title": "Are interactions between different fields of mathematics always beneficial?",
+    "url": "https://mathoverflow.net/questions/515723/are-interactions-between-different-fields-of-mathematics-always-beneficial",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-10-25",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "stackexchange-514742",
+    "title": "Is the square achievement game on the $n &#215; n$ grid resolved for $6 \\le n \\le 14$?",
+    "url": "https://mathoverflow.net/questions/514742/is-the-square-achievement-game-on-the-n-%c3%97-n-grid-resolved-for-6-le-n-le-14",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-10-25",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "stackexchange-515260",
+    "title": "How do we prevent mathematics from devolving into the Medieval Era of secrecy?",
+    "url": "https://mathoverflow.net/questions/515260/how-do-we-prevent-mathematics-from-devolving-into-the-medieval-era-of-secrecy",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-10-25",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "stackexchange-516008",
+    "title": "Validity of Dijkstra&#39;s example of a space with explosion point and no fixed point property",
+    "url": "https://mathoverflow.net/questions/516008/validity-of-dijkstras-example-of-a-space-with-explosion-point-and-no-fixed-poin",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-10-25",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "stackexchange-515849",
+    "title": "How many of the results released by OpenAI went against the conventional mathematical wisdom?",
+    "url": "https://mathoverflow.net/questions/515849/how-many-of-the-results-released-by-openai-went-against-the-conventional-mathema",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-10-25",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "stackexchange-409550",
+    "title": "Convergence of the series $\\sum_{n=1}^\\infty \\frac{(2+\\sin n)^n}{3^n n^a}$ for $a\\in(0,1)$",
+    "url": "https://mathoverflow.net/questions/409550/convergence-of-the-series-sum-n-1-infty-frac2-sin-nn3n-na-for",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-10-25",
+    "note": "Possibly solved \u2014 see Known"
   }
 ]

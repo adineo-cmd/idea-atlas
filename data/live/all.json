@@ -1,0 +1,362 @@
+[
+  {
+    "id": "hn-33969908",
+    "title": "Show HN: We scaled Git to support 1 TB repos",
+    "url": "https://xethub.com/user/login",
+    "source": "hn",
+    "category": "software",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "hn-47552974",
+    "title": "Using Catastrophic Forgetting as a Knowledge Topology Probe",
+    "url": "https://news.ycombinator.com/item?id=47552974",
+    "source": "hn",
+    "category": "software",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "hn-30072244",
+    "title": "Launch HN: Castled Data (YC W22) \u2013 Open-Source Reverse ETL",
+    "url": "https://github.com/castledio/castled",
+    "source": "hn",
+    "category": "software",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "hn-39917364",
+    "title": "Show HN: Burr \u2013 A framework for building and debugging GenAI apps faster",
+    "url": "https://github.com/DAGWorks-Inc/burr",
+    "source": "hn",
+    "category": "software",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "hn-20776655",
+    "title": "Remote Workers: What are some common problems faced by you?",
+    "url": "https://news.ycombinator.com/item?id=20776655",
+    "source": "hn",
+    "category": "software",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "hn-5693309",
+    "title": "Ask HN: How to ignore guilt while using open source code?",
+    "url": "https://news.ycombinator.com/item?id=5693309",
+    "source": "hn",
+    "category": "software",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "hn-47256849",
+    "title": "Show HN: Open dataset of real-world LLM performance on Apple Silicon",
+    "url": "https://devpadapp.com/anubis-oss.html",
+    "source": "hn",
+    "category": "software",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "hn-45190739",
+    "title": "Ask HN: How high is the bar for AGI? what problems are \"AGI-complete\"?",
+    "url": "https://news.ycombinator.com/item?id=45190739",
+    "source": "hn",
+    "category": "software",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "hn-46096192",
+    "title": "Show HN: SolveMyPainPoint \u2013 A single place to post and discover real problems",
+    "url": "https://www.solvemypainpoint.com/",
+    "source": "hn",
+    "category": "software",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "hn-44901528",
+    "title": "Launch HN: Cyberdesk (YC S25) \u2013 Automate Windows legacy desktop apps",
+    "url": "https://news.ycombinator.com/item?id=44901528",
+    "source": "hn",
+    "category": "software",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "arxiv-2610.31672v1",
+    "title": "Ricci flow of Integrable Sigma Models, Hitchin Systems and Quantum Seiberg-Witten theory",
+    "url": "http://arxiv.org/abs/2610.31672v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "arxiv-2610.31668v1",
+    "title": "Reading, Writing, Sharing, and Interacting with the World through Video",
+    "url": "http://arxiv.org/abs/2610.31668v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "arxiv-2610.31669v1",
+    "title": "Collapsed translating solitons with planar wings",
+    "url": "http://arxiv.org/abs/2610.31669v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "arxiv-2610.31667v1",
+    "title": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
+    "url": "http://arxiv.org/abs/2610.31667v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "arxiv-2610.31666v1",
+    "title": "Boosted Dark Matter Directionality in Large Liquid Scintillator Detectors",
+    "url": "http://arxiv.org/abs/2610.31666v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "arxiv-2610.31665v1",
+    "title": "Half-Completeness from Standard Gravitational Dispersion Relations",
+    "url": "http://arxiv.org/abs/2610.31665v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "arxiv-2610.31662v1",
+    "title": "Reliable AI-Assisted Decisions via Selective Auditing",
+    "url": "http://arxiv.org/abs/2610.31662v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "arxiv-2610.31661v1",
+    "title": "OpenTac: An Open Ecosystem for Customizable, Scalable, and Transferable 3D Tactile Sensing",
+    "url": "http://arxiv.org/abs/2610.31661v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "arxiv-2610.31646v1",
+    "title": "Low-Bit N-Gram Embeddings for Language Models",
+    "url": "http://arxiv.org/abs/2610.31646v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "arxiv-2610.31641v1",
+    "title": "UniVOE: A Removal-Driven Framework for Interaction-Aware Universal Video Object Editing",
+    "url": "http://arxiv.org/abs/2610.31641v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "stackexchange-510717",
+    "title": "What core difficulties and preliminary obstacles does EDMP confront across the various (m,d) cases?",
+    "url": "https://mathoverflow.net/questions/510717/what-core-difficulties-and-preliminary-obstacles-does-edmp-confront-across-the-v",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "stackexchange-516336",
+    "title": "Has AI made any progress as a mathematical theory-builder, rather than just a problem-solver?",
+    "url": "https://mathoverflow.net/questions/516336/has-ai-made-any-progress-as-a-mathematical-theory-builder-rather-than-just-a-pr",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "stackexchange-516103",
+    "title": "A note on finite characterizability of realizable cc-systems in &quot;Axioms and Hulls&quot; by D. Knuth",
+    "url": "https://mathoverflow.net/questions/516103/a-note-on-finite-characterizability-of-realizable-cc-systems-in-axioms-and-hull",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "stackexchange-516201",
+    "title": "Incomparable elements in Rudin-Keisler order, is this open problem resolved?",
+    "url": "https://mathoverflow.net/questions/516201/incomparable-elements-in-rudin-keisler-order-is-this-open-problem-resolved",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "stackexchange-515723",
+    "title": "Are interactions between different fields of mathematics always beneficial?",
+    "url": "https://mathoverflow.net/questions/515723/are-interactions-between-different-fields-of-mathematics-always-beneficial",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "stackexchange-514742",
+    "title": "Is the square achievement game on the $n &#215; n$ grid resolved for $6 \\le n \\le 14$?",
+    "url": "https://mathoverflow.net/questions/514742/is-the-square-achievement-game-on-the-n-%c3%97-n-grid-resolved-for-6-le-n-le-14",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "stackexchange-515260",
+    "title": "How do we prevent mathematics from devolving into the Medieval Era of secrecy?",
+    "url": "https://mathoverflow.net/questions/515260/how-do-we-prevent-mathematics-from-devolving-into-the-medieval-era-of-secrecy",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "stackexchange-516008",
+    "title": "Validity of Dijkstra&#39;s example of a space with explosion point and no fixed point property",
+    "url": "https://mathoverflow.net/questions/516008/validity-of-dijkstras-example-of-a-space-with-explosion-point-and-no-fixed-poin",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "stackexchange-515849",
+    "title": "How many of the results released by OpenAI went against the conventional mathematical wisdom?",
+    "url": "https://mathoverflow.net/questions/515849/how-many-of-the-results-released-by-openai-went-against-the-conventional-mathema",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "stackexchange-409550",
+    "title": "Convergence of the series $\\sum_{n=1}^\\infty \\frac{(2+\\sin n)^n}{3^n n^a}$ for $a\\in(0,1)$",
+    "url": "https://mathoverflow.net/questions/409550/convergence-of-the-series-sum-n-1-infty-frac2-sin-nn3n-na-for",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "stackexchange-876705",
+    "title": "Can Electromagnetic Fields Inside a Charged Cylinder Produce Extreme Gravitational Time Dilation?",
+    "url": "https://physics.stackexchange.com/questions/876705/can-electromagnetic-fields-inside-a-charged-cylinder-produce-extreme-gravitation",
+    "source": "stackexchange",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "stackexchange-557587",
+    "title": "Is there no difference between a gas expanding under a frictionless piston and gas leaking directly into the atmosphere?",
+    "url": "https://physics.stackexchange.com/questions/557587/is-there-no-difference-between-a-gas-expanding-under-a-frictionless-piston-and-g",
+    "source": "stackexchange",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "stackexchange-875698",
+    "title": "Would a solution to the Navier-Stokes existence and smoothness problem be useful for actual fluid dynamics?",
+    "url": "https://physics.stackexchange.com/questions/875698/would-a-solution-to-the-navier-stokes-existence-and-smoothness-problem-be-useful",
+    "source": "stackexchange",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "stackexchange-748434",
+    "title": "How to show that the interior of the causal future is contained in the chronological future?",
+    "url": "https://physics.stackexchange.com/questions/748434/how-to-show-that-the-interior-of-the-causal-future-is-contained-in-the-chronolog",
+    "source": "stackexchange",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "stackexchange-800291",
+    "title": "When we apply these concepts to physics, where do we put the UNITS in vector spaces and manifolds? Do units have a clear mathematical meaning?",
+    "url": "https://physics.stackexchange.com/questions/800291/when-we-apply-these-concepts-to-physics-where-do-we-put-the-units-in-vector-spa",
+    "source": "stackexchange",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "stackexchange-874139",
+    "title": "How can we build better intuition for voltage in a battery?",
+    "url": "https://physics.stackexchange.com/questions/874139/how-can-we-build-better-intuition-for-voltage-in-a-battery",
+    "source": "stackexchange",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "stackexchange-659856",
+    "title": "Is a Wheatstone bridge with 5 nodes possible?",
+    "url": "https://physics.stackexchange.com/questions/659856/is-a-wheatstone-bridge-with-5-nodes-possible",
+    "source": "stackexchange",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "stackexchange-658851",
+    "title": "What is the set of observables of a quantum system?",
+    "url": "https://physics.stackexchange.com/questions/658851/what-is-the-set-of-observables-of-a-quantum-system",
+    "source": "stackexchange",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "stackexchange-31425",
+    "title": "What is the answer to Feynman&#39;s Disc Paradox?",
+    "url": "https://physics.stackexchange.com/questions/31425/what-is-the-answer-to-feynmans-disc-paradox",
+    "source": "stackexchange",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  },
+  {
+    "id": "stackexchange-149179",
+    "title": "Thomson problem vs. maximizing sum of distance",
+    "url": "https://physics.stackexchange.com/questions/149179/thomson-problem-vs-maximizing-sum-of-distance",
+    "source": "stackexchange",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-10-25"
+  }
+]
