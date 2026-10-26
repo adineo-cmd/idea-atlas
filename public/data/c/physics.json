@@ -920,6 +920,106 @@
     "era": "2020-2026"
   },
   {
+    "id": "arxiv-2610.32971v1",
+    "title": "RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
+    "url": "http://arxiv.org/abs/2610.32971v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-10-26",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2610.32970v1",
+    "title": "On the continuity of conditional distributions and stratification for derivative pricing",
+    "url": "http://arxiv.org/abs/2610.32970v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-10-26",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2610.32968v1",
+    "title": "Distributed Quantum-Centric Supercomputing with Multi-Layered Generative Learning for Intermolecular Interactions",
+    "url": "http://arxiv.org/abs/2610.32968v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-10-26",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2610.32967v1",
+    "title": "MiD-VLM: Detecting and Grounding Global Semantic Misinformation in Image-Caption Pairs",
+    "url": "http://arxiv.org/abs/2610.32967v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-10-26",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2610.32964v1",
+    "title": "Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection",
+    "url": "http://arxiv.org/abs/2610.32964v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-10-26",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2610.32958v1",
+    "title": "Information Requirements for Resolving Implementation Impossibilities",
+    "url": "http://arxiv.org/abs/2610.32958v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-10-26",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2610.32954v1",
+    "title": "Acyclic 2-edge-coloured graphs: polynomial-time linkages and colouring hardness",
+    "url": "http://arxiv.org/abs/2610.32954v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-10-26",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2610.32949v1",
+    "title": "ExoVetter and a TESS Exoplanet Transit Search of Kepler Stars as Ground Truth",
+    "url": "http://arxiv.org/abs/2610.32949v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-10-26",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2610.32940v1",
+    "title": "Learning Positive Linear Combinations of ReLUs in Fully Polynomial Time",
+    "url": "http://arxiv.org/abs/2610.32940v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-10-26",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2610.32939v1",
+    "title": "Modified scattering for the 3D Hartree equation with singular external potentials",
+    "url": "http://arxiv.org/abs/2610.32939v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-10-26",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
     "id": "stackexchange-557587",
     "title": "Is there no difference between a gas expanding under a frictionless piston and gas leaking directly into the atmosphere?",
     "url": "https://physics.stackexchange.com/questions/557587/is-there-no-difference-between-a-gas-expanding-under-a-frictionless-piston-and-g",
