@@ -920,123 +920,13 @@
     "era": "2020-2026"
   },
   {
-    "id": "arxiv-2610.31672v1",
-    "title": "Ricci flow of Integrable Sigma Models, Hitchin Systems and Quantum Seiberg-Witten theory",
-    "url": "http://arxiv.org/abs/2610.31672v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-25",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2610.31668v1",
-    "title": "Reading, Writing, Sharing, and Interacting with the World through Video",
-    "url": "http://arxiv.org/abs/2610.31668v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-25",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2610.31669v1",
-    "title": "Collapsed translating solitons with planar wings",
-    "url": "http://arxiv.org/abs/2610.31669v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-25",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2610.31667v1",
-    "title": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
-    "url": "http://arxiv.org/abs/2610.31667v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-25",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2610.31666v1",
-    "title": "Boosted Dark Matter Directionality in Large Liquid Scintillator Detectors",
-    "url": "http://arxiv.org/abs/2610.31666v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-25",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2610.31665v1",
-    "title": "Half-Completeness from Standard Gravitational Dispersion Relations",
-    "url": "http://arxiv.org/abs/2610.31665v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-25",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2610.31662v1",
-    "title": "Reliable AI-Assisted Decisions via Selective Auditing",
-    "url": "http://arxiv.org/abs/2610.31662v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-25",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2610.31661v1",
-    "title": "OpenTac: An Open Ecosystem for Customizable, Scalable, and Transferable 3D Tactile Sensing",
-    "url": "http://arxiv.org/abs/2610.31661v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-25",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2610.31646v1",
-    "title": "Low-Bit N-Gram Embeddings for Language Models",
-    "url": "http://arxiv.org/abs/2610.31646v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-25",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2610.31641v1",
-    "title": "UniVOE: A Removal-Driven Framework for Interaction-Aware Universal Video Object Editing",
-    "url": "http://arxiv.org/abs/2610.31641v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-25",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "stackexchange-876705",
-    "title": "Can Electromagnetic Fields Inside a Charged Cylinder Produce Extreme Gravitational Time Dilation?",
-    "url": "https://physics.stackexchange.com/questions/876705/can-electromagnetic-fields-inside-a-charged-cylinder-produce-extreme-gravitation",
-    "source": "stackexchange",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-25",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
     "id": "stackexchange-557587",
     "title": "Is there no difference between a gas expanding under a frictionless piston and gas leaking directly into the atmosphere?",
     "url": "https://physics.stackexchange.com/questions/557587/is-there-no-difference-between-a-gas-expanding-under-a-frictionless-piston-and-g",
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-25",
+    "updated_at": "2026-10-26",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -1046,7 +936,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-25",
+    "updated_at": "2026-10-26",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -1056,7 +946,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-25",
+    "updated_at": "2026-10-26",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -1066,7 +956,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-25",
+    "updated_at": "2026-10-26",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -1076,7 +966,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-25",
+    "updated_at": "2026-10-26",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -1086,7 +976,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-25",
+    "updated_at": "2026-10-26",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -1096,7 +986,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-25",
+    "updated_at": "2026-10-26",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -1106,7 +996,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-25",
+    "updated_at": "2026-10-26",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -1116,7 +1006,17 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-25",
+    "updated_at": "2026-10-26",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "stackexchange-63095",
+    "title": "A three string tree diagram evaluated in CFT is different from string field theory evaluation",
+    "url": "https://physics.stackexchange.com/questions/63095/a-three-string-tree-diagram-evaluated-in-cft-is-different-from-string-field-theo",
+    "source": "stackexchange",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-10-26",
     "note": "Possibly solved \u2014 see Known"
   }
 ]

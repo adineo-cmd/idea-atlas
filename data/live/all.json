@@ -6,7 +6,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-25"
+    "updated_at": "2026-10-26"
   },
   {
     "id": "hn-47552974",
@@ -15,7 +15,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-25"
+    "updated_at": "2026-10-26"
   },
   {
     "id": "hn-30072244",
@@ -24,7 +24,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-25"
+    "updated_at": "2026-10-26"
   },
   {
     "id": "hn-39917364",
@@ -33,7 +33,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-25"
+    "updated_at": "2026-10-26"
   },
   {
     "id": "hn-20776655",
@@ -42,7 +42,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-25"
+    "updated_at": "2026-10-26"
   },
   {
     "id": "hn-5693309",
@@ -51,7 +51,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-25"
+    "updated_at": "2026-10-26"
   },
   {
     "id": "hn-47256849",
@@ -60,7 +60,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-25"
+    "updated_at": "2026-10-26"
   },
   {
     "id": "hn-45190739",
@@ -69,7 +69,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-25"
+    "updated_at": "2026-10-26"
   },
   {
     "id": "hn-46096192",
@@ -78,7 +78,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-25"
+    "updated_at": "2026-10-26"
   },
   {
     "id": "hn-44901528",
@@ -87,97 +87,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-25"
-  },
-  {
-    "id": "arxiv-2610.31672v1",
-    "title": "Ricci flow of Integrable Sigma Models, Hitchin Systems and Quantum Seiberg-Witten theory",
-    "url": "http://arxiv.org/abs/2610.31672v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-25"
-  },
-  {
-    "id": "arxiv-2610.31668v1",
-    "title": "Reading, Writing, Sharing, and Interacting with the World through Video",
-    "url": "http://arxiv.org/abs/2610.31668v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-25"
-  },
-  {
-    "id": "arxiv-2610.31669v1",
-    "title": "Collapsed translating solitons with planar wings",
-    "url": "http://arxiv.org/abs/2610.31669v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-25"
-  },
-  {
-    "id": "arxiv-2610.31667v1",
-    "title": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
-    "url": "http://arxiv.org/abs/2610.31667v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-25"
-  },
-  {
-    "id": "arxiv-2610.31666v1",
-    "title": "Boosted Dark Matter Directionality in Large Liquid Scintillator Detectors",
-    "url": "http://arxiv.org/abs/2610.31666v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-25"
-  },
-  {
-    "id": "arxiv-2610.31665v1",
-    "title": "Half-Completeness from Standard Gravitational Dispersion Relations",
-    "url": "http://arxiv.org/abs/2610.31665v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-25"
-  },
-  {
-    "id": "arxiv-2610.31662v1",
-    "title": "Reliable AI-Assisted Decisions via Selective Auditing",
-    "url": "http://arxiv.org/abs/2610.31662v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-25"
-  },
-  {
-    "id": "arxiv-2610.31661v1",
-    "title": "OpenTac: An Open Ecosystem for Customizable, Scalable, and Transferable 3D Tactile Sensing",
-    "url": "http://arxiv.org/abs/2610.31661v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-25"
-  },
-  {
-    "id": "arxiv-2610.31646v1",
-    "title": "Low-Bit N-Gram Embeddings for Language Models",
-    "url": "http://arxiv.org/abs/2610.31646v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-25"
-  },
-  {
-    "id": "arxiv-2610.31641v1",
-    "title": "UniVOE: A Removal-Driven Framework for Interaction-Aware Universal Video Object Editing",
-    "url": "http://arxiv.org/abs/2610.31641v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-25"
+    "updated_at": "2026-10-26"
   },
   {
     "id": "stackexchange-510717",
@@ -186,7 +96,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-25"
+    "updated_at": "2026-10-26"
   },
   {
     "id": "stackexchange-516336",
@@ -195,7 +105,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-25"
+    "updated_at": "2026-10-26"
   },
   {
     "id": "stackexchange-516103",
@@ -204,7 +114,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-25"
+    "updated_at": "2026-10-26"
   },
   {
     "id": "stackexchange-516201",
@@ -213,7 +123,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-25"
+    "updated_at": "2026-10-26"
   },
   {
     "id": "stackexchange-515723",
@@ -222,7 +132,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-25"
+    "updated_at": "2026-10-26"
   },
   {
     "id": "stackexchange-514742",
@@ -231,7 +141,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-25"
+    "updated_at": "2026-10-26"
   },
   {
     "id": "stackexchange-515260",
@@ -240,7 +150,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-25"
+    "updated_at": "2026-10-26"
   },
   {
     "id": "stackexchange-516008",
@@ -249,7 +159,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-25"
+    "updated_at": "2026-10-26"
   },
   {
     "id": "stackexchange-515849",
@@ -258,7 +168,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-25"
+    "updated_at": "2026-10-26"
   },
   {
     "id": "stackexchange-409550",
@@ -267,16 +177,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-25"
-  },
-  {
-    "id": "stackexchange-876705",
-    "title": "Can Electromagnetic Fields Inside a Charged Cylinder Produce Extreme Gravitational Time Dilation?",
-    "url": "https://physics.stackexchange.com/questions/876705/can-electromagnetic-fields-inside-a-charged-cylinder-produce-extreme-gravitation",
-    "source": "stackexchange",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-25"
+    "updated_at": "2026-10-26"
   },
   {
     "id": "stackexchange-557587",
@@ -285,7 +186,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-25"
+    "updated_at": "2026-10-26"
   },
   {
     "id": "stackexchange-875698",
@@ -294,7 +195,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-25"
+    "updated_at": "2026-10-26"
   },
   {
     "id": "stackexchange-748434",
@@ -303,7 +204,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-25"
+    "updated_at": "2026-10-26"
   },
   {
     "id": "stackexchange-800291",
@@ -312,7 +213,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-25"
+    "updated_at": "2026-10-26"
   },
   {
     "id": "stackexchange-874139",
@@ -321,7 +222,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-25"
+    "updated_at": "2026-10-26"
   },
   {
     "id": "stackexchange-659856",
@@ -330,7 +231,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-25"
+    "updated_at": "2026-10-26"
   },
   {
     "id": "stackexchange-658851",
@@ -339,7 +240,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-25"
+    "updated_at": "2026-10-26"
   },
   {
     "id": "stackexchange-31425",
@@ -348,7 +249,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-25"
+    "updated_at": "2026-10-26"
   },
   {
     "id": "stackexchange-149179",
@@ -357,6 +258,15 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-25"
+    "updated_at": "2026-10-26"
+  },
+  {
+    "id": "stackexchange-63095",
+    "title": "A three string tree diagram evaluated in CFT is different from string field theory evaluation",
+    "url": "https://physics.stackexchange.com/questions/63095/a-three-string-tree-diagram-evaluated-in-cft-is-different-from-string-field-theo",
+    "source": "stackexchange",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-10-26"
   }
 ]
