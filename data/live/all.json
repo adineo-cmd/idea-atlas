@@ -6,7 +6,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-26"
+    "updated_at": "2026-10-27"
   },
   {
     "id": "hn-47552974",
@@ -15,7 +15,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-26"
+    "updated_at": "2026-10-27"
   },
   {
     "id": "hn-30072244",
@@ -24,7 +24,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-26"
+    "updated_at": "2026-10-27"
   },
   {
     "id": "hn-39917364",
@@ -33,7 +33,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-26"
+    "updated_at": "2026-10-27"
   },
   {
     "id": "hn-20776655",
@@ -42,7 +42,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-26"
+    "updated_at": "2026-10-27"
   },
   {
     "id": "hn-5693309",
@@ -51,7 +51,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-26"
+    "updated_at": "2026-10-27"
   },
   {
     "id": "hn-47256849",
@@ -60,7 +60,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-26"
+    "updated_at": "2026-10-27"
   },
   {
     "id": "hn-45190739",
@@ -69,7 +69,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-26"
+    "updated_at": "2026-10-27"
   },
   {
     "id": "hn-46096192",
@@ -78,7 +78,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-26"
+    "updated_at": "2026-10-27"
   },
   {
     "id": "hn-44901528",
@@ -87,97 +87,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-26"
-  },
-  {
-    "id": "arxiv-2610.32971v1",
-    "title": "RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
-    "url": "http://arxiv.org/abs/2610.32971v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-26"
-  },
-  {
-    "id": "arxiv-2610.32970v1",
-    "title": "On the continuity of conditional distributions and stratification for derivative pricing",
-    "url": "http://arxiv.org/abs/2610.32970v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-26"
-  },
-  {
-    "id": "arxiv-2610.32968v1",
-    "title": "Distributed Quantum-Centric Supercomputing with Multi-Layered Generative Learning for Intermolecular Interactions",
-    "url": "http://arxiv.org/abs/2610.32968v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-26"
-  },
-  {
-    "id": "arxiv-2610.32967v1",
-    "title": "MiD-VLM: Detecting and Grounding Global Semantic Misinformation in Image-Caption Pairs",
-    "url": "http://arxiv.org/abs/2610.32967v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-26"
-  },
-  {
-    "id": "arxiv-2610.32964v1",
-    "title": "Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection",
-    "url": "http://arxiv.org/abs/2610.32964v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-26"
-  },
-  {
-    "id": "arxiv-2610.32958v1",
-    "title": "Information Requirements for Resolving Implementation Impossibilities",
-    "url": "http://arxiv.org/abs/2610.32958v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-26"
-  },
-  {
-    "id": "arxiv-2610.32954v1",
-    "title": "Acyclic 2-edge-coloured graphs: polynomial-time linkages and colouring hardness",
-    "url": "http://arxiv.org/abs/2610.32954v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-26"
-  },
-  {
-    "id": "arxiv-2610.32949v1",
-    "title": "ExoVetter and a TESS Exoplanet Transit Search of Kepler Stars as Ground Truth",
-    "url": "http://arxiv.org/abs/2610.32949v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-26"
-  },
-  {
-    "id": "arxiv-2610.32940v1",
-    "title": "Learning Positive Linear Combinations of ReLUs in Fully Polynomial Time",
-    "url": "http://arxiv.org/abs/2610.32940v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-26"
-  },
-  {
-    "id": "arxiv-2610.32939v1",
-    "title": "Modified scattering for the 3D Hartree equation with singular external potentials",
-    "url": "http://arxiv.org/abs/2610.32939v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-26"
+    "updated_at": "2026-10-27"
   },
   {
     "id": "stackexchange-516336",
@@ -186,16 +96,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-26"
-  },
-  {
-    "id": "stackexchange-510717",
-    "title": "What core difficulties and preliminary obstacles does EDMP confront across the various (m,d) cases?",
-    "url": "https://mathoverflow.net/questions/510717/what-core-difficulties-and-preliminary-obstacles-does-edmp-confront-across-the-v",
-    "source": "stackexchange",
-    "category": "math",
-    "status": "debated",
-    "updated_at": "2026-10-26"
+    "updated_at": "2026-10-27"
   },
   {
     "id": "stackexchange-516103",
@@ -204,7 +105,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-26"
+    "updated_at": "2026-10-27"
   },
   {
     "id": "stackexchange-516201",
@@ -213,7 +114,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-26"
+    "updated_at": "2026-10-27"
   },
   {
     "id": "stackexchange-515723",
@@ -222,7 +123,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-26"
+    "updated_at": "2026-10-27"
   },
   {
     "id": "stackexchange-514742",
@@ -231,7 +132,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-26"
+    "updated_at": "2026-10-27"
   },
   {
     "id": "stackexchange-515260",
@@ -240,7 +141,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-26"
+    "updated_at": "2026-10-27"
   },
   {
     "id": "stackexchange-516008",
@@ -249,7 +150,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-26"
+    "updated_at": "2026-10-27"
   },
   {
     "id": "stackexchange-515849",
@@ -258,7 +159,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-26"
+    "updated_at": "2026-10-27"
   },
   {
     "id": "stackexchange-409550",
@@ -267,7 +168,16 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-26"
+    "updated_at": "2026-10-27"
+  },
+  {
+    "id": "stackexchange-515446",
+    "title": "Almost-primes produced by $n^2 + n + (d+1)/4$ for a positive proportion of fundamental discriminants?",
+    "url": "https://mathoverflow.net/questions/515446/almost-primes-produced-by-n2-n-d1-4-for-a-positive-proportion-of-funda",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-10-27"
   },
   {
     "id": "stackexchange-557587",
@@ -276,7 +186,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-26"
+    "updated_at": "2026-10-27"
   },
   {
     "id": "stackexchange-875698",
@@ -285,7 +195,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-26"
+    "updated_at": "2026-10-27"
   },
   {
     "id": "stackexchange-748434",
@@ -294,7 +204,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-26"
+    "updated_at": "2026-10-27"
   },
   {
     "id": "stackexchange-800291",
@@ -303,7 +213,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-26"
+    "updated_at": "2026-10-27"
   },
   {
     "id": "stackexchange-874139",
@@ -312,7 +222,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-26"
+    "updated_at": "2026-10-27"
   },
   {
     "id": "stackexchange-659856",
@@ -321,7 +231,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-26"
+    "updated_at": "2026-10-27"
   },
   {
     "id": "stackexchange-658851",
@@ -330,7 +240,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-26"
+    "updated_at": "2026-10-27"
   },
   {
     "id": "stackexchange-31425",
@@ -339,7 +249,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-26"
+    "updated_at": "2026-10-27"
   },
   {
     "id": "stackexchange-149179",
@@ -348,7 +258,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-26"
+    "updated_at": "2026-10-27"
   },
   {
     "id": "stackexchange-63095",
@@ -357,6 +267,6 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-26"
+    "updated_at": "2026-10-27"
   }
 ]

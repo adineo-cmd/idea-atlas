@@ -691,17 +691,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-26",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "stackexchange-510717",
-    "title": "What core difficulties and preliminary obstacles does EDMP confront across the various (m,d) cases?",
-    "url": "https://mathoverflow.net/questions/510717/what-core-difficulties-and-preliminary-obstacles-does-edmp-confront-across-the-v",
-    "source": "stackexchange",
-    "category": "math",
-    "status": "debated",
-    "updated_at": "2026-10-26",
+    "updated_at": "2026-10-27",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -711,7 +701,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-26",
+    "updated_at": "2026-10-27",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -721,7 +711,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-26",
+    "updated_at": "2026-10-27",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -731,7 +721,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-26",
+    "updated_at": "2026-10-27",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -741,7 +731,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-26",
+    "updated_at": "2026-10-27",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -751,7 +741,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-26",
+    "updated_at": "2026-10-27",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -761,7 +751,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-26",
+    "updated_at": "2026-10-27",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -771,7 +761,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-26",
+    "updated_at": "2026-10-27",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -781,7 +771,17 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-26",
+    "updated_at": "2026-10-27",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "stackexchange-515446",
+    "title": "Almost-primes produced by $n^2 + n + (d+1)/4$ for a positive proportion of fundamental discriminants?",
+    "url": "https://mathoverflow.net/questions/515446/almost-primes-produced-by-n2-n-d1-4-for-a-positive-proportion-of-funda",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-10-27",
     "note": "Possibly solved \u2014 see Known"
   }
 ]
