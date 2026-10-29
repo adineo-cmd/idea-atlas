@@ -685,13 +685,43 @@
     "era": "2000-2019"
   },
   {
-    "id": "stackexchange-516336",
-    "title": "Examples of AI introducing new mathematical concepts or structures in research",
-    "url": "https://mathoverflow.net/questions/516336/examples-of-ai-introducing-new-mathematical-concepts-or-structures-in-research",
+    "id": "stackexchange-516518",
+    "title": "Skinner and Urban\u2019s The Iwasawa Main Conjectures for GL\u2082 - A Counterexample to the reasoning in Theorem 6.5.4",
+    "url": "https://mathoverflow.net/questions/516518/skinner-and-urban-s-the-iwasawa-main-conjectures-for-gl%e2%82%82-a-counterexample-to-t",
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-27",
+    "updated_at": "2026-10-29",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "stackexchange-516336",
+    "title": "Are there AI-generated mathematical papers devoted to developing a general theory rather than solving a specific problem?",
+    "url": "https://mathoverflow.net/questions/516336/are-there-ai-generated-mathematical-papers-devoted-to-developing-a-general-theor",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-10-29",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "stackexchange-516372",
+    "title": "Are all extreme points of the set of 2&#215;2 marginals of shift-invariant measures on $\\{0,1\\}^{\\mathbb Z^2}$ periodic?",
+    "url": "https://mathoverflow.net/questions/516372/are-all-extreme-points-of-the-set-of-2%c3%972-marginals-of-shift-invariant-measures-o",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-10-29",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "stackexchange-515849",
+    "title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
+    "url": "https://mathoverflow.net/questions/515849/which-of-the-results-released-by-openai-went-against-the-conventional-mathematic",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-10-29",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -701,7 +731,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-27",
+    "updated_at": "2026-10-29",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -711,7 +741,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-27",
+    "updated_at": "2026-10-29",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -721,7 +751,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-27",
+    "updated_at": "2026-10-29",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -731,7 +761,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-27",
+    "updated_at": "2026-10-29",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -741,7 +771,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-27",
+    "updated_at": "2026-10-29",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -751,37 +781,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-27",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "stackexchange-515849",
-    "title": "How many of the results released by OpenAI went against the conventional mathematical wisdom?",
-    "url": "https://mathoverflow.net/questions/515849/how-many-of-the-results-released-by-openai-went-against-the-conventional-mathema",
-    "source": "stackexchange",
-    "category": "math",
-    "status": "debated",
-    "updated_at": "2026-10-27",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "stackexchange-409550",
-    "title": "Convergence of the series $\\sum_{n=1}^\\infty \\frac{(2+\\sin n)^n}{3^n n^a}$ for $a\\in(0,1)$",
-    "url": "https://mathoverflow.net/questions/409550/convergence-of-the-series-sum-n-1-infty-frac2-sin-nn3n-na-for",
-    "source": "stackexchange",
-    "category": "math",
-    "status": "debated",
-    "updated_at": "2026-10-27",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "stackexchange-515446",
-    "title": "Almost-primes produced by $n^2 + n + (d+1)/4$ for a positive proportion of fundamental discriminants?",
-    "url": "https://mathoverflow.net/questions/515446/almost-primes-produced-by-n2-n-d1-4-for-a-positive-proportion-of-funda",
-    "source": "stackexchange",
-    "category": "math",
-    "status": "debated",
-    "updated_at": "2026-10-27",
+    "updated_at": "2026-10-29",
     "note": "Possibly solved \u2014 see Known"
   }
 ]
