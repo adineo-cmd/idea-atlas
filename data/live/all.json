@@ -6,7 +6,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-29"
+    "updated_at": "2026-10-30"
   },
   {
     "id": "hn-47552974",
@@ -15,7 +15,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-29"
+    "updated_at": "2026-10-30"
   },
   {
     "id": "hn-30072244",
@@ -24,7 +24,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-29"
+    "updated_at": "2026-10-30"
   },
   {
     "id": "hn-39917364",
@@ -33,7 +33,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-29"
+    "updated_at": "2026-10-30"
   },
   {
     "id": "hn-20776655",
@@ -42,7 +42,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-29"
+    "updated_at": "2026-10-30"
   },
   {
     "id": "hn-5693309",
@@ -51,7 +51,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-29"
+    "updated_at": "2026-10-30"
   },
   {
     "id": "hn-47256849",
@@ -60,7 +60,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-29"
+    "updated_at": "2026-10-30"
   },
   {
     "id": "hn-45190739",
@@ -69,7 +69,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-29"
+    "updated_at": "2026-10-30"
   },
   {
     "id": "hn-46096192",
@@ -78,7 +78,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-29"
+    "updated_at": "2026-10-30"
   },
   {
     "id": "hn-44901528",
@@ -87,97 +87,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-29"
-  },
-  {
-    "id": "arxiv-2610.37667v1",
-    "title": "The 't Hooft model on (A)dS$_2$",
-    "url": "http://arxiv.org/abs/2610.37667v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-29"
-  },
-  {
-    "id": "arxiv-2610.37663v1",
-    "title": "An EVM-Cosmos Bridge for Atomic, Semantic-Preserving Transfer of Environmental Tokens",
-    "url": "http://arxiv.org/abs/2610.37663v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-29"
-  },
-  {
-    "id": "arxiv-2610.37659v1",
-    "title": "Sharp Stability of Brenier Potentials and its Link to Poincar\u00e9 Inequalities",
-    "url": "http://arxiv.org/abs/2610.37659v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-29"
-  },
-  {
-    "id": "arxiv-2610.37647v1",
-    "title": "MuonGS: Pretraining LLMs with Relaxed Weight-Norm Control",
-    "url": "http://arxiv.org/abs/2610.37647v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-29"
-  },
-  {
-    "id": "arxiv-2610.37646v1",
-    "title": "Measuring the magnetization profiles of galaxy groups and clusters",
-    "url": "http://arxiv.org/abs/2610.37646v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-29"
-  },
-  {
-    "id": "arxiv-2610.37640v1",
-    "title": "Partially Edited Audio: Generation, Defense, and Open Problems",
-    "url": "http://arxiv.org/abs/2610.37640v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-29"
-  },
-  {
-    "id": "arxiv-2610.37639v1",
-    "title": "Sharp approximations for the stationary measures of the open ASEP I: The shock region",
-    "url": "http://arxiv.org/abs/2610.37639v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-29"
-  },
-  {
-    "id": "arxiv-2610.37636v1",
-    "title": "Sharp approximations for the stationary measures of the open ASEP II: The coexistence line",
-    "url": "http://arxiv.org/abs/2610.37636v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-29"
-  },
-  {
-    "id": "arxiv-2610.37634v1",
-    "title": "UPP$^{\\text{cc}}$ is Not Closed Under Intersection",
-    "url": "http://arxiv.org/abs/2610.37634v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-29"
-  },
-  {
-    "id": "arxiv-2610.37632v1",
-    "title": "A heuristic for optimal coordination of autonomous vehicles: real-time algorithms",
-    "url": "http://arxiv.org/abs/2610.37632v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-29"
+    "updated_at": "2026-10-30"
   },
   {
     "id": "stackexchange-516518",
@@ -186,7 +96,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-29"
+    "updated_at": "2026-10-30"
   },
   {
     "id": "stackexchange-516336",
@@ -195,7 +105,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-29"
+    "updated_at": "2026-10-30"
   },
   {
     "id": "stackexchange-516372",
@@ -204,7 +114,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-29"
+    "updated_at": "2026-10-30"
   },
   {
     "id": "stackexchange-515849",
@@ -213,7 +123,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-29"
+    "updated_at": "2026-10-30"
   },
   {
     "id": "stackexchange-516103",
@@ -222,7 +132,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-29"
+    "updated_at": "2026-10-30"
   },
   {
     "id": "stackexchange-516201",
@@ -231,7 +141,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-29"
+    "updated_at": "2026-10-30"
   },
   {
     "id": "stackexchange-515723",
@@ -240,7 +150,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-29"
+    "updated_at": "2026-10-30"
   },
   {
     "id": "stackexchange-514742",
@@ -249,7 +159,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-29"
+    "updated_at": "2026-10-30"
   },
   {
     "id": "stackexchange-515260",
@@ -258,7 +168,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-29"
+    "updated_at": "2026-10-30"
   },
   {
     "id": "stackexchange-516008",
@@ -267,16 +177,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-29"
-  },
-  {
-    "id": "stackexchange-841528",
-    "title": "Is QCD scale $\\Lambda_{QCD}$ an input to QCD or an outcome of QCD? (With OpenAI update)",
-    "url": "https://physics.stackexchange.com/questions/841528/is-qcd-scale-lambda-qcd-an-input-to-qcd-or-an-outcome-of-qcd-with-openai",
-    "source": "stackexchange",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-29"
+    "updated_at": "2026-10-30"
   },
   {
     "id": "stackexchange-557587",
@@ -285,7 +186,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-29"
+    "updated_at": "2026-10-30"
   },
   {
     "id": "stackexchange-875698",
@@ -294,7 +195,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-29"
+    "updated_at": "2026-10-30"
   },
   {
     "id": "stackexchange-748434",
@@ -303,7 +204,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-29"
+    "updated_at": "2026-10-30"
   },
   {
     "id": "stackexchange-800291",
@@ -312,7 +213,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-29"
+    "updated_at": "2026-10-30"
   },
   {
     "id": "stackexchange-874139",
@@ -321,7 +222,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-29"
+    "updated_at": "2026-10-30"
   },
   {
     "id": "stackexchange-659856",
@@ -330,7 +231,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-29"
+    "updated_at": "2026-10-30"
   },
   {
     "id": "stackexchange-658851",
@@ -339,7 +240,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-29"
+    "updated_at": "2026-10-30"
   },
   {
     "id": "stackexchange-31425",
@@ -348,7 +249,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-29"
+    "updated_at": "2026-10-30"
   },
   {
     "id": "stackexchange-149179",
@@ -357,6 +258,15 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-29"
+    "updated_at": "2026-10-30"
+  },
+  {
+    "id": "stackexchange-63095",
+    "title": "A three string tree diagram evaluated in CFT is different from string field theory evaluation",
+    "url": "https://physics.stackexchange.com/questions/63095/a-three-string-tree-diagram-evaluated-in-cft-is-different-from-string-field-theo",
+    "source": "stackexchange",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-10-30"
   }
 ]

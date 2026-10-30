@@ -7156,7 +7156,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-29",
+    "updated_at": "2026-10-30",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7166,7 +7166,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-29",
+    "updated_at": "2026-10-30",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7176,7 +7176,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-29",
+    "updated_at": "2026-10-30",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7186,7 +7186,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-29",
+    "updated_at": "2026-10-30",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7196,7 +7196,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-29",
+    "updated_at": "2026-10-30",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7206,7 +7206,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-29",
+    "updated_at": "2026-10-30",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7216,7 +7216,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-29",
+    "updated_at": "2026-10-30",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7226,7 +7226,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-29",
+    "updated_at": "2026-10-30",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7236,7 +7236,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-29",
+    "updated_at": "2026-10-30",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7246,107 +7246,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-29",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2610.37667v1",
-    "title": "The 't Hooft model on (A)dS$_2$",
-    "url": "http://arxiv.org/abs/2610.37667v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-29",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2610.37663v1",
-    "title": "An EVM-Cosmos Bridge for Atomic, Semantic-Preserving Transfer of Environmental Tokens",
-    "url": "http://arxiv.org/abs/2610.37663v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-29",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2610.37659v1",
-    "title": "Sharp Stability of Brenier Potentials and its Link to Poincar\u00e9 Inequalities",
-    "url": "http://arxiv.org/abs/2610.37659v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-29",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2610.37647v1",
-    "title": "MuonGS: Pretraining LLMs with Relaxed Weight-Norm Control",
-    "url": "http://arxiv.org/abs/2610.37647v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-29",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2610.37646v1",
-    "title": "Measuring the magnetization profiles of galaxy groups and clusters",
-    "url": "http://arxiv.org/abs/2610.37646v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-29",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2610.37640v1",
-    "title": "Partially Edited Audio: Generation, Defense, and Open Problems",
-    "url": "http://arxiv.org/abs/2610.37640v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-29",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2610.37639v1",
-    "title": "Sharp approximations for the stationary measures of the open ASEP I: The shock region",
-    "url": "http://arxiv.org/abs/2610.37639v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-29",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2610.37636v1",
-    "title": "Sharp approximations for the stationary measures of the open ASEP II: The coexistence line",
-    "url": "http://arxiv.org/abs/2610.37636v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-29",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2610.37634v1",
-    "title": "UPP$^{\\text{cc}}$ is Not Closed Under Intersection",
-    "url": "http://arxiv.org/abs/2610.37634v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-29",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2610.37632v1",
-    "title": "A heuristic for optimal coordination of autonomous vehicles: real-time algorithms",
-    "url": "http://arxiv.org/abs/2610.37632v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-29",
+    "updated_at": "2026-10-30",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7356,7 +7256,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-29",
+    "updated_at": "2026-10-30",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7366,7 +7266,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-29",
+    "updated_at": "2026-10-30",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7376,7 +7276,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-29",
+    "updated_at": "2026-10-30",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7386,7 +7286,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-29",
+    "updated_at": "2026-10-30",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7396,7 +7296,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-29",
+    "updated_at": "2026-10-30",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7406,7 +7306,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-29",
+    "updated_at": "2026-10-30",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7416,7 +7316,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-29",
+    "updated_at": "2026-10-30",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7426,7 +7326,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-29",
+    "updated_at": "2026-10-30",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7436,7 +7336,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-29",
+    "updated_at": "2026-10-30",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7446,17 +7346,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-29",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "stackexchange-841528",
-    "title": "Is QCD scale $\\Lambda_{QCD}$ an input to QCD or an outcome of QCD? (With OpenAI update)",
-    "url": "https://physics.stackexchange.com/questions/841528/is-qcd-scale-lambda-qcd-an-input-to-qcd-or-an-outcome-of-qcd-with-openai",
-    "source": "stackexchange",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-29",
+    "updated_at": "2026-10-30",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7466,7 +7356,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-29",
+    "updated_at": "2026-10-30",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7476,7 +7366,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-29",
+    "updated_at": "2026-10-30",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7486,7 +7376,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-29",
+    "updated_at": "2026-10-30",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7496,7 +7386,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-29",
+    "updated_at": "2026-10-30",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7506,7 +7396,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-29",
+    "updated_at": "2026-10-30",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7516,7 +7406,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-29",
+    "updated_at": "2026-10-30",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7526,7 +7416,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-29",
+    "updated_at": "2026-10-30",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7536,7 +7426,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-29",
+    "updated_at": "2026-10-30",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7546,7 +7436,17 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-29",
+    "updated_at": "2026-10-30",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "stackexchange-63095",
+    "title": "A three string tree diagram evaluated in CFT is different from string field theory evaluation",
+    "url": "https://physics.stackexchange.com/questions/63095/a-three-string-tree-diagram-evaluated-in-cft-is-different-from-string-field-theo",
+    "source": "stackexchange",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-10-30",
     "note": "Possibly solved \u2014 see Known"
   }
 ]
