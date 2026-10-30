@@ -180,6 +180,33 @@
     "updated_at": "2026-10-30"
   },
   {
+    "id": "stackexchange-466803",
+    "title": "The new shortest open cubic equations",
+    "url": "https://mathoverflow.net/questions/466803/the-new-shortest-open-cubic-equations",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-10-30"
+  },
+  {
+    "id": "stackexchange-414216",
+    "title": "Find all integer solutions to the following easy-looking Diophantine equations",
+    "url": "https://mathoverflow.net/questions/414216/find-all-integer-solutions-to-the-following-easy-looking-diophantine-equations",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-10-30"
+  },
+  {
+    "id": "stackexchange-411958",
+    "title": "On the smallest open Diophantine equations: beyond Hilbert&#39;s 10 problem",
+    "url": "https://mathoverflow.net/questions/411958/on-the-smallest-open-diophantine-equations-beyond-hilberts-10-problem",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-10-30"
+  },
+  {
     "id": "stackexchange-516518",
     "title": "Skinner and Urban\u2019s &quot;The Iwasawa Main Conjectures for GL\u2082&quot; - A counterexample to the reasoning in Theorem 6.5.4",
     "url": "https://mathoverflow.net/questions/516518/skinner-and-urban-s-the-iwasawa-main-conjectures-for-gl%e2%82%82-a-counterexample-to",
@@ -237,33 +264,6 @@
     "id": "stackexchange-515723",
     "title": "Are interactions between different fields of mathematics always beneficial?",
     "url": "https://mathoverflow.net/questions/515723/are-interactions-between-different-fields-of-mathematics-always-beneficial",
-    "source": "stackexchange",
-    "category": "math",
-    "status": "debated",
-    "updated_at": "2026-10-30"
-  },
-  {
-    "id": "stackexchange-514742",
-    "title": "Is the square achievement game on the $n &#215; n$ grid resolved for $6 \\le n \\le 14$?",
-    "url": "https://mathoverflow.net/questions/514742/is-the-square-achievement-game-on-the-n-%c3%97-n-grid-resolved-for-6-le-n-le-14",
-    "source": "stackexchange",
-    "category": "math",
-    "status": "debated",
-    "updated_at": "2026-10-30"
-  },
-  {
-    "id": "stackexchange-515260",
-    "title": "How do we prevent mathematics from devolving into the Medieval Era of secrecy?",
-    "url": "https://mathoverflow.net/questions/515260/how-do-we-prevent-mathematics-from-devolving-into-the-medieval-era-of-secrecy",
-    "source": "stackexchange",
-    "category": "math",
-    "status": "debated",
-    "updated_at": "2026-10-30"
-  },
-  {
-    "id": "stackexchange-516008",
-    "title": "Validity of Dijkstra&#39;s example of a space with explosion point and no fixed point property",
-    "url": "https://mathoverflow.net/questions/516008/validity-of-dijkstras-example-of-a-space-with-explosion-point-and-no-fixed-poin",
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
