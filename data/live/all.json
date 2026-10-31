@@ -6,7 +6,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-30"
+    "updated_at": "2026-10-31"
   },
   {
     "id": "hn-47552974",
@@ -15,7 +15,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-30"
+    "updated_at": "2026-10-31"
   },
   {
     "id": "hn-30072244",
@@ -24,7 +24,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-30"
+    "updated_at": "2026-10-31"
   },
   {
     "id": "hn-39917364",
@@ -33,7 +33,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-30"
+    "updated_at": "2026-10-31"
   },
   {
     "id": "hn-20776655",
@@ -42,7 +42,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-30"
+    "updated_at": "2026-10-31"
   },
   {
     "id": "hn-5693309",
@@ -51,7 +51,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-30"
+    "updated_at": "2026-10-31"
   },
   {
     "id": "hn-47256849",
@@ -60,7 +60,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-30"
+    "updated_at": "2026-10-31"
   },
   {
     "id": "hn-45190739",
@@ -69,7 +69,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-30"
+    "updated_at": "2026-10-31"
   },
   {
     "id": "hn-46096192",
@@ -78,7 +78,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-30"
+    "updated_at": "2026-10-31"
   },
   {
     "id": "hn-44901528",
@@ -87,97 +87,16 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-10-30"
+    "updated_at": "2026-10-31"
   },
   {
-    "id": "arxiv-2610.40657v1",
-    "title": "Variational wavefunctions for ideal anyon gas: superfluid and skyrmion Hall crystal",
-    "url": "http://arxiv.org/abs/2610.40657v1",
-    "source": "arxiv",
-    "category": "physics",
+    "id": "stackexchange-416763",
+    "title": "Intersection of the kernel with the interpolation space",
+    "url": "https://mathoverflow.net/questions/416763/intersection-of-the-kernel-with-the-interpolation-space",
+    "source": "stackexchange",
+    "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-30"
-  },
-  {
-    "id": "arxiv-2610.40656v1",
-    "title": "The $\u03b4$ Scuti instability strip and period-luminosity relation as seen by TESS and Gaia DR3",
-    "url": "http://arxiv.org/abs/2610.40656v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-30"
-  },
-  {
-    "id": "arxiv-2610.40650v1",
-    "title": "When Does Storage Complement Solar? Investment and Cost Recovery under Advanced Net Metering",
-    "url": "http://arxiv.org/abs/2610.40650v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-30"
-  },
-  {
-    "id": "arxiv-2610.40644v1",
-    "title": "Adaptive Scenario Generation for KL-DRO Around a Learned Density Model",
-    "url": "http://arxiv.org/abs/2610.40644v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-30"
-  },
-  {
-    "id": "arxiv-2610.40640v1",
-    "title": "SonoWorld4D: From One Video to a 4D Audio-Visual Scene via Diffusion Synchronization",
-    "url": "http://arxiv.org/abs/2610.40640v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-30"
-  },
-  {
-    "id": "arxiv-2610.40625v1",
-    "title": "Uniform Capacitated Clustering with Few Extra Centers",
-    "url": "http://arxiv.org/abs/2610.40625v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-30"
-  },
-  {
-    "id": "arxiv-2610.40622v1",
-    "title": "The Number of Tropical Order Types and Coherent Matching Fields",
-    "url": "http://arxiv.org/abs/2610.40622v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-30"
-  },
-  {
-    "id": "arxiv-2610.40621v1",
-    "title": "Generalizing Density Functional Theory with a Particle-Hole Expansion",
-    "url": "http://arxiv.org/abs/2610.40621v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-30"
-  },
-  {
-    "id": "arxiv-2610.40619v1",
-    "title": "Testimony from Timelines: Evidence-Grounded Significance Testing of Temporal Clinical Hypotheses",
-    "url": "http://arxiv.org/abs/2610.40619v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-30"
-  },
-  {
-    "id": "arxiv-2610.40608v1",
-    "title": "Improved Gradient Complexity for Quasi-Newton Proximal Extragradient Methods via Certified Curvature Reuse",
-    "url": "http://arxiv.org/abs/2610.40608v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-30"
+    "updated_at": "2026-10-31"
   },
   {
     "id": "stackexchange-466803",
@@ -186,7 +105,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-30"
+    "updated_at": "2026-10-31"
   },
   {
     "id": "stackexchange-414216",
@@ -195,7 +114,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-30"
+    "updated_at": "2026-10-31"
   },
   {
     "id": "stackexchange-411958",
@@ -204,7 +123,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-30"
+    "updated_at": "2026-10-31"
   },
   {
     "id": "stackexchange-516518",
@@ -213,7 +132,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-30"
+    "updated_at": "2026-10-31"
   },
   {
     "id": "stackexchange-516336",
@@ -222,7 +141,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-30"
+    "updated_at": "2026-10-31"
   },
   {
     "id": "stackexchange-516372",
@@ -231,7 +150,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-30"
+    "updated_at": "2026-10-31"
   },
   {
     "id": "stackexchange-515849",
@@ -240,7 +159,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-30"
+    "updated_at": "2026-10-31"
   },
   {
     "id": "stackexchange-516103",
@@ -249,7 +168,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-30"
+    "updated_at": "2026-10-31"
   },
   {
     "id": "stackexchange-516201",
@@ -258,16 +177,16 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-30"
+    "updated_at": "2026-10-31"
   },
   {
-    "id": "stackexchange-515723",
-    "title": "Are interactions between different fields of mathematics always beneficial?",
-    "url": "https://mathoverflow.net/questions/515723/are-interactions-between-different-fields-of-mathematics-always-beneficial",
+    "id": "stackexchange-46267",
+    "title": "The Four-Clock Special Relativity Conundrum",
+    "url": "https://physics.stackexchange.com/questions/46267/the-four-clock-special-relativity-conundrum",
     "source": "stackexchange",
-    "category": "math",
+    "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-30"
+    "updated_at": "2026-10-31"
   },
   {
     "id": "stackexchange-557587",
@@ -276,7 +195,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-30"
+    "updated_at": "2026-10-31"
   },
   {
     "id": "stackexchange-875698",
@@ -285,7 +204,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-30"
+    "updated_at": "2026-10-31"
   },
   {
     "id": "stackexchange-748434",
@@ -294,7 +213,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-30"
+    "updated_at": "2026-10-31"
   },
   {
     "id": "stackexchange-800291",
@@ -303,7 +222,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-30"
+    "updated_at": "2026-10-31"
   },
   {
     "id": "stackexchange-874139",
@@ -312,7 +231,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-30"
+    "updated_at": "2026-10-31"
   },
   {
     "id": "stackexchange-659856",
@@ -321,7 +240,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-30"
+    "updated_at": "2026-10-31"
   },
   {
     "id": "stackexchange-658851",
@@ -330,7 +249,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-30"
+    "updated_at": "2026-10-31"
   },
   {
     "id": "stackexchange-31425",
@@ -339,7 +258,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-30"
+    "updated_at": "2026-10-31"
   },
   {
     "id": "stackexchange-149179",
@@ -348,15 +267,6 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-10-30"
-  },
-  {
-    "id": "stackexchange-63095",
-    "title": "A three string tree diagram evaluated in CFT is different from string field theory evaluation",
-    "url": "https://physics.stackexchange.com/questions/63095/a-three-string-tree-diagram-evaluated-in-cft-is-different-from-string-field-theo",
-    "source": "stackexchange",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-10-30"
+    "updated_at": "2026-10-31"
   }
 ]

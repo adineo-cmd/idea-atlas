@@ -685,13 +685,23 @@
     "era": "2000-2019"
   },
   {
+    "id": "stackexchange-416763",
+    "title": "Intersection of the kernel with the interpolation space",
+    "url": "https://mathoverflow.net/questions/416763/intersection-of-the-kernel-with-the-interpolation-space",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-10-31",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
     "id": "stackexchange-466803",
     "title": "The new shortest open cubic equations",
     "url": "https://mathoverflow.net/questions/466803/the-new-shortest-open-cubic-equations",
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-30",
+    "updated_at": "2026-10-31",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -701,7 +711,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-30",
+    "updated_at": "2026-10-31",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -711,7 +721,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-30",
+    "updated_at": "2026-10-31",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -721,7 +731,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-30",
+    "updated_at": "2026-10-31",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -731,7 +741,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-30",
+    "updated_at": "2026-10-31",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -741,7 +751,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-30",
+    "updated_at": "2026-10-31",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -751,7 +761,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-30",
+    "updated_at": "2026-10-31",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -761,7 +771,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-30",
+    "updated_at": "2026-10-31",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -771,17 +781,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-10-30",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "stackexchange-515723",
-    "title": "Are interactions between different fields of mathematics always beneficial?",
-    "url": "https://mathoverflow.net/questions/515723/are-interactions-between-different-fields-of-mathematics-always-beneficial",
-    "source": "stackexchange",
-    "category": "math",
-    "status": "debated",
-    "updated_at": "2026-10-30",
+    "updated_at": "2026-10-31",
     "note": "Possibly solved \u2014 see Known"
   }
 ]
