@@ -920,6 +920,106 @@
     "era": "2020-2026"
   },
   {
+    "id": "arxiv-2610.42147v1",
+    "title": "Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention",
+    "url": "http://arxiv.org/abs/2610.42147v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-02",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2610.42145v1",
+    "title": "SemEllipsoid: Semantic-aware Shape Abstraction with Ellipsoid",
+    "url": "http://arxiv.org/abs/2610.42145v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-02",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2610.42143v1",
+    "title": "A first look at strange-quark polarization in top-quark decays with CMS Open Data",
+    "url": "http://arxiv.org/abs/2610.42143v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-02",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2610.42125v1",
+    "title": "Optimal Decay Exponents for Fractional Burgers Rarefaction Waves",
+    "url": "http://arxiv.org/abs/2610.42125v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-02",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2610.42122v1",
+    "title": "Co-sufficient weighting: leveraging sparsity for more powerful variable selection in the linear model",
+    "url": "http://arxiv.org/abs/2610.42122v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-02",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2610.42120v1",
+    "title": "Persistence of Unitary Almost Mathieu Operator Gaps Ten Dry Martinis, Five on the Rim",
+    "url": "http://arxiv.org/abs/2610.42120v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-02",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2610.42115v1",
+    "title": "Observation of light-induced Haldane gap in graphene",
+    "url": "http://arxiv.org/abs/2610.42115v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-02",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2610.42109v1",
+    "title": "Regret-Optimal Wasserstein-Robust Linear Regression",
+    "url": "http://arxiv.org/abs/2610.42109v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-02",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2610.42108v1",
+    "title": "Quantum 3xplorer: AI-Native Engine for Next-Generation Quantum Materials Modeling",
+    "url": "http://arxiv.org/abs/2610.42108v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-02",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2610.42103v1",
+    "title": "Charge Pumping Leptogenesis from the Symmetric Mass Generation Phase on a Four-Leg Ladder Lattice",
+    "url": "http://arxiv.org/abs/2610.42103v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-02",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
     "id": "stackexchange-46267",
     "title": "The Four-Clock Special Relativity Conundrum",
     "url": "https://physics.stackexchange.com/questions/46267/the-four-clock-special-relativity-conundrum",
