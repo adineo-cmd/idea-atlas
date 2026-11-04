@@ -6,7 +6,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "hn-47552974",
@@ -15,7 +15,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "hn-30072244",
@@ -24,7 +24,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "hn-39917364",
@@ -33,7 +33,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "hn-20776655",
@@ -42,7 +42,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "hn-5693309",
@@ -51,7 +51,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "hn-47256849",
@@ -60,7 +60,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "hn-45190739",
@@ -69,7 +69,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "hn-46096192",
@@ -78,7 +78,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "hn-44901528",
@@ -87,97 +87,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-03"
-  },
-  {
-    "id": "arxiv-2611.03646v1",
-    "title": "EgoActionBench: Benchmarking Dense Action Captioning for Egocentric Human Videos",
-    "url": "http://arxiv.org/abs/2611.03646v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-03"
-  },
-  {
-    "id": "arxiv-2611.03641v1",
-    "title": "From Natural Language to Exact Cover: A Neuro-Symbolic Approach to Zebra Puzzles",
-    "url": "http://arxiv.org/abs/2611.03641v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-03"
-  },
-  {
-    "id": "arxiv-2611.03638v1",
-    "title": "A Triangular Log-Det PDHG for Semidefinite Programming: Complementarity Selection and Global Linear Convergence",
-    "url": "http://arxiv.org/abs/2611.03638v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-03"
-  },
-  {
-    "id": "arxiv-2611.03636v1",
-    "title": "Get Permanent Results Faster by Counting Stars",
-    "url": "http://arxiv.org/abs/2611.03636v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-03"
-  },
-  {
-    "id": "arxiv-2611.03634v1",
-    "title": "WebHarbor: Docking Real Websites for Evolving GUI Agent Environments",
-    "url": "http://arxiv.org/abs/2611.03634v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-03"
-  },
-  {
-    "id": "arxiv-2611.03629v1",
-    "title": "PDFP: GPU-Accelerated Feasibility Pump via PDHG",
-    "url": "http://arxiv.org/abs/2611.03629v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-03"
-  },
-  {
-    "id": "arxiv-2611.03621v1",
-    "title": "Multi-Trajectory Parallel-in-Iteration Optimization",
-    "url": "http://arxiv.org/abs/2611.03621v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-03"
-  },
-  {
-    "id": "arxiv-2611.03617v1",
-    "title": "Tracing the Scientific Discovery Capacity of LLMs to Their Training Data",
-    "url": "http://arxiv.org/abs/2611.03617v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-03"
-  },
-  {
-    "id": "arxiv-2611.03605v1",
-    "title": "ufakzeka-kulak: Building and Evaluating a 31.6M-Parameter Turkish Speech Recognizer from Scratch",
-    "url": "http://arxiv.org/abs/2611.03605v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-03"
-  },
-  {
-    "id": "arxiv-2611.03602v1",
-    "title": "Reviso: Not All Visual Evidence Deserves Equal Attention in Video Captioning",
-    "url": "http://arxiv.org/abs/2611.03602v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "stackexchange-79366",
@@ -186,7 +96,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "stackexchange-515260",
@@ -195,7 +105,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "stackexchange-416763",
@@ -204,7 +114,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "stackexchange-466803",
@@ -213,7 +123,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "stackexchange-414216",
@@ -222,7 +132,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "stackexchange-411958",
@@ -231,7 +141,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "stackexchange-516518",
@@ -240,7 +150,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "stackexchange-516336",
@@ -249,7 +159,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "stackexchange-516372",
@@ -258,7 +168,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "stackexchange-515849",
@@ -267,16 +177,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-03"
-  },
-  {
-    "id": "stackexchange-877414",
-    "title": "How do I learn more about String Theory?",
-    "url": "https://physics.stackexchange.com/questions/877414/how-do-i-learn-more-about-string-theory",
-    "source": "stackexchange",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "stackexchange-46267",
@@ -285,7 +186,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "stackexchange-557587",
@@ -294,7 +195,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "stackexchange-875698",
@@ -303,7 +204,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "stackexchange-748434",
@@ -312,7 +213,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "stackexchange-800291",
@@ -321,7 +222,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "stackexchange-874139",
@@ -330,7 +231,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "stackexchange-659856",
@@ -339,7 +240,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "stackexchange-658851",
@@ -348,7 +249,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "stackexchange-31425",
@@ -357,6 +258,15 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
+  },
+  {
+    "id": "stackexchange-149179",
+    "title": "Thomson problem vs. maximizing sum of distance",
+    "url": "https://physics.stackexchange.com/questions/149179/thomson-problem-vs-maximizing-sum-of-distance",
+    "source": "stackexchange",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-04"
   }
 ]

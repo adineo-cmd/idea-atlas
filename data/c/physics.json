@@ -920,123 +920,13 @@
     "era": "2020-2026"
   },
   {
-    "id": "arxiv-2611.03646v1",
-    "title": "EgoActionBench: Benchmarking Dense Action Captioning for Egocentric Human Videos",
-    "url": "http://arxiv.org/abs/2611.03646v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-03",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2611.03641v1",
-    "title": "From Natural Language to Exact Cover: A Neuro-Symbolic Approach to Zebra Puzzles",
-    "url": "http://arxiv.org/abs/2611.03641v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-03",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2611.03638v1",
-    "title": "A Triangular Log-Det PDHG for Semidefinite Programming: Complementarity Selection and Global Linear Convergence",
-    "url": "http://arxiv.org/abs/2611.03638v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-03",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2611.03636v1",
-    "title": "Get Permanent Results Faster by Counting Stars",
-    "url": "http://arxiv.org/abs/2611.03636v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-03",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2611.03634v1",
-    "title": "WebHarbor: Docking Real Websites for Evolving GUI Agent Environments",
-    "url": "http://arxiv.org/abs/2611.03634v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-03",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2611.03629v1",
-    "title": "PDFP: GPU-Accelerated Feasibility Pump via PDHG",
-    "url": "http://arxiv.org/abs/2611.03629v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-03",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2611.03621v1",
-    "title": "Multi-Trajectory Parallel-in-Iteration Optimization",
-    "url": "http://arxiv.org/abs/2611.03621v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-03",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2611.03617v1",
-    "title": "Tracing the Scientific Discovery Capacity of LLMs to Their Training Data",
-    "url": "http://arxiv.org/abs/2611.03617v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-03",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2611.03605v1",
-    "title": "ufakzeka-kulak: Building and Evaluating a 31.6M-Parameter Turkish Speech Recognizer from Scratch",
-    "url": "http://arxiv.org/abs/2611.03605v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-03",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2611.03602v1",
-    "title": "Reviso: Not All Visual Evidence Deserves Equal Attention in Video Captioning",
-    "url": "http://arxiv.org/abs/2611.03602v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-03",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "stackexchange-877414",
-    "title": "How do I learn more about String Theory?",
-    "url": "https://physics.stackexchange.com/questions/877414/how-do-i-learn-more-about-string-theory",
-    "source": "stackexchange",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-03",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
     "id": "stackexchange-46267",
     "title": "The Four-Clock Special Relativity Conundrum",
     "url": "https://physics.stackexchange.com/questions/46267/the-four-clock-special-relativity-conundrum",
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-03",
+    "updated_at": "2026-11-04",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -1046,7 +936,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-03",
+    "updated_at": "2026-11-04",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -1056,7 +946,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-03",
+    "updated_at": "2026-11-04",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -1066,7 +956,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-03",
+    "updated_at": "2026-11-04",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -1076,7 +966,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-03",
+    "updated_at": "2026-11-04",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -1086,7 +976,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-03",
+    "updated_at": "2026-11-04",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -1096,7 +986,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-03",
+    "updated_at": "2026-11-04",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -1106,7 +996,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-03",
+    "updated_at": "2026-11-04",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -1116,7 +1006,17 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-03",
+    "updated_at": "2026-11-04",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "stackexchange-149179",
+    "title": "Thomson problem vs. maximizing sum of distance",
+    "url": "https://physics.stackexchange.com/questions/149179/thomson-problem-vs-maximizing-sum-of-distance",
+    "source": "stackexchange",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-04",
     "note": "Possibly solved \u2014 see Known"
   }
 ]
