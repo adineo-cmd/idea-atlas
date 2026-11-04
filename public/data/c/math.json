@@ -685,6 +685,16 @@
     "era": "2000-2019"
   },
   {
+    "id": "stackexchange-508919",
+    "title": "Integer solution to $(3x-1)y^2 + x z^2 = x^3-2$",
+    "url": "https://mathoverflow.net/questions/508919/integer-solution-to-3x-1y2-x-z2-x3-2",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-11-04",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
     "id": "stackexchange-79366",
     "title": "Evidence for integer factorization being in $P$",
     "url": "https://mathoverflow.net/questions/79366/evidence-for-integer-factorization-being-in-p",
@@ -768,16 +778,6 @@
     "id": "stackexchange-516372",
     "title": "Are all extreme points of the set of 2&#215;2 marginals of shift-invariant measures on $\\{0,1\\}^{\\mathbb Z^2}$ periodic?",
     "url": "https://mathoverflow.net/questions/516372/are-all-extreme-points-of-the-set-of-2%c3%972-marginals-of-shift-invariant-measures-o",
-    "source": "stackexchange",
-    "category": "math",
-    "status": "debated",
-    "updated_at": "2026-11-04",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "stackexchange-515849",
-    "title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
-    "url": "https://mathoverflow.net/questions/515849/which-of-the-results-released-by-openai-went-against-the-conventional-mathematic",
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
