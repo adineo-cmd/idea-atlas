@@ -7156,7 +7156,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-04",
+    "updated_at": "2026-11-05",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7166,7 +7166,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-04",
+    "updated_at": "2026-11-05",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7176,7 +7176,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-04",
+    "updated_at": "2026-11-05",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7186,7 +7186,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-04",
+    "updated_at": "2026-11-05",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7196,7 +7196,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-04",
+    "updated_at": "2026-11-05",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7206,7 +7206,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-04",
+    "updated_at": "2026-11-05",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7216,7 +7216,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-04",
+    "updated_at": "2026-11-05",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7226,7 +7226,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-04",
+    "updated_at": "2026-11-05",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7236,7 +7236,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-04",
+    "updated_at": "2026-11-05",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7246,107 +7246,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-04",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2611.05378v1",
-    "title": "Boundary $c\\leq1$ Liouville CFT from the Bootstrap",
-    "url": "http://arxiv.org/abs/2611.05378v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-04",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2611.05373v1",
-    "title": "Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Optimization",
-    "url": "http://arxiv.org/abs/2611.05373v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-04",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2611.05371v1",
-    "title": "Iterative Methods for Solving Feedback-Type Linear Equations under Small Phase Condition",
-    "url": "http://arxiv.org/abs/2611.05371v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-04",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2611.05365v1",
-    "title": "A wider state, not wider arithmetic, for single-precision time integration",
-    "url": "http://arxiv.org/abs/2611.05365v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-04",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2611.05364v1",
-    "title": "Designing an Adaptive Robust and Evolutionary-Game Framework for Minimum Shipment Quotas in Capacity-Constrained Freight Markets",
-    "url": "http://arxiv.org/abs/2611.05364v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-04",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2611.05360v1",
-    "title": "Almost-MMS allocations with small agent redundancy",
-    "url": "http://arxiv.org/abs/2611.05360v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-04",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2611.05358v1",
-    "title": "Suppressing Misaligned Behaviors in Language Models, Durably",
-    "url": "http://arxiv.org/abs/2611.05358v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-04",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2611.05356v1",
-    "title": "Breaking the quantum barriers for Graph Collision",
-    "url": "http://arxiv.org/abs/2611.05356v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-04",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2611.05352v1",
-    "title": "Stable soliton resolution for the corotational Skyrme model",
-    "url": "http://arxiv.org/abs/2611.05352v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-04",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2611.05348v1",
-    "title": "OpenBrain: An Auditable Generated-Label Release for Whole-Brain MRI Parcellation",
-    "url": "http://arxiv.org/abs/2611.05348v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-04",
+    "updated_at": "2026-11-05",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7356,7 +7256,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-04",
+    "updated_at": "2026-11-05",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7366,7 +7266,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-04",
+    "updated_at": "2026-11-05",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7376,7 +7276,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-04",
+    "updated_at": "2026-11-05",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7386,7 +7286,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-04",
+    "updated_at": "2026-11-05",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7396,7 +7296,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-04",
+    "updated_at": "2026-11-05",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7406,7 +7306,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-04",
+    "updated_at": "2026-11-05",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7416,7 +7316,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-04",
+    "updated_at": "2026-11-05",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7426,7 +7326,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-04",
+    "updated_at": "2026-11-05",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7436,7 +7336,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-04",
+    "updated_at": "2026-11-05",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7446,7 +7346,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-04",
+    "updated_at": "2026-11-05",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7456,7 +7356,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-04",
+    "updated_at": "2026-11-05",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7466,7 +7366,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-04",
+    "updated_at": "2026-11-05",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7476,7 +7376,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-04",
+    "updated_at": "2026-11-05",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7486,7 +7386,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-04",
+    "updated_at": "2026-11-05",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7496,7 +7396,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-04",
+    "updated_at": "2026-11-05",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7506,7 +7406,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-04",
+    "updated_at": "2026-11-05",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7516,7 +7416,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-04",
+    "updated_at": "2026-11-05",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7526,7 +7426,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-04",
+    "updated_at": "2026-11-05",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7536,7 +7436,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-04",
+    "updated_at": "2026-11-05",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7546,7 +7446,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-04",
+    "updated_at": "2026-11-05",
     "note": "Possibly solved \u2014 see Known"
   }
 ]
