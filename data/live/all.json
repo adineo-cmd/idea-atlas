@@ -90,6 +90,96 @@
     "updated_at": "2026-11-05"
   },
   {
+    "id": "arxiv-2611.06914v1",
+    "title": "A Framework for Context Enrichment and Selective Robustness in LLM Social Agents",
+    "url": "http://arxiv.org/abs/2611.06914v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-05"
+  },
+  {
+    "id": "arxiv-2611.06912v1",
+    "title": "FlowReconBench: Accuracy, calibration and cost of learned and classical flow reconstruction from sparse sensors",
+    "url": "http://arxiv.org/abs/2611.06912v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-05"
+  },
+  {
+    "id": "arxiv-2611.06908v1",
+    "title": "Perceptive Humanoid Motion from Simulation",
+    "url": "http://arxiv.org/abs/2611.06908v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-05"
+  },
+  {
+    "id": "arxiv-2611.06906v1",
+    "title": "A Simple Subquadratic Cut Query Protocol for Directed Reachability",
+    "url": "http://arxiv.org/abs/2611.06906v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-05"
+  },
+  {
+    "id": "arxiv-2611.06904v1",
+    "title": "Sublinear multi-type preferential attachment",
+    "url": "http://arxiv.org/abs/2611.06904v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-05"
+  },
+  {
+    "id": "arxiv-2611.06901v1",
+    "title": "Motion-guided Contrastive Regularization For Latent World Models",
+    "url": "http://arxiv.org/abs/2611.06901v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-05"
+  },
+  {
+    "id": "arxiv-2611.06898v1",
+    "title": "3D Printed Monolithic Optomechanical Chassis for an Unbalanced Field-Widened Interferometer",
+    "url": "http://arxiv.org/abs/2611.06898v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-05"
+  },
+  {
+    "id": "arxiv-2611.06894v1",
+    "title": "Nonuniform Buy-at-Bulk Network Design: Improved Approximation and LP Integrality Gap",
+    "url": "http://arxiv.org/abs/2611.06894v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-05"
+  },
+  {
+    "id": "arxiv-2611.06891v1",
+    "title": "Prophet Secretary for Matroids and XOS Valuations: A Strict Separation at $1-1/e$",
+    "url": "http://arxiv.org/abs/2611.06891v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-05"
+  },
+  {
+    "id": "arxiv-2611.06887v1",
+    "title": "Risk-Sensitive Stochastic Optimal Control on Positive Cones",
+    "url": "http://arxiv.org/abs/2611.06887v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-05"
+  },
+  {
     "id": "stackexchange-508919",
     "title": "Integer solution to $(3x-1)y^2 + x z^2 = x^3-2$",
     "url": "https://mathoverflow.net/questions/508919/integer-solution-to-3x-1y2-x-z2-x3-2",
