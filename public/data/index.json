@@ -7350,6 +7350,26 @@
     "note": "Possibly solved \u2014 see Known"
   },
   {
+    "id": "stackexchange-395188",
+    "title": "Iterating Diophantine equations over Q to quickly get a large interval with just integer solutions",
+    "url": "https://mathoverflow.net/questions/395188/iterating-diophantine-equations-over-q-to-quickly-get-a-large-interval-with-just",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-11-06",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "stackexchange-156344",
+    "title": "Blocking light with mirrored convex objects",
+    "url": "https://mathoverflow.net/questions/156344/blocking-light-with-mirrored-convex-objects",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-11-06",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
     "id": "stackexchange-516719",
     "title": "New infinite family on the diagonal quartic surface $ax^4+by^4+cz^4+dw^4 = 0$",
     "url": "https://mathoverflow.net/questions/516719/new-infinite-family-on-the-diagonal-quartic-surface-ax4by4cz4dw4-0",
@@ -7423,26 +7443,6 @@
     "id": "stackexchange-411958",
     "title": "On the smallest open Diophantine equations: beyond Hilbert&#39;s 10 problem",
     "url": "https://mathoverflow.net/questions/411958/on-the-smallest-open-diophantine-equations-beyond-hilberts-10-problem",
-    "source": "stackexchange",
-    "category": "math",
-    "status": "debated",
-    "updated_at": "2026-11-06",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "stackexchange-516518",
-    "title": "Skinner and Urban\u2019s &quot;The Iwasawa Main Conjectures for GL\u2082&quot; - A counterexample to the reasoning in Theorem 6.5.4",
-    "url": "https://mathoverflow.net/questions/516518/skinner-and-urban-s-the-iwasawa-main-conjectures-for-gl%e2%82%82-a-counterexample-to",
-    "source": "stackexchange",
-    "category": "math",
-    "status": "debated",
-    "updated_at": "2026-11-06",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "stackexchange-516336",
-    "title": "Are there AI-generated mathematical papers devoted to developing a general theory rather than solving a specific problem?",
-    "url": "https://mathoverflow.net/questions/516336/are-there-ai-generated-mathematical-papers-devoted-to-developing-a-general-theor",
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
