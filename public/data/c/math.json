@@ -685,6 +685,16 @@
     "era": "2000-2019"
   },
   {
+    "id": "stackexchange-516719",
+    "title": "New infinite family on the diagonal quartic surface $ax^4+by^4+cz^4+dw^4 = 0$",
+    "url": "https://mathoverflow.net/questions/516719/new-infinite-family-on-the-diagonal-quartic-surface-ax4by4cz4dw4-0",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-11-06",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
     "id": "stackexchange-508919",
     "title": "Integer solution to $(3x-1)y^2 + x z^2 = x^3-2$",
     "url": "https://mathoverflow.net/questions/508919/integer-solution-to-3x-1y2-x-z2-x3-2",
@@ -768,16 +778,6 @@
     "id": "stackexchange-516336",
     "title": "Are there AI-generated mathematical papers devoted to developing a general theory rather than solving a specific problem?",
     "url": "https://mathoverflow.net/questions/516336/are-there-ai-generated-mathematical-papers-devoted-to-developing-a-general-theor",
-    "source": "stackexchange",
-    "category": "math",
-    "status": "debated",
-    "updated_at": "2026-11-06",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "stackexchange-516372",
-    "title": "Are all extreme points of the set of 2&#215;2 marginals of shift-invariant measures on $\\{0,1\\}^{\\mathbb Z^2}$ periodic?",
-    "url": "https://mathoverflow.net/questions/516372/are-all-extreme-points-of-the-set-of-2%c3%972-marginals-of-shift-invariant-measures-o",
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
