@@ -7460,6 +7460,16 @@
     "note": "Possibly solved \u2014 see Known"
   },
   {
+    "id": "stackexchange-877515",
+    "title": "Research Proposal: The Relationship Between Everything, Nothing, and X",
+    "url": "https://physics.stackexchange.com/questions/877515/research-proposal-the-relationship-between-everything-nothing-and-x",
+    "source": "stackexchange",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-07",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
     "id": "stackexchange-46267",
     "title": "The Four-Clock Special Relativity Conundrum",
     "url": "https://physics.stackexchange.com/questions/46267/the-four-clock-special-relativity-conundrum",
@@ -7533,16 +7543,6 @@
     "id": "stackexchange-658851",
     "title": "What is the set of observables of a quantum system?",
     "url": "https://physics.stackexchange.com/questions/658851/what-is-the-set-of-observables-of-a-quantum-system",
-    "source": "stackexchange",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-07",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "stackexchange-31425",
-    "title": "What is the answer to Feynman&#39;s Disc Paradox?",
-    "url": "https://physics.stackexchange.com/questions/31425/what-is-the-answer-to-feynmans-disc-paradox",
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
