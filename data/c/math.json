@@ -685,6 +685,26 @@
     "era": "2000-2019"
   },
   {
+    "id": "stackexchange-515446",
+    "title": "Almost-primes produced by $n^2 + n + (d+1)/4$ for a positive proportion of fundamental discriminants?",
+    "url": "https://mathoverflow.net/questions/515446/almost-primes-produced-by-n2-n-d1-4-for-a-positive-proportion-of-funda",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-11-08",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "stackexchange-461267",
+    "title": "Do vertex-maximal paths in 4-connected graphs intersect?",
+    "url": "https://mathoverflow.net/questions/461267/do-vertex-maximal-paths-in-4-connected-graphs-intersect",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-11-08",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
     "id": "stackexchange-395188",
     "title": "Iterating Diophantine equations over Q to quickly get a large interval with just integer solutions",
     "url": "https://mathoverflow.net/questions/395188/iterating-diophantine-equations-over-q-to-quickly-get-a-large-interval-with-just",
@@ -758,26 +778,6 @@
     "id": "stackexchange-466803",
     "title": "The new shortest open cubic equations",
     "url": "https://mathoverflow.net/questions/466803/the-new-shortest-open-cubic-equations",
-    "source": "stackexchange",
-    "category": "math",
-    "status": "debated",
-    "updated_at": "2026-11-08",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "stackexchange-414216",
-    "title": "Find all integer solutions to the following easy-looking Diophantine equations",
-    "url": "https://mathoverflow.net/questions/414216/find-all-integer-solutions-to-the-following-easy-looking-diophantine-equations",
-    "source": "stackexchange",
-    "category": "math",
-    "status": "debated",
-    "updated_at": "2026-11-08",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "stackexchange-411958",
-    "title": "On the smallest open Diophantine equations: beyond Hilbert&#39;s 10 problem",
-    "url": "https://mathoverflow.net/questions/411958/on-the-smallest-open-diophantine-equations-beyond-hilberts-10-problem",
     "source": "stackexchange",
     "category": "math",
     "status": "debated",

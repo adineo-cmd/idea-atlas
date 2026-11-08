@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08T04:30:31Z",
+  "updated_at": "2026-11-08T12:46:40Z",
   "ai": "auto",
-  "count": 845,
+  "count": 855,
   "by_status": {
     "known": 539,
     "undiscovered": 135,
-    "debated": 171
+    "debated": 181
   },
   "categories": 10
 }

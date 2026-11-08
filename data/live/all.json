@@ -90,6 +90,114 @@
     "updated_at": "2026-11-08"
   },
   {
+    "id": "arxiv-2611.08485v1",
+    "title": "Where and Why is Grounded Reasoning Useful?",
+    "url": "http://arxiv.org/abs/2611.08485v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-08"
+  },
+  {
+    "id": "arxiv-2611.08483v1",
+    "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+    "url": "http://arxiv.org/abs/2611.08483v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-08"
+  },
+  {
+    "id": "arxiv-2611.08480v1",
+    "title": "Hyperpolarity of polar foliations of codimension two",
+    "url": "http://arxiv.org/abs/2611.08480v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-08"
+  },
+  {
+    "id": "arxiv-2611.08478v1",
+    "title": "Scientist World: Grow a Research World for AI-Scientists",
+    "url": "http://arxiv.org/abs/2611.08478v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-08"
+  },
+  {
+    "id": "arxiv-2611.08468v1",
+    "title": "An Accelerated Proximal Gradient Method for Bures-Wasserstein Space",
+    "url": "http://arxiv.org/abs/2611.08468v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-08"
+  },
+  {
+    "id": "arxiv-2611.08461v1",
+    "title": "Quantum Knowledge Distillation: State-of-the-art, Applications and Open Problems",
+    "url": "http://arxiv.org/abs/2611.08461v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-08"
+  },
+  {
+    "id": "arxiv-2611.08456v1",
+    "title": "Cognitive Tours: Making Understanding a Deliverable in AI-Assisted Development",
+    "url": "http://arxiv.org/abs/2611.08456v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-08"
+  },
+  {
+    "id": "arxiv-2611.08455v1",
+    "title": "Tusn\u00e1dy's problem and online two-sample thinning",
+    "url": "http://arxiv.org/abs/2611.08455v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-08"
+  },
+  {
+    "id": "arxiv-2611.08447v1",
+    "title": "Dynamical effects induced by synthetic SU(1,1) gauge fields",
+    "url": "http://arxiv.org/abs/2611.08447v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-08"
+  },
+  {
+    "id": "arxiv-2611.08438v1",
+    "title": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety",
+    "url": "http://arxiv.org/abs/2611.08438v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-08"
+  },
+  {
+    "id": "stackexchange-515446",
+    "title": "Almost-primes produced by $n^2 + n + (d+1)/4$ for a positive proportion of fundamental discriminants?",
+    "url": "https://mathoverflow.net/questions/515446/almost-primes-produced-by-n2-n-d1-4-for-a-positive-proportion-of-funda",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-11-08"
+  },
+  {
+    "id": "stackexchange-461267",
+    "title": "Do vertex-maximal paths in 4-connected graphs intersect?",
+    "url": "https://mathoverflow.net/questions/461267/do-vertex-maximal-paths-in-4-connected-graphs-intersect",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-11-08"
+  },
+  {
     "id": "stackexchange-395188",
     "title": "Iterating Diophantine equations over Q to quickly get a large interval with just integer solutions",
     "url": "https://mathoverflow.net/questions/395188/iterating-diophantine-equations-over-q-to-quickly-get-a-large-interval-with-just",
@@ -156,24 +264,6 @@
     "id": "stackexchange-466803",
     "title": "The new shortest open cubic equations",
     "url": "https://mathoverflow.net/questions/466803/the-new-shortest-open-cubic-equations",
-    "source": "stackexchange",
-    "category": "math",
-    "status": "debated",
-    "updated_at": "2026-11-08"
-  },
-  {
-    "id": "stackexchange-414216",
-    "title": "Find all integer solutions to the following easy-looking Diophantine equations",
-    "url": "https://mathoverflow.net/questions/414216/find-all-integer-solutions-to-the-following-easy-looking-diophantine-equations",
-    "source": "stackexchange",
-    "category": "math",
-    "status": "debated",
-    "updated_at": "2026-11-08"
-  },
-  {
-    "id": "stackexchange-411958",
-    "title": "On the smallest open Diophantine equations: beyond Hilbert&#39;s 10 problem",
-    "url": "https://mathoverflow.net/questions/411958/on-the-smallest-open-diophantine-equations-beyond-hilberts-10-problem",
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
