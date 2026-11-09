@@ -920,6 +920,106 @@
     "era": "2020-2026"
   },
   {
+    "id": "arxiv-2611.09894v1",
+    "title": "Video-Coder: Reinforcing Agentic Coding for Video Generation",
+    "url": "http://arxiv.org/abs/2611.09894v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-09",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2611.09891v1",
+    "title": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
+    "url": "http://arxiv.org/abs/2611.09891v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-09",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2611.09890v1",
+    "title": "Global Two-Sided Estimates for Time-Fractional Diffusion Kernels on Hyperbolic Space",
+    "url": "http://arxiv.org/abs/2611.09890v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-09",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2611.09888v1",
+    "title": "Scenario Orchestration for Closed-loop Policy Evaluation of Autonomous Driving",
+    "url": "http://arxiv.org/abs/2611.09888v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-09",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2611.09887v1",
+    "title": "On the (non-)closedness of the set of ReLU networks",
+    "url": "http://arxiv.org/abs/2611.09887v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-09",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2611.09886v1",
+    "title": "Directed systems of A-spaces and weak cores",
+    "url": "http://arxiv.org/abs/2611.09886v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-09",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2611.09881v1",
+    "title": "Unraveling square and kagome lattice frustrated magnetism by scalable tensor networks",
+    "url": "http://arxiv.org/abs/2611.09881v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-09",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2611.09877v1",
+    "title": "Locating Contact on Tendon-Driven Continuum Robots From Tendon Measurements Alone via Constrained Moving Horizon Estimation",
+    "url": "http://arxiv.org/abs/2611.09877v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-09",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2611.09869v1",
+    "title": "An Empirical Study on Clustering-based Quantum Approximate Optimization Algorithm for Regression Test Case Selection",
+    "url": "http://arxiv.org/abs/2611.09869v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-09",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2611.09867v1",
+    "title": "Existence of extremal solutions in the 1d conformal bootstrap",
+    "url": "http://arxiv.org/abs/2611.09867v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-09",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
     "id": "stackexchange-839670",
     "title": "Witten&#39;s cubic open string field action is gauge invariant?",
     "url": "https://physics.stackexchange.com/questions/839670/wittens-cubic-open-string-field-action-is-gauge-invariant",
