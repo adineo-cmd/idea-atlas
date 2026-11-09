@@ -6,7 +6,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-08"
+    "updated_at": "2026-11-09"
   },
   {
     "id": "hn-47552974",
@@ -15,7 +15,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-08"
+    "updated_at": "2026-11-09"
   },
   {
     "id": "hn-30072244",
@@ -24,7 +24,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-08"
+    "updated_at": "2026-11-09"
   },
   {
     "id": "hn-39917364",
@@ -33,7 +33,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-08"
+    "updated_at": "2026-11-09"
   },
   {
     "id": "hn-20776655",
@@ -42,7 +42,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-08"
+    "updated_at": "2026-11-09"
   },
   {
     "id": "hn-5693309",
@@ -51,7 +51,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-08"
+    "updated_at": "2026-11-09"
   },
   {
     "id": "hn-47256849",
@@ -60,7 +60,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-08"
+    "updated_at": "2026-11-09"
   },
   {
     "id": "hn-45190739",
@@ -69,7 +69,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-08"
+    "updated_at": "2026-11-09"
   },
   {
     "id": "hn-46096192",
@@ -78,7 +78,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-08"
+    "updated_at": "2026-11-09"
   },
   {
     "id": "hn-44901528",
@@ -87,97 +87,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-08"
-  },
-  {
-    "id": "arxiv-2611.08485v1",
-    "title": "Where and Why is Grounded Reasoning Useful?",
-    "url": "http://arxiv.org/abs/2611.08485v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-08"
-  },
-  {
-    "id": "arxiv-2611.08483v1",
-    "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
-    "url": "http://arxiv.org/abs/2611.08483v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-08"
-  },
-  {
-    "id": "arxiv-2611.08480v1",
-    "title": "Hyperpolarity of polar foliations of codimension two",
-    "url": "http://arxiv.org/abs/2611.08480v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-08"
-  },
-  {
-    "id": "arxiv-2611.08478v1",
-    "title": "Scientist World: Grow a Research World for AI-Scientists",
-    "url": "http://arxiv.org/abs/2611.08478v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-08"
-  },
-  {
-    "id": "arxiv-2611.08468v1",
-    "title": "An Accelerated Proximal Gradient Method for Bures-Wasserstein Space",
-    "url": "http://arxiv.org/abs/2611.08468v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-08"
-  },
-  {
-    "id": "arxiv-2611.08461v1",
-    "title": "Quantum Knowledge Distillation: State-of-the-art, Applications and Open Problems",
-    "url": "http://arxiv.org/abs/2611.08461v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-08"
-  },
-  {
-    "id": "arxiv-2611.08456v1",
-    "title": "Cognitive Tours: Making Understanding a Deliverable in AI-Assisted Development",
-    "url": "http://arxiv.org/abs/2611.08456v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-08"
-  },
-  {
-    "id": "arxiv-2611.08455v1",
-    "title": "Tusn\u00e1dy's problem and online two-sample thinning",
-    "url": "http://arxiv.org/abs/2611.08455v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-08"
-  },
-  {
-    "id": "arxiv-2611.08447v1",
-    "title": "Dynamical effects induced by synthetic SU(1,1) gauge fields",
-    "url": "http://arxiv.org/abs/2611.08447v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-08"
-  },
-  {
-    "id": "arxiv-2611.08438v1",
-    "title": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety",
-    "url": "http://arxiv.org/abs/2611.08438v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-08"
+    "updated_at": "2026-11-09"
   },
   {
     "id": "stackexchange-515446",
@@ -186,7 +96,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-08"
+    "updated_at": "2026-11-09"
   },
   {
     "id": "stackexchange-461267",
@@ -195,7 +105,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-08"
+    "updated_at": "2026-11-09"
   },
   {
     "id": "stackexchange-395188",
@@ -204,7 +114,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-08"
+    "updated_at": "2026-11-09"
   },
   {
     "id": "stackexchange-156344",
@@ -213,7 +123,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-08"
+    "updated_at": "2026-11-09"
   },
   {
     "id": "stackexchange-516719",
@@ -222,7 +132,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-08"
+    "updated_at": "2026-11-09"
   },
   {
     "id": "stackexchange-508919",
@@ -231,7 +141,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-08"
+    "updated_at": "2026-11-09"
   },
   {
     "id": "stackexchange-79366",
@@ -240,7 +150,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-08"
+    "updated_at": "2026-11-09"
   },
   {
     "id": "stackexchange-515260",
@@ -249,7 +159,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-08"
+    "updated_at": "2026-11-09"
   },
   {
     "id": "stackexchange-416763",
@@ -258,7 +168,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-08"
+    "updated_at": "2026-11-09"
   },
   {
     "id": "stackexchange-466803",
@@ -267,7 +177,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-08"
+    "updated_at": "2026-11-09"
   },
   {
     "id": "stackexchange-839670",
@@ -276,7 +186,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-08"
+    "updated_at": "2026-11-09"
   },
   {
     "id": "stackexchange-877515",
@@ -285,7 +195,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-08"
+    "updated_at": "2026-11-09"
   },
   {
     "id": "stackexchange-46267",
@@ -294,7 +204,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-08"
+    "updated_at": "2026-11-09"
   },
   {
     "id": "stackexchange-557587",
@@ -303,7 +213,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-08"
+    "updated_at": "2026-11-09"
   },
   {
     "id": "stackexchange-875698",
@@ -312,7 +222,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-08"
+    "updated_at": "2026-11-09"
   },
   {
     "id": "stackexchange-748434",
@@ -321,7 +231,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-08"
+    "updated_at": "2026-11-09"
   },
   {
     "id": "stackexchange-800291",
@@ -330,7 +240,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-08"
+    "updated_at": "2026-11-09"
   },
   {
     "id": "stackexchange-874139",
@@ -339,7 +249,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-08"
+    "updated_at": "2026-11-09"
   },
   {
     "id": "stackexchange-659856",
@@ -348,7 +258,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-08"
+    "updated_at": "2026-11-09"
   },
   {
     "id": "stackexchange-658851",
@@ -357,6 +267,6 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-08"
+    "updated_at": "2026-11-09"
   }
 ]
