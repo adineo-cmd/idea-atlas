@@ -7350,6 +7350,26 @@
     "note": "Possibly solved \u2014 see Known"
   },
   {
+    "id": "stackexchange-409550",
+    "title": "Convergence of the series $\\sum_{n=1}^\\infty \\frac{(2+\\sin n)^n}{3^n n^a}$ for $a\\in(0,1)$",
+    "url": "https://mathoverflow.net/questions/409550/convergence-of-the-series-sum-n-1-infty-frac2-sin-nn3n-na-for",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-11-10",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "stackexchange-516719",
+    "title": "New infinite family on the diagonal quartic surface $ax^4+by^4+cz^4+dw^4 = 0$",
+    "url": "https://mathoverflow.net/questions/516719/new-infinite-family-on-the-diagonal-quartic-surface-ax4by4cz4dw4-0",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-11-10",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
     "id": "stackexchange-497102",
     "title": "Conjectures of Ext (non)-vanishing for noetherian rings",
     "url": "https://mathoverflow.net/questions/497102/conjectures-of-ext-non-vanishing-for-noetherian-rings",
@@ -7410,16 +7430,6 @@
     "note": "Possibly solved \u2014 see Known"
   },
   {
-    "id": "stackexchange-516719",
-    "title": "New infinite family on the diagonal quartic surface $ax^4+by^4+cz^4+dw^4 = 0$",
-    "url": "https://mathoverflow.net/questions/516719/new-infinite-family-on-the-diagonal-quartic-surface-ax4by4cz4dw4-0",
-    "source": "stackexchange",
-    "category": "math",
-    "status": "debated",
-    "updated_at": "2026-11-10",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
     "id": "stackexchange-508919",
     "title": "Integer solution to $(3x-1)y^2 + x z^2 = x^3-2$",
     "url": "https://mathoverflow.net/questions/508919/integer-solution-to-3x-1y2-x-z2-x3-2",
@@ -7433,16 +7443,6 @@
     "id": "stackexchange-79366",
     "title": "Evidence for integer factorization being in $P$",
     "url": "https://mathoverflow.net/questions/79366/evidence-for-integer-factorization-being-in-p",
-    "source": "stackexchange",
-    "category": "math",
-    "status": "debated",
-    "updated_at": "2026-11-10",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "stackexchange-515260",
-    "title": "How do we prevent mathematics from devolving into the Medieval Era of secrecy?",
-    "url": "https://mathoverflow.net/questions/515260/how-do-we-prevent-mathematics-from-devolving-into-the-medieval-era-of-secrecy",
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
