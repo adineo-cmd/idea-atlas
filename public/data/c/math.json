@@ -685,6 +685,16 @@
     "era": "2000-2019"
   },
   {
+    "id": "stackexchange-497102",
+    "title": "Conjectures of Ext (non)-vanishing for noetherian rings",
+    "url": "https://mathoverflow.net/questions/497102/conjectures-of-ext-non-vanishing-for-noetherian-rings",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-11-10",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
     "id": "stackexchange-462095",
     "title": "Nonrepetitive nonhomogenous partition regularity",
     "url": "https://mathoverflow.net/questions/462095/nonrepetitive-nonhomogenous-partition-regularity",
@@ -768,16 +778,6 @@
     "id": "stackexchange-515260",
     "title": "How do we prevent mathematics from devolving into the Medieval Era of secrecy?",
     "url": "https://mathoverflow.net/questions/515260/how-do-we-prevent-mathematics-from-devolving-into-the-medieval-era-of-secrecy",
-    "source": "stackexchange",
-    "category": "math",
-    "status": "debated",
-    "updated_at": "2026-11-10",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "stackexchange-416763",
-    "title": "Intersection of the kernel with the interpolation space",
-    "url": "https://mathoverflow.net/questions/416763/intersection-of-the-kernel-with-the-interpolation-space",
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
