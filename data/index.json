@@ -7250,6 +7250,106 @@
     "note": "Possibly solved \u2014 see Known"
   },
   {
+    "id": "arxiv-2611.14517v1",
+    "title": "The closure of the nonreal roots of bounded-height polynomials is connected exactly at pronic heights",
+    "url": "http://arxiv.org/abs/2611.14517v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-12",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2611.14516v1",
+    "title": "TorchCurves: Differentiable Parametric Curves",
+    "url": "http://arxiv.org/abs/2611.14516v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-12",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2611.14514v1",
+    "title": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
+    "url": "http://arxiv.org/abs/2611.14514v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-12",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2611.14511v1",
+    "title": "Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents",
+    "url": "http://arxiv.org/abs/2611.14511v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-12",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2611.14510v1",
+    "title": "Gradient Estimates for Singular-Degenerate Elliptic Equations with Solution-Dependent Coefficients",
+    "url": "http://arxiv.org/abs/2611.14510v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-12",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2611.14505v1",
+    "title": "Continual-ARC: Measuring Skill Acquisition over a Working Lifetime",
+    "url": "http://arxiv.org/abs/2611.14505v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-12",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2611.14502v1",
+    "title": "Zeros of Katz's p-adic Eisenstein series E2",
+    "url": "http://arxiv.org/abs/2611.14502v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-12",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2611.14494v1",
+    "title": "Dynamic linear equations in the presence of small perturbations of an interface",
+    "url": "http://arxiv.org/abs/2611.14494v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-12",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2611.14490v1",
+    "title": "Automatic Continuity for projective clone homomorphisms",
+    "url": "http://arxiv.org/abs/2611.14490v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-12",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2611.14487v1",
+    "title": "Re-Search: Dissecting LLM Ideation Through a Two-Player Questioning Game",
+    "url": "http://arxiv.org/abs/2611.14487v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-12",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
     "id": "stackexchange-394427",
     "title": "Is the unit-stick number of a knot equal to its stick number?",
     "url": "https://mathoverflow.net/questions/394427/is-the-unit-stick-number-of-a-knot-equal-to-its-stick-number",
