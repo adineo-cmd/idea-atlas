@@ -685,13 +685,23 @@
     "era": "2000-2019"
   },
   {
+    "id": "stackexchange-394427",
+    "title": "Is the unit-stick number of a knot equal to its stick number?",
+    "url": "https://mathoverflow.net/questions/394427/is-the-unit-stick-number-of-a-knot-equal-to-its-stick-number",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-11-12",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
     "id": "stackexchange-409550",
     "title": "Convergence of the series $\\sum_{n=1}^\\infty \\frac{(2+\\sin n)^n}{3^n n^a}$ for $a\\in(0,1)$",
     "url": "https://mathoverflow.net/questions/409550/convergence-of-the-series-sum-n-1-infty-frac2-sin-nn3n-na-for",
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-11",
+    "updated_at": "2026-11-12",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -701,7 +711,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-11",
+    "updated_at": "2026-11-12",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -711,7 +721,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-11",
+    "updated_at": "2026-11-12",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -721,7 +731,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-11",
+    "updated_at": "2026-11-12",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -731,7 +741,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-11",
+    "updated_at": "2026-11-12",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -741,7 +751,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-11",
+    "updated_at": "2026-11-12",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -751,7 +761,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-11",
+    "updated_at": "2026-11-12",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -761,7 +771,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-11",
+    "updated_at": "2026-11-12",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -771,17 +781,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-11",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "stackexchange-79366",
-    "title": "Evidence for integer factorization being in $P$",
-    "url": "https://mathoverflow.net/questions/79366/evidence-for-integer-factorization-being-in-p",
-    "source": "stackexchange",
-    "category": "math",
-    "status": "debated",
-    "updated_at": "2026-11-11",
+    "updated_at": "2026-11-12",
     "note": "Possibly solved \u2014 see Known"
   }
 ]
