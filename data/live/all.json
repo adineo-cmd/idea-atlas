@@ -6,7 +6,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-12"
+    "updated_at": "2026-11-13"
   },
   {
     "id": "hn-47552974",
@@ -15,7 +15,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-12"
+    "updated_at": "2026-11-13"
   },
   {
     "id": "hn-30072244",
@@ -24,7 +24,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-12"
+    "updated_at": "2026-11-13"
   },
   {
     "id": "hn-39917364",
@@ -33,7 +33,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-12"
+    "updated_at": "2026-11-13"
   },
   {
     "id": "hn-20776655",
@@ -42,7 +42,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-12"
+    "updated_at": "2026-11-13"
   },
   {
     "id": "hn-5693309",
@@ -51,7 +51,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-12"
+    "updated_at": "2026-11-13"
   },
   {
     "id": "hn-47256849",
@@ -60,7 +60,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-12"
+    "updated_at": "2026-11-13"
   },
   {
     "id": "hn-45190739",
@@ -69,7 +69,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-12"
+    "updated_at": "2026-11-13"
   },
   {
     "id": "hn-46096192",
@@ -78,7 +78,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-12"
+    "updated_at": "2026-11-13"
   },
   {
     "id": "hn-44901528",
@@ -87,97 +87,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-12"
-  },
-  {
-    "id": "arxiv-2611.14517v1",
-    "title": "The closure of the nonreal roots of bounded-height polynomials is connected exactly at pronic heights",
-    "url": "http://arxiv.org/abs/2611.14517v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-12"
-  },
-  {
-    "id": "arxiv-2611.14516v1",
-    "title": "TorchCurves: Differentiable Parametric Curves",
-    "url": "http://arxiv.org/abs/2611.14516v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-12"
-  },
-  {
-    "id": "arxiv-2611.14514v1",
-    "title": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
-    "url": "http://arxiv.org/abs/2611.14514v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-12"
-  },
-  {
-    "id": "arxiv-2611.14511v1",
-    "title": "Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents",
-    "url": "http://arxiv.org/abs/2611.14511v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-12"
-  },
-  {
-    "id": "arxiv-2611.14510v1",
-    "title": "Gradient Estimates for Singular-Degenerate Elliptic Equations with Solution-Dependent Coefficients",
-    "url": "http://arxiv.org/abs/2611.14510v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-12"
-  },
-  {
-    "id": "arxiv-2611.14505v1",
-    "title": "Continual-ARC: Measuring Skill Acquisition over a Working Lifetime",
-    "url": "http://arxiv.org/abs/2611.14505v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-12"
-  },
-  {
-    "id": "arxiv-2611.14502v1",
-    "title": "Zeros of Katz's p-adic Eisenstein series E2",
-    "url": "http://arxiv.org/abs/2611.14502v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-12"
-  },
-  {
-    "id": "arxiv-2611.14494v1",
-    "title": "Dynamic linear equations in the presence of small perturbations of an interface",
-    "url": "http://arxiv.org/abs/2611.14494v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-12"
-  },
-  {
-    "id": "arxiv-2611.14490v1",
-    "title": "Automatic Continuity for projective clone homomorphisms",
-    "url": "http://arxiv.org/abs/2611.14490v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-12"
-  },
-  {
-    "id": "arxiv-2611.14487v1",
-    "title": "Re-Search: Dissecting LLM Ideation Through a Two-Player Questioning Game",
-    "url": "http://arxiv.org/abs/2611.14487v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-12"
+    "updated_at": "2026-11-13"
   },
   {
     "id": "stackexchange-500720",
@@ -186,7 +96,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-12"
+    "updated_at": "2026-11-13"
   },
   {
     "id": "stackexchange-514297",
@@ -195,7 +105,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-12"
+    "updated_at": "2026-11-13"
   },
   {
     "id": "stackexchange-394427",
@@ -204,7 +114,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-12"
+    "updated_at": "2026-11-13"
   },
   {
     "id": "stackexchange-409550",
@@ -213,7 +123,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-12"
+    "updated_at": "2026-11-13"
   },
   {
     "id": "stackexchange-516719",
@@ -222,7 +132,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-12"
+    "updated_at": "2026-11-13"
   },
   {
     "id": "stackexchange-497102",
@@ -231,7 +141,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-12"
+    "updated_at": "2026-11-13"
   },
   {
     "id": "stackexchange-462095",
@@ -240,7 +150,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-12"
+    "updated_at": "2026-11-13"
   },
   {
     "id": "stackexchange-515446",
@@ -249,7 +159,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-12"
+    "updated_at": "2026-11-13"
   },
   {
     "id": "stackexchange-461267",
@@ -258,7 +168,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-12"
+    "updated_at": "2026-11-13"
   },
   {
     "id": "stackexchange-395188",
@@ -267,7 +177,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-12"
+    "updated_at": "2026-11-13"
   },
   {
     "id": "stackexchange-877632",
@@ -276,7 +186,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-12"
+    "updated_at": "2026-11-13"
   },
   {
     "id": "stackexchange-877625",
@@ -285,7 +195,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-12"
+    "updated_at": "2026-11-13"
   },
   {
     "id": "stackexchange-839670",
@@ -294,7 +204,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-12"
+    "updated_at": "2026-11-13"
   },
   {
     "id": "stackexchange-877515",
@@ -303,7 +213,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-12"
+    "updated_at": "2026-11-13"
   },
   {
     "id": "stackexchange-46267",
@@ -312,7 +222,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-12"
+    "updated_at": "2026-11-13"
   },
   {
     "id": "stackexchange-557587",
@@ -321,7 +231,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-12"
+    "updated_at": "2026-11-13"
   },
   {
     "id": "stackexchange-875698",
@@ -330,7 +240,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-12"
+    "updated_at": "2026-11-13"
   },
   {
     "id": "stackexchange-748434",
@@ -339,7 +249,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-12"
+    "updated_at": "2026-11-13"
   },
   {
     "id": "stackexchange-800291",
@@ -348,7 +258,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-12"
+    "updated_at": "2026-11-13"
   },
   {
     "id": "stackexchange-874139",
@@ -357,6 +267,6 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-12"
+    "updated_at": "2026-11-13"
   }
 ]
