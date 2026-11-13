@@ -7250,6 +7250,126 @@
     "note": "Possibly solved \u2014 see Known"
   },
   {
+    "id": "arxiv-2611.17323v1",
+    "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+    "url": "http://arxiv.org/abs/2611.17323v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-13",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2611.17321v1",
+    "title": "BrickFlow: Connectivity-Guided Brick Reconstruction",
+    "url": "http://arxiv.org/abs/2611.17321v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-13",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2611.17319v1",
+    "title": "The Cauchy problem for skew-torsion-parallel spinors with applications to supergravity",
+    "url": "http://arxiv.org/abs/2611.17319v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-13",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2611.17317v1",
+    "title": "$C^{1,\u03b1}$ Regularity of $W^{2,2}$ $Q$-Valued Maps with Small Laplacian",
+    "url": "http://arxiv.org/abs/2611.17317v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-13",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2611.17315v1",
+    "title": "Countable dynamical systems with a dense orbit",
+    "url": "http://arxiv.org/abs/2611.17315v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-13",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2611.17312v1",
+    "title": "The Tournament Equilibrium Set Is PSPACE-Complete, Even under Hereditary Uniqueness",
+    "url": "http://arxiv.org/abs/2611.17312v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-13",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2611.17311v1",
+    "title": "Integer Programming with Polyhedral Constraints on the Image",
+    "url": "http://arxiv.org/abs/2611.17311v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-13",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2611.17309v1",
+    "title": "Classical Energies Learn to Reason 1,000x Faster than Looped Models",
+    "url": "http://arxiv.org/abs/2611.17309v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-13",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2611.17307v1",
+    "title": "Separations Between Submodular-Like Graph Widths",
+    "url": "http://arxiv.org/abs/2611.17307v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-13",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "arxiv-2611.17303v1",
+    "title": "Towards a Theory of Learnability via Debate",
+    "url": "http://arxiv.org/abs/2611.17303v1",
+    "source": "arxiv",
+    "category": "physics",
+    "status": "debated",
+    "updated_at": "2026-11-13",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "stackexchange-516719",
+    "title": "New infinite family on the diagonal quartic surface $ax^4+by^4+cz^4+dw^4 = 0$",
+    "url": "https://mathoverflow.net/questions/516719/new-infinite-family-on-the-diagonal-quartic-surface-ax4by4cz4dw4-0",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-11-13",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "stackexchange-395188",
+    "title": "Iterating Diophantine equations over Q to quickly get a large interval with just integer solutions",
+    "url": "https://mathoverflow.net/questions/395188/iterating-diophantine-equations-over-q-to-quickly-get-a-large-interval-with-just",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-11-13",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
     "id": "stackexchange-500720",
     "title": "List of crowdsourced math projects actively seeking participants",
     "url": "https://mathoverflow.net/questions/500720/list-of-crowdsourced-math-projects-actively-seeking-participants",
@@ -7283,16 +7403,6 @@
     "id": "stackexchange-409550",
     "title": "Convergence of the series $\\sum_{n=1}^\\infty \\frac{(2+\\sin n)^n}{3^n n^a}$ for $a\\in(0,1)$",
     "url": "https://mathoverflow.net/questions/409550/convergence-of-the-series-sum-n-1-infty-frac2-sin-nn3n-na-for",
-    "source": "stackexchange",
-    "category": "math",
-    "status": "debated",
-    "updated_at": "2026-11-13",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "stackexchange-516719",
-    "title": "New infinite family on the diagonal quartic surface $ax^4+by^4+cz^4+dw^4 = 0$",
-    "url": "https://mathoverflow.net/questions/516719/new-infinite-family-on-the-diagonal-quartic-surface-ax4by4cz4dw4-0",
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
@@ -7340,11 +7450,11 @@
     "note": "Possibly solved \u2014 see Known"
   },
   {
-    "id": "stackexchange-395188",
-    "title": "Iterating Diophantine equations over Q to quickly get a large interval with just integer solutions",
-    "url": "https://mathoverflow.net/questions/395188/iterating-diophantine-equations-over-q-to-quickly-get-a-large-interval-with-just",
+    "id": "stackexchange-877661",
+    "title": "Quantum-classical physics unification - Code review requested",
+    "url": "https://physics.stackexchange.com/questions/877661/quantum-classical-physics-unification-code-review-requested",
     "source": "stackexchange",
-    "category": "math",
+    "category": "physics",
     "status": "debated",
     "updated_at": "2026-11-13",
     "note": "Possibly solved \u2014 see Known"
@@ -7373,16 +7483,6 @@
     "id": "stackexchange-839670",
     "title": "Witten&#39;s cubic open string field action is gauge invariant?",
     "url": "https://physics.stackexchange.com/questions/839670/wittens-cubic-open-string-field-action-is-gauge-invariant",
-    "source": "stackexchange",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-13",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "stackexchange-877515",
-    "title": "Research Proposal: The Relationship Between Everything, Nothing, and X",
-    "url": "https://physics.stackexchange.com/questions/877515/research-proposal-the-relationship-between-everything-nothing-and-x",
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",

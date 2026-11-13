@@ -685,6 +685,26 @@
     "era": "2000-2019"
   },
   {
+    "id": "stackexchange-516719",
+    "title": "New infinite family on the diagonal quartic surface $ax^4+by^4+cz^4+dw^4 = 0$",
+    "url": "https://mathoverflow.net/questions/516719/new-infinite-family-on-the-diagonal-quartic-surface-ax4by4cz4dw4-0",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-11-13",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
+    "id": "stackexchange-395188",
+    "title": "Iterating Diophantine equations over Q to quickly get a large interval with just integer solutions",
+    "url": "https://mathoverflow.net/questions/395188/iterating-diophantine-equations-over-q-to-quickly-get-a-large-interval-with-just",
+    "source": "stackexchange",
+    "category": "math",
+    "status": "debated",
+    "updated_at": "2026-11-13",
+    "note": "Possibly solved \u2014 see Known"
+  },
+  {
     "id": "stackexchange-500720",
     "title": "List of crowdsourced math projects actively seeking participants",
     "url": "https://mathoverflow.net/questions/500720/list-of-crowdsourced-math-projects-actively-seeking-participants",
@@ -725,16 +745,6 @@
     "note": "Possibly solved \u2014 see Known"
   },
   {
-    "id": "stackexchange-516719",
-    "title": "New infinite family on the diagonal quartic surface $ax^4+by^4+cz^4+dw^4 = 0$",
-    "url": "https://mathoverflow.net/questions/516719/new-infinite-family-on-the-diagonal-quartic-surface-ax4by4cz4dw4-0",
-    "source": "stackexchange",
-    "category": "math",
-    "status": "debated",
-    "updated_at": "2026-11-13",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
     "id": "stackexchange-497102",
     "title": "Conjectures of Ext (non)-vanishing for noetherian rings",
     "url": "https://mathoverflow.net/questions/497102/conjectures-of-ext-non-vanishing-for-noetherian-rings",
@@ -768,16 +778,6 @@
     "id": "stackexchange-461267",
     "title": "Do vertex-maximal paths in 4-connected graphs intersect?",
     "url": "https://mathoverflow.net/questions/461267/do-vertex-maximal-paths-in-4-connected-graphs-intersect",
-    "source": "stackexchange",
-    "category": "math",
-    "status": "debated",
-    "updated_at": "2026-11-13",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "stackexchange-395188",
-    "title": "Iterating Diophantine equations over Q to quickly get a large interval with just integer solutions",
-    "url": "https://mathoverflow.net/questions/395188/iterating-diophantine-equations-over-q-to-quickly-get-a-large-interval-with-just",
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
