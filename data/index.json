@@ -7156,7 +7156,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-13",
+    "updated_at": "2026-11-14",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7166,7 +7166,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-13",
+    "updated_at": "2026-11-14",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7176,7 +7176,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-13",
+    "updated_at": "2026-11-14",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7186,7 +7186,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-13",
+    "updated_at": "2026-11-14",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7196,7 +7196,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-13",
+    "updated_at": "2026-11-14",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7206,7 +7206,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-13",
+    "updated_at": "2026-11-14",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7216,7 +7216,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-13",
+    "updated_at": "2026-11-14",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7226,7 +7226,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-13",
+    "updated_at": "2026-11-14",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7236,7 +7236,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-13",
+    "updated_at": "2026-11-14",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7246,107 +7246,7 @@
     "source": "hn",
     "category": "software",
     "status": "debated",
-    "updated_at": "2026-11-13",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2611.17323v1",
-    "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
-    "url": "http://arxiv.org/abs/2611.17323v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-13",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2611.17321v1",
-    "title": "BrickFlow: Connectivity-Guided Brick Reconstruction",
-    "url": "http://arxiv.org/abs/2611.17321v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-13",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2611.17319v1",
-    "title": "The Cauchy problem for skew-torsion-parallel spinors with applications to supergravity",
-    "url": "http://arxiv.org/abs/2611.17319v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-13",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2611.17317v1",
-    "title": "$C^{1,\u03b1}$ Regularity of $W^{2,2}$ $Q$-Valued Maps with Small Laplacian",
-    "url": "http://arxiv.org/abs/2611.17317v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-13",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2611.17315v1",
-    "title": "Countable dynamical systems with a dense orbit",
-    "url": "http://arxiv.org/abs/2611.17315v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-13",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2611.17312v1",
-    "title": "The Tournament Equilibrium Set Is PSPACE-Complete, Even under Hereditary Uniqueness",
-    "url": "http://arxiv.org/abs/2611.17312v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-13",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2611.17311v1",
-    "title": "Integer Programming with Polyhedral Constraints on the Image",
-    "url": "http://arxiv.org/abs/2611.17311v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-13",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2611.17309v1",
-    "title": "Classical Energies Learn to Reason 1,000x Faster than Looped Models",
-    "url": "http://arxiv.org/abs/2611.17309v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-13",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2611.17307v1",
-    "title": "Separations Between Submodular-Like Graph Widths",
-    "url": "http://arxiv.org/abs/2611.17307v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-13",
-    "note": "Possibly solved \u2014 see Known"
-  },
-  {
-    "id": "arxiv-2611.17303v1",
-    "title": "Towards a Theory of Learnability via Debate",
-    "url": "http://arxiv.org/abs/2611.17303v1",
-    "source": "arxiv",
-    "category": "physics",
-    "status": "debated",
-    "updated_at": "2026-11-13",
+    "updated_at": "2026-11-14",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7356,7 +7256,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-13",
+    "updated_at": "2026-11-14",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7366,7 +7266,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-13",
+    "updated_at": "2026-11-14",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7376,7 +7276,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-13",
+    "updated_at": "2026-11-14",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7386,7 +7286,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-13",
+    "updated_at": "2026-11-14",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7396,7 +7296,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-13",
+    "updated_at": "2026-11-14",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7406,7 +7306,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-13",
+    "updated_at": "2026-11-14",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7416,7 +7316,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-13",
+    "updated_at": "2026-11-14",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7426,7 +7326,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-13",
+    "updated_at": "2026-11-14",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7436,7 +7336,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-13",
+    "updated_at": "2026-11-14",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7446,7 +7346,7 @@
     "source": "stackexchange",
     "category": "math",
     "status": "debated",
-    "updated_at": "2026-11-13",
+    "updated_at": "2026-11-14",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7456,7 +7356,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-13",
+    "updated_at": "2026-11-14",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7466,7 +7366,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-13",
+    "updated_at": "2026-11-14",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7476,7 +7376,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-13",
+    "updated_at": "2026-11-14",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7486,7 +7386,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-13",
+    "updated_at": "2026-11-14",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7496,7 +7396,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-13",
+    "updated_at": "2026-11-14",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7506,7 +7406,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-13",
+    "updated_at": "2026-11-14",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7516,7 +7416,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-13",
+    "updated_at": "2026-11-14",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7526,7 +7426,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-13",
+    "updated_at": "2026-11-14",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7536,7 +7436,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-13",
+    "updated_at": "2026-11-14",
     "note": "Possibly solved \u2014 see Known"
   },
   {
@@ -7546,7 +7446,7 @@
     "source": "stackexchange",
     "category": "physics",
     "status": "debated",
-    "updated_at": "2026-11-13",
+    "updated_at": "2026-11-14",
     "note": "Possibly solved \u2014 see Known"
   }
 ]
